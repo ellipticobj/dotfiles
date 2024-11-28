@@ -1,0 +1,1 @@
+[[[0,"/opt/homebrew/lib/python3.12/site-packages/aiodns/__init__.py","","",null,0],[false,[["__version__",1,13,null],["__all__",1,13,null],["READ",1,14,null],["WRITE",1,14,null],["query_type_map",1,13,null],["query_class_map",1,13,null],["DNSResolver",3,5,null]]]]]
