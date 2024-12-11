@@ -1,0 +1,45 @@
+{
+	"name": "vscode-theme-mr-pink",
+	"displayName": "Mr Pink",
+	"description": "I wanna find out who the bad guy is.",
+	"version": "1.0.1",
+	"publisher": "juanmnl",
+	"engines": {
+		"vscode": "^1.16.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/juanmnl/vs-mr-pink"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Mr Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/mrpink.json"
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#25252F",
+		"theme": "dark"
+	},
+	"icon": "icon.png",
+	"license": "MIT",
+	"__metadata": {
+		"id": "18bf0a9a-8646-4391-9ddf-30c4305858a7",
+		"publisherId": "3952d6fa-843e-412c-af55-3929cef8b933",
+		"publisherDisplayName": "juanmnl",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1733127261423,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery"
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"name": "light-pink-theme",
+	"displayName": "Light Pink Theme",
+	"publisher": "mgwg",
+	"description": "A simple light pink theme.",
+	"version": "0.6.0",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"light",
+		"pink"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#F4D5DC",
+		"theme": "light"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Light Pink",
+				"uiTheme": "vs",
+				"path": "./themes/Light Pink-color-theme.json"
+			},
+			{
+				"label": "Dark Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Pink-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mgwg/light-pink-theme"
+	},
+	"__metadata": {
+		"id": "e33d5e56-ddd7-45d4-9351-42266104a0f3",
+		"publisherDisplayName": "mgwg",
+		"publisherId": "269a2614-6976-40c3-ac42-46d927014857",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1733127267291,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery"
+	}
+}
