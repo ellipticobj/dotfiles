@@ -1,4 +1,4 @@
-cp -r ./.oh-my-zsh ~/
+sudo cp -r ./.oh-my-zsh ~/
 cp -r ./.themes ~/
 cp -r ./.icons ~/
 cp -r ./.vscode ~/
@@ -15,3 +15,5 @@ cp ./.wakatime.cfg ~/
 cp ./.zshrc ~/
 cp ./.zshrc.pre-oh-my-zsh ~/
 cp ./.zshrc.zni ~/
+
+dconf load /org/gnome/terminal/legacy/profiles:/ < gnome-terminal-profiles.dconf
