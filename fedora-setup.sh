@@ -44,6 +44,10 @@ sudo dnf install btop
 # clang
 sudo dnf install clang
 
+# make flatpak apps use custom cursor
+flatpak --user override --filesystem=/home/$USER/.icons/:ro
+flatpak --user override --filesystem=/usr/share/icons/:ro 
+
 # REBOOT, KEEP THIS AT THE BOTTOM
 read -p "reboot [Y/n]?" response
 
