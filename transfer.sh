@@ -3,11 +3,13 @@ cp -r ~/.themes ./
 cp -r ~/.icons ./
 cp -r ~/.vscode ./
 cp -r ~/.wakatime ./
-cp -r ~/.config/neofetch ./
+cp -r ~/.thunderbird ./
 cp -r ~/.config/micro ./
-cp -r ~/.config/kitty/ ./
 cp -r ~/.config/gtk-3.0 ./
 cp -r ~/.config/gtk-4.0 ./
+cp -r ~/.config/nvim ./
+cp -r ~/powerlevel10k ./
+
 
 cp ~/.shell.pre-oh-my-zsh ./
 cp ~/.p10k.zsh ./
