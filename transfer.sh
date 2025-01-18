@@ -1,5 +1,5 @@
 sudo cp -r ~/.oh-my-zsh ./
-cp -r ~/.themes ./
+sudo cp -r ~/.themes ./
 cp -r ~/.icons ./
 cp -r ~/.vscode ./
 cp -r ~/.wakatime ./

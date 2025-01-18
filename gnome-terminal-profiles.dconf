@@ -1,18 +1,9 @@
 [:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
-background-color='rgb(255,215,248)'
-background-transparency-percent=12
-bold-color='rgb(0,131,133)'
 bold-color-same-as-fg=false
-bold-is-bright=true
-cursor-background-color='rgb(0,245,255)'
+cursor-background-color='rgb(83,80,119)'
 cursor-colors-set=true
-cursor-foreground-color='rgb(103,0,85)'
-foreground-color='rgb(103,0,85)'
-highlight-background-color='rgb(103,0,85)'
+cursor-foreground-color='rgb(255,201,201)'
+foreground-color='rgb(83,80,119)'
+highlight-background-color='rgb(83,80,119)'
 highlight-colors-set=true
-highlight-foreground-color='rgb(255,215,248)'
-palette=['rgb(23,20,33)', 'rgb(255,90,251)', 'rgb(105,0,103)', 'rgb(162,115,76)', 'rgb(18,72,139)', 'rgb(163,71,186)', 'rgb(42,161,179)', 'rgb(208,207,204)', 'rgb(94,92,100)', 'rgb(244,107,255)', 'rgb(190,183,0)', 'rgb(233,173,12)', 'rgb(0,179,92)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
-title='terminyal'
 use-theme-colors=false
-use-transparent-background=true
-visible-name='pink'
