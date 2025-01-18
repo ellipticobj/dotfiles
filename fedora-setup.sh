@@ -17,7 +17,8 @@ echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com
 sudo dnf install code -y
 
 # install floorp
-sudo dnf install floorp -y
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+flatpak install flathub one.ablaze.floorp
 
 read -p "uninstall firefox [Y/n]? " uninstallfirefox
 
@@ -30,6 +31,20 @@ fi
 # install gnome-tweaks
 sudo dnf install gnome-tweaks -y
 
+# install box64, 86
+sudo dnf install box64
+sudo dnf install box86
+
+# install graphicsmagick
+sudo dnf install graphicsmagick
+
+# install btop
+sudo dnf install btop
+
+# clang
+sudo dnf install clang
+
+# REBOOT, KEEP THIS AT THE BOTTOM
 read -p "reboot [Y/n]?" response
 
 if [[ "$response" == "n" || "$response" == "N" ]]; then

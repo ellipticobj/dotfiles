@@ -50,12 +50,12 @@
     window.csd, dialog.csd,
     window.csd > decoration,
     window.csd > decoration-overlay {
-        outline: 5px solid rgba(255, 214, 248, 1);
+        outline: 5px solid rgba(248, 145, 177, 1);
     }
     window.csd:backdrop, dialog:backdrop.csd,
     window.csd:backdrop > decoration,
     window.csd:backdrop > decoration-overlay {
-        outline: 5px solid rgba(172, 148, 168, 1);
+        outline: 5px solid rgba(168, 106, 125, 1);
     }
     window.csd.maximized, window.csd.maximized > decoration, window.csd.maximized > decoration-overlay,
     window.csd.maximized > headerbar, window.csd.maximized > .top-bar, window.csd.maximized > .titlebar,
@@ -133,7 +133,7 @@
         @define-color popover_fg_color rgba(20, 20, 20, 0.9);
         popover > contents {
                box-shadow: 0 2px 4px 0px rgba(103,0,84,0.08);
-        border: 1px solid rgba(255,255,255,0.5);
+        border: 1px solid rgba(230,120,146,0.5);
         background-color: rgba(255,214,248,1);
         color: rgba(103,0,84,0.9);
         border-radius: 15px; 
