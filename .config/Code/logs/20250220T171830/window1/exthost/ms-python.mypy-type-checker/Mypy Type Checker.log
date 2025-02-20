@@ -1,0 +1,90 @@
+2025-02-20 17:24:24.929 [info] Name: Mypy Type Checker
+2025-02-20 17:24:24.929 [info] Module: mypy
+2025-02-20 17:24:24.929 [info] Python extension loading
+2025-02-20 17:24:24.929 [info] Waiting for interpreter from python extension.
+2025-02-20 17:24:24.929 [info] Python extension loaded
+2025-02-20 17:24:24.929 [info] Server run command: /usr/bin/python /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0/bundled/tool/lsp_server.py
+2025-02-20 17:24:24.929 [info] Server: Start requested.
+2025-02-20 17:24:25.321 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 17:24:25.321 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/nat/repos/sigma-lang-web",
+        "workspace": "file:///home/nat/repos/sigma-lang-web",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/usr/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false
+    }
+]
+
+2025-02-20 17:24:25.321 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/nat",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false
+}
+
+2025-02-20 17:24:25.321 [info] sys.path used to run Server:
+   /home/nat/repos/sigma-lang-web
+   /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0/bundled/libs
+   /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/nat/.local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-02-20 17:24:25.321 [info] /usr/bin/python -m mypy --version
+2025-02-20 17:24:25.321 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 17:24:25.702 [info] 
+mypy 1.14.1 (compiled: no)
+
+
+2025-02-20 17:24:25.702 [info] Version info for linter running for /home/nat/repos/sigma-lang-web:
+mypy 1.14.1 (compiled: no)
+
+2025-02-20 17:24:25.702 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.14.1
+
+2025-02-20 17:24:25.709 [info] [Trace - 5:24:25 PM] Received notification 'window/logMessage'.
+2025-02-20 17:24:25.709 [info] /usr/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma-lang-web/app.py
+2025-02-20 17:24:25.709 [info] [Trace - 5:24:25 PM] Received notification 'window/logMessage'.
+2025-02-20 17:24:25.709 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 17:24:33.063 [info] file:///home/nat/repos/sigma-lang-web/app.py :
+/home/nat/repos/sigma-lang-web/app.py:20:34:20:39: error: Argument "port" to "run" of "Flask" has incompatible type "str"; expected "int | None"  [arg-type]
+
+2025-02-20 17:24:33.063 [info] file:///home/nat/repos/sigma-lang-web/app.py :
+/home/nat/repos/sigma-lang-web/app.py:20:34:20:39: error: Argument "port" to "run" of "Flask" has incompatible type "str"; expected "int | None"  [arg-type]
+
+2025-02-20 17:46:15.546 [info] /usr/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma-lang-web/app.py
+2025-02-20 17:46:15.547 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 17:46:16.380 [info] file:///home/nat/repos/sigma-lang-web/app.py :
+
+2025-02-20 17:46:30.154 [info] /usr/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma-lang-web/app.py
+2025-02-20 17:46:30.155 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 17:46:30.805 [info] file:///home/nat/repos/sigma-lang-web/app.py :
+

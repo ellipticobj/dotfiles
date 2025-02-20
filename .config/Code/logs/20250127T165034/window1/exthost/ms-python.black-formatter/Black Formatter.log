@@ -1,0 +1,233 @@
+2025-01-27 16:50:37.574 [info] Name: Black Formatter
+2025-01-27 16:50:37.574 [info] Module: black
+2025-01-27 16:50:37.574 [info] Default formatter is set to null for workspace /home/nat/repos/alpha
+2025-01-27 16:50:37.574 [warning] Black Formatter is NOT set as the default formatter for workspace /home/nat/repos/alpha
+2025-01-27 16:50:37.574 [warning] To set Black Formatter as the default formatter, add the following to your settings.json file:
+2025-01-27 16:50:37.574 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
+2025-01-27 16:50:37.574 [info] Python extension loading
+2025-01-27 16:50:37.574 [info] Waiting for interpreter from python extension.
+2025-01-27 16:50:37.574 [info] No interpreter found from setting black-formatter.interpreter
+2025-01-27 16:50:37.574 [info] Getting interpreter from ms-python.python extension for workspace /home/nat/repos/alpha
+2025-01-27 16:50:37.574 [info] Python extension loaded
+2025-01-27 16:50:37.574 [info] Interpreter from ms-python.python extension for /home/nat/repos/alpha: /bin/python
+2025-01-27 16:50:37.574 [info] Workspace settings for /home/nat/repos/alpha (client side): {
+    "cwd": "/home/nat/repos/alpha",
+    "workspace": "file:///home/nat/repos/alpha",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-27 16:50:37.574 [info] No interpreter found from setting black-formatter.interpreter
+2025-01-27 16:50:37.574 [info] Getting interpreter from ms-python.python extension for workspace /home/nat/repos/alpha
+2025-01-27 16:50:37.574 [info] Interpreter from ms-python.python extension for /home/nat/repos/alpha: /bin/python
+2025-01-27 16:50:37.574 [info] Workspace settings for /home/nat/repos/alpha (client side): {
+    "cwd": "/home/nat/repos/alpha",
+    "workspace": "file:///home/nat/repos/alpha",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-27 16:50:37.574 [info] Global settings (client side): {
+    "cwd": "/home/nat",
+    "workspace": "/home/nat",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-27 16:50:37.574 [info] Server run command: /bin/python /home/nat/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py
+2025-01-27 16:50:37.574 [info] Server: Start requested.
+2025-01-27 16:50:38.596 [info] CWD Server: /home/nat/repos/alpha
+2025-01-27 16:50:38.615 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/nat/repos/alpha",
+        "workspace": "file:///home/nat/repos/alpha",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-01-27 16:50:38.626 [info] Global settings received on server:
+{
+    "cwd": "/home/nat",
+    "workspace": "/home/nat",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-01-27 16:50:38.644 [info] sys.path used to run Server:
+   /home/nat/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/libs
+   /home/nat/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/nat/.local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-01-27 16:50:38.678 [info] /bin/python -m black --version
+2025-01-27 16:50:38.686 [info] CWD formatter: /home/nat/repos/alpha
+2025-01-27 16:50:38.690 [info] Version info for formatter running for /home/nat/repos/alpha:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.13.1
+
+2025-01-27 16:50:38.699 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2025-01-27 16:50:41.912 [info] [Trace - 4:50:41 PM] Sending notification 'textDocument/didOpen'.
+2025-01-27 16:50:46.167 [info] [Trace - 4:50:46 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:49.305 [info] [Trace - 4:50:49 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:49.329 [info] [Trace - 4:50:49 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:50.079 [info] [Trace - 4:50:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:50.212 [info] [Trace - 4:50:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:50.497 [info] [Trace - 4:50:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:50.661 [info] [Trace - 4:50:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:50.771 [info] [Trace - 4:50:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:50.829 [info] [Trace - 4:50:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:50.960 [info] [Trace - 4:50:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:51.033 [info] [Trace - 4:50:51 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:51.751 [info] [Trace - 4:50:51 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:51.869 [info] [Trace - 4:50:51 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:51.940 [info] [Trace - 4:50:51 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:52.050 [info] [Trace - 4:50:52 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:54.009 [info] [Trace - 4:50:54 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:55.597 [info] [Trace - 4:50:55 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:55.832 [info] [Trace - 4:50:55 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:56.159 [info] [Trace - 4:50:56 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:56.358 [info] [Trace - 4:50:56 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:56.431 [info] [Trace - 4:50:56 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:56.620 [info] [Trace - 4:50:56 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:56.721 [info] [Trace - 4:50:56 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:56.848 [info] [Trace - 4:50:56 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:56.978 [info] [Trace - 4:50:56 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:57.204 [info] [Trace - 4:50:57 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:57.285 [info] [Trace - 4:50:57 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:57.596 [info] [Trace - 4:50:57 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:57.875 [info] [Trace - 4:50:57 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:58.145 [info] [Trace - 4:50:58 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:58.221 [info] [Trace - 4:50:58 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:58.307 [info] [Trace - 4:50:58 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:58.523 [info] [Trace - 4:50:58 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:58.903 [info] [Trace - 4:50:58 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:59.773 [info] [Trace - 4:50:59 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:50:59.908 [info] [Trace - 4:50:59 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:00.361 [info] [Trace - 4:51:00 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:00.973 [info] [Trace - 4:51:00 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:02.860 [info] [Trace - 4:51:02 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:02.955 [info] [Trace - 4:51:02 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:03.033 [info] [Trace - 4:51:03 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:03.190 [info] [Trace - 4:51:03 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:03.434 [info] [Trace - 4:51:03 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:05.099 [info] [Trace - 4:51:05 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:05.768 [info] [Trace - 4:51:05 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:06.142 [info] [Trace - 4:51:06 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:06.437 [info] [Trace - 4:51:06 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:06.642 [info] [Trace - 4:51:06 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:06.723 [info] [Trace - 4:51:06 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:06.766 [info] [Trace - 4:51:06 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:07.074 [info] [Trace - 4:51:07 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:10.397 [info] [Trace - 4:51:10 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:14.531 [info] [Trace - 4:51:14 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:14.768 [info] [Trace - 4:51:14 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:14.864 [info] [Trace - 4:51:14 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:14.918 [info] [Trace - 4:51:14 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:15.210 [info] [Trace - 4:51:15 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:16.194 [info] [Trace - 4:51:16 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:16.843 [info] [Trace - 4:51:16 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:17.124 [info] [Trace - 4:51:17 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:17.388 [info] [Trace - 4:51:17 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:17.487 [info] [Trace - 4:51:17 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:17.585 [info] [Trace - 4:51:17 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:17.688 [info] [Trace - 4:51:17 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:17.850 [info] [Trace - 4:51:17 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:17.978 [info] [Trace - 4:51:17 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:18.575 [info] [Trace - 4:51:18 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:18.972 [info] [Trace - 4:51:18 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:19.360 [info] [Trace - 4:51:19 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:19.638 [info] [Trace - 4:51:19 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:19.872 [info] [Trace - 4:51:19 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:19.959 [info] [Trace - 4:51:19 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:20.055 [info] [Trace - 4:51:20 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:20.307 [info] [Trace - 4:51:20 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:20.482 [info] [Trace - 4:51:20 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:20.619 [info] [Trace - 4:51:20 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:20.847 [info] [Trace - 4:51:20 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:21.401 [info] [Trace - 4:51:21 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:21.565 [info] [Trace - 4:51:21 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:26.487 [info] [Trace - 4:51:26 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:26.570 [info] [Trace - 4:51:26 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:26.699 [info] [Trace - 4:51:26 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:26.837 [info] [Trace - 4:51:26 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:26.924 [info] [Trace - 4:51:26 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:27.179 [info] [Trace - 4:51:27 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:27.537 [info] [Trace - 4:51:27 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:27.669 [info] [Trace - 4:51:27 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:27.823 [info] [Trace - 4:51:27 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:27.964 [info] [Trace - 4:51:27 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:28.067 [info] [Trace - 4:51:28 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:28.197 [info] [Trace - 4:51:28 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:28.233 [info] [Trace - 4:51:28 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:28.476 [info] [Trace - 4:51:28 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:28.988 [info] [Trace - 4:51:28 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:29.423 [info] [Trace - 4:51:29 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:29.609 [info] [Trace - 4:51:29 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:29.988 [info] [Trace - 4:51:29 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:30.178 [info] [Trace - 4:51:30 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:30.405 [info] [Trace - 4:51:30 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:31.628 [info] [Trace - 4:51:31 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:31.663 [info] [Trace - 4:51:31 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:31.768 [info] [Trace - 4:51:31 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:31.809 [info] [Trace - 4:51:31 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:32.365 [info] [Trace - 4:51:32 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:32.471 [info] [Trace - 4:51:32 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:32.613 [info] [Trace - 4:51:32 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:32.746 [info] [Trace - 4:51:32 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:33.241 [info] [Trace - 4:51:33 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:33.499 [info] [Trace - 4:51:33 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:33.575 [info] [Trace - 4:51:33 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:33.645 [info] [Trace - 4:51:33 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:33.728 [info] [Trace - 4:51:33 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:34.236 [info] [Trace - 4:51:34 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:34.412 [info] [Trace - 4:51:34 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:34.438 [info] [Trace - 4:51:34 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:35.140 [info] [Trace - 4:51:35 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:35.297 [info] [Trace - 4:51:35 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:35.441 [info] [Trace - 4:51:35 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:35.529 [info] [Trace - 4:51:35 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:35.651 [info] [Trace - 4:51:35 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:35.772 [info] [Trace - 4:51:35 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:35.857 [info] [Trace - 4:51:35 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:35.980 [info] [Trace - 4:51:35 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:36.044 [info] [Trace - 4:51:36 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:36.149 [info] [Trace - 4:51:36 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:36.232 [info] [Trace - 4:51:36 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:36.397 [info] [Trace - 4:51:36 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:36.493 [info] [Trace - 4:51:36 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:36.600 [info] [Trace - 4:51:36 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:36.660 [info] [Trace - 4:51:36 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:50.866 [info] [Trace - 4:51:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:50.952 [info] [Trace - 4:51:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:50.994 [info] [Trace - 4:51:50 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:51.067 [info] [Trace - 4:51:51 PM] Sending notification 'textDocument/didChange'.
+2025-01-27 16:51:59.368 [info] [Trace - 4:51:59 PM] Sending notification 'textDocument/didOpen'.
+2025-01-27 16:52:02.439 [info] [Trace - 4:52:02 PM] Sending notification 'textDocument/didChange'.

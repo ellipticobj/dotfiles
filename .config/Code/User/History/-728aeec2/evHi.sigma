@@ -1,0 +1,11 @@
+# set a placeholder variable
+new var string sigma is h
+new var bool t is true
+
+# prompt
+
+print input your sigma: 
+
+# input
+receive to variablename
+print variablename

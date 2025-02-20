@@ -1,0 +1,175 @@
+2025-02-20 17:48:33.200 [info] Name: Mypy Type Checker
+2025-02-20 17:48:33.200 [info] Module: mypy
+2025-02-20 17:48:33.200 [info] Python extension loading
+2025-02-20 17:48:33.200 [info] Waiting for interpreter from python extension.
+2025-02-20 17:48:33.200 [info] Python extension loaded
+2025-02-20 17:48:33.200 [info] Server run command: /usr/bin/python /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0/bundled/tool/lsp_server.py
+2025-02-20 17:48:33.200 [info] Server: Start requested.
+2025-02-20 17:48:33.521 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 17:48:33.521 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/nat/repos/sigma-lang-web",
+        "workspace": "file:///home/nat/repos/sigma-lang-web",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/usr/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false
+    }
+]
+
+2025-02-20 17:48:33.521 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/nat",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false
+}
+
+2025-02-20 17:48:33.521 [info] sys.path used to run Server:
+   /home/nat/repos/sigma-lang-web
+   /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0/bundled/libs
+   /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/nat/.local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-02-20 17:48:33.521 [info] /usr/bin/python -m mypy --version
+2025-02-20 17:48:33.521 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 17:48:33.672 [info] 
+mypy 1.14.1 (compiled: no)
+
+
+2025-02-20 17:48:33.672 [info] Version info for linter running for /home/nat/repos/sigma-lang-web:
+mypy 1.14.1 (compiled: no)
+
+2025-02-20 17:48:33.672 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.14.1
+
+2025-02-20 17:48:33.677 [info] [Trace - 5:48:33 PM] Received notification 'window/logMessage'.
+2025-02-20 17:48:33.677 [info] /usr/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma-lang-web/app.py
+2025-02-20 17:48:33.677 [info] [Trace - 5:48:33 PM] Received notification 'window/logMessage'.
+2025-02-20 17:48:33.677 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 17:48:40.946 [info] [Trace - 5:48:40 PM] Received notification 'window/logMessage'.
+2025-02-20 17:48:40.946 [info] file:///home/nat/repos/sigma-lang-web/app.py :
+
+2025-02-20 17:48:40.948 [info] [Trace - 5:48:40 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-20 18:56:59.007 [info] [Trace - 6:56:59 PM] Sending notification 'textDocument/didClose'.
+2025-02-20 18:56:59.042 [info] [Trace - 6:56:59 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-20 18:59:55.268 [info] [Trace - 6:59:55 PM] Sending notification 'textDocument/didOpen'.
+2025-02-20 18:59:55.325 [info] [Trace - 6:59:55 PM] Received notification 'window/logMessage'.
+2025-02-20 18:59:55.325 [info] /usr/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma-lang-web/app.py
+2025-02-20 18:59:55.371 [info] [Trace - 6:59:55 PM] Received notification 'window/logMessage'.
+2025-02-20 18:59:55.371 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 18:59:55.536 [info] [Trace - 6:59:55 PM] Received notification 'window/logMessage'.
+2025-02-20 18:59:55.536 [info] file:///home/nat/repos/sigma-lang-web/app.py :
+
+2025-02-20 18:59:55.536 [info] [Trace - 6:59:55 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-20 18:59:58.834 [info] [Trace - 6:59:58 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 18:59:58.934 [info] [Trace - 6:59:58 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 18:59:59.904 [info] [Trace - 6:59:59 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:00.444 [info] [Trace - 7:00:00 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:00.604 [info] [Trace - 7:00:00 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:00.746 [info] [Trace - 7:00:00 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:00.945 [info] [Trace - 7:00:00 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:01.095 [info] [Trace - 7:00:01 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:01.152 [info] [Trace - 7:00:01 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:01.241 [info] [Trace - 7:00:01 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:01.340 [info] [Trace - 7:00:01 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:01.446 [info] [Trace - 7:00:01 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:01.669 [info] [Trace - 7:00:01 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:01.915 [info] [Trace - 7:00:01 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:04.245 [info] [Trace - 7:00:04 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:10.338 [info] [Trace - 7:00:10 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:10.599 [info] [Trace - 7:00:10 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:10.703 [info] [Trace - 7:00:10 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:10.801 [info] [Trace - 7:00:10 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:10.896 [info] [Trace - 7:00:10 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:13.264 [info] [Trace - 7:00:13 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:13.346 [info] [Trace - 7:00:13 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:13.434 [info] [Trace - 7:00:13 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:13.539 [info] [Trace - 7:00:13 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:13.655 [info] [Trace - 7:00:13 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:13.850 [info] [Trace - 7:00:13 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:13.933 [info] [Trace - 7:00:13 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:14.017 [info] [Trace - 7:00:14 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:14.182 [info] [Trace - 7:00:14 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:14.399 [info] [Trace - 7:00:14 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:18.955 [info] [Trace - 7:00:18 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:18.993 [info] [Trace - 7:00:18 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:19.023 [info] [Trace - 7:00:19 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:19.049 [info] [Trace - 7:00:19 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:19.082 [info] [Trace - 7:00:19 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:23.346 [info] [Trace - 7:00:23 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:24.964 [info] [Trace - 7:00:24 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:25.236 [info] [Trace - 7:00:25 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:25.433 [info] [Trace - 7:00:25 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:25.582 [info] [Trace - 7:00:25 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:25.773 [info] [Trace - 7:00:25 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:25.934 [info] [Trace - 7:00:25 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:26.318 [info] [Trace - 7:00:26 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:26.538 [info] [Trace - 7:00:26 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:26.594 [info] [Trace - 7:00:26 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:26.650 [info] [Trace - 7:00:26 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:26.733 [info] [Trace - 7:00:26 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:26.840 [info] [Trace - 7:00:26 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:27.120 [info] [Trace - 7:00:27 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:27.640 [info] [Trace - 7:00:27 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:28.523 [info] [Trace - 7:00:28 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:30.451 [info] [Trace - 7:00:30 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:30.590 [info] [Trace - 7:00:30 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:31.809 [info] [Trace - 7:00:31 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:35.287 [info] [Trace - 7:00:35 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:36.576 [info] [Trace - 7:00:36 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:36.638 [info] [Trace - 7:00:36 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:36.745 [info] [Trace - 7:00:36 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:36.893 [info] [Trace - 7:00:36 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:37.183 [info] [Trace - 7:00:37 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:37.295 [info] [Trace - 7:00:37 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:37.396 [info] [Trace - 7:00:37 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:37.527 [info] [Trace - 7:00:37 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:37.618 [info] [Trace - 7:00:37 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:37.727 [info] [Trace - 7:00:37 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:37.793 [info] [Trace - 7:00:37 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:37.969 [info] [Trace - 7:00:37 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:38.006 [info] [Trace - 7:00:38 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:38.670 [info] [Trace - 7:00:38 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:39.913 [info] [Trace - 7:00:39 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:40.495 [info] [Trace - 7:00:40 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:41.227 [info] [Trace - 7:00:41 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:41.288 [info] [Trace - 7:00:41 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:41.587 [info] [Trace - 7:00:41 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:42.134 [info] [Trace - 7:00:42 PM] Sending notification 'textDocument/didChange'.
+2025-02-20 19:00:43.153 [info] [Trace - 7:00:43 PM] Sending notification 'textDocument/didSave'.
+2025-02-20 19:00:43.178 [info] [Trace - 7:00:43 PM] Received notification 'window/logMessage'.
+2025-02-20 19:00:43.178 [info] /usr/bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma-lang-web/app.py
+2025-02-20 19:00:43.179 [info] [Trace - 7:00:43 PM] Received notification 'window/logMessage'.
+2025-02-20 19:00:43.179 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 19:00:43.917 [info] [Trace - 7:00:43 PM] Received notification 'window/logMessage'.
+2025-02-20 19:00:43.917 [info] file:///home/nat/repos/sigma-lang-web/app.py :
+
+2025-02-20 19:00:43.917 [info] [Trace - 7:00:43 PM] Received notification 'textDocument/publishDiagnostics'.

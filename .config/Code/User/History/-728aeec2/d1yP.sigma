@@ -1,0 +1,13 @@
+# set a placeholder variable
+new var string sigma is h
+new var bool t is true
+
+# prompt
+
+while t do
+    print input your sigma: 
+    receive to variablename
+    print variablename
+elihw
+
+print sigma sigma boy

@@ -1,0 +1,16 @@
+2025-02-20 17:18:48.570 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-02-20 17:18:48.570 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-02-20 17:18:48.570 [info] Experiment 'pythonTestAdapter' is active
+2025-02-20 17:18:48.570 [warning] Dir "/home/nat/repos/sigma-lang-web/.pixi/envs" is not watchable (directory does not exist)
+2025-02-20 17:18:48.707 [info] > ~/.pyenv/bin/pyenv which python
+2025-02-20 17:18:48.707 [info] cwd: .
+2025-02-20 17:18:48.812 [info] > conda info --json
+2025-02-20 17:18:48.852 [info] > /usr/share/anaconda/bin/conda info --json
+2025-02-20 17:18:49.838 [info] Starting Pylance language server.
+2025-02-20 17:18:49.988 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2025.0.0-linux-arm64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.0.0-linux-arm64/python_files/interpreterInfo.py
+2025-02-20 17:18:50.044 [info] Python interpreter path: /usr/bin/python
+2025-02-20 17:23:36.716 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web
+2025-02-20 17:28:20.735 [info] Discover tests for workspace name: undefined - uri: /home/nat/.config/Code/User/settings.json
+2025-02-20 17:46:15.769 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-02-20 17:46:30.382 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-02-20 17:47:36.276 [info] Discover tests for workspace name: undefined - uri: /home/nat/.config/Code/User/settings.json

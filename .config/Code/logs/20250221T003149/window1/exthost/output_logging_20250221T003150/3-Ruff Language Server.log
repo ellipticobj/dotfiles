@@ -1,0 +1,4 @@
+   0.003667224s  INFO main ruff_server::session::index: Registering workspace: /home/nat/repos/sigma-lang-web
+   0.061922317s  INFO ruff:main ruff_server::server: Configuration file watcher successfully registered
+   0.416628789s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+   7.263722603s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.

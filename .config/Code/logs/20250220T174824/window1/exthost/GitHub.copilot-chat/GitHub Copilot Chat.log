@@ -1,0 +1,29 @@
+2025-02-20 17:48:27.556 [info] Using the Electron fetcher.
+2025-02-20 17:48:27.556 [info] Initializing Git extension service.
+2025-02-20 17:48:27.556 [info] Successfully activated the vscode.git extension.
+2025-02-20 17:48:27.556 [info] Enablement state of the vscode.git extension: true.
+2025-02-20 17:48:27.556 [info] Successfully registered Git commit message provider.
+2025-02-20 17:48:28.859 [info] Logged in as ellipticobj
+2025-02-20 17:48:29.729 [info] Got Copilot token for ellipticobj
+2025-02-20 17:48:29.794 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-20 17:48:29.800 [info] Registering default platform agent...
+2025-02-20 17:48:29.801 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-20 17:48:29.801 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-20 17:48:29.801 [info] Successfully registered GitHub PR title and description provider.
+2025-02-20 17:48:30.524 [info] Fetched model metadata in 785ms e9c9e3e6-dd9d-4cec-aff1-f410954973a5
+2025-02-20 17:48:30.752 [info] activationBlocker from 'languageModelAccess' took for 2915ms
+2025-02-20 18:13:29.734 [info] Logged in as ellipticobj
+2025-02-20 18:13:30.535 [info] Got Copilot token for ellipticobj
+2025-02-20 18:13:30.552 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-20 18:38:30.546 [info] Logged in as ellipticobj
+2025-02-20 18:38:31.321 [info] Got Copilot token for ellipticobj
+2025-02-20 18:38:31.340 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-20 18:38:32.247 [info] Fetched model metadata in 901ms e0a099cc-e9eb-43a7-898d-fd14ec980cc7
+2025-02-20 18:53:33.391 [info] Fetched model metadata in 888ms d30c221e-133b-4f78-804e-66bcf0d89796
+2025-02-20 19:00:16.633 [info] message 0 returned. finish reason: [stop]
+2025-02-20 19:00:16.635 [info] request done: requestId: [8aa47fc8-b483-4143-9b2b-033bcbb0f996] model deployment ID: []
+2025-02-20 19:00:18.878 [info] message 0 returned. finish reason: [stop]
+2025-02-20 19:00:18.880 [info] request done: requestId: [c48d8c89-cbb9-4c94-b0f4-83c225f9a488] model deployment ID: []
+2025-02-20 19:03:31.331 [info] Logged in as ellipticobj
+2025-02-20 19:03:32.116 [info] Got Copilot token for ellipticobj
+2025-02-20 19:03:32.142 [info] copilot token chat_enabled: true, sku: free_limited_copilot

@@ -1,0 +1,47 @@
+2025-02-20 17:48:27.523 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:48:28.806 [info] Looking for git repository
+2025-02-20 17:48:28.806 [info] Found 0 repositories during activation
+2025-02-20 17:48:28.806 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:48:28.809 [info] Registering git provider
+2025-02-20 17:48:28.809 [info] Review+0> Validate state in progress
+2025-02-20 17:48:28.809 [info] Review+0> Validating state...
+2025-02-20 17:48:28.830 [info] Found GitHub remote for folder /home/nat/repos/sigma-lang-web
+2025-02-20 17:48:28.883 [info] Repo state for file:///home/nat/repos/sigma-lang-web changed.
+2025-02-20 17:48:28.883 [info] Repo file:///home/nat/repos/sigma-lang-web has already been setup.
+2025-02-20 17:48:29.408 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-02-20 17:48:29.457 [info] Review+0> Found matching pull request metadata for current branch main. Repo: dimini171/sigma-lang-web PR: 1
+2025-02-20 17:48:29.457 [info] Review+0> current branch main is associated with pull request #1
+2025-02-20 17:48:29.457 [info] Review+0> Resolving pull request
+2025-02-20 17:48:29.457 [info] FolderRepositoryManager+0> Found GitHub repo for pr #1: yes
+2025-02-20 17:48:29.515 [info] FolderRepositoryManager+0> Using globalState assignableUsers for 2.
+2025-02-20 17:48:30.140 [info] FolderRepositoryManager+0> Found GitHub pr repo for pr #1: yes
+2025-02-20 17:48:30.141 [info] GitHubRepository+0.1> Fetch branch main - enter
+2025-02-20 17:48:30.604 [info] GitHubRepository+0.1> Fetch branch main - done: false
+2025-02-20 17:48:30.608 [info] Review+0> This PR is no longer valid
+2025-02-20 17:48:30.608 [info] Review+0> Unable to resolve PR #1
+2025-02-20 19:05:46.268 [info] Review+0> Validate state in progress
+2025-02-20 19:05:46.268 [info] Review+0> Validating state...
+2025-02-20 19:05:46.365 [info] Found GitHub remote for folder /home/nat/repos/sigma-lang-web
+2025-02-20 19:05:46.366 [info] Using in-memory cached assignable users.
+2025-02-20 19:05:46.372 [info] Review+0> Found matching pull request metadata for current branch main. Repo: dimini171/sigma-lang-web PR: 1
+2025-02-20 19:05:46.372 [info] Review+0> current branch main is associated with pull request #1
+2025-02-20 19:05:46.372 [info] Review+0> Resolving pull request
+2025-02-20 19:05:46.372 [info] FolderRepositoryManager+0> Found GitHub repo for pr #1: yes
+2025-02-20 19:05:47.043 [info] FolderRepositoryManager+0> Found GitHub pr repo for pr #1: yes
+2025-02-20 19:05:47.043 [info] GitHubRepository+0.1> Fetch branch main - enter
+2025-02-20 19:05:47.468 [info] GitHubRepository+0.1> Fetch branch main - done: false
+2025-02-20 19:05:47.480 [info] Review+0> This PR is no longer valid
+2025-02-20 19:05:47.480 [info] Review+0> Unable to resolve PR #1
+2025-02-20 19:05:49.882 [info] Review+0> Validate state in progress
+2025-02-20 19:05:49.882 [info] Review+0> Validating state...
+2025-02-20 19:05:49.932 [info] Found GitHub remote for folder /home/nat/repos/sigma-lang-web
+2025-02-20 19:05:49.933 [info] Using in-memory cached assignable users.
+2025-02-20 19:05:49.944 [info] Review+0> Found matching pull request metadata for current branch main. Repo: dimini171/sigma-lang-web PR: 1
+2025-02-20 19:05:49.944 [info] Review+0> current branch main is associated with pull request #1
+2025-02-20 19:05:49.944 [info] Review+0> Resolving pull request
+2025-02-20 19:05:49.944 [info] FolderRepositoryManager+0> Found GitHub repo for pr #1: yes
+2025-02-20 19:05:50.587 [info] FolderRepositoryManager+0> Found GitHub pr repo for pr #1: yes
+2025-02-20 19:05:50.587 [info] GitHubRepository+0.1> Fetch branch main - enter
+2025-02-20 19:05:50.985 [info] GitHubRepository+0.1> Fetch branch main - done: false
+2025-02-20 19:05:50.998 [info] Review+0> This PR is no longer valid
+2025-02-20 19:05:50.998 [info] Review+0> Unable to resolve PR #1

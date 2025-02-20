@@ -1,0 +1,4 @@
+2025-02-20 17:18:07.411 [info] update#setState idle
+2025-02-20 17:18:17.023 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 36141]: crashed with code 15 and reason 'killed'
+2025-02-20 17:18:17.049 [info] Extension host with pid 36160 exited with code: 0, signal: unknown.
+2025-02-20 17:18:18.898 [info] Extension host with pid 36270 exited with code: 0, signal: unknown.

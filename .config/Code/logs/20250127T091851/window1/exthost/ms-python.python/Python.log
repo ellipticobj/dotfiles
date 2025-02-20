@@ -1,0 +1,8 @@
+2025-01-27 09:18:55.740 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 09:18:55.740 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 09:18:55.740 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 09:18:55.740 [warning] Dir "/home/nat/repos/sigma-lang/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 09:18:55.740 [info] Python interpreter path: /bin/python
+2025-01-27 09:18:56.297 [info] > pyenv which python
+2025-01-27 09:18:56.297 [info] cwd: .
+2025-01-27 09:18:58.338 [info] Starting Pylance language server.

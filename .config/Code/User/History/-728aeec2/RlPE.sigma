@@ -1,0 +1,10 @@
+# set a placeholder variable
+new var string sigma is h
+new var bool t is true
+new const string sigma is stop
+
+# prompt
+
+while t do
+    print input your sigma  
+elihw

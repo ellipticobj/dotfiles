@@ -1,0 +1,281 @@
+2025-02-20 17:24:20.839 [info] Getting Manifest... ms-python.mypy-type-checker
+2025-02-20 17:24:20.905 [info] Installing extension: ms-python.mypy-type-checker {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:24:22.505 [info] Getting Manifest... ms-python.python
+2025-02-20 17:24:23.582 [info] Extension signature verification result for ms-python.mypy-type-checker: Success. Executed: true. Duration: 356ms.
+2025-02-20 17:24:24.546 [info] Extracted extension to file:///home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0: ms-python.mypy-type-checker
+2025-02-20 17:24:24.586 [info] Renamed to /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0
+2025-02-20 17:24:24.619 [info] Extension installed successfully: ms-python.mypy-type-checker vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:24:47.406 [info] Getting Manifest... kevinrose.vsc-python-indent
+2025-02-20 17:24:47.467 [info] Installing extension: kevinrose.vsc-python-indent {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:24:48.237 [info] Extension signature verification result for kevinrose.vsc-python-indent: Success. Executed: true. Duration: 330ms.
+2025-02-20 17:24:48.347 [info] Extracted extension to file:///home/nat/.vscode/extensions/kevinrose.vsc-python-indent-1.19.0: kevinrose.vsc-python-indent
+2025-02-20 17:24:48.356 [info] Renamed to /home/nat/.vscode/extensions/kevinrose.vsc-python-indent-1.19.0
+2025-02-20 17:24:48.415 [info] Extension installed successfully: kevinrose.vsc-python-indent vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:25:20.252 [info] Getting Manifest... graykode.ai-docstring
+2025-02-20 17:25:20.369 [info] Installing extension: graykode.ai-docstring {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:25:21.409 [info] Extension signature verification result for graykode.ai-docstring: Success. Executed: true. Duration: 306ms.
+2025-02-20 17:25:21.601 [info] Extracted extension to file:///home/nat/.vscode/extensions/graykode.ai-docstring-0.1.3: graykode.ai-docstring
+2025-02-20 17:25:21.612 [info] Renamed to /home/nat/.vscode/extensions/graykode.ai-docstring-0.1.3
+2025-02-20 17:25:21.671 [info] Extension installed successfully: graykode.ai-docstring vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:26:07.554 [info] Getting Manifest... mikeshaker.python-essentials
+2025-02-20 17:26:07.654 [info] Installing extension: mikeshaker.python-essentials {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:26:08.404 [info] Getting Manifest... ms-python.python
+2025-02-20 17:26:08.418 [info] Getting Manifest... formulahendry.code-runner
+2025-02-20 17:26:08.487 [info] Getting Manifest... njpwerner.autodocstring
+2025-02-20 17:26:08.549 [info] Getting Manifest... aaron-bond.better-comments
+2025-02-20 17:26:08.614 [info] Getting Manifest... thebarkman.vscode-djaneiro
+2025-02-20 17:26:08.681 [info] Getting Manifest... cstrap.flask-snippets
+2025-02-20 17:26:08.877 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:26:08.878 [info] Installing extension: njpwerner.autodocstring {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:26:08.879 [info] Installing extension: aaron-bond.better-comments {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:26:08.879 [info] Installing extension: thebarkman.vscode-djaneiro {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:26:08.879 [info] Installing extension: cstrap.flask-snippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:26:09.636 [info] Extension signature verification result for formulahendry.code-runner: Success. Executed: true. Duration: 331ms.
+2025-02-20 17:26:09.637 [info] Extension signature verification result for mikeshaker.python-essentials: Success. Executed: true. Duration: 322ms.
+2025-02-20 17:26:09.663 [info] Extracted extension to file:///home/nat/.vscode/extensions/mikeshaker.python-essentials-1.0.1: mikeshaker.python-essentials
+2025-02-20 17:26:09.667 [info] Renamed to /home/nat/.vscode/extensions/mikeshaker.python-essentials-1.0.1
+2025-02-20 17:26:09.676 [info] Extension signature verification result for aaron-bond.better-comments: Success. Executed: true. Duration: 335ms.
+2025-02-20 17:26:09.721 [info] Extension signature verification result for njpwerner.autodocstring: Success. Executed: true. Duration: 369ms.
+2025-02-20 17:26:09.733 [info] Extracted extension to file:///home/nat/.vscode/extensions/aaron-bond.better-comments-3.0.2: aaron-bond.better-comments
+2025-02-20 17:26:09.737 [info] Renamed to /home/nat/.vscode/extensions/aaron-bond.better-comments-3.0.2
+2025-02-20 17:26:09.788 [info] Extracted extension to file:///home/nat/.vscode/extensions/njpwerner.autodocstring-0.6.1: njpwerner.autodocstring
+2025-02-20 17:26:09.791 [info] Renamed to /home/nat/.vscode/extensions/njpwerner.autodocstring-0.6.1
+2025-02-20 17:26:09.795 [info] Extension signature verification result for thebarkman.vscode-djaneiro: Success. Executed: true. Duration: 415ms.
+2025-02-20 17:26:09.811 [info] Extracted extension to file:///home/nat/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2025-02-20 17:26:09.816 [info] Renamed to /home/nat/.vscode/extensions/formulahendry.code-runner-0.12.2
+2025-02-20 17:26:09.837 [info] Extracted extension to file:///home/nat/.vscode/extensions/thebarkman.vscode-djaneiro-1.4.2: thebarkman.vscode-djaneiro
+2025-02-20 17:26:09.838 [info] Renamed to /home/nat/.vscode/extensions/thebarkman.vscode-djaneiro-1.4.2
+2025-02-20 17:26:09.879 [info] Extension signature verification result for cstrap.flask-snippets: Success. Executed: true. Duration: 530ms.
+2025-02-20 17:26:09.884 [info] Extracted extension to file:///home/nat/.vscode/extensions/cstrap.flask-snippets-0.1.3: cstrap.flask-snippets
+2025-02-20 17:26:09.885 [info] Renamed to /home/nat/.vscode/extensions/cstrap.flask-snippets-0.1.3
+2025-02-20 17:26:09.904 [info] Extension installed successfully: mikeshaker.python-essentials vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:26:09.904 [info] Extension installed successfully: aaron-bond.better-comments vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:26:09.904 [info] Extension installed successfully: njpwerner.autodocstring vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:26:09.904 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:26:09.904 [info] Extension installed successfully: thebarkman.vscode-djaneiro vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:26:09.905 [info] Extension installed successfully: cstrap.flask-snippets vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:26:27.419 [info] Getting Manifest... siddharthverma.python-super-debugger-mode
+2025-02-20 17:26:27.494 [info] Installing extension: siddharthverma.python-super-debugger-mode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:26:28.531 [info] Extension signature verification result for siddharthverma.python-super-debugger-mode: Success. Executed: true. Duration: 343ms.
+2025-02-20 17:26:28.555 [info] Extracted extension to file:///home/nat/.vscode/extensions/siddharthverma.python-super-debugger-mode-0.0.3: siddharthverma.python-super-debugger-mode
+2025-02-20 17:26:28.558 [info] Renamed to /home/nat/.vscode/extensions/siddharthverma.python-super-debugger-mode-0.0.3
+2025-02-20 17:26:28.604 [info] Extension installed successfully: siddharthverma.python-super-debugger-mode vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:26:43.673 [info] Getting Manifest... charliermarsh.ruff
+2025-02-20 17:26:43.730 [info] Installing extension: charliermarsh.ruff {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:26:44.651 [info] Getting Manifest... ms-python.python
+2025-02-20 17:26:45.781 [info] Extension signature verification result for charliermarsh.ruff: Success. Executed: true. Duration: 344ms.
+2025-02-20 17:26:46.423 [info] Extracted extension to file:///home/nat/.vscode/extensions/charliermarsh.ruff-2025.8.0-linux-arm64: charliermarsh.ruff
+2025-02-20 17:26:46.434 [info] Renamed to /home/nat/.vscode/extensions/charliermarsh.ruff-2025.8.0-linux-arm64
+2025-02-20 17:26:46.477 [info] Extension installed successfully: charliermarsh.ruff vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:27:06.134 [info] Uninstalling extension from the profile: graykode.ai-docstring@0.1.3 vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:27:06.202 [info] Marked extension as removed graykode.ai-docstring-0.1.3
+2025-02-20 17:27:06.429 [info] Successfully uninstalled extension from the profile graykode.ai-docstring@0.1.3 vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:27:59.798 [info] Uninstalling extension from the profile: github.copilot-chat@0.24.1 vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:27:59.801 [info] Uninstalling extension from the profile: github.copilot@1.272.0 vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:27:59.858 [info] Extensions is already requested to uninstall github.copilot
+2025-02-20 17:27:59.859 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-02-20 17:27:59.859 [info] Extensions is already requested to uninstall github.copilot
+2025-02-20 17:27:59.859 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-02-20 17:27:59.859 [info] Extensions is already requested to uninstall github.copilot
+2025-02-20 17:27:59.859 [info] Extensions is already requested to uninstall github.copilot-chat
+2025-02-20 17:27:59.879 [info] Marked extension as removed github.copilot-chat-0.24.1
+2025-02-20 17:27:59.883 [info] Marked extension as removed github.copilot-1.272.0
+2025-02-20 17:28:00.102 [info] Successfully uninstalled extension from the profile github.copilot-chat@0.24.1 vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:28:00.102 [info] Successfully uninstalled extension from the profile github.copilot@1.272.0 vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:28:02.773 [info] Getting Manifest... github.copilot
+2025-02-20 17:28:03.087 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-20 17:28:03.700 [info] Getting Manifest... github.copilot-chat
+2025-02-20 17:28:03.777 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:28:03.838 [info] Removed the extension from removed list: github.copilot-chat
+2025-02-20 17:28:03.858 [info] Removed the extension from removed list: github.copilot
+2025-02-20 17:28:03.925 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:28:03.926 [info] Extension installed successfully: github.copilot vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:30:59.081 [info] Getting Manifest... esbenp.prettier-vscode
+2025-02-20 17:30:59.132 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:31:00.070 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Executed: true. Duration: 316ms.
+2025-02-20 17:31:00.215 [info] Extracted extension to file:///home/nat/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2025-02-20 17:31:00.220 [info] Renamed to /home/nat/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2025-02-20 17:31:00.265 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:31:19.026 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2025-02-20 17:31:19.076 [info] Installing extension: visualstudioexptteam.vscodeintellicode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:31:19.423 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2025-02-20 17:31:19.532 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:31:20.357 [info] Extension signature verification result for visualstudioexptteam.intellicode-api-usage-examples: Success. Executed: true. Duration: 306ms.
+2025-02-20 17:31:20.647 [info] Extracted extension to file:///home/nat/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9: visualstudioexptteam.intellicode-api-usage-examples
+2025-02-20 17:31:20.661 [info] Renamed to /home/nat/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9
+2025-02-20 17:31:21.868 [info] Extension signature verification result for visualstudioexptteam.vscodeintellicode: Success. Executed: true. Duration: 372ms.
+2025-02-20 17:31:22.577 [info] Extracted extension to file:///home/nat/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2: visualstudioexptteam.vscodeintellicode
+2025-02-20 17:31:22.585 [info] Renamed to /home/nat/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2
+2025-02-20 17:31:22.624 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:31:22.624 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:31:44.186 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2025-02-20 17:31:44.241 [info] Installing extension: ms-vscode-remote.remote-ssh {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:31:44.760 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2025-02-20 17:31:44.774 [info] Getting Manifest... ms-vscode.remote-explorer
+2025-02-20 17:31:44.925 [info] Installing extension: ms-vscode-remote.remote-ssh-edit {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:31:44.925 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:31:45.675 [info] Extension signature verification result for ms-vscode-remote.remote-ssh-edit: Success. Executed: true. Duration: 359ms.
+2025-02-20 17:31:45.701 [info] Extracted extension to file:///home/nat/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0: ms-vscode-remote.remote-ssh-edit
+2025-02-20 17:31:45.704 [info] Renamed to /home/nat/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0
+2025-02-20 17:31:45.748 [info] Extension signature verification result for ms-vscode.remote-explorer: Success. Executed: true. Duration: 348ms.
+2025-02-20 17:31:45.776 [info] Extracted extension to file:///home/nat/.vscode/extensions/ms-vscode.remote-explorer-0.4.3: ms-vscode.remote-explorer
+2025-02-20 17:31:45.780 [info] Renamed to /home/nat/.vscode/extensions/ms-vscode.remote-explorer-0.4.3
+2025-02-20 17:31:45.801 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: Success. Executed: true. Duration: 350ms.
+2025-02-20 17:31:45.957 [info] Extracted extension to file:///home/nat/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1: ms-vscode-remote.remote-ssh
+2025-02-20 17:31:45.965 [info] Renamed to /home/nat/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1
+2025-02-20 17:31:46.007 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:31:46.007 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:31:46.007 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:31:57.885 [info] Getting Manifest... christian-kohler.path-intellisense
+2025-02-20 17:31:57.946 [info] Installing extension: christian-kohler.path-intellisense {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:31:58.826 [info] Extension signature verification result for christian-kohler.path-intellisense: Success. Executed: true. Duration: 338ms.
+2025-02-20 17:31:58.890 [info] Extracted extension to file:///home/nat/.vscode/extensions/christian-kohler.path-intellisense-2.10.0: christian-kohler.path-intellisense
+2025-02-20 17:31:58.897 [info] Renamed to /home/nat/.vscode/extensions/christian-kohler.path-intellisense-2.10.0
+2025-02-20 17:31:58.951 [info] Extension installed successfully: christian-kohler.path-intellisense vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:32:12.378 [info] Getting Manifest... donjayamanne.githistory
+2025-02-20 17:32:12.428 [info] Installing extension: donjayamanne.githistory {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:32:13.285 [info] Extension signature verification result for donjayamanne.githistory: Success. Executed: true. Duration: 329ms.
+2025-02-20 17:32:13.359 [info] Extracted extension to file:///home/nat/.vscode/extensions/donjayamanne.githistory-0.6.20: donjayamanne.githistory
+2025-02-20 17:32:13.368 [info] Renamed to /home/nat/.vscode/extensions/donjayamanne.githistory-0.6.20
+2025-02-20 17:32:13.428 [info] Extension installed successfully: donjayamanne.githistory vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:33:17.050 [info] Getting Manifest... techer.open-in-browser
+2025-02-20 17:33:17.095 [info] Installing extension: techer.open-in-browser {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:33:17.950 [info] Extension signature verification result for techer.open-in-browser: Success. Executed: true. Duration: 319ms.
+2025-02-20 17:33:18.023 [info] Extracted extension to file:///home/nat/.vscode/extensions/techer.open-in-browser-2.0.0: techer.open-in-browser
+2025-02-20 17:33:18.033 [info] Renamed to /home/nat/.vscode/extensions/techer.open-in-browser-2.0.0
+2025-02-20 17:33:18.095 [info] Extension installed successfully: techer.open-in-browser vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:33:34.542 [info] Getting Manifest... yzhang.markdown-all-in-one
+2025-02-20 17:33:34.606 [info] Installing extension: yzhang.markdown-all-in-one {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:33:35.438 [info] Extension signature verification result for yzhang.markdown-all-in-one: Success. Executed: true. Duration: 319ms.
+2025-02-20 17:33:35.504 [info] Extracted extension to file:///home/nat/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2: yzhang.markdown-all-in-one
+2025-02-20 17:33:35.509 [info] Renamed to /home/nat/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2
+2025-02-20 17:33:35.563 [info] Extension installed successfully: yzhang.markdown-all-in-one vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:33:44.836 [info] Getting Manifest... oderwat.indent-rainbow
+2025-02-20 17:33:44.898 [info] Installing extension: oderwat.indent-rainbow {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:33:45.808 [info] Extension signature verification result for oderwat.indent-rainbow: Success. Executed: true. Duration: 321ms.
+2025-02-20 17:33:46.840 [info] Extracted extension to file:///home/nat/.vscode/extensions/oderwat.indent-rainbow-8.3.1: oderwat.indent-rainbow
+2025-02-20 17:33:46.897 [info] Renamed to /home/nat/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2025-02-20 17:33:46.943 [info] Extension installed successfully: oderwat.indent-rainbow vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:34:22.152 [info] Getting Manifest... gruntfuggly.todo-tree
+2025-02-20 17:34:22.423 [info] Installing extension: gruntfuggly.todo-tree {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:34:23.313 [info] Extension signature verification result for gruntfuggly.todo-tree: Success. Executed: true. Duration: 318ms.
+2025-02-20 17:34:23.377 [info] Extracted extension to file:///home/nat/.vscode/extensions/gruntfuggly.todo-tree-0.0.226: gruntfuggly.todo-tree
+2025-02-20 17:34:23.386 [info] Renamed to /home/nat/.vscode/extensions/gruntfuggly.todo-tree-0.0.226
+2025-02-20 17:34:23.451 [info] Extension installed successfully: gruntfuggly.todo-tree vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:34:28.987 [info] Getting Manifest... github.codespaces
+2025-02-20 17:34:29.034 [info] Installing extension: github.codespaces {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:34:29.966 [info] Extension signature verification result for github.codespaces: Success. Executed: true. Duration: 328ms.
+2025-02-20 17:34:30.269 [info] Extracted extension to file:///home/nat/.vscode/extensions/github.codespaces-1.17.3: github.codespaces
+2025-02-20 17:34:30.273 [info] Renamed to /home/nat/.vscode/extensions/github.codespaces-1.17.3
+2025-02-20 17:34:30.334 [info] Extension installed successfully: github.codespaces vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:34:38.205 [info] Getting Manifest... wayou.vscode-todo-highlight
+2025-02-20 17:34:38.268 [info] Installing extension: wayou.vscode-todo-highlight {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:34:39.165 [info] Extension signature verification result for wayou.vscode-todo-highlight: Success. Executed: true. Duration: 326ms.
+2025-02-20 17:34:39.238 [info] Extracted extension to file:///home/nat/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5: wayou.vscode-todo-highlight
+2025-02-20 17:34:39.243 [info] Renamed to /home/nat/.vscode/extensions/wayou.vscode-todo-highlight-1.0.5
+2025-02-20 17:34:39.302 [info] Extension installed successfully: wayou.vscode-todo-highlight vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:34:45.964 [info] Getting Manifest... codezombiech.gitignore
+2025-02-20 17:34:46.007 [info] Installing extension: codezombiech.gitignore {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:34:46.784 [info] Extension signature verification result for codezombiech.gitignore: Success. Executed: true. Duration: 345ms.
+2025-02-20 17:34:46.795 [info] Extracted extension to file:///home/nat/.vscode/extensions/codezombiech.gitignore-0.9.0: codezombiech.gitignore
+2025-02-20 17:34:46.798 [info] Renamed to /home/nat/.vscode/extensions/codezombiech.gitignore-0.9.0
+2025-02-20 17:34:46.852 [info] Extension installed successfully: codezombiech.gitignore vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:35:14.839 [info] Getting Manifest... magicstack.magicpython
+2025-02-20 17:35:14.921 [info] Installing extension: magicstack.magicpython {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:35:15.817 [info] Extension signature verification result for magicstack.magicpython: Success. Executed: true. Duration: 326ms.
+2025-02-20 17:35:16.101 [info] Extracted extension to file:///home/nat/.vscode/extensions/magicstack.magicpython-1.1.0: magicstack.magicpython
+2025-02-20 17:35:16.122 [info] Renamed to /home/nat/.vscode/extensions/magicstack.magicpython-1.1.0
+2025-02-20 17:35:16.215 [info] Extension installed successfully: magicstack.magicpython vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:36:08.231 [info] Getting Manifest... redhat.vscode-commons
+2025-02-20 17:36:08.314 [info] Installing extension: redhat.vscode-commons {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:36:09.278 [info] Extension signature verification result for redhat.vscode-commons: Success. Executed: true. Duration: 323ms.
+2025-02-20 17:36:09.293 [info] Extracted extension to file:///home/nat/.vscode/extensions/redhat.vscode-commons-0.0.6: redhat.vscode-commons
+2025-02-20 17:36:09.299 [info] Renamed to /home/nat/.vscode/extensions/redhat.vscode-commons-0.0.6
+2025-02-20 17:36:09.367 [info] Extension installed successfully: redhat.vscode-commons vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:36:16.397 [info] Getting Manifest... 2gua.rainbow-brackets
+2025-02-20 17:36:16.458 [info] Installing extension: 2gua.rainbow-brackets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:36:17.338 [info] Extension signature verification result for 2gua.rainbow-brackets: Success. Executed: true. Duration: 328ms.
+2025-02-20 17:36:17.354 [info] Extracted extension to file:///home/nat/.vscode/extensions/2gua.rainbow-brackets-0.0.6: 2gua.rainbow-brackets
+2025-02-20 17:36:17.356 [info] Renamed to /home/nat/.vscode/extensions/2gua.rainbow-brackets-0.0.6
+2025-02-20 17:36:17.409 [info] Extension installed successfully: 2gua.rainbow-brackets vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:36:29.008 [info] Getting Manifest... donjayamanne.git-extension-pack
+2025-02-20 17:36:29.030 [info] Installing extension: donjayamanne.git-extension-pack {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:36:29.689 [info] Getting Manifest... eamodio.gitlens
+2025-02-20 17:36:29.783 [info] Getting Manifest... donjayamanne.githistory
+2025-02-20 17:36:29.797 [info] Getting Manifest... alefragnani.project-manager
+2025-02-20 17:36:29.945 [info] Getting Manifest... codezombiech.gitignore
+2025-02-20 17:36:29.957 [info] Getting Manifest... ziyasal.vscode-open-in-github
+2025-02-20 17:36:30.100 [info] Installing extension: alefragnani.project-manager {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:36:30.100 [info] Installing extension: ziyasal.vscode-open-in-github {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-02-20 17:36:30.779 [info] Extension signature verification result for donjayamanne.git-extension-pack: Success. Executed: true. Duration: 340ms.
+2025-02-20 17:36:30.786 [info] Extracted extension to file:///home/nat/.vscode/extensions/donjayamanne.git-extension-pack-0.1.3: donjayamanne.git-extension-pack
+2025-02-20 17:36:30.788 [info] Renamed to /home/nat/.vscode/extensions/donjayamanne.git-extension-pack-0.1.3
+2025-02-20 17:36:30.852 [info] Extension signature verification result for ziyasal.vscode-open-in-github: Success. Executed: true. Duration: 350ms.
+2025-02-20 17:36:30.901 [info] Extension signature verification result for alefragnani.project-manager: Success. Executed: true. Duration: 341ms.
+2025-02-20 17:36:30.906 [info] Extracted extension to file:///home/nat/.vscode/extensions/ziyasal.vscode-open-in-github-1.3.6: ziyasal.vscode-open-in-github
+2025-02-20 17:36:30.913 [info] Renamed to /home/nat/.vscode/extensions/ziyasal.vscode-open-in-github-1.3.6
+2025-02-20 17:36:31.012 [info] Extracted extension to file:///home/nat/.vscode/extensions/alefragnani.project-manager-12.8.0: alefragnani.project-manager
+2025-02-20 17:36:31.016 [info] Renamed to /home/nat/.vscode/extensions/alefragnani.project-manager-12.8.0
+2025-02-20 17:36:31.043 [info] Extension installed successfully: donjayamanne.git-extension-pack vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:36:31.044 [info] Extension installed successfully: ziyasal.vscode-open-in-github vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:36:31.044 [info] Extension installed successfully: alefragnani.project-manager vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:37:39.328 [info] Getting Manifest... waderyan.gitblame
+2025-02-20 17:37:39.376 [info] Installing extension: waderyan.gitblame {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:37:40.437 [info] Extension signature verification result for waderyan.gitblame: Success. Executed: true. Duration: 303ms.
+2025-02-20 17:37:40.448 [info] Extracted extension to file:///home/nat/.vscode/extensions/waderyan.gitblame-11.1.2: waderyan.gitblame
+2025-02-20 17:37:40.450 [info] Renamed to /home/nat/.vscode/extensions/waderyan.gitblame-11.1.2
+2025-02-20 17:37:40.509 [info] Extension installed successfully: waderyan.gitblame vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:37:49.156 [info] Getting Manifest... adpyke.codesnap
+2025-02-20 17:37:49.221 [info] Installing extension: adpyke.codesnap {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:37:50.246 [info] Extension signature verification result for adpyke.codesnap: Success. Executed: true. Duration: 340ms.
+2025-02-20 17:37:51.552 [info] Extracted extension to file:///home/nat/.vscode/extensions/adpyke.codesnap-1.3.4: adpyke.codesnap
+2025-02-20 17:37:51.622 [info] Renamed to /home/nat/.vscode/extensions/adpyke.codesnap-1.3.4
+2025-02-20 17:37:51.670 [info] Extension installed successfully: adpyke.codesnap vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:38:45.488 [info] Getting Manifest... almenon.arepl
+2025-02-20 17:38:45.551 [info] Installing extension: almenon.arepl {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:38:46.533 [info] Extension signature verification result for almenon.arepl: Success. Executed: true. Duration: 322ms.
+2025-02-20 17:38:47.099 [info] Extracted extension to file:///home/nat/.vscode/extensions/almenon.arepl-3.0.0: almenon.arepl
+2025-02-20 17:38:47.133 [info] Renamed to /home/nat/.vscode/extensions/almenon.arepl-3.0.0
+2025-02-20 17:38:47.179 [info] Extension installed successfully: almenon.arepl vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:39:02.878 [info] Getting Manifest... felipecaputo.git-project-manager
+2025-02-20 17:39:02.938 [info] Installing extension: felipecaputo.git-project-manager {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:39:03.878 [info] Extension signature verification result for felipecaputo.git-project-manager: Success. Executed: true. Duration: 328ms.
+2025-02-20 17:39:03.941 [info] Extracted extension to file:///home/nat/.vscode/extensions/felipecaputo.git-project-manager-1.8.2: felipecaputo.git-project-manager
+2025-02-20 17:39:03.948 [info] Renamed to /home/nat/.vscode/extensions/felipecaputo.git-project-manager-1.8.2
+2025-02-20 17:39:04.005 [info] Extension installed successfully: felipecaputo.git-project-manager vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:39:19.598 [info] Getting Manifest... ibm.output-colorizer
+2025-02-20 17:39:19.686 [info] Installing extension: ibm.output-colorizer {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:39:20.588 [info] Extension signature verification result for ibm.output-colorizer: Success. Executed: true. Duration: 339ms.
+2025-02-20 17:39:20.619 [info] Extracted extension to file:///home/nat/.vscode/extensions/ibm.output-colorizer-0.1.2: ibm.output-colorizer
+2025-02-20 17:39:20.624 [info] Renamed to /home/nat/.vscode/extensions/ibm.output-colorizer-0.1.2
+2025-02-20 17:39:20.676 [info] Extension installed successfully: ibm.output-colorizer vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:39:35.214 [info] Getting Manifest... mkxml.vscode-filesize
+2025-02-20 17:39:35.259 [info] Installing extension: mkxml.vscode-filesize {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:39:36.119 [info] Extension signature verification result for mkxml.vscode-filesize: Success. Executed: true. Duration: 354ms.
+2025-02-20 17:39:36.132 [info] Extracted extension to file:///home/nat/.vscode/extensions/mkxml.vscode-filesize-3.2.2: mkxml.vscode-filesize
+2025-02-20 17:39:36.134 [info] Renamed to /home/nat/.vscode/extensions/mkxml.vscode-filesize-3.2.2
+2025-02-20 17:39:36.189 [info] Extension installed successfully: mkxml.vscode-filesize vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:40:30.805 [info] Getting Manifest... nhoizey.gremlins
+2025-02-20 17:40:30.863 [info] Installing extension: nhoizey.gremlins {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:40:31.821 [info] Extension signature verification result for nhoizey.gremlins: Success. Executed: true. Duration: 320ms.
+2025-02-20 17:40:31.855 [info] Extracted extension to file:///home/nat/.vscode/extensions/nhoizey.gremlins-0.26.0: nhoizey.gremlins
+2025-02-20 17:40:31.857 [info] Renamed to /home/nat/.vscode/extensions/nhoizey.gremlins-0.26.0
+2025-02-20 17:40:31.920 [info] Extension installed successfully: nhoizey.gremlins vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:43:28.503 [info] Getting Manifest... usernamehw.errorlens
+2025-02-20 17:43:28.581 [info] Installing extension: usernamehw.errorlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:43:29.430 [info] Extension signature verification result for usernamehw.errorlens: Success. Executed: true. Duration: 310ms.
+2025-02-20 17:43:29.451 [info] Extracted extension to file:///home/nat/.vscode/extensions/usernamehw.errorlens-3.23.0: usernamehw.errorlens
+2025-02-20 17:43:29.455 [info] Renamed to /home/nat/.vscode/extensions/usernamehw.errorlens-3.23.0
+2025-02-20 17:43:29.507 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:43:38.123 [info] Getting Manifest... guyskk.language-cython
+2025-02-20 17:43:38.217 [info] Installing extension: guyskk.language-cython {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:43:39.035 [info] Extension signature verification result for guyskk.language-cython: Success. Executed: true. Duration: 332ms.
+2025-02-20 17:43:39.054 [info] Extracted extension to file:///home/nat/.vscode/extensions/guyskk.language-cython-0.0.8: guyskk.language-cython
+2025-02-20 17:43:39.057 [info] Renamed to /home/nat/.vscode/extensions/guyskk.language-cython-0.0.8
+2025-02-20 17:43:39.137 [info] Extension installed successfully: guyskk.language-cython vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-02-20 17:44:29.127 [info] Getting Manifest... akeemmckenzie.python-package-manager-pro
+2025-02-20 17:44:29.198 [info] Installing extension: akeemmckenzie.python-package-manager-pro {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-20 17:44:30.564 [info] Extension signature verification result for akeemmckenzie.python-package-manager-pro: Success. Executed: true. Duration: 349ms.
+2025-02-20 17:44:30.581 [info] Extracted extension to file:///home/nat/.vscode/extensions/akeemmckenzie.python-package-manager-pro-1.0.1: akeemmckenzie.python-package-manager-pro
+2025-02-20 17:44:30.584 [info] Renamed to /home/nat/.vscode/extensions/akeemmckenzie.python-package-manager-pro-1.0.1
+2025-02-20 17:44:30.635 [info] Extension installed successfully: akeemmckenzie.python-package-manager-pro vscode-userdata:/home/nat/.vscode/extensions/extensions.json

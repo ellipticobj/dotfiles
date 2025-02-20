@@ -1,0 +1,248 @@
+2025-01-27 11:09:25.113 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 11:09:25.113 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 11:09:25.113 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 11:09:25.113 [warning] Dir "/home/nat/repos/sigma-lang-web/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 11:09:25.113 [info] Starting Environment refresh
+2025-01-27 11:09:25.113 [info] > hatch env show --json
+2025-01-27 11:09:25.113 [info] cwd: .
+2025-01-27 11:09:25.113 [info] Python interpreter path: /bin/python
+2025-01-27 11:09:25.113 [info] Starting Environment refresh
+2025-01-27 11:09:25.135 [info] > conda info --json
+2025-01-27 11:09:25.142 [info] > /usr/share/anaconda/bin/conda info --json
+2025-01-27 11:09:25.152 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/interpreterInfo.py
+2025-01-27 11:09:25.152 [info] Environments refresh paths discovered: 409 milliseconds
+2025-01-27 11:09:25.153 [info] Environments refresh paths discovered: 46 milliseconds
+2025-01-27 11:09:25.192 [info] Environments refresh finished (event): 449 milliseconds
+2025-01-27 11:09:25.192 [info] Environments refresh finished (event): 85 milliseconds
+2025-01-27 11:09:25.194 [info] Environment refresh took 451 milliseconds
+2025-01-27 11:09:25.194 [info] Environment refresh took 87 milliseconds
+2025-01-27 11:09:25.201 [info] > pyenv which python
+2025-01-27 11:09:25.201 [info] cwd: .
+2025-01-27 11:09:35.316 [info] Starting Pylance language server.
+2025-01-27 11:10:34.168 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 12:07:14.792 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 12:07:46.258 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 12:08:21.310 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 12:08:30.854 [info] Starting Environment refresh
+2025-01-27 12:08:30.854 [info] Searching for interpreters in posix paths locator
+2025-01-27 12:08:30.856 [info] Searching for pyenv environments
+2025-01-27 12:08:30.856 [info] Searching for conda environments
+2025-01-27 12:08:30.857 [info] Searching for global virtual environments
+2025-01-27 12:08:30.857 [info] Searching for custom virtual environments
+2025-01-27 12:08:30.862 [info] pyenv is not installed
+2025-01-27 12:08:30.862 [info] Finished searching for pyenv environments: 8 milliseconds
+2025-01-27 12:08:30.862 [info] Finished searching for custom virtual envs: 6 milliseconds
+2025-01-27 12:08:30.863 [info] Finished searching for global virtual envs: 8 milliseconds
+2025-01-27 12:08:30.890 [info] Found: /bin/python --> /bin/python3.13
+2025-01-27 12:08:30.890 [info] Found: /bin/python3 --> /bin/python3.13
+2025-01-27 12:08:30.891 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-01-27 12:08:30.911 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-01-27 12:08:30.912 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-01-27 12:08:30.912 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-01-27 12:08:30.926 [info] Finished searching for interpreters in posix paths locator: 74 milliseconds
+2025-01-27 12:08:30.939 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/interpreterInfo.py
+2025-01-27 12:08:30.939 [info] Environments refresh paths discovered (event): 87 milliseconds
+2025-01-27 12:08:30.939 [info] Environments refresh paths discovered: 87 milliseconds
+2025-01-27 12:08:31.004 [info] Environments refresh finished (event): 152 milliseconds
+2025-01-27 12:08:31.011 [info] Environment refresh took 160 milliseconds
+2025-01-27 12:08:40.279 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web
+2025-01-27 12:08:40.279 [info] Python interpreter path: /usr/bin/python
+2025-01-27 12:08:42.311 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 12:09:21.072 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 12:09:50.764 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 12:09:50.764 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 12:09:50.764 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 12:09:50.764 [warning] Dir "/home/nat/repos/sigma-lang-web/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 12:09:50.764 [info] Python interpreter path: /usr/bin/python
+2025-01-27 12:09:51.515 [info] > pyenv which python
+2025-01-27 12:09:51.515 [info] cwd: .
+2025-01-27 12:09:54.026 [info] Starting Pylance language server.
+2025-01-27 12:13:28.616 [info] > conda info --json
+2025-01-27 12:13:28.708 [info] > /usr/share/anaconda/bin/conda info --json
+2025-01-27 12:13:38.621 [info] > /usr/bin/python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/normalizeSelection.py
+2025-01-27 12:13:39.842 [info] Send text to terminal: [200~deprecated[201~
+2025-01-27 12:13:58.862 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 12:13:59.893 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 12:17:02.929 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 12:17:02.929 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 12:17:02.929 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 12:17:02.929 [warning] Dir "/home/nat/repos/ellipticobj.github.io/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 12:17:02.929 [info] Starting Environment refresh
+2025-01-27 12:17:02.929 [info] > hatch env show --json
+2025-01-27 12:17:02.929 [info] cwd: .
+2025-01-27 12:17:02.929 [info] Python interpreter path: /bin/python
+2025-01-27 12:17:02.936 [info] Starting Environment refresh
+2025-01-27 12:17:05.005 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/interpreterInfo.py
+2025-01-27 12:17:05.005 [info] Environments refresh paths discovered: 2126 milliseconds
+2025-01-27 12:17:05.054 [info] Environments refresh finished (event): 2175 milliseconds
+2025-01-27 12:17:05.067 [info] Environments refresh finished (event): 2131 milliseconds
+2025-01-27 12:17:05.067 [info] Environments refresh paths discovered: 2131 milliseconds
+2025-01-27 12:17:05.068 [info] Environment refresh took 2189 milliseconds
+2025-01-27 12:17:05.078 [info] Environment refresh took 2142 milliseconds
+2025-01-27 12:17:05.084 [info] > pyenv which python
+2025-01-27 12:17:05.084 [info] cwd: .
+2025-01-27 12:17:06.174 [info] Starting Pylance language server.
+2025-01-27 12:17:10.109 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 12:17:10.109 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 12:17:10.109 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 12:17:10.109 [warning] Dir "/home/nat/repos/sigma-lang-web/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 12:17:10.109 [info] Python interpreter path: /usr/bin/python
+2025-01-27 12:17:10.884 [info] > pyenv which python
+2025-01-27 12:17:10.884 [info] cwd: .
+2025-01-27 12:17:13.398 [info] Starting Pylance language server.
+2025-01-27 12:17:58.293 [info] > conda info --json
+2025-01-27 12:17:58.353 [info] > /usr/share/anaconda/bin/conda info --json
+2025-01-27 12:18:34.464 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 12:37:34.502 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 12:37:34.502 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 12:37:34.502 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 12:37:34.502 [warning] Dir "/home/nat/repos/ellipticobj.github.io/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 12:37:34.502 [info] Python interpreter path: /bin/python
+2025-01-27 12:37:35.219 [info] > pyenv which python
+2025-01-27 12:37:35.219 [info] cwd: .
+2025-01-27 12:37:37.754 [info] Starting Pylance language server.
+2025-01-27 12:58:05.977 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 12:58:05.978 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 12:58:05.978 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 12:58:05.978 [warning] Dir "/home/nat/repos/sigma-lang-web/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 12:58:05.978 [info] Python interpreter path: /usr/bin/python
+2025-01-27 12:58:05.996 [info] > pyenv which python
+2025-01-27 12:58:05.996 [info] cwd: .
+2025-01-27 12:58:07.965 [info] Starting Pylance language server.
+2025-01-27 13:04:39.128 [info] > conda info --json
+2025-01-27 13:04:39.138 [info] > /usr/share/anaconda/bin/conda info --json
+2025-01-27 13:05:27.141 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 13:05:31.136 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 13:05:34.493 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 13:05:41.441 [info] Discover tests for workspace name: sigma-lang-web - uri: /home/nat/repos/sigma-lang-web/app.py
+2025-01-27 13:08:11.338 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 13:08:11.338 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 13:08:11.338 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 13:08:11.338 [warning] Dir "/home/nat/repos/alpha-lang/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 13:08:11.338 [info] Starting Environment refresh
+2025-01-27 13:08:11.338 [info] > hatch env show --json
+2025-01-27 13:08:11.338 [info] cwd: .
+2025-01-27 13:08:11.338 [info] Python interpreter path: /bin/python
+2025-01-27 13:08:11.340 [info] Starting Environment refresh
+2025-01-27 13:08:11.375 [info] > conda info --json
+2025-01-27 13:08:11.381 [info] > /usr/share/anaconda/bin/conda info --json
+2025-01-27 13:08:11.389 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/interpreterInfo.py
+2025-01-27 13:08:11.389 [info] Environments refresh paths discovered: 49 milliseconds
+2025-01-27 13:08:11.389 [info] Environments refresh paths discovered: 385 milliseconds
+2025-01-27 13:08:11.407 [info] Environments refresh finished (event): 67 milliseconds
+2025-01-27 13:08:11.407 [info] Environments refresh finished (event): 403 milliseconds
+2025-01-27 13:08:11.408 [info] Environment refresh took 68 milliseconds
+2025-01-27 13:08:11.408 [info] Environment refresh took 405 milliseconds
+2025-01-27 13:08:11.414 [info] > pyenv which python
+2025-01-27 13:08:11.414 [info] cwd: .
+2025-01-27 13:08:21.558 [info] Starting Pylance language server.
+2025-01-27 13:09:30.126 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:09:59.855 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:11:13.915 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:15:21.366 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:17:12.648 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:17:26.184 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:17:48.184 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:18:04.829 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:18:13.316 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:18:29.230 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:22:19.694 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:23:16.243 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:23:17.781 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:23:33.782 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:25:08.694 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:25:14.881 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:25:18.514 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:25:22.644 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:25:42.974 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:27:00.590 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:27:13.014 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:27:27.118 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:27:34.125 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:27:36.655 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:27:40.774 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stackhandler.py
+2025-01-27 13:28:27.504 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:36:48.850 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:37:43.403 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:38:12.942 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:38:43.760 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:39:02.395 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:39:10.264 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:39:17.591 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:41:52.511 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 13:41:54.075 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:42:13.289 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 13:42:15.319 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:43:27.172 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 13:43:30.109 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:43:44.519 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:45:49.519 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:46:05.465 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 13:46:11.532 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:49:00.152 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:49:33.707 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:49:55.165 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:50:22.764 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:50:29.981 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:52:18.670 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:52:55.852 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:53:31.998 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:54:07.547 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:54:28.948 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:54:32.082 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:54:35.513 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:55:49.959 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:56:18.573 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 13:56:20.638 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 13:56:47.579 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 13:57:17.834 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 13:57:31.404 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 13:58:19.171 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:58:31.827 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:58:46.733 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:59:19.017 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:59:30.613 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 13:59:41.079 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 14:00:26.773 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 14:01:08.905 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 14:01:13.932 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 14:01:31.967 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 14:01:34.261 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 15:32:02.111 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 15:34:38.841 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/normalizeSelection.py
+2025-01-27 15:34:39.991 [info] Send text to terminal: [200~deprecated[201~
+2025-01-27 15:37:19.097 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 15:37:26.735 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/stack.py
+2025-01-27 15:49:53.331 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:50:40.367 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:51:55.738 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:52:52.874 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:55:25.517 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:55:33.631 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:55:50.623 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:55:55.825 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:56:00.549 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:56:55.829 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:57:02.507 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 15:57:06.702 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/setup.py
+2025-01-27 16:11:12.112 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/main.py
+2025-01-27 16:15:31.199 [info] Discover tests for workspace name: alpha-lang - uri: /home/nat/repos/alpha-lang/build.py
+2025-01-27 16:47:49.995 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 16:47:49.995 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 16:47:49.995 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 16:47:49.995 [warning] Dir "/home/nat/repos/alpha/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 16:47:49.995 [info] Starting Environment refresh
+2025-01-27 16:47:49.995 [info] > hatch env show --json
+2025-01-27 16:47:49.995 [info] cwd: .
+2025-01-27 16:47:49.995 [info] Python interpreter path: /bin/python
+2025-01-27 16:47:50.009 [info] Starting Environment refresh
+2025-01-27 16:47:52.111 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.22.2-linux-arm64/python_files/interpreterInfo.py
+2025-01-27 16:47:52.111 [info] Environments refresh paths discovered: 2196 milliseconds
+2025-01-27 16:47:52.148 [info] Environments refresh finished (event): 2233 milliseconds
+2025-01-27 16:47:52.154 [info] Environment refresh took 2239 milliseconds
+2025-01-27 16:47:52.162 [info] Environments refresh finished (event): 2153 milliseconds
+2025-01-27 16:47:52.162 [info] Environments refresh paths discovered: 2153 milliseconds
+2025-01-27 16:47:52.166 [info] Environment refresh took 2157 milliseconds
+2025-01-27 16:47:52.179 [info] > pyenv which python
+2025-01-27 16:47:52.179 [info] cwd: .
+2025-01-27 16:47:53.264 [info] Starting Pylance language server.

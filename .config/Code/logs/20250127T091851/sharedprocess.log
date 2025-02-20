@@ -1,0 +1,74 @@
+2025-01-27 09:19:10.457 [info] Getting Manifest... ecmel.vscode-html-css
+2025-01-27 09:19:10.458 [info] Getting Manifest... github.copilot
+2025-01-27 09:19:10.459 [info] Getting Manifest... marp-team.marp-vscode
+2025-01-27 09:19:10.460 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2025-01-27 09:19:11.974 [info] Installing extension: ecmel.vscode-html-css {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-27 09:19:12.045 [info] Installing extension: github.copilot {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-27 09:19:12.118 [info] Installing extension: marp-team.marp-vscode {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-27 09:19:12.265 [info] Installing extension: ms-vscode.vscode-typescript-next {"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-27 09:19:13.406 [info] Extension signature verification result for ecmel.vscode-html-css: UnknownError. Executed: true. Duration: 15ms.
+2025-01-27 09:19:13.427 [info] Extracted extension to file:///home/nat/.vscode/extensions/ecmel.vscode-html-css-2.0.13: ecmel.vscode-html-css
+2025-01-27 09:19:13.431 [info] Renamed to /home/nat/.vscode/extensions/ecmel.vscode-html-css-2.0.13
+2025-01-27 09:19:13.452 [info] Marked extension as uninstalled ecmel.vscode-html-css-2.0.12
+2025-01-27 09:19:13.480 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-01-27 09:19:13.525 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/nat/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/nat/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-27 09:19:25.889 [info] Extension signature verification result for ms-vscode.vscode-typescript-next: UnknownError. Executed: true. Duration: 5ms.
+2025-01-27 09:19:26.069 [info] Extracted extension to file:///home/nat/.vscode/extensions/ms-vscode.vscode-typescript-next-5.8.20250126: ms-vscode.vscode-typescript-next
+2025-01-27 09:19:26.073 [info] Renamed to /home/nat/.vscode/extensions/ms-vscode.vscode-typescript-next-5.8.20250126
+2025-01-27 09:19:26.078 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/nat/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/nat/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-27 09:19:26.079 [info] Marked extension as uninstalled ms-vscode.vscode-typescript-next-5.8.20250121
+2025-01-27 09:19:26.095 [info] Extension installed successfully: ms-vscode.vscode-typescript-next vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-01-27 09:19:51.670 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 8ms.
+2025-01-27 09:19:52.224 [info] Extracted extension to file:///home/nat/.vscode/extensions/github.copilot-1.259.0: github.copilot
+2025-01-27 09:19:52.231 [info] Renamed to /home/nat/.vscode/extensions/github.copilot-1.259.0
+2025-01-27 09:19:52.243 [info] Marked extension as uninstalled github.copilot-1.257.0
+2025-01-27 09:19:52.284 [info] Extension installed successfully: github.copilot vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-01-27 09:19:52.315 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/nat/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/nat/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-27 09:20:00.504 [info] Extension signature verification result for marp-team.marp-vscode: UnknownError. Executed: true. Duration: 5ms.
+2025-01-27 09:20:03.475 [info] Extracted extension to file:///home/nat/.vscode/extensions/marp-team.marp-vscode-3.1.0: marp-team.marp-vscode
+2025-01-27 09:20:03.623 [info] Renamed to /home/nat/.vscode/extensions/marp-team.marp-vscode-3.1.0
+2025-01-27 09:20:03.630 [info] Marked extension as uninstalled marp-team.marp-vscode-3.0.0
+2025-01-27 09:20:03.643 [info] Extension installed successfully: marp-team.marp-vscode vscode-userdata:/home/nat/.vscode/extensions/extensions.json
+2025-01-27 09:20:03.703 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/nat/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/nat/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-27 10:59:37.997 [error] [network] #41: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:14:21.135 [error] [network] #351: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:14:24.273 [error] [network] #352: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:14:32.846 [error] [network] #353: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:14:35.749 [error] [network] #354: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:15:01.774 [error] [network] #355: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:15:04.742 [error] [network] #356: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:15:27.846 [error] [network] #357: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:15:31.358 [error] [network] #358: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:16:09.071 [error] [network] #359: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:16:20.736 [error] [network] #360: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:16:23.165 [error] [network] #361: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:17:12.729 [error] [network] #362: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:17:15.424 [error] [network] #363: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:18:36.687 [error] [network] #364: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:18:40.075 [error] [network] #365: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:19:20.874 [error] [network] #366: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2025-01-27 15:19:23.639 [error] [network] #367: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

@@ -1,0 +1,4 @@
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+LANGCHAIN_API_KEY="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"
+LANGCHAIN_PROJECT="pr-stupendous-air-49"

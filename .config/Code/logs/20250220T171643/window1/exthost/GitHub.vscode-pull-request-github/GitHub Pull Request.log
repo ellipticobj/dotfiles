@@ -1,0 +1,15 @@
+2025-02-20 17:16:45.903 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:16:46.662 [info] Looking for git repository
+2025-02-20 17:16:46.662 [info] Found 0 repositories during activation
+2025-02-20 17:16:46.662 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:16:46.662 [info] Registering git provider
+2025-02-20 17:17:33.550 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:17:34.275 [info] Looking for git repository
+2025-02-20 17:17:34.275 [info] Found 0 repositories during activation
+2025-02-20 17:17:34.275 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:17:34.276 [info] Registering git provider
+2025-02-20 17:17:42.335 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:17:43.104 [info] Looking for git repository
+2025-02-20 17:17:43.104 [info] Found 0 repositories during activation
+2025-02-20 17:17:43.104 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:17:43.104 [info] Registering git provider

@@ -1,0 +1,11 @@
+[2025-01-27 13:07:30.841] Starting Git Graph ...
+[2025-01-27 13:07:30.849] Using git (version: 2.48.1)
+[2025-01-27 13:07:30.854] Started Git Graph - Ready to use!
+[2025-01-27 13:07:30.854] Searching workspace for new repos ...
+[2025-01-27 13:07:30.857] > git rev-parse --show-toplevel
+[2025-01-27 13:07:30.866] Added new repo: /home/nat/repos/alpha-lang
+[2025-01-27 13:07:30.872] Completed searching workspace for new repos
+[2025-01-27 13:07:30.873] Showing "Git Graph" Status Bar Item
+[2025-01-27 13:07:30.919] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2025-01-27 16:47:17.600] Removed repo: /home/nat/repos/alpha-lang
+[2025-01-27 16:47:17.601] Hiding "Git Graph" Status Bar Item

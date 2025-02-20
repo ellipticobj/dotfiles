@@ -1,0 +1,5 @@
+2025-02-20 17:48:27.523 [info] GitLens v16.3.0 activating in Visual Studio Code (1.97.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (bafe2a3496a86c02a4b903a5a764c1a471e9c6050f980138dad669c478745f4b|1df55668-2b32-49cd-8b02-a071d54fa3001740044904621)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-02-20 17:48:28.709 [info] [2025-02-20 09:48:28.703] [GIT    *763ms] [/home/nat/repos/sigma-lang-web] git remote -v [*763ms] (slow)
+

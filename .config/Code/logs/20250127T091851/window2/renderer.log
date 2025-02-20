@@ -1,0 +1,177 @@
+2025-01-27 09:37:32.334 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 09:37:32.334 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 09:37:32.334 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 09:37:32.497 [info] Started local extension host with pid 36808.
+2025-01-27 09:37:32.900 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-27 09:37:34.960 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-01-27 09:37:35.857 [info] [perf] Render performance baseline is 17ms
+2025-01-27 10:59:35.205 [error] [network] #55: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-27 10:59:35.207 [warning] Failed to fetch chat participant registry Offline
+2025-01-27 10:59:52.210 [error] [Extension Host] [default] Error sending telemetry FetchError: The pending stream has been canceled (caused by: getaddrinfo EAI_AGAIN telemetry.individual.githubcopilot.com)
+    at fetch (/home/nat/.vscode/extensions/github.copilot-1.259.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/nat/.vscode/extensions/github.copilot-1.259.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at Cpe.fetch (/home/nat/.vscode/extensions/github.copilot-1.259.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_CANCEL',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-27 11:08:16.396 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-01-27 11:08:16.397 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-01-27 11:08:16.426 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-01-27 11:08:16.426 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-01-27 11:08:22.466 [error] An unknown error occurred. Please consult the log for more details.
+2025-01-27 11:08:40.109 [error] An unknown error occurred. Please consult the log for more details.
+2025-01-27 11:08:55.481 [error] An unknown error occurred. Please consult the log for more details.
+2025-01-27 11:08:58.308 [error] An unknown error occurred. Please consult the log for more details.
+2025-01-27 11:09:06.793 [error] An unknown error occurred. Please consult the log for more details.
+2025-01-27 11:09:10.733 [error] An unknown error occurred. Please consult the log for more details.
+2025-01-27 11:09:14.294 [error] An unknown error occurred. Please consult the log for more details.
+2025-01-27 11:09:15.538 [error] An unknown error occurred. Please consult the log for more details.
+2025-01-27 11:09:19.972 [error] An unknown error occurred. Please consult the log for more details.
+2025-01-27 12:09:33.007 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:09:33.008 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:09:33.008 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:09:33.184 [info] Started local extension host with pid 44954.
+2025-01-27 12:09:33.881 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-27 12:09:35.789 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-01-27 12:09:35.826 [info] [perf] Render performance baseline is 32ms
+2025-01-27 12:09:49.418 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:09:49.419 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:09:49.419 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:09:49.618 [info] Started local extension host with pid 45605.
+2025-01-27 12:09:50.258 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-27 12:09:52.258 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-01-27 12:09:52.412 [info] [perf] Render performance baseline is 48ms
+2025-01-27 12:17:01.073 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/nat/repos/sigma-lang-web/templates/index.html 
+2025-01-27 12:17:01.318 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:17:01.319 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:17:01.319 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:17:01.580 [info] Started local extension host with pid 48701.
+2025-01-27 12:17:02.404 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-27 12:17:04.018 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-01-27 12:17:04.198 [info] [perf] Render performance baseline is 18ms
+2025-01-27 12:17:08.409 [warning] [backup tracker] suspended, ignoring unregister event file:///home/nat/repos/ellipticobj.github.io/package.json 
+2025-01-27 12:17:08.555 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:17:08.555 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:17:08.555 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:17:08.686 [info] Started local extension host with pid 49251.
+2025-01-27 12:17:09.513 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-27 12:17:11.408 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-01-27 12:17:11.463 [info] [perf] Render performance baseline is 16ms
+2025-01-27 12:37:32.922 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:37:32.923 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:37:32.923 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:37:33.188 [info] Started local extension host with pid 54681.
+2025-01-27 12:37:33.975 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-27 12:37:35.765 [info] [perf] Render performance baseline is 16ms
+2025-01-27 12:37:35.800 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-01-27 12:58:03.424 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/nat/repos/ellipticobj.github.io/templates/index.html 
+2025-01-27 12:58:03.425 [warning] [backup tracker] suspended, ignoring content change event file:///home/nat/repos/ellipticobj.github.io/templates/index.html 
+2025-01-27 12:58:03.698 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:58:03.698 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:58:03.698 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 12:58:03.948 [info] Started local extension host with pid 57422.
+2025-01-27 12:58:04.874 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-27 12:58:06.578 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-01-27 12:58:06.652 [info] [perf] Render performance baseline is 35ms
+2025-01-27 13:07:27.015 [error] [Extension Host] (node:57422) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-01-27 13:07:30.076 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 13:07:30.077 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 13:07:30.077 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 13:07:30.201 [info] Started local extension host with pid 59737.
+2025-01-27 13:07:30.673 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-27 13:07:32.894 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-01-27 13:07:34.876 [info] [perf] Render performance baseline is 16ms
+2025-01-27 13:38:55.357 [info] [onWill-handler] applying additional workspace edit from extensions ["Python"]
+2025-01-27 15:14:13.641 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/nat/.wakatime/wakatime-cli-linux-arm64 --entity /home/nat/repos/alpha-lang/README.md --plugin "vscode/1.96.4 vscode-wakatime/25.0.0" --lineno 12 --cursorpos 1 --lines-in-file 13 --alternate-project alpha-lang --project-folder /home/nat/repos/alpha-lang
+
+2025-01-27 15:15:37.708 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/nat/.wakatime/wakatime-cli-linux-arm64 --entity /home/nat/repos/alpha-lang/README.md --plugin "vscode/1.96.4 vscode-wakatime/25.0.0" --lineno 28 --cursorpos 1 --lines-in-file 28 --alternate-project alpha-lang --project-folder /home/nat/repos/alpha-lang --write
+
+2025-01-27 15:15:38.471 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/nat/.wakatime/wakatime-cli-linux-arm64 --entity /home/nat/repos/alpha-lang/stack.py --plugin "vscode/1.96.4 vscode-wakatime/25.0.0" --lineno 34 --cursorpos 44 --lines-in-file 59 --alternate-project alpha-lang --project-folder /home/nat/repos/alpha-lang
+
+2025-01-27 15:15:39.594 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/nat/.wakatime/wakatime-cli-linux-arm64 --entity /home/nat/repos/alpha-lang/main.py --plugin "vscode/1.96.4 vscode-wakatime/25.0.0" --lineno 103 --cursorpos 16 --lines-in-file 107 --alternate-project alpha-lang --project-folder /home/nat/repos/alpha-lang
+
+2025-01-27 15:15:46.247 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/nat/.wakatime/wakatime-cli-linux-arm64 --entity /home/nat/repos/alpha-lang/README.md --plugin "vscode/1.96.4 vscode-wakatime/25.0.0" --lineno 28 --cursorpos 1 --lines-in-file 28 --alternate-project alpha-lang --project-folder /home/nat/repos/alpha-lang
+
+2025-01-27 15:16:03.864 [error] [network] #62: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-27 15:16:03.865 [warning] Failed to fetch chat participant registry Offline
+2025-01-27 15:18:19.178 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/nat/.wakatime/wakatime-cli-linux-arm64 --entity /home/nat/repos/alpha-lang/README.md --plugin "vscode/1.96.4 vscode-wakatime/25.0.0" --lineno 38 --cursorpos 1 --lines-in-file 39 --alternate-project alpha-lang --project-folder /home/nat/repos/alpha-lang
+
+2025-01-27 15:18:58.178 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/nat/.wakatime/wakatime-cli-linux-arm64 --entity /home/nat/repos/alpha-lang/README.md --plugin "vscode/1.96.4 vscode-wakatime/25.0.0" --lineno 41 --cursorpos 1 --lines-in-file 42 --alternate-project alpha-lang --project-folder /home/nat/repos/alpha-lang --write
+
+2025-01-27 16:05:52.490 [info] [onWill-handler] applying additional workspace edit from extensions ["Python"]
+2025-01-27 16:47:18.688 [error] [File Watcher (node.js)] Failed to watch /home/nat/repos/alpha-lang/.git/refs/remotes/origin/main for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/nat/repos/alpha-lang/.git/refs/remotes/origin/main')
+2025-01-27 16:47:18.690 [error] [Extension Host] Error: Repository not initialized
+    at O.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1058920)
+    at O.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1057727)
+    at m.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:900236)
+    at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:905369)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-01-27 16:47:41.200 [error] [Extension Host] (node:59737) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-01-27 16:47:48.717 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 16:47:48.717 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 16:47:48.717 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-27 16:47:48.876 [info] Started local extension host with pid 86105.
+2025-01-27 16:47:49.357 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-27 16:47:51.448 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-01-27 16:47:51.486 [info] [perf] Render performance baseline is 16ms

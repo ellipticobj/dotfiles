@@ -1,0 +1,14 @@
+2025-01-27 09:18:58.050 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-27 09:18:58.329 [info] [Info  - 9:18:58 AM] (36026) Server root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-27 09:18:58.329 [info] [Info  - 9:18:58 AM] (36026) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-27 09:18:58.329 [info] [Info  - 9:18:58 AM] (36026) Starting service instance "sigma-lang"
+2025-01-27 09:18:58.356 [info] [Info  - 9:18:58 AM] (36026) Setting environmentName for service "sigma-lang": "3.13.1 (global)"
+2025-01-27 09:18:58.356 [info] [Info  - 9:18:58 AM] (36026) Setting pythonPath for service "sigma-lang": "/bin/python"
+2025-01-27 09:18:58.356 [info] [Info  - 9:18:58 AM] (36026) No include entries specified; assuming /home/nat/repos/sigma-lang
+2025-01-27 09:18:58.357 [info] [Info  - 9:18:58 AM] (36026) Auto-excluding **/node_modules
+2025-01-27 09:18:58.357 [info] [Info  - 9:18:58 AM] (36026) Auto-excluding **/__pycache__
+2025-01-27 09:18:58.357 [info] [Info  - 9:18:58 AM] (36026) Auto-excluding **/.*
+2025-01-27 09:18:58.387 [info] [Info  - 9:18:58 AM] (36026) Assuming Python version 3.13.1.final.0
+2025-01-27 09:18:58.451 [info] [Info  - 9:18:58 AM] (36026) Found 10 source files
+2025-01-27 09:18:58.659 [info] [Info  - 9:18:58 AM] (36026) Background analysis(1) root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-27 09:18:58.660 [info] [Info  - 9:18:58 AM] (36026) Background analysis(1) started
