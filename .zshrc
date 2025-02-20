@@ -5,7 +5,27 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
+
+export ZSH="$HOME/.oh-my-zsh"
+
+plugins=(
+	git
+	zsh-autosuggestions
+	zsh-syntax-highlighting
+	fast-syntax-highlighting
+	zsh-autocomplete
+)
+
+source $ZSH/oh-my-zsh.sh
 source ~/powerlevel10k/powerlevel10k.zsh-theme
+
+# check the dnf plugins commands here
+# https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dnf
+
+
+# Display Pokemon-colorscripts
+# Project page: https://gitlab.com/phoneybadger/pokemon-colorscripts#on-other-distros-and-macos
+#pokemon-colorscripts --no-title -s -r
 
 # fastfetch. Will be disabled if above colorscript was chosen to install
 fastfetch
@@ -25,11 +45,3 @@ export PATH=$HOME/.local/bin:$PATH
 export BOX64_LD_LIBRARY_PATH=/usr/lib64/libgcc_s.so.1
 
 alias clear="clear && fastfetch"
-export PYENV_ROOT="$HOME/.pyenv"
-[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init - zsh)"
-source /home/nat/.zshplugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-
-autoload -U compinit; compinit
-source ~/.zshplugins/fzf-tab/fzf-tab.plugin.zsh
