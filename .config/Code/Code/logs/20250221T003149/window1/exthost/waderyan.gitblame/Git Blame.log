@@ -1,0 +1,51 @@
+2025-02-21 00:31:53.685 [info] git rev-parse --absolute-git-dir
+2025-02-21 00:31:53.685 [info] git rev-parse --absolute-git-dir
+2025-02-21 00:31:53.685 [info] git config user.email
+2025-02-21 00:31:53.685 [info] git blame -C --incremental -- /home/nat/repos/sigma-lang-web/README.md
+2025-02-21 00:31:53.685 [info] Blamed "/home/nat/repos/sigma-lang-web/README.md"
+2025-02-21 00:32:07.766 [info] git rev-parse --absolute-git-dir
+2025-02-21 00:32:07.774 [info] git config user.email
+2025-02-21 00:32:07.781 [info] git blame -C --incremental -- /home/nat/repos/sigma-lang-web/README.md
+2025-02-21 00:32:07.783 [info] Blamed "/home/nat/repos/sigma-lang-web/README.md"
+2025-02-21 00:34:39.613 [info] git rev-parse --absolute-git-dir
+2025-02-21 00:34:39.630 [info] git config user.email
+2025-02-21 00:34:39.640 [info] git blame -C --incremental -- /home/nat/repos/sigma-lang-web/README.md
+2025-02-21 00:34:39.642 [info] Blamed "/home/nat/repos/sigma-lang-web/README.md"
+2025-02-21 01:41:55.136 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:55.145 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:55.360 [info] git config user.email
+2025-02-21 01:41:55.637 [info] git blame -C --incremental -- /home/nat/repos/sigma/main.py
+2025-02-21 01:41:55.703 [info] Blamed "/home/nat/repos/sigma/main.py"
+2025-02-21 01:41:56.713 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:56.725 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:56.783 [info] git config user.email
+2025-02-21 01:41:56.798 [info] git blame -C --incremental -- /home/nat/repos/sigma/lexer.py
+2025-02-21 01:41:56.825 [info] Blamed "/home/nat/repos/sigma/lexer.py"
+2025-02-21 01:41:57.524 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:57.536 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:57.550 [info] git config user.email
+2025-02-21 01:41:57.559 [info] git blame -C --incremental -- /home/nat/repos/sigma/globals.py
+2025-02-21 01:41:57.562 [info] Blamed "/home/nat/repos/sigma/globals.py"
+2025-02-21 01:41:58.320 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:58.328 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:58.346 [info] git config user.email
+2025-02-21 01:41:58.374 [info] git blame -C --incremental -- /home/nat/repos/sigma/evaluator.py
+2025-02-21 01:41:58.391 [info] Blamed "/home/nat/repos/sigma/evaluator.py"
+2025-02-21 01:41:59.095 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:59.102 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:41:59.114 [info] git config user.email
+2025-02-21 01:41:59.119 [info] git blame -C --incremental -- /home/nat/repos/sigma/const.py
+2025-02-21 01:41:59.122 [info] Blamed "/home/nat/repos/sigma/const.py"
+2025-02-21 01:42:09.263 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:42:09.281 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:42:09.348 [info] git config user.email
+2025-02-21 01:42:09.391 [info] git blame -C --incremental -- /home/nat/repos/sigma/parser.py
+2025-02-21 01:42:09.409 [info] Blamed "/home/nat/repos/sigma/parser.py"
+2025-02-21 01:42:40.549 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:42:40.567 [info] git config user.email
+2025-02-21 01:42:40.576 [info] git blame -C --incremental -- /home/nat/repos/sigma/evaluator.py
+2025-02-21 01:42:40.581 [info] Blamed "/home/nat/repos/sigma/evaluator.py"
+2025-02-21 01:43:11.411 [info] git rev-parse --absolute-git-dir
+2025-02-21 01:43:11.436 [info] git config user.email
+2025-02-21 01:43:11.445 [info] git blame -C --incremental -- /home/nat/repos/sigma/evaluator.py
+2025-02-21 01:43:11.452 [info] Blamed "/home/nat/repos/sigma/evaluator.py"

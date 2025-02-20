@@ -1,0 +1,67 @@
+2025-02-20 17:12:09.864 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:12:09.865 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:12:09.865 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:12:09.865 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:12:10.065 [info] Started local extension host with pid 34229.
+2025-02-20 17:12:10.356 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-20 17:12:12.774 [info] [perf] Render performance baseline is 19ms
+2025-02-20 17:12:54.400 [error] Unknown: Unknown error while installing extension ms-python.vscode-pylance
+    at fh.installFromGallery (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1498)
+2025-02-20 17:12:54.429 [error] Unknown error while installing extension ms-python.vscode-pylance: Unknown: Unknown error while installing extension ms-python.vscode-pylance
+    at fh.installFromGallery (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1498)
+2025-02-20 17:13:26.839 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-02-20 17:13:26.841 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-02-20 17:13:26.868 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-02-20 17:13:26.868 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-02-20 17:15:37.884 [error] [Extension Host] Error: EACCES: permission denied, rename '/usr/share/code/resources/app/product.json' -> '/usr/share/code/resources/app/product.json.orig.1.97.2'
+    at Object.renameSync (node:fs:1034:11)
+    at Object.exports.fixCheckSums (/home/nat/.vscode/extensions/unthrottled.doki-theme-88.1.18/out/CheckSumService.js:32:34)
+    at /home/nat/.vscode/extensions/unthrottled.doki-theme-88.1.18/out/ThemeManager.js:142:31
+    at mw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32733)
+2025-02-20 17:15:42.054 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:15:42.054 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:15:42.054 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:15:42.054 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:15:42.222 [info] Started local extension host with pid 35116.
+2025-02-20 17:15:42.614 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-20 17:15:44.829 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-02-20 17:15:44.855 [info] [perf] Render performance baseline is 45ms
+2025-02-20 17:15:45.326 [error] [Extension Host] Error: EACCES: permission denied, rename '/usr/share/code/resources/app/product.json' -> '/usr/share/code/resources/app/product.json.orig.1.97.2'
+    at Object.renameSync (node:fs:1034:11)
+    at Object.exports.fixCheckSums (/home/nat/.vscode/extensions/unthrottled.doki-theme-88.1.18/out/CheckSumService.js:32:34)
+    at /home/nat/.vscode/extensions/unthrottled.doki-theme-88.1.18/out/ThemeManager.js:142:31
+    at mw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:32733)
+2025-02-20 17:15:59.349 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:15:59.350 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:15:59.350 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:15:59.350 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:15:59.464 [info] Started local extension host with pid 35228.
+2025-02-20 17:15:59.915 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-20 17:16:01.994 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-02-20 17:16:02.038 [info] [perf] Render performance baseline is 16ms
+2025-02-20 17:16:38.539 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:16:38.539 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:16:38.540 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:16:38.540 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-20 17:16:38.677 [info] Started local extension host with pid 35297.
+2025-02-20 17:16:39.111 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-20 17:16:41.248 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-02-20 17:16:41.293 [info] [perf] Render performance baseline is 18ms

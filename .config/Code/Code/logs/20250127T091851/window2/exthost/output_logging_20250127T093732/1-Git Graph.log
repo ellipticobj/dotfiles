@@ -1,0 +1,9 @@
+[2025-01-27 09:37:33.139] Starting Git Graph ...
+[2025-01-27 09:37:33.145] Using git (version: 2.48.1)
+[2025-01-27 09:37:33.150] Started Git Graph - Ready to use!
+[2025-01-27 09:37:33.150] Searching workspace for new repos ...
+[2025-01-27 09:37:33.153] > git rev-parse --show-toplevel
+[2025-01-27 09:37:33.217] Added new repo: /home/nat/repos/sigma-lang-web
+[2025-01-27 09:37:33.218] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2025-01-27 09:37:33.410] Completed searching workspace for new repos
+[2025-01-27 09:37:33.410] Showing "Git Graph" Status Bar Item

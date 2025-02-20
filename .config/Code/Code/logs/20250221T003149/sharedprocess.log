@@ -1,0 +1,8 @@
+2025-02-21 00:31:55.043 [info] Getting Manifest... charliermarsh.ruff
+2025-02-21 00:31:55.721 [info] Installing extension: charliermarsh.ruff {"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nat/.vscode/extensions/extensions.json","path":"/home/nat/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-21 00:31:56.744 [info] Getting Manifest... ms-python.python
+2025-02-21 00:32:00.001 [info] Extension signature verification result for charliermarsh.ruff: Success. Executed: true. Duration: 353ms.
+2025-02-21 00:32:00.714 [info] Extracted extension to file:///home/nat/.vscode/extensions/charliermarsh.ruff-2025.10.0-linux-arm64: charliermarsh.ruff
+2025-02-21 00:32:00.728 [info] Renamed to /home/nat/.vscode/extensions/charliermarsh.ruff-2025.10.0-linux-arm64
+2025-02-21 00:32:00.798 [info] Marked extension as removed charliermarsh.ruff-2025.8.0
+2025-02-21 00:32:00.814 [info] Extension installed successfully: charliermarsh.ruff vscode-userdata:/home/nat/.vscode/extensions/extensions.json

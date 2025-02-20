@@ -1,0 +1,52 @@
+[00:45:01.893] Log Level: 2
+[00:45:01.905] SSH Resolver called for "ssh-remote+hackclub", attempt 1
+[00:45:01.907] remote.SSH.useLocalServer = true
+[00:45:01.907] remote.SSH.useExecServer = true
+[00:45:01.907] remote.SSH.bindHost = {}
+[00:45:01.907] remote.SSH.path = undefined
+[00:45:01.907] remote.SSH.configFile = undefined
+[00:45:01.907] remote.SSH.useFlock = true
+[00:45:01.908] remote.SSH.lockfilesInTmp = false
+[00:45:01.908] remote.SSH.localServerDownload = auto
+[00:45:01.908] remote.SSH.remoteServerListenOnSocket = false
+[00:45:01.908] remote.SSH.defaultExtensions = []
+[00:45:01.908] remote.SSH.defaultExtensionsIfInstalledLocally = []
+[00:45:01.908] remote.SSH.loglevel = 2
+[00:45:01.908] remote.SSH.enableDynamicForwarding = true
+[00:45:01.908] remote.SSH.enableRemoteCommand = false
+[00:45:01.908] remote.SSH.serverPickPortsFromRange = {}
+[00:45:01.909] remote.SSH.serverInstallPath = {}
+[00:45:01.909] remote.SSH.permitPtyAllocation = false
+[00:45:01.909] remote.SSH.preferredLocalPortRange = undefined
+[00:45:01.909] remote.SSH.useCurlAndWgetConfigurationFiles = false
+[00:45:01.909] remote.SSH.experimental.chat = false
+[00:45:01.909] remote.SSH.experimental.enhancedSessionLogs = false
+[00:45:01.915] VS Code version: 1.97.2
+[00:45:01.915] Remote-SSH version: remote-ssh@0.117.1
+[00:45:01.915] linux arm64
+[00:45:01.917] SSH Resolver called for host: hackclub
+[00:45:01.917] Setting up SSH remote "hackclub"
+[00:45:01.920] Acquiring local install lock: /tmp/vscode-remote-ssh-13a8a11c-install.lock
+[00:45:01.921] Looking for existing server data file at /home/nat/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-13a8a11c-e54c774e0add60467559eb0d1e229c6452cf8447-0.117.1-es/data.json
+[00:45:01.923] Found existing data file
+[00:45:01.923] Found local server running: {"remoteListeningOn":{"port":45185},"osReleaseId":"debian","arch":"x86_64","sshAuthSock":"","display":"","tmpDir":"/run/user/2649","platform":"linux","execServerToken":"b109e236-61a7-4a32-83b7-59cb16e94251","pid":7856,"ipcHandlePath":"/run/user/1001/vscode-ssh-askpass-806db08680b3d292841559d5828b4be0f6b469c7.sock","socksPort":45851,"startupTime":1740069869546}
+[00:45:01.929] Found running server - short-circuiting install
+[00:45:01.930] Starting forwarding server. local port 35995 -> socksPort 45851 -> remotePort 45185
+[00:45:01.931] Forwarding server listening on port 35995
+[00:45:01.931] Waiting for ssh tunnel to be ready
+[00:45:01.931] [Forwarding server port 35995] Got connection 0
+[00:45:01.932] Tunneled port 45185 to local port 35995
+[00:45:01.932] Resolved "ssh-remote+hackclub" to "port 35995"
+[00:45:01.936] Initizing new exec server for ssh-remote+hackclub
+[00:45:01.936] Resolving exec server at port 35995
+[00:45:01.936] [Forwarding server port 35995] Got connection 1
+[00:45:02.683] Exec server for ssh-remote+hackclub created and cached
+[00:45:02.683] Extensions to install: 
+[00:45:02.695] ------
+
+
+
+
+[00:45:02.695] No hints found in the recent session.
+[00:45:03.024] [server] Checking /home/luna/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/log.txt and /home/luna/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/pid.txt for a running server...
+[00:45:03.025] [server] Found running server (pid=3569295)

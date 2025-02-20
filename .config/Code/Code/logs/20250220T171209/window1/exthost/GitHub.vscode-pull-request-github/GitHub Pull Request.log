@@ -1,0 +1,21 @@
+2025-02-20 17:13:30.918 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:13:30.918 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/nat/.config/Code/User/globalStorage/github.vscode-pull-request-github/temp'
+2025-02-20 17:13:30.936 [info] Looking for git repository
+2025-02-20 17:13:30.936 [info] Found 0 repositories during activation
+2025-02-20 17:13:30.936 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:13:30.936 [info] Registering git provider
+2025-02-20 17:15:43.998 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:15:44.835 [info] Looking for git repository
+2025-02-20 17:15:44.835 [info] Found 0 repositories during activation
+2025-02-20 17:15:44.835 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:15:44.836 [info] Registering git provider
+2025-02-20 17:16:01.183 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:16:01.982 [info] Looking for git repository
+2025-02-20 17:16:01.982 [info] Found 0 repositories during activation
+2025-02-20 17:16:01.982 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:16:01.983 [info] Registering git provider
+2025-02-20 17:16:40.333 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:16:41.054 [info] Looking for git repository
+2025-02-20 17:16:41.054 [info] Found 0 repositories during activation
+2025-02-20 17:16:41.054 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:16:41.054 [info] Registering git provider

@@ -1,0 +1,86 @@
+2025-01-27 16:50:36.316 [info] [main] Log level: Info
+2025-01-27 16:50:36.316 [info] [main] Validating found git in: "git"
+2025-01-27 16:50:36.316 [info] [main] Using git "2.48.1" from "git"
+2025-01-27 16:50:36.316 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-27 16:50:36.316 [info] > git rev-parse --show-toplevel [9ms]
+2025-01-27 16:50:36.316 [info] > git rev-parse --git-dir --git-common-dir [23ms]
+2025-01-27 16:50:36.316 [info] [Model][openRepository] Opened repository: /home/nat/repos/alpha
+2025-01-27 16:50:36.317 [info] > git config --get commit.template [7ms]
+2025-01-27 16:50:36.345 [info] > git rev-parse --show-toplevel [30ms]
+2025-01-27 16:50:37.080 [info] > git rev-parse --show-toplevel [683ms]
+2025-01-27 16:50:37.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [685ms]
+2025-01-27 16:50:37.080 [info] > git fetch [780ms]
+2025-01-27 16:50:37.434 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:50:37.443 [info] > git check-ignore -v -z --stdin [359ms]
+2025-01-27 16:50:37.509 [info] > git config --get commit.template [69ms]
+2025-01-27 16:50:37.509 [info] > git rev-parse refs/remotes/origin/main [75ms]
+2025-01-27 16:50:37.514 [info] > git rev-parse --show-toplevel [86ms]
+2025-01-27 16:50:37.515 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-27 16:50:37.532 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2025-01-27 16:50:37.553 [info] > git config --local branch.main.vscode-merge-base [15ms]
+2025-01-27 16:50:37.555 [info] > git config --get commit.template [26ms]
+2025-01-27 16:50:37.559 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2025-01-27 16:50:37.564 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-01-27 16:50:37.582 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:50:37.585 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-01-27 16:50:37.585 [info] > git merge-base refs/heads/main refs/remotes/origin/main [21ms]
+2025-01-27 16:50:37.777 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:50:37.786 [info] > git diff --name-status -z --diff-filter=ADMR 10d71359d023d23c3d5fac1e48a53b6837b7081f...refs/remotes/origin/main [198ms]
+2025-01-27 16:50:37.786 [info] > git rev-parse refs/remotes/origin/main [204ms]
+2025-01-27 16:50:37.800 [info] > git rev-parse refs/remotes/origin/main [23ms]
+2025-01-27 16:50:37.830 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2025-01-27 16:50:38.595 [info] > git status -z -uall [790ms]
+2025-01-27 16:50:38.644 [info] > git config --get commit.template [19ms]
+2025-01-27 16:50:38.690 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-01-27 16:50:38.698 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:50:38.701 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-01-27 16:50:38.714 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-27 16:50:38.762 [info] > git status -z -uall [55ms]
+2025-01-27 16:50:41.403 [info] > git show --textconv :prog [4ms]
+2025-01-27 16:50:41.406 [info] > git ls-files --stage -- /home/nat/repos/alpha/prog [3ms]
+2025-01-27 16:50:41.412 [info] > git cat-file -s 78bde72edb327fe7d173fdfb07634d190c5edd0c [1ms]
+2025-01-27 16:50:42.455 [info] > git show --textconv :main.py [14ms]
+2025-01-27 16:50:42.456 [info] > git ls-files --stage -- /home/nat/repos/alpha/main.py [9ms]
+2025-01-27 16:50:42.466 [info] > git cat-file -s b054b1e40d730b838e9335eb9e833f1d80cbff11 [4ms]
+2025-01-27 16:50:45.337 [info] > git blame --root --incremental 10d71359d023d23c3d5fac1e48a53b6837b7081f -- /home/nat/repos/alpha/main.py [3ms]
+2025-01-27 16:51:38.066 [info] > git config --get commit.template [1ms]
+2025-01-27 16:51:38.078 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-27 16:51:38.084 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:51:38.084 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-01-27 16:51:38.096 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-27 16:51:38.133 [info] > git status -z -uall [45ms]
+2025-01-27 16:51:52.600 [info] > git config --get commit.template [1ms]
+2025-01-27 16:51:52.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-27 16:51:52.617 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:51:52.617 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-01-27 16:51:52.635 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-27 16:51:52.669 [info] > git status -z -uall [44ms]
+2025-01-27 16:51:57.689 [info] > git config --get commit.template [9ms]
+2025-01-27 16:51:57.690 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-27 16:51:57.697 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:51:57.698 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-01-27 16:51:57.715 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-27 16:51:57.750 [info] > git status -z -uall [45ms]
+2025-01-27 16:51:59.589 [info] > git show --textconv :stack.py [8ms]
+2025-01-27 16:51:59.589 [info] > git ls-files --stage -- /home/nat/repos/alpha/stack.py [1ms]
+2025-01-27 16:51:59.598 [info] > git cat-file -s 8e343ec3beb3f0cc70d528aa2be3fe1496e590f3 [2ms]
+2025-01-27 16:52:01.356 [info] > git blame --root --incremental 10d71359d023d23c3d5fac1e48a53b6837b7081f -- /home/nat/repos/alpha/stack.py [3ms]
+2025-01-27 16:52:03.899 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-27 16:52:03.899 [info] > git config --get commit.template [8ms]
+2025-01-27 16:52:03.908 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:52:03.909 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-01-27 16:52:03.926 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-27 16:52:03.956 [info] > git status -z -uall [41ms]
+2025-01-27 16:53:50.743 [info] > git config --get commit.template [3ms]
+2025-01-27 16:53:50.744 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-27 16:53:50.754 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:53:50.756 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-27 16:53:50.775 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-27 16:53:50.805 [info] > git status -z -uall [42ms]
+2025-01-27 16:53:51.617 [info] > git fetch [885ms]
+2025-01-27 16:53:51.626 [info] > git config --get commit.template [1ms]
+2025-01-27 16:53:51.634 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-27 16:53:51.641 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/nat/repos/alpha/.git/refs/remotes/origin/main'
+2025-01-27 16:53:51.642 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-01-27 16:53:51.660 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-27 16:53:51.692 [info] > git status -z -uall [44ms]

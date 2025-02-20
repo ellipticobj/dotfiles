@@ -1,0 +1,31 @@
+2025-01-27 16:50:39.196 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-27 16:50:39.513 [info] [Info  - 4:50:39 PM] (89585) Server root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-27 16:50:39.513 [info] [Info  - 4:50:39 PM] (89585) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-27 16:50:39.513 [info] [Info  - 4:50:39 PM] (89585) Starting service instance "alpha"
+2025-01-27 16:50:39.538 [info] [Info  - 4:50:39 PM] (89585) Setting environmentName for service "alpha": "3.13.1 (global)"
+2025-01-27 16:50:39.538 [info] [Info  - 4:50:39 PM] (89585) Setting pythonPath for service "alpha": "/bin/python"
+2025-01-27 16:50:39.539 [info] [Info  - 4:50:39 PM] (89585) No include entries specified; assuming /home/nat/repos/alpha
+2025-01-27 16:50:39.539 [info] [Info  - 4:50:39 PM] (89585) Auto-excluding **/node_modules
+2025-01-27 16:50:39.539 [info] [Info  - 4:50:39 PM] (89585) Auto-excluding **/__pycache__
+2025-01-27 16:50:39.539 [info] [Info  - 4:50:39 PM] (89585) Auto-excluding **/.*
+2025-01-27 16:50:39.561 [info] [Info  - 4:50:39 PM] (89585) Assuming Python version 3.13.1.final.0
+2025-01-27 16:50:39.603 [info] [Info  - 4:50:39 PM] (89585) Found 2 source files
+2025-01-27 16:50:39.831 [info] [Info  - 4:50:39 PM] (89585) Background analysis(1) root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-27 16:50:39.832 [info] [Info  - 4:50:39 PM] (89585) Background analysis(1) started
+2025-01-27 16:50:42.538 [info] [Info  - 4:50:42 PM] (89585) Indexer background runner(2) root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-27 16:50:42.539 [info] [Info  - 4:50:42 PM] (89585) Indexing(2) started
+2025-01-27 16:50:42.542 [info] [Info  - 4:50:42 PM] (89585) Starting service instance "<default>"
+2025-01-27 16:50:42.561 [info] [Info  - 4:50:42 PM] (89585) Setting environmentName for service "<default>": "3.13.1 (global)"
+2025-01-27 16:50:42.561 [info] [Info  - 4:50:42 PM] (89585) Setting pythonPath for service "<default>": "/bin/python"
+2025-01-27 16:50:42.561 [info] [Info  - 4:50:42 PM] (89585) No include entries specified; assuming /<default workspace root>
+2025-01-27 16:50:42.561 [info] [Info  - 4:50:42 PM] (89585) Auto-excluding **/node_modules
+2025-01-27 16:50:42.561 [info] [Info  - 4:50:42 PM] (89585) Auto-excluding **/__pycache__
+2025-01-27 16:50:42.561 [info] [Info  - 4:50:42 PM] (89585) Auto-excluding **/.*
+2025-01-27 16:50:42.576 [info] [Info  - 4:50:42 PM] (89585) Assuming Python version 3.13.1.final.0
+2025-01-27 16:50:42.642 [info] [Error - 4:50:42 PM] (89585) File or directory "/<default workspace root>" does not exist.
+2025-01-27 16:50:42.647 [info] [Info  - 4:50:42 PM] (89585) No source files found.
+2025-01-27 16:50:42.816 [info] [Info  - 4:50:42 PM] (89585) scanned(2) 380 files over 1 exec env
+2025-01-27 16:50:42.984 [info] [Info  - 4:50:42 PM] (89585) Background analysis(3) root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-27 16:50:42.986 [info] [Info  - 4:50:42 PM] (89585) Background analysis(3) started
+2025-01-27 16:50:44.241 [info] [Info  - 4:50:44 PM] (89585) indexed(2) 380 files over 1 exec env
+2025-01-27 16:50:44.569 [info] [Info  - 4:50:44 PM] (89585) Indexing finished(2).

@@ -1,0 +1,68 @@
+2025-02-20 17:18:48.857 [info] Name: isort
+2025-02-20 17:18:48.857 [info] Module: isort
+2025-02-20 17:18:48.857 [info] Python extension loading
+2025-02-20 17:18:48.857 [info] Waiting for interpreter from python extension.
+2025-02-20 17:18:48.857 [info] No interpreter found from setting isort.interpreter
+2025-02-20 17:18:48.857 [info] Getting interpreter from ms-python.python extension for workspace /home/nat/repos/sigma-lang-web
+2025-02-20 17:18:48.857 [info] Python extension loaded
+2025-02-20 17:18:48.857 [info] Interpreter from ms-python.python extension for /home/nat/repos/sigma-lang-web: /usr/bin/python
+2025-02-20 17:18:48.857 [info] No interpreter found from setting isort.interpreter
+2025-02-20 17:18:48.857 [info] Getting interpreter from ms-python.python extension for workspace /home/nat/repos/sigma-lang-web
+2025-02-20 17:18:48.857 [info] Interpreter from ms-python.python extension for /home/nat/repos/sigma-lang-web: /usr/bin/python
+2025-02-20 17:18:48.857 [info] Server run command: /usr/bin/python /home/nat/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2025-02-20 17:18:48.857 [info] Server: Start requested.
+2025-02-20 17:18:49.803 [info] CWD Server: /home/nat/repos/sigma-lang-web
+2025-02-20 17:18:49.818 [info] sys.path used to run Server:
+   /home/nat/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/nat/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/nat/.local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-02-20 17:18:49.839 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/nat/repos/sigma-lang-web",
+        "workspace": "file:///home/nat/repos/sigma-lang-web",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/usr/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-02-20 17:18:49.848 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/nat",
+    "workspace": "/home/nat",
+    "args": [],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-02-20 17:18:49.890 [info] /usr/bin/python -m isort --version-number
+2025-02-20 17:18:49.925 [info] CWD Linter: /home/nat/repos/sigma-lang-web
+2025-02-20 17:18:49.940 [info] Version info for isort running for /home/nat/repos/sigma-lang-web:
+5.11.5
+
+2025-02-20 17:18:49.981 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2025-02-20 17:18:50.046 [info] [Trace - 5:18:50 PM] Received notification 'textDocument/publishDiagnostics'.

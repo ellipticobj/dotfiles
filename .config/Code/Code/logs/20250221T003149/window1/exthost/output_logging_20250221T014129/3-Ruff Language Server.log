@@ -1,0 +1,3 @@
+   0.004861688s  INFO main ruff_server::session::index: Registering workspace: /home/nat/repos/sigma
+   0.028835717s  INFO ruff:main ruff_server::server: Configuration file watcher successfully registered
+   0.167863203s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.

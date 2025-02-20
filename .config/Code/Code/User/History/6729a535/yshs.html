@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="https://glitch.com/favicon.ico" />
+  <title>Documentation</title>
+  <link rel="stylesheet" href="static/style.css" />
+  <script src="static/script.js" defer></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="quickstart.html">Quickstart</a></li>
+      <li><a href="documentation.html">Documentation</a></li>
+      <li><a href="tutorials.html">Tutorials</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <h1>Documentation</h1>
+  </header>
+
+  <main>
+    <div class="documentation">
+      <h2>File Structure</h2>
+      <p>
+        File extension <span class="code-inline">.sigma</span> or file has
+        <span class="code-inline">!>sigma</span> as the first line.
+      </p>
+
+      <h2>Conditionals</h2>
+      <div class="code-block">
+        if (<statement>) then do<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;expression<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;expression<br>
+        elif (<statement>) then do<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;expression<br>
+        else do<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;expression<br>
+        fi
+      </div>
+
+      <h2>Example</h2>
+      <div class="example-container">
+        <div class="example-title">SigmaLang:</div>
+        <div class="code-block">
+          if (x is greater than 10) then do<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;print "x is large"<br>
+          elif (x is equal to 10) then do<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;print "x is 10"<br>
+          else do<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;print "x is small"<br>
+          fi
+        </div>
+      </div>
+
+      <div class="example-container">
+        <div class="example-title">Python Equivalent:</div>
+        <div class="code-block">
+          if x > 10:<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;print("x is large")<br>
+          elif x == 10:<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;print("x is 10")<br>
+          else:<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;print("x is small")
+        </div>
+      </div>
+      <h2>File Structure</h2>
+      <p>
+        variables are stored as a dictionary <span class="code-inline">(globals.py > variables)</span>
+      </p>
+    </div>
+  </main>
+</body>
+</html>

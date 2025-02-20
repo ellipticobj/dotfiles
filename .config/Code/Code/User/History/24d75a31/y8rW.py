@@ -1,0 +1,26 @@
+import const
+
+def newvarhandler(tokens):
+    if len(tokens) < 6:
+        raise SyntaxError("not enough arguments to make a new variable...")
+
+    if tokens[1] not in (const.CONST_TYPES + const.VAR_TYPES):
+        raise SyntaxError("variable needs to be a constant or variable...")
+    
+    if tokens[2] not in (const.INTEGER + const.BOOL + const.FLOAT + const.NONETYPE):
+        raise SyntaxError("variable needs a type")
+    
+    if tokens[4] != const.ASSIGNMENT_OPERATOR:
+        raise SyntaxError("no 'is' found :(")
+
+    varconst = tokens[1]
+    vartype = tokens[2]
+    varname = tokens[3]
+    varval = tokens[5:]
+
+    
+
+
+def reassignvar(tokens):
+    # TODO
+    pass

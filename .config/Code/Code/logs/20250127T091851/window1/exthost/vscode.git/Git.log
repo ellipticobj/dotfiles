@@ -1,0 +1,99 @@
+2025-01-27 09:18:55.705 [info] [main] Log level: Info
+2025-01-27 09:18:55.705 [info] [main] Validating found git in: "git"
+2025-01-27 09:18:55.705 [info] [main] Using git "2.48.1" from "git"
+2025-01-27 09:18:55.705 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-27 09:18:55.705 [info] > git rev-parse --show-toplevel [40ms]
+2025-01-27 09:18:55.705 [info] > git rev-parse --git-dir --git-common-dir [37ms]
+2025-01-27 09:18:55.705 [info] [Model][openRepository] Opened repository: /home/nat/repos/sigma-lang
+2025-01-27 09:18:55.706 [info] > git rev-parse --show-toplevel [5ms]
+2025-01-27 09:18:55.707 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-27 09:18:55.707 [info] > git config --get commit.template [9ms]
+2025-01-27 09:18:55.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2025-01-27 09:18:55.758 [info] > git status -z -uall [13ms]
+2025-01-27 09:18:55.760 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2025-01-27 09:18:55.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-01-27 09:18:55.779 [info] > git config --get commit.template [5ms]
+2025-01-27 09:18:55.781 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2025-01-27 09:18:55.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [35ms]
+2025-01-27 09:18:55.839 [info] > git merge-base refs/heads/main refs/remotes/origin/main [13ms]
+2025-01-27 09:18:55.843 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2025-01-27 09:18:55.861 [info] > git diff --name-status -z --diff-filter=ADMR d59350e9ccc9c8e070db8de30cc76a9427065141...refs/remotes/origin/main [18ms]
+2025-01-27 09:18:56.300 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [446ms]
+2025-01-27 09:18:56.505 [info] > git check-ignore -v -z --stdin [67ms]
+2025-01-27 09:18:56.505 [info] > git show --textconv :README.md [41ms]
+2025-01-27 09:18:56.505 [info] > git status -z -uall [8ms]
+2025-01-27 09:18:56.505 [info] > git ls-files --stage -- /home/nat/repos/sigma-lang/README.md [36ms]
+2025-01-27 09:18:56.530 [info] > git cat-file -s 6d87ae9f4877087a3477585c5b959962f7477180 [18ms]
+2025-01-27 09:18:56.530 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+2025-01-27 09:18:56.746 [info] > git blame --root --incremental d59350e9ccc9c8e070db8de30cc76a9427065141 -- /home/nat/repos/sigma-lang/README.md [14ms]
+2025-01-27 09:18:58.685 [info] > git ls-files --stage -- /home/nat/repos/sigma-lang/README.md [1ms]
+2025-01-27 09:18:58.688 [info] > git cat-file -s 6d87ae9f4877087a3477585c5b959962f7477180 [0ms]
+2025-01-27 09:18:58.695 [info] > git show --textconv :README.md [2ms]
+2025-01-27 09:19:03.172 [info] > git fetch [5670ms]
+2025-01-27 09:19:03.172 [info] From https://github.com/mysteriousellipsis/sigma-lang
+   d59350e..449c2bf  main       -> origin/main
+2025-01-27 09:19:03.185 [info] > git config --get commit.template [4ms]
+2025-01-27 09:19:03.200 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-01-27 09:19:03.215 [info] > git status -z -uall [7ms]
+2025-01-27 09:19:03.216 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-27 09:19:03.234 [info] > git merge-base refs/heads/main refs/remotes/origin/main [9ms]
+2025-01-27 09:19:03.254 [info] > git diff --name-status -z --diff-filter=ADMR d59350e9ccc9c8e070db8de30cc76a9427065141...refs/remotes/origin/main [12ms]
+2025-01-27 09:19:03.255 [info] > git config --get commit.template [22ms]
+2025-01-27 09:19:03.272 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-27 09:19:03.272 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [11ms]
+2025-01-27 09:19:03.289 [info] > git status -z -uall [9ms]
+2025-01-27 09:19:03.290 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-27 09:19:04.375 [info] > git ls-files --stage -- /home/nat/repos/sigma-lang/README.md [1ms]
+2025-01-27 09:19:04.385 [info] > git cat-file -s 6d87ae9f4877087a3477585c5b959962f7477180 [2ms]
+2025-01-27 09:19:04.399 [info] > git show --textconv :README.md [1ms]
+2025-01-27 09:19:05.046 [info] > git log --oneline --cherry main...main@{upstream} -- [1ms]
+2025-01-27 09:19:06.244 [info] > git ls-files --stage -- /home/nat/repos/sigma-lang/README.md [1ms]
+2025-01-27 09:19:06.250 [info] > git cat-file -s 6d87ae9f4877087a3477585c5b959962f7477180 [0ms]
+2025-01-27 09:19:06.259 [info] > git show --textconv :README.md [0ms]
+2025-01-27 09:19:08.360 [info] > git pull --tags origin main [3311ms]
+2025-01-27 09:19:08.360 [info] From https://github.com/mysteriousellipsis/sigma-lang
+ * branch            main       -> FETCH_HEAD
+2025-01-27 09:19:08.367 [info] > git config --get commit.template [0ms]
+2025-01-27 09:19:08.378 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-27 09:19:08.394 [info] > git status -z -uall [10ms]
+2025-01-27 09:19:08.395 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-27 09:19:08.418 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1ms]
+2025-01-27 09:19:08.425 [info] > git blame --root --incremental 449c2bf30d226aef1ffeb424b0ec47045d9b9796 -- /home/nat/repos/sigma-lang/README.md [19ms]
+2025-01-27 09:19:08.427 [info] > git diff --name-status -z --diff-filter=ADMR 449c2bf30d226aef1ffeb424b0ec47045d9b9796...refs/remotes/origin/main [2ms]
+2025-01-27 09:19:08.465 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [31ms]
+2025-01-27 09:19:09.458 [info] > git check-ignore -v -z --stdin [2ms]
+2025-01-27 09:37:19.438 [info] > git config --get commit.template [7ms]
+2025-01-27 09:37:19.439 [info] > git ls-files --stage -- /home/nat/repos/sigma-lang/README.md [2ms]
+2025-01-27 09:37:19.450 [info] > git cat-file -s 7f91ce9520524528eb127747ae1750ec46685975 [6ms]
+2025-01-27 09:37:19.451 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-27 09:37:19.469 [info] > git status -z -uall [13ms]
+2025-01-27 09:37:19.469 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-01-27 09:37:19.472 [info] > git show --textconv :README.md [3ms]
+2025-01-27 09:37:30.272 [info] > git clone https://github.com/dimini171/sigma-lang-web /home/nat/repos/sigma-lang-web --progress [4010ms]
+2025-01-27 09:37:30.272 [info] Cloning into '/home/nat/repos/sigma-lang-web'...
+remote: Enumerating objects: 9, done.        
+remote: Counting objects:  11% (1/9)        remote: Counting objects:  22% (2/9)        remote: Counting objects:  33% (3/9)        remote: Counting objects:  44% (4/9)        remote: Counting objects:  55% (5/9)        remote: Counting objects:  66% (6/9)        remote: Counting objects:  77% (7/9)        remote: Counting objects:  88% (8/9)        remote: Counting objects: 100% (9/9)        remote: Counting objects: 100% (9/9), done.        
+remote: Compressing objects:  16% (1/6)        remote: Compressing objects:  33% (2/6)        remote: Compressing objects:  50% (3/6)        remote: Compressing objects:  66% (4/6)        remote: Compressing objects:  83% (5/6)        remote: Compressing objects: 100% (6/6)        remote: Compressing objects: 100% (6/6), done.        
+Receiving objects:  11% (1/9)Receiving objects:  22% (2/9)Receiving objects:  33% (3/9)Receiving objects:  44% (4/9)Receiving objects:  55% (5/9)remote: Total 9 (delta 2), reused 5 (delta 1), pack-reused 0 (from 0)        
+Receiving objects:  55% (5/9), 12.00 KiB | 3.00 KiB/sReceiving objects:  66% (6/9), 12.00 KiB | 3.00 KiB/sReceiving objects:  77% (7/9), 12.00 KiB | 3.00 KiB/sReceiving objects:  88% (8/9), 12.00 KiB | 3.00 KiB/sReceiving objects: 100% (9/9), 12.00 KiB | 3.00 KiB/sReceiving objects: 100% (9/9), 13.15 KiB | 12.00 KiB/s, done.
+Resolving deltas:   0% (0/2)Resolving deltas:  50% (1/2)Resolving deltas: 100% (2/2)Resolving deltas: 100% (2/2), done.
+2025-01-27 09:37:59.877 [info] > git fetch [899ms]
+2025-01-27 09:37:59.898 [info] > git config --get commit.template [10ms]
+2025-01-27 09:37:59.898 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-27 09:37:59.918 [info] > git status -z -uall [10ms]
+2025-01-27 09:37:59.919 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-27 12:14:57.225 [info] > git config --get commit.template [7ms]
+2025-01-27 12:14:57.231 [info] > git ls-files --stage -- /home/nat/repos/sigma-lang/README.md [0ms]
+2025-01-27 12:14:57.247 [info] > git cat-file -s 7f91ce9520524528eb127747ae1750ec46685975 [9ms]
+2025-01-27 12:14:57.249 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-27 12:14:57.258 [info] > git show --textconv :README.md [1ms]
+2025-01-27 12:14:57.277 [info] > git status -z -uall [12ms]
+2025-01-27 12:14:57.279 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-27 12:14:58.234 [info] > git fetch [1028ms]
+2025-01-27 12:14:58.248 [info] > git config --get commit.template [6ms]
+2025-01-27 12:14:58.248 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-27 12:14:58.260 [info] > git status -z -uall [6ms]
+2025-01-27 12:14:58.261 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-27 12:14:59.419 [info] > git ls-files --stage -- /home/nat/repos/sigma-lang/README.md [2ms]
+2025-01-27 12:14:59.424 [info] > git cat-file -s 7f91ce9520524528eb127747ae1750ec46685975 [0ms]
+2025-01-27 12:14:59.435 [info] > git show --textconv :README.md [2ms]

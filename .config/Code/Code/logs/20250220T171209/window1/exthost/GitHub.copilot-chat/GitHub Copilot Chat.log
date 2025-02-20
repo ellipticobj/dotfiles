@@ -1,0 +1,49 @@
+2025-02-20 17:13:25.924 [info] Using the Electron fetcher.
+2025-02-20 17:13:25.924 [info] Initializing Git extension service.
+2025-02-20 17:13:25.924 [info] Successfully activated the vscode.git extension.
+2025-02-20 17:13:25.924 [info] Enablement state of the vscode.git extension: true.
+2025-02-20 17:13:25.924 [info] Successfully registered Git commit message provider.
+2025-02-20 17:13:25.941 [info] Logged in as ellipticobj
+2025-02-20 17:13:26.767 [info] Got Copilot token for ellipticobj
+2025-02-20 17:13:26.859 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-20 17:13:26.859 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-02-20 17:13:26.865 [info] Registering default platform agent...
+2025-02-20 17:13:27.554 [info] Fetched model metadata in 764ms 65699919-3fc3-495d-a8f3-8a19e501042a
+2025-02-20 17:13:27.781 [info] activationBlocker from 'languageModelAccess' took for 1819ms
+2025-02-20 17:13:30.956 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-20 17:13:30.956 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-20 17:13:30.956 [info] Successfully registered GitHub PR title and description provider.
+2025-02-20 17:15:43.998 [info] Using the Electron fetcher.
+2025-02-20 17:15:43.998 [info] Initializing Git extension service.
+2025-02-20 17:15:43.998 [info] Successfully activated the vscode.git extension.
+2025-02-20 17:15:43.998 [info] Enablement state of the vscode.git extension: true.
+2025-02-20 17:15:43.998 [info] Successfully registered Git commit message provider.
+2025-02-20 17:15:44.853 [info] Logged in as ellipticobj
+2025-02-20 17:15:45.619 [info] Got Copilot token for ellipticobj
+2025-02-20 17:15:45.698 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-20 17:15:45.707 [info] Registering default platform agent...
+2025-02-20 17:15:45.707 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-20 17:15:45.707 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-20 17:15:45.707 [info] Successfully registered GitHub PR title and description provider.
+2025-02-20 17:15:45.899 [info] Fetched model metadata in 267ms 4a3cc7d4-67aa-48ca-a0c5-ff9cb318afa1
+2025-02-20 17:15:45.902 [info] activationBlocker from 'languageModelAccess' took for 1103ms
+2025-02-20 17:16:01.184 [info] Using the Electron fetcher.
+2025-02-20 17:16:01.184 [info] Initializing Git extension service.
+2025-02-20 17:16:01.184 [info] Successfully activated the vscode.git extension.
+2025-02-20 17:16:01.184 [info] Enablement state of the vscode.git extension: true.
+2025-02-20 17:16:01.184 [info] Successfully registered Git commit message provider.
+2025-02-20 17:16:02.042 [info] Logged in as ellipticobj
+2025-02-20 17:16:02.798 [info] Got Copilot token for ellipticobj
+2025-02-20 17:16:02.881 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-20 17:16:02.889 [info] Registering default platform agent...
+2025-02-20 17:16:02.889 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-02-20 17:16:02.889 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-02-20 17:16:02.889 [info] Successfully registered GitHub PR title and description provider.
+2025-02-20 17:16:03.102 [info] Fetched model metadata in 287ms ad1eda8a-231d-44e3-9983-8b9443a96bcf
+2025-02-20 17:16:03.104 [info] activationBlocker from 'languageModelAccess' took for 1084ms
+2025-02-20 17:16:40.333 [info] Using the Electron fetcher.
+2025-02-20 17:16:40.333 [info] Initializing Git extension service.
+2025-02-20 17:16:40.333 [info] Successfully activated the vscode.git extension.
+2025-02-20 17:16:40.333 [info] Enablement state of the vscode.git extension: true.
+2025-02-20 17:16:40.333 [info] Successfully registered Git commit message provider.
+2025-02-20 17:16:41.078 [info] Logged in as ellipticobj

@@ -1,0 +1,6 @@
+GitLens v16.2.1 activating in Visual Studio Code (1.96.4) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (bafe2a3496a86c02a4b903a5a764c1a471e9c6050f980138dad669c478745f4b|988e6aea-76cf-4f5f-9918-5101bcb1bada1737952652934)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-01-27 04:37:36.729] [GIT    *766ms] [/home/nat/repos/ellipticobj.github.io] git ls-files -- templates/dimini.html [*766ms] (slow)
+[2025-01-27 04:37:36.729] [GIT    *774ms] [/home/nat/repos/ellipticobj.github.io] git rev-list --max-parents=0 HEAD -- [*774ms] (slow)
+[2025-01-27 04:37:36.729] [GIT    *775ms] [/home/nat/repos/ellipticobj.github.io] git remote -v [*775ms] (slow)
+[2025-01-27 04:37:36.752] [GIT    *769ms] [/home/nat/repos/ellipticobj.github.io] git shortlog -s --all --no-merges --since=1.year.ago [*769ms] (slow)

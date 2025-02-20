@@ -1,0 +1,13 @@
+{
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "security.workspace.trust.banner": "always",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "python.createEnvironment.trigger": "off",
+    "security.workspace.trust.untrustedFiles": "open"
+}

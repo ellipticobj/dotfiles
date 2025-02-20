@@ -1,0 +1,5 @@
+new var string variablename is testing 1 2 3
+
+print input your sigma
+receive to variablename
+print variablename

@@ -1,0 +1,180 @@
+:root {
+  --accent1_0: #FFFFFF;
+  --accent1_10: #FFF3F9;
+  --accent1_50: #FFEBF7;
+  --accent1_100: #FFD7F3;
+  --accent1_200: #F2B3E3;
+  --accent1_300: #D598C7;
+  --accent1_400: #B87EAC;
+  --accent1_500: #9C6591;
+  --accent1_600: #814D77;
+  --accent1_700: #66355E;
+  --accent1_800: #4D1F47;
+  --accent1_900: #340830;
+  --accent1_1000: #000000;
+  --accent2_0: #FFFFFF;
+  --accent2_10: #FFFBFF;
+  --accent2_50: #FFEBF7;
+  --accent2_100: #F8DAEE;
+  --accent2_200: #DBBED1;
+  --accent2_300: #BEA3B6;
+  --accent2_400: #A3899B;
+  --accent2_500: #887081;
+  --accent2_600: #6E5868;
+  --accent2_700: #554050;
+  --accent2_800: #3D2A39;
+  --accent2_900: #271624;
+  --accent2_1000: #000000;
+  --accent3_0: #FFFFFF;
+  --accent3_10: #FFFBFF;
+  --accent3_50: #FFEDE8;
+  --accent3_100: #FFDBCF;
+  --accent3_200: #F5B9A5;
+  --accent3_300: #D79E8B;
+  --accent3_400: #BA8472;
+  --accent3_500: #9D6B5A;
+  --accent3_600: #815343;
+  --accent3_700: #663C2D;
+  --accent3_800: #4C2619;
+  --accent3_900: #321207;
+  --accent3_1000: #000000;
+  --neutral1_0: #FFFFFF;
+  --neutral1_10: #FFFBFF;
+  --neutral1_50: #FBEDF4;
+  --neutral1_100: #ECDFE6;
+  --neutral1_200: #D0C3CA;
+  --neutral1_300: #B4A8AE;
+  --neutral1_400: #998E94;
+  --neutral1_500: #7E747A;
+  --neutral1_600: #655C62;
+  --neutral1_700: #4D444A;
+  --neutral1_800: #362E33;
+  --neutral1_900: #201A1E;
+  --neutral1_1000: #000000;
+  --neutral2_0: #FFFFFF;
+  --neutral2_10: #FFFBFF;
+  --neutral2_50: #FCECF5;
+  --neutral2_100: #EEDEE6;
+  --neutral2_200: #D1C3CA;
+  --neutral2_300: #B5A7AF;
+  --neutral2_400: #9A8D94;
+  --neutral2_500: #80747B;
+  --neutral2_600: #665B62;
+  --neutral2_700: #4E444A;
+  --neutral2_800: #372E34;
+  --neutral2_900: #21191F;
+  --neutral2_1000: #000000;
+}
+
+body {
+  margin: 0;
+  font-family: 'Comfortaa', sans-serif;
+  background-color: var(--accent1_0);
+  color: var(--neutral1_700);
+}
+
+header, footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: var(--accent1_50);
+  color: var(--accent1_700);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: var(--accent2_50);
+  padding: 1rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: var(--accent1_700);
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: var(--accent1_500);
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 2rem auto;
+  background: var(--accent1_10);
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: var(--accent1_700)
+}
+
+section a {
+  color: var(--accent1_700);
+}
+
+section a:hover {
+  color: var(--accent1_500);
+}
+
+h2, h3 {
+  color: var(--accent1_600);
+}
+
+.social-links {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.social-links a {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: var(--accent1_700);
+  font-size: 1.2rem;
+}
+
+.social-links a:hover {
+  color: var(--accent1_500);
+}
+
+.cardlist {
+  overflow-x: auto;
+  display: flex;
+  gap: 1rem;
+  padding: .5rem;
+  max-width: 100%;
+}
+
+.card {
+  flex: 0 0 auto;
+  background: --accent3_100;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  max-width: 300px;
+  text-align: center;
+}
+
+.card h3 {
+  margin: 0.5rem 0;
+  color: var(--accent1_600);
+}
+
+.card p {
+  font-size: 0.9rem;
+  color: var(--neutral1_500);
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 1rem;
+  text-decoration: none;
+  color: var(--accent1_700);
+  font-weight: italic;
+}
+
+.card a:hover {
+  color: var(--accent1_500);
+}

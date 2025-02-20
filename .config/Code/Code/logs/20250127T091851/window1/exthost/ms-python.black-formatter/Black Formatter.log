@@ -1,0 +1,95 @@
+2025-01-27 09:18:56.745 [info] Name: Black Formatter
+2025-01-27 09:18:56.745 [info] Module: black
+2025-01-27 09:18:56.745 [info] Default formatter is set to null for workspace /home/nat/repos/sigma-lang
+2025-01-27 09:18:56.745 [warning] Black Formatter is NOT set as the default formatter for workspace /home/nat/repos/sigma-lang
+2025-01-27 09:18:56.745 [warning] To set Black Formatter as the default formatter, add the following to your settings.json file:
+2025-01-27 09:18:56.745 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
+2025-01-27 09:18:56.745 [info] Python extension loading
+2025-01-27 09:18:56.745 [info] Waiting for interpreter from python extension.
+2025-01-27 09:18:56.745 [info] No interpreter found from setting black-formatter.interpreter
+2025-01-27 09:18:56.745 [info] Getting interpreter from ms-python.python extension for workspace /home/nat/repos/sigma-lang
+2025-01-27 09:18:56.745 [info] Python extension loaded
+2025-01-27 09:18:56.745 [info] Interpreter from ms-python.python extension for /home/nat/repos/sigma-lang: /bin/python
+2025-01-27 09:18:56.745 [info] Workspace settings for /home/nat/repos/sigma-lang (client side): {
+    "cwd": "/home/nat/repos/sigma-lang",
+    "workspace": "file:///home/nat/repos/sigma-lang",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-27 09:18:56.745 [info] No interpreter found from setting black-formatter.interpreter
+2025-01-27 09:18:56.745 [info] Getting interpreter from ms-python.python extension for workspace /home/nat/repos/sigma-lang
+2025-01-27 09:18:56.745 [info] Interpreter from ms-python.python extension for /home/nat/repos/sigma-lang: /bin/python
+2025-01-27 09:18:56.745 [info] Workspace settings for /home/nat/repos/sigma-lang (client side): {
+    "cwd": "/home/nat/repos/sigma-lang",
+    "workspace": "file:///home/nat/repos/sigma-lang",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-27 09:18:56.745 [info] Global settings (client side): {
+    "cwd": "/home/nat",
+    "workspace": "/home/nat",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-01-27 09:18:56.745 [info] Server run command: /bin/python /home/nat/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py
+2025-01-27 09:18:56.745 [info] Server: Start requested.
+2025-01-27 09:18:57.503 [info] CWD Server: /home/nat/repos/sigma-lang
+2025-01-27 09:18:57.530 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/nat/repos/sigma-lang",
+        "workspace": "file:///home/nat/repos/sigma-lang",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-01-27 09:18:57.531 [info] Global settings received on server:
+{
+    "cwd": "/home/nat",
+    "workspace": "/home/nat",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-01-27 09:18:57.531 [info] sys.path used to run Server:
+   /home/nat/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/libs
+   /home/nat/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-01-27 09:18:57.535 [info] /bin/python -m black --version
+2025-01-27 09:18:57.540 [info] CWD formatter: /home/nat/repos/sigma-lang
+2025-01-27 09:18:57.540 [info] Version info for formatter running for /home/nat/repos/sigma-lang:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.13.1
+
+2025-01-27 09:18:57.540 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+

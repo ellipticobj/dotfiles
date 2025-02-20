@@ -1,0 +1,45 @@
+2025-02-21 00:31:55.127 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-21 00:31:55.517 [info] [Info  - 12:31:55 AM] (4380) Server root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-21 00:31:55.518 [info] [Info  - 12:31:55 AM] (4380) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-21 00:31:55.518 [info] [Info  - 12:31:55 AM] (4380) Starting service instance "sigma-lang-web"
+2025-02-21 00:31:55.594 [info] [Info  - 12:31:55 AM] (4380) Setting environmentName for service "sigma-lang-web": "3.13.2 (global)"
+2025-02-21 00:31:55.594 [info] [Info  - 12:31:55 AM] (4380) Setting pythonPath for service "sigma-lang-web": "/usr/bin/python"
+2025-02-21 00:31:55.594 [info] [Info  - 12:31:55 AM] (4380) No include entries specified; assuming /home/nat/repos/sigma-lang-web
+2025-02-21 00:31:55.594 [info] [Info  - 12:31:55 AM] (4380) Auto-excluding **/node_modules
+2025-02-21 00:31:55.594 [info] [Info  - 12:31:55 AM] (4380) Auto-excluding **/__pycache__
+2025-02-21 00:31:55.594 [info] [Info  - 12:31:55 AM] (4380) Auto-excluding **/.*
+2025-02-21 00:31:55.631 [info] [Info  - 12:31:55 AM] (4380) Assuming Python version 3.13.2.final.0
+2025-02-21 00:31:55.723 [info] [Info  - 12:31:55 AM] (4380) Found 1 source file
+2025-02-21 00:31:55.989 [info] [Info  - 12:31:55 AM] (4380) Background analysis(1) root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-21 00:31:55.990 [info] [Info  - 12:31:55 AM] (4380) Background analysis(1) started
+2025-02-21 01:41:34.392 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-21 01:41:34.744 [info] [Info  - 1:41:34 AM] (12158) Server root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-21 01:41:34.744 [info] [Info  - 1:41:34 AM] (12158) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-21 01:41:34.747 [info] [Info  - 1:41:34 AM] (12158) Starting service instance "sigma"
+2025-02-21 01:41:34.828 [info] [Info  - 1:41:34 AM] (12158) Setting environmentName for service "sigma": "3.13.2 (global)"
+2025-02-21 01:41:34.828 [info] [Info  - 1:41:34 AM] (12158) Setting pythonPath for service "sigma": "/bin/python"
+2025-02-21 01:41:34.829 [info] [Info  - 1:41:34 AM] (12158) No include entries specified; assuming /home/nat/repos/sigma
+2025-02-21 01:41:34.830 [info] [Info  - 1:41:34 AM] (12158) Auto-excluding **/node_modules
+2025-02-21 01:41:34.830 [info] [Info  - 1:41:34 AM] (12158) Auto-excluding **/__pycache__
+2025-02-21 01:41:34.830 [info] [Info  - 1:41:34 AM] (12158) Auto-excluding **/.*
+2025-02-21 01:41:34.848 [info] [Info  - 1:41:34 AM] (12158) Assuming Python version 3.13.2.final.0
+2025-02-21 01:41:34.968 [info] [Info  - 1:41:34 AM] (12158) Found 6 source files
+2025-02-21 01:41:35.224 [info] [Info  - 1:41:35 AM] (12158) Background analysis(1) root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-21 01:41:35.226 [info] [Info  - 1:41:35 AM] (12158) Background analysis(1) started
+2025-02-21 01:41:55.803 [info] [Info  - 1:41:55 AM] (12158) Starting service instance "<default>"
+2025-02-21 01:41:55.809 [info] [Info  - 1:41:55 AM] (12158) Indexer background runner(2) root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist (index)
+2025-02-21 01:41:55.810 [info] [Info  - 1:41:55 AM] (12158) Indexing(2) started
+2025-02-21 01:41:55.854 [info] [Info  - 1:41:55 AM] (12158) Setting environmentName for service "<default>": "3.13.2 (global)"
+2025-02-21 01:41:55.854 [info] [Info  - 1:41:55 AM] (12158) Setting pythonPath for service "<default>": "/bin/python"
+2025-02-21 01:41:55.855 [info] [Info  - 1:41:55 AM] (12158) No include entries specified; assuming /<default workspace root>
+2025-02-21 01:41:55.855 [info] [Info  - 1:41:55 AM] (12158) Auto-excluding **/node_modules
+2025-02-21 01:41:55.855 [info] [Info  - 1:41:55 AM] (12158) Auto-excluding **/__pycache__
+2025-02-21 01:41:55.855 [info] [Info  - 1:41:55 AM] (12158) Auto-excluding **/.*
+2025-02-21 01:41:55.876 [info] [Info  - 1:41:55 AM] (12158) Assuming Python version 3.13.2.final.0
+2025-02-21 01:41:55.946 [info] [Error - 1:41:55 AM] (12158) File or directory "/<default workspace root>" does not exist.
+2025-02-21 01:41:55.977 [info] [Info  - 1:41:55 AM] (12158) No source files found.
+2025-02-21 01:41:56.365 [info] [Info  - 1:41:56 AM] (12158) Background analysis(3) root directory: file:///home/nat/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-21 01:41:56.367 [info] [Info  - 1:41:56 AM] (12158) Background analysis(3) started
+2025-02-21 01:41:56.423 [info] [Info  - 1:41:56 AM] (12158) scanned(2) 425 files over 1 exec env
+2025-02-21 01:41:58.383 [info] [Info  - 1:41:58 AM] (12158) indexed(2) 425 files over 1 exec env
+2025-02-21 01:41:58.466 [info] [Info  - 1:41:58 AM] (12158) Indexing finished(2).

@@ -1,0 +1,109 @@
+2025-02-21 00:44:28.524 [warning] Webgl could not be loaded. Falling back to the DOM renderer [{}]
+2025-02-21 00:44:50.105 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 330.60ms
+ptyhostservice<->ptyhost: 1.42ms []
+2025-02-21 00:44:50.105 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 330.50ms
+ptyhostservice<->ptyhost: 1.26ms []
+2025-02-21 00:44:50.105 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 330.40ms
+ptyhostservice<->ptyhost: 1.19ms []
+2025-02-21 00:44:50.105 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 330.40ms
+ptyhostservice<->ptyhost: 1.02ms []
+2025-02-21 00:45:07.406 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 387.20ms
+ptyhostservice<->ptyhost: 89.61ms []
+2025-02-21 00:45:07.406 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 386.90ms
+ptyhostservice<->ptyhost: 89.49ms []
+2025-02-21 00:45:07.406 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 386.80ms
+ptyhostservice<->ptyhost: 89.46ms []
+2025-02-21 00:45:07.406 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 386.70ms
+ptyhostservice<->ptyhost: 89.44ms []
+2025-02-21 00:51:35.381 [info] Latency measurements for ssh-remote+.host backend
+window<->ptyhostservice<->ptyhost: 104.20ms
+ptyhostservice<->ptyhost: 6.69ms []
+2025-02-21 00:51:35.381 [info] Latency measurements for ssh-remote+.host backend
+window<->ptyhostservice<->ptyhost: 104.00ms
+ptyhostservice<->ptyhost: 6.60ms []
+2025-02-21 00:51:35.381 [info] Latency measurements for ssh-remote+.host backend
+window<->ptyhostservice<->ptyhost: 104.00ms
+ptyhostservice<->ptyhost: 6.56ms []
+2025-02-21 00:51:35.382 [info] Latency measurements for ssh-remote+.host backend
+window<->ptyhostservice<->ptyhost: 104.00ms
+ptyhostservice<->ptyhost: 6.42ms []
+2025-02-21 00:53:27.655 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 313.10ms
+ptyhostservice<->ptyhost: 1.13ms []
+2025-02-21 00:53:27.656 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 313.00ms
+ptyhostservice<->ptyhost: 1.08ms []
+2025-02-21 00:53:27.656 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 313.00ms
+ptyhostservice<->ptyhost: 1.06ms []
+2025-02-21 00:53:27.656 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 312.90ms
+ptyhostservice<->ptyhost: 1.06ms []
+2025-02-21 00:56:48.334 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 431.20ms
+ptyhostservice<->ptyhost: 0.40ms []
+2025-02-21 00:56:48.356 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 355.30ms
+ptyhostservice<->ptyhost: 69.57ms []
+2025-02-21 00:56:48.356 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 355.30ms
+ptyhostservice<->ptyhost: 69.46ms []
+2025-02-21 00:56:48.357 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 355.30ms
+ptyhostservice<->ptyhost: 69.44ms []
+2025-02-21 00:57:02.201 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 271.70ms
+ptyhostservice<->ptyhost: 0.95ms []
+2025-02-21 00:57:02.201 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 271.70ms
+ptyhostservice<->ptyhost: 0.83ms []
+2025-02-21 00:57:02.201 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 271.70ms
+ptyhostservice<->ptyhost: 0.80ms []
+2025-02-21 00:57:02.294 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 237.00ms
+ptyhostservice<->ptyhost: 0.39ms []
+2025-02-21 01:28:52.585 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 446.40ms
+ptyhostservice<->ptyhost: 1.04ms []
+2025-02-21 01:28:52.585 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 446.40ms
+ptyhostservice<->ptyhost: 0.95ms []
+2025-02-21 01:28:52.585 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 446.40ms
+ptyhostservice<->ptyhost: 0.91ms []
+2025-02-21 01:28:52.585 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 446.30ms
+ptyhostservice<->ptyhost: 0.88ms []
+2025-02-21 01:29:11.692 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 296.00ms
+ptyhostservice<->ptyhost: 0.66ms []
+2025-02-21 01:29:11.692 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 296.00ms
+ptyhostservice<->ptyhost: 0.54ms []
+2025-02-21 01:29:11.692 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 296.00ms
+ptyhostservice<->ptyhost: 0.52ms []
+2025-02-21 01:29:11.692 [info] Latency measurements for ssh-remote+hackclub backend
+window<->ptyhostservice<->ptyhost: 295.90ms
+ptyhostservice<->ptyhost: 0.50ms []
+2025-02-21 01:40:56.321 [info] Latency measurements for ssh-remote+.host backend
+window<->ptyhostservice<->ptyhost: 30.90ms
+ptyhostservice<->ptyhost: 1.46ms []
+2025-02-21 01:40:56.321 [info] Latency measurements for ssh-remote+.host backend
+window<->ptyhostservice<->ptyhost: 30.80ms
+ptyhostservice<->ptyhost: 1.38ms []
+2025-02-21 01:40:56.321 [info] Latency measurements for ssh-remote+.host backend
+window<->ptyhostservice<->ptyhost: 30.80ms
+ptyhostservice<->ptyhost: 1.34ms []
+2025-02-21 01:40:56.321 [info] Latency measurements for ssh-remote+.host backend
+window<->ptyhostservice<->ptyhost: 30.80ms
+ptyhostservice<->ptyhost: 1.30ms []

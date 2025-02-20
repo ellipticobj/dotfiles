@@ -1,0 +1,104 @@
+2025-02-21 01:41:32.136 [info] Name: Mypy Type Checker
+2025-02-21 01:41:32.136 [info] Module: mypy
+2025-02-21 01:41:32.136 [info] Python extension loading
+2025-02-21 01:41:32.136 [info] Waiting for interpreter from python extension.
+2025-02-21 01:41:32.136 [info] Python extension loaded
+2025-02-21 01:41:32.136 [info] Server run command: /bin/python /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0/bundled/tool/lsp_server.py
+2025-02-21 01:41:32.136 [info] Server: Start requested.
+2025-02-21 01:41:33.245 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:41:33.264 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/nat/repos/sigma",
+        "workspace": "file:///home/nat/repos/sigma",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false
+    }
+]
+
+2025-02-21 01:41:33.272 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/nat",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false
+}
+
+2025-02-21 01:41:33.292 [info] sys.path used to run Server:
+   /home/nat/repos/sigma
+   /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0/bundled/libs
+   /home/nat/.vscode/extensions/ms-python.mypy-type-checker-2024.2.0/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/nat/.local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-02-21 01:41:33.293 [info] /bin/python -m mypy --version
+2025-02-21 01:41:33.308 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:41:33.312 [info] 
+mypy 1.14.1 (compiled: no)
+
+
+2025-02-21 01:41:33.323 [info] Version info for linter running for /home/nat/repos/sigma:
+mypy 1.14.1 (compiled: no)
+
+2025-02-21 01:41:33.329 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.14.1
+
+2025-02-21 01:41:55.151 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma/main.py
+2025-02-21 01:41:55.363 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:41:57.416 [info] file:///home/nat/repos/sigma/main.py :
+
+2025-02-21 01:41:57.420 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma/lexer.py
+2025-02-21 01:41:57.420 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:41:57.802 [info] file:///home/nat/repos/sigma/lexer.py :
+
+2025-02-21 01:41:57.803 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma/globals.py
+2025-02-21 01:41:57.803 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:41:58.083 [info] file:///home/nat/repos/sigma/globals.py :
+
+2025-02-21 01:41:58.335 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma/evaluator.py
+2025-02-21 01:41:58.347 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:41:58.708 [info] file:///home/nat/repos/sigma/evaluator.py :
+
+2025-02-21 01:41:59.115 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma/const.py
+2025-02-21 01:41:59.121 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:41:59.383 [info] file:///home/nat/repos/sigma/const.py :
+
+2025-02-21 01:42:09.313 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma/parser.py
+2025-02-21 01:42:09.363 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:42:09.617 [info] file:///home/nat/repos/sigma/parser.py :
+
+2025-02-21 01:42:40.577 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma/evaluator.py
+2025-02-21 01:42:40.577 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:42:40.898 [info] file:///home/nat/repos/sigma/evaluator.py :
+
+2025-02-21 01:43:11.447 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/nat/repos/sigma/evaluator.py
+2025-02-21 01:43:11.448 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:43:11.786 [info] file:///home/nat/repos/sigma/evaluator.py :
+

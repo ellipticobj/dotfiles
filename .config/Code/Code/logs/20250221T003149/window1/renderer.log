@@ -1,0 +1,317 @@
+2025-02-21 00:31:50.121 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:31:50.122 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:31:50.122 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:31:50.122 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:31:50.450 [info] Started local extension host with pid 3928.
+2025-02-21 00:31:51.722 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 00:31:53.202 [info] [perf] Render performance baseline is 38ms
+2025-02-21 00:44:28.846 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:44:28.846 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:44:28.846 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:44:28.847 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:44:28.985 [info] Started local extension host with pid 7822.
+2025-02-21 00:44:29.313 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-21 00:44:29.313 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-21 00:44:29.350 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][37ms] invoking...
+2025-02-21 00:44:30.350 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1038ms] waiting...
+2025-02-21 00:44:31.350 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2038ms] waiting...
+2025-02-21 00:44:32.352 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3040ms] waiting...
+2025-02-21 00:44:33.350 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4038ms] waiting...
+2025-02-21 00:44:34.350 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5038ms] waiting...
+2025-02-21 00:44:35.350 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6038ms] waiting...
+2025-02-21 00:44:36.350 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][7038ms] waiting...
+2025-02-21 00:44:37.350 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][8038ms] waiting...
+2025-02-21 00:44:38.350 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][9038ms] waiting...
+2025-02-21 00:44:38.510 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][9197ms] returned Managed(1)
+2025-02-21 00:44:38.510 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 9197 ms
+2025-02-21 00:44:38.512 [info] Creating a socket (renderer-Management-46e0c640-8c1a-45b7-a7ee-cc6a6449bdca)...
+2025-02-21 00:44:38.513 [info] Creating a socket (renderer-ExtensionHost-cb3faf58-a64d-4b76-b705-08c5cc1ce408)...
+2025-02-21 00:44:44.993 [info] Creating a socket (renderer-ExtensionHost-cb3faf58-a64d-4b76-b705-08c5cc1ce408) was successful after 6480 ms.
+2025-02-21 00:44:45.040 [info] Creating a socket (renderer-Management-46e0c640-8c1a-45b7-a7ee-cc6a6449bdca) was successful after 6527 ms.
+2025-02-21 00:44:47.533 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 00:44:47.837 [info] [perf] Render performance baseline is 16ms
+2025-02-21 00:45:01.352 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:45:01.352 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:45:01.352 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:45:01.352 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:45:01.560 [info] Started local extension host with pid 7896.
+2025-02-21 00:45:01.904 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-21 00:45:01.904 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-21 00:45:01.904 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] invoking...
+2025-02-21 00:45:02.771 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][867ms] returned Managed(1)
+2025-02-21 00:45:02.772 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 867 ms
+2025-02-21 00:45:02.773 [info] Creating a socket (renderer-Management-32d36363-c1ad-4d89-af75-eebbc31abef9)...
+2025-02-21 00:45:02.773 [info] Creating a socket (renderer-ExtensionHost-7c4c7f77-b64d-4a99-9d56-8a601ea7986c)...
+2025-02-21 00:45:03.278 [info] Creating a socket (renderer-ExtensionHost-7c4c7f77-b64d-4a99-9d56-8a601ea7986c) was successful after 505 ms.
+2025-02-21 00:45:03.281 [info] Creating a socket (renderer-Management-32d36363-c1ad-4d89-af75-eebbc31abef9) was successful after 508 ms.
+2025-02-21 00:45:05.616 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 00:45:05.944 [info] [perf] Render performance baseline is 19ms
+2025-02-21 00:45:15.775 [info] Not activating extension 'vscode.npm': Timed out while searching for 'workspaceContains' pattern package.json
+2025-02-21 00:51:20.261 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:51:20.261 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:51:20.261 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:51:20.261 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:51:20.385 [info] Started local extension host with pid 8009.
+2025-02-21 00:51:20.635 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-21 00:51:20.635 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-21 00:51:20.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][15ms] invoking...
+2025-02-21 00:51:21.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1015ms] waiting...
+2025-02-21 00:51:22.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2015ms] waiting...
+2025-02-21 00:51:23.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3015ms] waiting...
+2025-02-21 00:51:24.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4015ms] waiting...
+2025-02-21 00:51:25.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5015ms] waiting...
+2025-02-21 00:51:26.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6015ms] waiting...
+2025-02-21 00:51:27.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][7015ms] waiting...
+2025-02-21 00:51:28.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][8015ms] waiting...
+2025-02-21 00:51:29.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][9015ms] waiting...
+2025-02-21 00:51:30.651 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][10015ms] waiting...
+2025-02-21 00:51:31.003 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][10368ms] returned Managed(1)
+2025-02-21 00:51:31.004 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 10369 ms
+2025-02-21 00:51:31.007 [info] Creating a socket (renderer-Management-10a41edf-84f9-4656-9695-6500e778a0c9)...
+2025-02-21 00:51:31.009 [info] Creating a socket (renderer-ExtensionHost-498a148a-75e7-4cc2-85de-665ec72c1d79)...
+2025-02-21 00:51:34.550 [info] Creating a socket (renderer-Management-10a41edf-84f9-4656-9695-6500e778a0c9) was successful after 3543 ms.
+2025-02-21 00:51:34.551 [info] Creating a socket (renderer-ExtensionHost-498a148a-75e7-4cc2-85de-665ec72c1d79) was successful after 3543 ms.
+2025-02-21 00:51:35.009 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 00:51:35.464 [info] [perf] Render performance baseline is 16ms
+2025-02-21 00:52:17.124 [error] [Extension Host] Unable to update sticker for reasons Error: ENOENT: no such file or directory, open '/home/nat/.vscode-server/data/User/globalStorage/unthrottled.doki-theme/stickers/reZero/emilia/light/emilia_light.png'
+	at Object.openSync (node:fs:573:18)
+	at Object.readFileSync (node:fs:452:35)
+	at loadImageBase64FromFileProtocol (/home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:46:38)
+	at createCssDokiAssetUrl (/home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:141:12)
+	at /home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:71:25
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:24:58)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-21 00:53:17.066 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:53:17.066 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:53:17.066 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:53:17.066 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:53:17.239 [info] Started local extension host with pid 8618.
+2025-02-21 00:53:17.709 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-21 00:53:17.709 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-21 00:53:17.709 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] invoking...
+2025-02-21 00:53:18.709 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1000ms] waiting...
+2025-02-21 00:53:19.711 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2001ms] waiting...
+2025-02-21 00:53:20.709 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3000ms] waiting...
+2025-02-21 00:53:21.750 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4040ms] waiting...
+2025-02-21 00:53:22.709 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5000ms] waiting...
+2025-02-21 00:53:22.950 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5240ms] returned Managed(1)
+2025-02-21 00:53:22.950 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 5241 ms
+2025-02-21 00:53:22.950 [info] Creating a socket (renderer-Management-52e9178c-d93e-4f2d-bf79-c85152b51b09)...
+2025-02-21 00:53:22.950 [info] Creating a socket (renderer-ExtensionHost-d76c8906-c8ae-48cf-8a34-29654ad98cc8)...
+2025-02-21 00:53:23.434 [info] Creating a socket (renderer-Management-52e9178c-d93e-4f2d-bf79-c85152b51b09) was successful after 484 ms.
+2025-02-21 00:53:23.436 [info] Creating a socket (renderer-ExtensionHost-d76c8906-c8ae-48cf-8a34-29654ad98cc8) was successful after 486 ms.
+2025-02-21 00:53:25.832 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 00:53:26.221 [info] [perf] Render performance baseline is 35ms
+2025-02-21 00:54:37.662 [error] [Extension Host] Unable to update sticker for reasons Error: ENOENT: no such file or directory, open '/home/luna/.vscode-server/data/User/globalStorage/unthrottled.doki-theme/stickers/reZero/emilia/light/emilia_light.png'
+	at Object.openSync (node:fs:573:18)
+	at Object.readFileSync (node:fs:452:35)
+	at loadImageBase64FromFileProtocol (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:46:38)
+	at createCssDokiAssetUrl (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:141:12)
+	at /home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:71:25
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:24:58)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-21 00:55:15.964 [info] Not activating extension 'ms-python.mypy-type-checker': Timed out while searching for 'workspaceContains' pattern mypy.ini
+2025-02-21 00:55:15.964 [info] Not activating extension 'ms-python.python': Timed out while searching for 'workspaceContains' pattern mspythonconfig.json,pyproject.toml,Pipfile,setup.py,requirements.txt,manage.py,app.py,.venv,.conda
+2025-02-21 00:55:15.964 [info] Not activating extension 'ms-python.vscode-pylance': Timed out while searching for 'workspaceContains' pattern pyrightconfig.json
+2025-02-21 00:55:16.363 [info] Not activating extension 'charliermarsh.ruff': Timed out while searching for 'workspaceContains' pattern *.py,*.ipynb
+2025-02-21 00:56:42.267 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/pub/package.json 
+2025-02-21 00:56:42.268 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.vscode-server/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9/package.json 
+2025-02-21 00:56:42.268 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.vscode-server/extensions/ms-python.python-2025.0.0-linux-x64/out/client/package.json 
+2025-02-21 00:56:42.268 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.vscode-server/extensions/charliermarsh.ruff-2025.10.0-linux-x64/package.json 
+2025-02-21 00:56:42.269 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.vscode-server/extensions/ms-python.vscode-pylance-2025.2.1/package.json 
+2025-02-21 00:56:42.269 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.nix-defexpr/channels_root/nixpkgs/pkgs/servers/jellyseerr/package.json 
+2025-02-21 00:56:42.269 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.nix-defexpr/channels_root/nixpkgs/pkgs/servers/home-assistant/custom-lovelace-modules/button-card/package.json 
+2025-02-21 00:56:42.269 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.nix-defexpr/channels_root/nixpkgs/pkgs/servers/home-assistant/custom-lovelace-modules/zigbee2mqtt-networkmap/package.json 
+2025-02-21 00:56:42.270 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.nix-defexpr/channels_root/nixpkgs/pkgs/servers/matrix-synapse/matrix-appservice-slack/package.json 
+2025-02-21 00:56:42.270 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.nix-defexpr/channels_root/nixpkgs/pkgs/tools/admin/meshcentral/package.json 
+2025-02-21 00:56:42.270 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.nix-defexpr/channels_root/nixpkgs/pkgs/by-name/do/dokieli/package.json 
+2025-02-21 00:56:42.270 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.nix-defexpr/channels_root/nixpkgs/pkgs/by-name/po/pomerium/package.json 
+2025-02-21 00:56:42.271 [warning] [backup tracker] suspended, ignoring unregister event vscode-remote://ssh-remote%2Bhackclub/home/luna/.nix-defexpr/channels_root/nixpkgs/pkgs/by-name/ya/yaml-language-server/package.json 
+2025-02-21 00:56:42.513 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:56:42.514 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:56:42.514 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:56:42.514 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:56:42.651 [info] Started local extension host with pid 8841.
+2025-02-21 00:56:42.897 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-21 00:56:42.897 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-21 00:56:42.908 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][11ms] invoking...
+2025-02-21 00:56:43.870 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][973ms] returned Managed(1)
+2025-02-21 00:56:43.871 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 973 ms
+2025-02-21 00:56:43.873 [info] Creating a socket (renderer-Management-e27b8100-41a5-4ac2-9737-8a0a86d7a14a)...
+2025-02-21 00:56:43.873 [info] Creating a socket (renderer-ExtensionHost-ecbc04c5-6763-4ba3-bef8-6c361c628893)...
+2025-02-21 00:56:44.352 [info] Creating a socket (renderer-Management-e27b8100-41a5-4ac2-9737-8a0a86d7a14a) was successful after 480 ms.
+2025-02-21 00:56:44.353 [info] Creating a socket (renderer-ExtensionHost-ecbc04c5-6763-4ba3-bef8-6c361c628893) was successful after 481 ms.
+2025-02-21 00:56:46.680 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 00:56:46.992 [info] [perf] Render performance baseline is 30ms
+2025-02-21 00:56:50.304 [error] [Extension Host] Unable to update sticker for reasons Error: ENOENT: no such file or directory, open '/home/luna/.vscode-server/data/User/globalStorage/unthrottled.doki-theme/stickers/reZero/emilia/light/emilia_light.png'
+	at Object.openSync (node:fs:573:18)
+	at Object.readFileSync (node:fs:452:35)
+	at loadImageBase64FromFileProtocol (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:46:38)
+	at createCssDokiAssetUrl (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:141:12)
+	at /home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:71:25
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:24:58)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-21 00:56:55.738 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:56:55.738 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:56:55.738 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:56:55.739 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 00:56:55.875 [info] Started local extension host with pid 8892.
+2025-02-21 00:56:56.348 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-21 00:56:56.348 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-21 00:56:56.348 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] invoking...
+2025-02-21 00:56:57.177 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][828ms] returned Managed(1)
+2025-02-21 00:56:57.177 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 828 ms
+2025-02-21 00:56:57.177 [info] Creating a socket (renderer-Management-27e80c06-8d68-4277-a178-4d83beb1d464)...
+2025-02-21 00:56:57.177 [info] Creating a socket (renderer-ExtensionHost-9c618d02-d731-4408-aeab-615d16fc18d6)...
+2025-02-21 00:56:57.655 [info] Creating a socket (renderer-ExtensionHost-9c618d02-d731-4408-aeab-615d16fc18d6) was successful after 478 ms.
+2025-02-21 00:56:57.659 [info] Creating a socket (renderer-Management-27e80c06-8d68-4277-a178-4d83beb1d464) was successful after 483 ms.
+2025-02-21 00:57:00.156 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 00:57:00.457 [info] [perf] Render performance baseline is 20ms
+2025-02-21 00:57:07.178 [error] [Extension Host] Unable to update sticker for reasons Error: ENOENT: no such file or directory, open '/home/luna/.vscode-server/data/User/globalStorage/unthrottled.doki-theme/stickers/reZero/emilia/light/emilia_light.png'
+	at Object.openSync (node:fs:573:18)
+	at Object.readFileSync (node:fs:452:35)
+	at loadImageBase64FromFileProtocol (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:46:38)
+	at createCssDokiAssetUrl (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:141:12)
+	at /home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:71:25
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:24:58)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-21 01:28:45.241 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:28:45.241 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:28:45.241 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:28:45.241 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:28:45.364 [info] Started local extension host with pid 10809.
+2025-02-21 01:28:45.604 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-21 01:28:45.604 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-21 01:28:45.645 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][40ms] invoking...
+2025-02-21 01:28:46.538 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][933ms] returned Managed(1)
+2025-02-21 01:28:46.538 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 935 ms
+2025-02-21 01:28:46.543 [info] Creating a socket (renderer-Management-5be0ccbf-3dc6-43ed-8280-b748fc4e758f)...
+2025-02-21 01:28:46.543 [info] Creating a socket (renderer-ExtensionHost-addc77f6-06e3-4b73-98b0-e65c2b3b2c36)...
+2025-02-21 01:28:47.061 [info] Creating a socket (renderer-Management-5be0ccbf-3dc6-43ed-8280-b748fc4e758f) was successful after 521 ms.
+2025-02-21 01:28:47.062 [info] Creating a socket (renderer-ExtensionHost-addc77f6-06e3-4b73-98b0-e65c2b3b2c36) was successful after 521 ms.
+2025-02-21 01:28:49.586 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 01:28:49.867 [info] [perf] Render performance baseline is 16ms
+2025-02-21 01:28:55.396 [error] [Extension Host] Unable to update sticker for reasons Error: ENOENT: no such file or directory, open '/home/luna/.vscode-server/data/User/globalStorage/unthrottled.doki-theme/stickers/reZero/emilia/light/emilia_light.png'
+	at Object.openSync (node:fs:573:18)
+	at Object.readFileSync (node:fs:452:35)
+	at loadImageBase64FromFileProtocol (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:46:38)
+	at createCssDokiAssetUrl (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:141:12)
+	at /home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:71:25
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:24:58)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-21 01:29:05.119 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:29:05.120 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:29:05.120 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:29:05.120 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:29:05.252 [info] Started local extension host with pid 10866.
+2025-02-21 01:29:05.662 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-21 01:29:05.663 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-21 01:29:05.663 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] invoking...
+2025-02-21 01:29:06.511 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][849ms] returned Managed(1)
+2025-02-21 01:29:06.511 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 849 ms
+2025-02-21 01:29:06.512 [info] Creating a socket (renderer-Management-277fddb5-20ad-4371-b5b9-d3a190481554)...
+2025-02-21 01:29:06.512 [info] Creating a socket (renderer-ExtensionHost-0b7ce12e-81cb-46f1-af43-77fcb9734666)...
+2025-02-21 01:29:06.989 [info] Creating a socket (renderer-Management-277fddb5-20ad-4371-b5b9-d3a190481554) was successful after 478 ms.
+2025-02-21 01:29:06.991 [info] Creating a socket (renderer-ExtensionHost-0b7ce12e-81cb-46f1-af43-77fcb9734666) was successful after 479 ms.
+2025-02-21 01:29:09.489 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 01:29:09.837 [info] [perf] Render performance baseline is 20ms
+2025-02-21 01:29:15.762 [error] [Extension Host] Unable to update sticker for reasons Error: ENOENT: no such file or directory, open '/home/luna/.vscode-server/data/User/globalStorage/unthrottled.doki-theme/stickers/reZero/emilia/light/emilia_light.png'
+	at Object.openSync (node:fs:573:18)
+	at Object.readFileSync (node:fs:452:35)
+	at loadImageBase64FromFileProtocol (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:46:38)
+	at createCssDokiAssetUrl (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:141:12)
+	at /home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:71:25
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/luna/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:24:58)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-21 01:32:14.128 [info] Extension host (Remote) is unresponsive.
+2025-02-21 01:32:16.609 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:737:10013
+2025-02-21 01:32:27.356 [info] Extension host (Remote) is responsive.
+2025-02-21 01:32:31.252 [info] Extension host (Remote) is unresponsive.
+2025-02-21 01:32:47.268 [info] Extension host (Remote) is responsive.
+2025-02-21 01:32:54.728 [info] Extension host (Remote) is unresponsive.
+2025-02-21 01:33:10.986 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] received socket timeout event (unacknowledgedMsgCount: 134, timeSinceOldestUnacknowledgedMsg: 20242, timeSinceLastReceivedSomeData: 20000).
+2025-02-21 01:33:10.986 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+2025-02-21 01:33:10.986 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] resolving connection...
+2025-02-21 01:33:10.987 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] connecting to Managed(1)...
+2025-02-21 01:33:10.987 [info] Creating a socket (renderer-ExtensionHost-0b7ce12e-81cb-46f1-af43-77fcb9734666)...
+2025-02-21 01:33:41.020 [error] [remote-connection][ExtensionHost][0b7ce…][reconnect][Managed(1)] socketFactory.connect() failed or timed out. Error:
+2025-02-21 01:33:41.020 [error] Error: Time limit reached
+    at t1e.i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2589:28305)
+    at t1e.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2589:28287)
+    at vte.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2589:28142)
+    at x.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at x.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at Ete.cancel (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:39892)
+    at mt.cancel (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:40306)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2589:27673
+2025-02-21 01:33:41.020 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] A network error occurred while trying to reconnect, will try again...
+2025-02-21 01:33:41.021 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] waiting for 5 seconds before reconnecting...
+2025-02-21 01:33:46.024 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] resolving connection...
+2025-02-21 01:33:46.052 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] connecting to Managed(1)...
+2025-02-21 01:33:46.052 [info] Creating a socket (renderer-ExtensionHost-0b7ce12e-81cb-46f1-af43-77fcb9734666)...
+2025-02-21 01:34:16.054 [error] [remote-connection][ExtensionHost][0b7ce…][reconnect][Managed(1)] socketFactory.connect() failed or timed out. Error:
+2025-02-21 01:34:16.055 [error] Error: Time limit reached
+    at t1e.i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2589:28305)
+    at t1e.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2589:28287)
+    at vte.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2589:28142)
+    at x.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at x.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2611)
+    at Ete.cancel (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:39892)
+    at mt.cancel (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:40306)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2589:27673
+2025-02-21 01:34:16.055 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] A network error occurred while trying to reconnect, will try again...
+2025-02-21 01:34:16.055 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] waiting for 5 seconds before reconnecting...
+2025-02-21 01:34:16.957 [info] Creating a socket (renderer-ExtensionHost-0b7ce12e-81cb-46f1-af43-77fcb9734666) finished after 65969 ms, but this is too late and has timed out already.
+2025-02-21 01:34:17.062 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] received socket timeout event (unacknowledgedMsgCount: 135, timeSinceOldestUnacknowledgedMsg: 86350, timeSinceLastReceivedSomeData: 86108).
+2025-02-21 01:34:17.149 [info] Creating a socket (renderer-ExtensionHost-0b7ce12e-81cb-46f1-af43-77fcb9734666) finished after 31096 ms, but this is too late and has timed out already.
+2025-02-21 01:34:19.114 [info] Extension host (Remote) is responsive.
+2025-02-21 01:34:21.054 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] resolving connection...
+2025-02-21 01:34:21.055 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] connecting to Managed(1)...
+2025-02-21 01:34:21.055 [info] Creating a socket (renderer-ExtensionHost-0b7ce12e-81cb-46f1-af43-77fcb9734666)...
+2025-02-21 01:34:21.606 [info] Creating a socket (renderer-ExtensionHost-0b7ce12e-81cb-46f1-af43-77fcb9734666) was successful after 551 ms.
+2025-02-21 01:34:22.155 [info] [remote-connection][ExtensionHost][0b7ce…][reconnect] reconnected!
+2025-02-21 01:40:48.051 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:40:48.051 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:40:48.051 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:40:48.051 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:40:48.185 [info] Started local extension host with pid 11630.
+2025-02-21 01:40:48.430 [info] Invoking resolveAuthority(ssh-remote)...
+2025-02-21 01:40:48.430 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][0ms] obtaining proxy...
+2025-02-21 01:40:48.471 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][40ms] invoking...
+2025-02-21 01:40:49.473 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][1042ms] waiting...
+2025-02-21 01:40:50.471 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][2040ms] waiting...
+2025-02-21 01:40:51.471 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][3040ms] waiting...
+2025-02-21 01:40:52.471 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][4040ms] waiting...
+2025-02-21 01:40:53.471 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][5040ms] waiting...
+2025-02-21 01:40:54.471 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6040ms] waiting...
+2025-02-21 01:40:55.270 [info] [LocalProcess0][resolveAuthority(ssh-remote,1)][6839ms] returned Managed(1)
+2025-02-21 01:40:55.270 [info] resolveAuthority(ssh-remote) returned 'Managed(1)' after 6840 ms
+2025-02-21 01:40:55.273 [info] Creating a socket (renderer-Management-76385ba3-d8e8-4473-a358-218a7f2f5296)...
+2025-02-21 01:40:55.274 [info] Creating a socket (renderer-ExtensionHost-331198a2-472c-4075-870e-e9ac171ea548)...
+2025-02-21 01:40:55.449 [info] Creating a socket (renderer-Management-76385ba3-d8e8-4473-a358-218a7f2f5296) was successful after 175 ms.
+2025-02-21 01:40:55.449 [info] Creating a socket (renderer-ExtensionHost-331198a2-472c-4075-870e-e9ac171ea548) was successful after 175 ms.
+2025-02-21 01:40:55.943 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 01:40:56.591 [error] [Extension Host] Unable to update sticker for reasons Error: ENOENT: no such file or directory, open '/home/nat/.vscode-server/data/User/globalStorage/unthrottled.doki-theme/stickers/reZero/emilia/light/emilia_light.png'
+	at Object.openSync (node:fs:573:18)
+	at Object.readFileSync (node:fs:452:35)
+	at loadImageBase64FromFileProtocol (/home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:46:38)
+	at createCssDokiAssetUrl (/home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:141:12)
+	at /home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:71:25
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18/out/StickerUpdateService.js:24:58)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-21 01:40:56.735 [info] [perf] Render performance baseline is 16ms
+2025-02-21 01:41:29.400 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:41:29.401 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:41:29.401 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:41:29.401 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-21 01:41:29.551 [info] Started local extension host with pid 11874.
+2025-02-21 01:41:30.094 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-21 01:41:32.210 [info] [perf] Render performance baseline is 16ms

@@ -1,0 +1,3 @@
+2025-02-20 17:10:53.050 [info] Started initializing default profile extensions in extensions installation folder. file:///home/nat/.vscode/extensions
+2025-02-20 17:10:53.153 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/nat/.vscode/extensions Unable to create file 'vscode-userdata:/home/nat/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-02-20 17:10:53.153 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/nat/.vscode/extensions

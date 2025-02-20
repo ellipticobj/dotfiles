@@ -1,0 +1,33 @@
+2025-02-21 00:31:52.474 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-02-21 00:31:52.474 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-02-21 00:31:52.474 [info] Experiment 'pythonTestAdapter' is active
+2025-02-21 00:31:52.474 [warning] Dir "/home/nat/repos/sigma-lang-web/.pixi/envs" is not watchable (directory does not exist)
+2025-02-21 00:31:52.474 [info] Python interpreter path: /usr/bin/python
+2025-02-21 00:31:52.518 [info] > ~/.pyenv/bin/pyenv which python
+2025-02-21 00:31:52.518 [info] cwd: .
+2025-02-21 00:31:55.534 [info] Starting Pylance language server.
+2025-02-21 00:44:24.782 [info] > conda info --json
+2025-02-21 00:44:24.796 [info] > /usr/share/anaconda/bin/conda info --json
+2025-02-21 01:41:30.537 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-02-21 01:41:30.537 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-02-21 01:41:30.537 [info] Experiment 'pythonTestAdapter' is active
+2025-02-21 01:41:30.537 [warning] Dir "/home/nat/repos/sigma/.pixi/envs" is not watchable (directory does not exist)
+2025-02-21 01:41:30.537 [info] Starting Environment refresh
+2025-02-21 01:41:30.537 [info] > hatch env show --json
+2025-02-21 01:41:30.537 [info] cwd: .
+2025-02-21 01:41:30.606 [info] Starting Environment refresh
+2025-02-21 01:41:32.191 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2025.0.0-linux-arm64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.0.0-linux-arm64/python_files/interpreterInfo.py
+2025-02-21 01:41:32.191 [info] Environments refresh paths discovered: 1667 milliseconds
+2025-02-21 01:41:32.264 [info] Environments refresh finished (event): 1740 milliseconds
+2025-02-21 01:41:32.290 [info] Environment refresh took 1767 milliseconds
+2025-02-21 01:41:33.223 [info] Python interpreter path: /bin/python
+2025-02-21 01:41:33.293 [info] Environments refresh finished (event): 2687 milliseconds
+2025-02-21 01:41:33.293 [info] Environments refresh paths discovered: 2687 milliseconds
+2025-02-21 01:41:33.307 [info] Environment refresh took 2701 milliseconds
+2025-02-21 01:41:33.311 [info] > ~/.pyenv/bin/pyenv which python
+2025-02-21 01:41:33.312 [info] cwd: .
+2025-02-21 01:41:34.766 [info] Starting Pylance language server.
+2025-02-21 01:41:55.582 [info] > conda info --json
+2025-02-21 01:41:55.616 [info] > /usr/share/anaconda/bin/conda info --json
+2025-02-21 01:42:40.805 [info] Discover tests for workspace name: sigma - uri: /home/nat/repos/sigma/evaluator.py
+2025-02-21 01:43:11.672 [info] Discover tests for workspace name: sigma - uri: /home/nat/repos/sigma/evaluator.py

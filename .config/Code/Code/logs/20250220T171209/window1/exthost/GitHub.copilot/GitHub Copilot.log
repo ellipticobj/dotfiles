@@ -1,0 +1,144 @@
+2025-02-20 17:13:25.854 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at oce.removeExpiredCertificates (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:77:32)
+    at oce.getAllRootCAs (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:68:38)
+    at Tce.createSecureContext (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-02-20 17:13:25.854 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at oce.removeExpiredCertificates (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:77:32)
+    at oce.getAllRootCAs (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:68:38)
+    at Tce.createSecureContext (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-02-20 17:13:25.854 [info] [certificates] Removed 2 expired certificates
+2025-02-20 17:13:26.389 [info] [fetcher] Using Helix fetcher.
+2025-02-20 17:13:26.389 [info] [code-referencing] Public code references are enabled.
+2025-02-20 17:13:27.514 [info] [customModels] Available generic completion model: copilot-codex
+2025-02-20 17:13:27.514 [info] [customModels] Available generic completion model: gpt-4o-copilot
+2025-02-20 17:15:44.671 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at oce.removeExpiredCertificates (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:77:32)
+    at oce.getAllRootCAs (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:68:38)
+    at Tce.createSecureContext (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-02-20 17:15:44.671 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at oce.removeExpiredCertificates (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:77:32)
+    at oce.getAllRootCAs (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:68:38)
+    at Tce.createSecureContext (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-02-20 17:15:44.671 [info] [certificates] Removed 2 expired certificates
+2025-02-20 17:15:45.199 [info] [fetcher] Using Helix fetcher.
+2025-02-20 17:15:45.199 [info] [code-referencing] Public code references are enabled.
+2025-02-20 17:15:46.316 [info] [customModels] Available generic completion model: copilot-codex
+2025-02-20 17:15:46.316 [info] [customModels] Available generic completion model: gpt-4o-copilot
+2025-02-20 17:16:01.886 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at oce.removeExpiredCertificates (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:77:32)
+    at oce.getAllRootCAs (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:68:38)
+    at Tce.createSecureContext (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-02-20 17:16:01.886 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at oce.removeExpiredCertificates (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:77:32)
+    at oce.getAllRootCAs (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:68:38)
+    at Tce.createSecureContext (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-02-20 17:16:01.886 [info] [certificates] Removed 2 expired certificates
+2025-02-20 17:16:02.394 [info] [fetcher] Using Helix fetcher.
+2025-02-20 17:16:02.394 [info] [code-referencing] Public code references are enabled.
+2025-02-20 17:16:03.479 [info] [customModels] Available generic completion model: copilot-codex
+2025-02-20 17:16:03.479 [info] [customModels] Available generic completion model: gpt-4o-copilot
+2025-02-20 17:16:40.971 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at oce.removeExpiredCertificates (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:77:32)
+    at oce.getAllRootCAs (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:68:38)
+    at Tce.createSecureContext (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-02-20 17:16:40.971 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at oce.removeExpiredCertificates (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:77:32)
+    at oce.getAllRootCAs (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificateReaders.ts:68:38)
+    at Tce.createSecureContext (/home/nat/.vscode/extensions/github.copilot-1.272.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-02-20 17:16:40.972 [info] [certificates] Removed 2 expired certificates

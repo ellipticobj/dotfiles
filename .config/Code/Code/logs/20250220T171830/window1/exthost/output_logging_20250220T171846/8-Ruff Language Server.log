@@ -1,0 +1,54 @@
+   0.004195051s  INFO main ruff_server::session::index: Registering workspace: /home/nat/repos/sigma-lang-web
+   0.005572165s  INFO ruff:main ruff_server::server: Configuration file watcher successfully registered
+   1.271337488s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+  74.440406093s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+  78.275369934s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+  93.759985211s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 253.598695053s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 254.640216727s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 275.977466984s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 277.164846750s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 299.396392430s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 300.581045841s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 312.286550238s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 313.496606719s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 326.810285406s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 327.987462369s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 391.458763213s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 392.624294426s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 408.919203730s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 410.211659295s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 420.287405888s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 421.450093580s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 456.806660808s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 457.994553838s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 463.662585801s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 464.867078300s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 472.639861804s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 473.833590752s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 480.191336116s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 481.373012396s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 510.771089760s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 562.712674359s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 563.975991664s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 571.918737045s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 584.354309691s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 585.577874684s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 653.874311998s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 655.047604294s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 665.053996080s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 666.227483000s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 720.579554607s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 721.815812662s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 737.345245014s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 738.543832649s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 755.214555638s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 769.552888597s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 770.826548906s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 825.243994091s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+ 826.315354311s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+1002.849400270s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+1003.922512658s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+1013.545266386s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+1065.021706815s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.
+1249.307994071s  WARN ruff:main ruff_server::server::api: Received notification $/setTrace which does not have a handler.

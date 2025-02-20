@@ -1,0 +1,374 @@
+[00:51:20.761] Log Level: 2
+[00:51:20.772] SSH Resolver called for "ssh-remote+.host", attempt 1
+[00:51:20.774] remote.SSH.useLocalServer = true
+[00:51:20.774] remote.SSH.useExecServer = true
+[00:51:20.774] remote.SSH.bindHost = {}
+[00:51:20.775] remote.SSH.path = 
+[00:51:20.775] remote.SSH.configFile = 
+[00:51:20.775] remote.SSH.useFlock = true
+[00:51:20.775] remote.SSH.lockfilesInTmp = false
+[00:51:20.775] remote.SSH.localServerDownload = auto
+[00:51:20.775] remote.SSH.remoteServerListenOnSocket = false
+[00:51:20.775] remote.SSH.defaultExtensions = []
+[00:51:20.775] remote.SSH.defaultExtensionsIfInstalledLocally = []
+[00:51:20.775] remote.SSH.loglevel = 2
+[00:51:20.775] remote.SSH.enableDynamicForwarding = true
+[00:51:20.775] remote.SSH.enableRemoteCommand = false
+[00:51:20.775] remote.SSH.serverPickPortsFromRange = {}
+[00:51:20.775] remote.SSH.serverInstallPath = {}
+[00:51:20.775] remote.SSH.permitPtyAllocation = false
+[00:51:20.775] remote.SSH.preferredLocalPortRange = undefined
+[00:51:20.776] remote.SSH.useCurlAndWgetConfigurationFiles = false
+[00:51:20.776] remote.SSH.experimental.chat = true
+[00:51:20.776] remote.SSH.experimental.enhancedSessionLogs = true
+[00:51:20.781] VS Code version: 1.97.2
+[00:51:20.781] Remote-SSH version: remote-ssh@0.117.1
+[00:51:20.781] linux arm64
+[00:51:20.790] SSH Resolver called for host: .host
+[00:51:20.790] Setting up SSH remote ".host"
+[00:51:20.793] Acquiring local install lock: /tmp/vscode-remote-ssh-481a3dab-install.lock
+[00:51:20.794] Looking for existing server data file at /home/nat/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-481a3dab-e54c774e0add60467559eb0d1e229c6452cf8447-0.117.1-es/data.json
+[00:51:20.794] No existing data file
+[00:51:20.794] Using commit id "e54c774e0add60467559eb0d1e229c6452cf8447" and quality "stable" for server
+[00:51:20.794] Extensions to install: 
+[00:51:20.797] Install and start server if needed
+[00:51:20.800] PATH: /home/nat/bin:/home/nat/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/nat/.cache/zsh4humans/v5/fzf/bin:/snap/bin
+[00:51:20.800] Checking ssh with "ssh -V"
+[00:51:20.807] > OpenSSH_9.9p1, OpenSSL 3.2.4 11 Feb 2025
+
+[00:51:20.810] askpass server listening on /run/user/1001/vscode-ssh-askpass-f5b443b8e963f095d70df65891e0e03e6235b5fe.sock
+[00:51:20.810] Spawning local server with {"serverId":1,"ipcHandlePath":"/run/user/1001/vscode-ssh-askpass-81f34b175526d7640a345c98fedc24760def602f.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","38745","-o","ConnectTimeout=15",".host"],"serverDataFolderName":".vscode-server","dataFilePath":"/home/nat/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-481a3dab-e54c774e0add60467559eb0d1e229c6452cf8447-0.117.1-es/data.json"}
+[00:51:20.810] Local server env: {"SSH_AUTH_SOCK":"/run/user/1001/keyring/ssh","SHELL":"/usr/bin/zsh","DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/nat/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/usr/share/code/code","VSCODE_SSH_ASKPASS_EXTRA_ARGS":"","VSCODE_SSH_ASKPASS_MAIN":"/home/nat/.vscode/extensions/ms-vscode-remote.remote-ssh-0.117.1/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1001/vscode-ssh-askpass-f5b443b8e963f095d70df65891e0e03e6235b5fe.sock"}
+[00:51:20.813] Spawned 8034
+[00:51:20.813] Using connect timeout of 17 seconds
+[00:51:20.880] > local-server-1> Running ssh connection command: ssh -v -T -D 38745 -o ConnectTimeout=15 .host
+[00:51:20.883] > local-server-1> Spawned ssh, pid=8042
+[00:51:20.886] stderr> OpenSSH_9.9p1, OpenSSL 3.2.4 11 Feb 2025
+[00:51:20.945] stderr> debug1: Server host key: ssh-ed25519 SHA256:ATrEvqimHYJMRVfww3uYolaD9ANCSnsmP71NMs4qYrQ
+[00:51:21.044] Got askpass request: {"request":" The authenticity of host '.host (<no hostip for proxy command>)' can't be established.\nED25519 key fingerprint is SHA256:ATrEvqimHYJMRVfww3uYolaD9ANCSnsmP71NMs4qYrQ.\nThis key is not known by any other names.\nAre you sure you want to continue connecting (yes/no/[fingerprint])? "}
+[00:51:21.049] Detected fingerprint confirmation message
+[00:51:21.049] Showing fingerprint confirmation dialog
+[00:51:21.052] Listening for interwindow password on /run/user/1001/vscode-ssh-askpass-e11edd9cbd74d16ddcc70bf114d25482c018ab9f.sock
+[00:51:21.052] Writing password prompt to globalState
+[00:51:23.984] Got fingerprint response: yes
+[00:51:23.984] Interactor gave response: yes
+[00:51:23.984] Cleaning up other-window auth server
+[00:51:23.986] Using connect timeout of 17 seconds
+[00:51:23.996] stderr> Warning: Permanently added '.host' (ED25519) to the list of known hosts.
+[00:51:24.008] stderr> No Kerberos credentials available (default cache: KCM:)
+[00:51:24.008] stderr> 
+[00:51:24.008] stderr> 
+[00:51:24.008] stderr> No Kerberos credentials available (default cache: KCM:)
+[00:51:24.008] stderr> 
+[00:51:24.008] stderr> 
+[00:51:24.141] Got askpass request: {"request":" nat@.host's password: "}
+[00:51:24.142] Showing password prompt
+[00:51:24.144] Listening for interwindow password on /run/user/1001/vscode-ssh-askpass-59d39b8b11934219404fe7cdfef8d73ff83fbcec.sock
+[00:51:24.144] Writing password prompt to globalState
+[00:51:29.889] Got password response
+[00:51:29.889] Interactor gave response: **************
+[00:51:29.889] Cleaning up other-window auth server
+[00:51:29.890] Using connect timeout of 17 seconds
+[00:51:29.947] stderr> Authenticated to .host ([/run/ssh-unix-local/socket]:0) using "password".
+[00:51:30.001] stderr> Learned new hostkey: RSA SHA256:IZfMtsr4+S8+rcdTuquDMQ0fUO8n4Xabwf5uLYSjibk
+[00:51:30.001] stderr> Learned new hostkey: ECDSA SHA256:i509/B05aFzKO49z+CWYEVHczdu6qbJTuFV2sq8456M
+[00:51:30.002] stderr> Adding new key for .host to /home/nat/.ssh/known_hosts: ssh-rsa SHA256:IZfMtsr4+S8+rcdTuquDMQ0fUO8n4Xabwf5uLYSjibk
+[00:51:30.002] stderr> Adding new key for .host to /home/nat/.ssh/known_hosts: ecdsa-sha2-nistp256 SHA256:i509/B05aFzKO49z+CWYEVHczdu6qbJTuFV2sq8456M
+[00:51:30.002] > Last failed login: Thu Feb 13 21:03:29 +08 2025
+> There were 9 failed login attempts since the last successful login.
+> ready: 643c58bd0781
+[00:51:30.004] > Linux 6.12.12-400.asahi.fc41.aarch64+16k #1 SMP PREEMPT_DYNAMIC Sun Feb  2 18:10:21 UTC 2025
+[00:51:30.004] Platform: linux
+[00:51:30.004] > /usr/bin/zsh
+[00:51:30.004] Parent Shell: zsh
+[00:51:30.004] Parent Shell pid: 8034
+[00:51:30.004] Waiting for subshell to start
+[00:51:30.005] > 8084
+[00:51:30.005] stdout -> '8084'
+[00:51:30.005] sub-process detected
+[00:51:30.010] > 643c58bd0781: running
+> Script executing under PID: 8084
+[00:51:30.015] > Installing to /home/nat/.vscode-server...
+[00:51:30.016] > 643c58bd0781%%1%%
+[00:51:30.016] > Downloading with wget
+[00:51:30.017] > wget is from busybox: no
+[00:51:30.038] stderr> Program 'wget' is not available or does not appear to support flag '--no-config'
+[00:51:30.038] > Detected that this version of wget does not support '--no-config'. Will not ignore wget default configuration files.
+[00:51:30.730] > Download complete
+[00:51:30.731] > 643c58bd0781%%2%%
+[00:51:30.735] > tar --version: tar (GNU tar) 1.35
+> Copyright (C) 2023 Free Software Foundation, Inc.
+> License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+> This is free software: you are free to change and redistribute it.
+> There is NO WARRANTY, to the extent permitted by law.
+> 
+> Written by John Gilmore and Jay Fenlason.
+[00:51:30.869] > code 1.97.2 (commit e54c774e0add60467559eb0d1e229c6452cf8447)
+[00:51:30.870] > Starting VS Code CLI...
+[00:51:30.874] > Spawned remote CLI: 8141
+[00:51:30.874] > Waiting for server log...
+[00:51:30.908] > 643c58bd0781: start
+> listeningOn==127.0.0.1:40285==
+> osReleaseId==fedora-asahi-remix==
+> arch==aarch64==
+> vscodeArch==arm64==
+> bitness==64==
+> tmpDir==/run/user/1001==
+> platform==linux==
+> unpackResult==success==
+> didLocalDownload==0==
+> downloadTime==714==
+> installTime==134==
+> serverStartTime==37==
+> execServerToken==1a111a1a-a111-11a1-11a1-11aa1aa11aa1==
+> platformDownloadPath==cli-alpine-arm64==
+> SSH_AUTH_SOCK====
+> DISPLAY====
+> 643c58bd0781: end
+[00:51:30.908] Received install output: 
+listeningOn==127.0.0.1:40285==
+osReleaseId==fedora-asahi-remix==
+arch==aarch64==
+vscodeArch==arm64==
+bitness==64==
+tmpDir==/run/user/1001==
+platform==linux==
+unpackResult==success==
+didLocalDownload==0==
+downloadTime==714==
+installTime==134==
+serverStartTime==37==
+execServerToken==1a111a1a-a111-11a1-11a1-11aa1aa11aa1==
+platformDownloadPath==cli-alpine-arm64==
+SSH_AUTH_SOCK====
+DISPLAY====
+
+[00:51:30.909] Remote server is listening on port 40285
+[00:51:30.909] Parsed server configuration: {"serverConfiguration":{"remoteListeningOn":{"port":40285},"osReleaseId":"fedora-asahi-remix","arch":"aarch64","sshAuthSock":"","display":"","tmpDir":"/run/user/1001","platform":"linux","execServerToken":"1a111a1a-a111-11a1-11a1-11aa1aa11aa1"},"downloadTime":714,"installTime":134,"serverStartTime":37,"installUnpackCode":"success"}
+[00:51:30.909] ** Note: Support for architecture "aarch64" is in preview **
+[00:51:30.911] Persisting server connection details to /home/nat/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-481a3dab-e54c774e0add60467559eb0d1e229c6452cf8447-0.117.1-es/data.json
+[00:51:30.918] Starting forwarding server. local port 36899 -> socksPort 38745 -> remotePort 40285
+[00:51:30.918] Forwarding server listening on port 36899
+[00:51:30.918] Waiting for ssh tunnel to be ready
+[00:51:30.919] [Forwarding server port 36899] Got connection 0
+[00:51:30.920] Tunneled port 40285 to local port 36899
+[00:51:30.920] Resolved "ssh-remote+.host" to "port 36899"
+[00:51:30.932] Initizing new exec server for ssh-remote+.host
+[00:51:30.932] Resolving exec server at port 36899
+[00:51:30.933] [Forwarding server port 36899] Got connection 1
+[00:51:30.976] Exec server for ssh-remote+.host created and cached
+[00:51:30.976] Extensions to install: 
+[00:51:30.986] ------
+
+
+
+
+[00:51:30.987] No hints found in the recent session.
+[00:51:31.012] [server] Checking /home/nat/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/log.txt and /home/nat/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/pid.txt for a running server...
+[00:51:31.191] [server] Installing and setting up Visual Studio Code Server...
+[00:51:31.308] [server] Downloading Visual Studio Code server -> /tmp/.tmpyTZnBv/vscode-server-linux-arm64.tar.gz
+[00:51:31.309] [server] server download progress: 0/61087332 (0%)
+[00:51:31.429] [server] server download progress: 2105344/61087332 (3%)
+[00:51:31.503] [server] server download progress: 4210688/61087332 (7%)
+[00:51:31.566] [server] server download progress: 6316032/61087332 (10%)
+[00:51:31.626] [server] server download progress: 8418551/61087332 (14%)
+[00:51:31.708] [server] server download progress: 10518528/61087332 (17%)
+[00:51:31.763] [server] server download progress: 12615948/61087332 (21%)
+[00:51:31.818] [server] server download progress: 14721024/61087332 (24%)
+[00:51:31.870] [server] server download progress: 16826368/61087332 (28%)
+[00:51:31.922] [server] server download progress: 18929743/61087332 (31%)
+[00:51:31.971] [server] server download progress: 21028864/61087332 (34%)
+[00:51:32.012] [server] server download progress: 23131843/61087332 (38%)
+[00:51:32.081] [server] server download progress: 25229494/61087332 (41%)
+[00:51:32.129] [server] server download progress: 27327050/61087332 (45%)
+[00:51:32.202] [server] server download progress: 29432394/61087332 (48%)
+[00:51:32.280] [server] server download progress: 31530580/61087332 (52%)
+[00:51:32.327] [server] server download progress: 33633717/61087332 (55%)
+[00:51:32.392] [server] server download progress: 35737707/61087332 (59%)
+[00:51:32.448] [server] server download progress: 37837227/61087332 (62%)
+[00:51:32.518] [server] server download progress: 39941531/61087332 (65%)
+[00:51:32.567] [server] server download progress: 42040149/61087332 (69%)
+[00:51:32.634] [server] server download progress: 44143003/61087332 (72%)
+[00:51:32.681] [server] server download progress: 46244078/61087332 (76%)
+[00:51:32.748] [server] server download progress: 48345466/61087332 (79%)
+[00:51:32.802] [server] server download progress: 50450304/61087332 (83%)
+[00:51:32.877] [server] server download progress: 52547919/61087332 (86%)
+[00:51:32.928] [server] server download progress: 54646801/61087332 (89%)
+[00:51:32.983] [server] server download progress: 56744222/61087332 (93%)
+[00:51:33.055] [server] server download progress: 58848080/61087332 (96%)
+[00:51:33.075] [server] server download progress: 60948480/61087332 (100%)
+[00:51:33.078] [server] server download progress: 61087332/61087332 (100%)
+[00:51:33.682] [server] server inflate progress: 104/2064 (5%)
+[00:51:33.690] [server] server inflate progress: 209/2064 (10%)
+[00:51:33.692] [server] server inflate progress: 314/2064 (15%)
+[00:51:33.696] [server] server inflate progress: 419/2064 (20%)
+[00:51:33.699] [server] server inflate progress: 524/2064 (25%)
+[00:51:33.704] [server] server inflate progress: 629/2064 (30%)
+[00:51:33.707] [server] server inflate progress: 734/2064 (36%)
+[00:51:33.710] [server] server inflate progress: 839/2064 (41%)
+[00:51:33.712] [server] server inflate progress: 944/2064 (46%)
+[00:51:33.745] [server] server inflate progress: 1049/2064 (51%)
+[00:51:33.837] [server] server inflate progress: 1154/2064 (56%)
+[00:51:33.856] [server] server inflate progress: 1259/2064 (61%)
+[00:51:33.871] [server] server inflate progress: 1364/2064 (66%)
+[00:51:34.239] [server] server inflate progress: 1469/2064 (71%)
+[00:51:34.275] [server] server inflate progress: 1574/2064 (76%)
+[00:51:34.298] [server] server inflate progress: 1679/2064 (81%)
+[00:51:34.314] [server] server inflate progress: 1784/2064 (86%)
+[00:51:34.323] [server] server inflate progress: 1889/2064 (92%)
+[00:51:34.334] [server] server inflate progress: 1994/2064 (97%)
+[00:51:34.346] [server] server inflate progress: 2064/2064 (100%)
+[00:51:34.425] [server] Server integrity verified, version: 1.97.2 / e54c774e0add60467559eb0d1e229c6452cf8447 / arm64 / 
+[00:51:34.428] [server] Server setup complete
+[00:51:34.428] [server] Starting server...
+[00:51:34.429] [server] Starting server with command... Command { std: "/home/nat/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/server/bin/code-server" "--connection-token=remotessh" "--accept-server-license-terms" "--start-server" "--enable-remote-auto-shutdown" "--socket-path=/tmp/code-6eaf4113-3dfc-4a97-952e-197e379bd2af", kill_on_drop: false }
+[00:51:34.479] [server] *
+[00:51:34.479] [server] * Visual Studio Code Server
+[00:51:34.479] [server] *
+[00:51:34.479] [server] * By using the software, you agree to
+[00:51:34.479] [server] * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+[00:51:34.480] [server] * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+[00:51:34.480] [server] Server bound to /tmp/code-6eaf4113-3dfc-4a97-952e-197e379bd2af
+[00:51:34.480] [server] Extension host agent listening on /tmp/code-6eaf4113-3dfc-4a97-952e-197e379bd2af
+[00:51:34.480] [server] parsed location: "/tmp/code-6eaf4113-3dfc-4a97-952e-197e379bd2af"
+[00:51:34.480] [server] 
+[00:51:34.480] [server] Server started
+[00:51:34.507] [server] [00:51:34] 
+[00:51:34.548] [server] 
+[00:51:34.548] [server] 
+[00:51:34.548] [server] 
+[00:51:34.548] [server] [00:51:34] Extension host agent started.
+[00:51:34.556] [server] [00:51:34] Started initializing default profile extensions in extensions installation folder. file:///home/nat/.vscode-server/extensions
+[00:51:34.563] [server] [00:51:34] [<unknown>][10a41edf][ManagementConnection] New connection established.
+[00:51:34.563] [server] [00:51:34] Completed initializing default profile extensions in extensions installation folder. file:///home/nat/.vscode-server/extensions
+[00:51:34.565] [server] [00:51:34] [<unknown>][498a148a][ExtensionHostConnection] New connection established.
+[00:51:34.684] [server] [00:51:34] [<unknown>][498a148a][ExtensionHostConnection] <8225> Launched Extension Host Process.
+[00:52:15.492] [server] [00:52:15] Getting Manifest... unthrottled.doki-theme
+[00:52:15.923] [server] [00:52:15] Installing extension: unthrottled.doki-theme {
+[00:52:15.923] [server]   installPreReleaseVersion: false,
+[00:52:15.923] [server]   context: { clientTargetPlatform: 'linux-arm64' },
+[00:52:15.923] [server]   installOnlyNewlyAddedFromExtensionPack: true,
+[00:52:15.924] [server]   isApplicationScoped: false,
+[00:52:15.924] [server] }
+[00:52:16.675] [server] [00:52:16] Extension signature verification result for unthrottled.doki-theme: Success. Executed: true. Duration: 317ms.
+[00:52:16.887] [server] [00:52:16] Extracted extension to file:///home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18: unthrottled.doki-theme
+[00:52:16.904] [server] [00:52:16] Renamed to /home/nat/.vscode-server/extensions/unthrottled.doki-theme-88.1.18
+[00:52:16.918] [server] [00:52:16] Extension installed successfully: unthrottled.doki-theme file:///home/nat/.vscode-server/extensions/extensions.json
+[00:52:27.573] [server] [00:52:27] Getting Manifest... oderwat.indent-rainbow
+[00:52:27.923] [server] [00:52:27] Installing extension: oderwat.indent-rainbow {
+[00:52:27.923] [server]   installPreReleaseVersion: false,
+[00:52:27.923] [server]   context: { clientTargetPlatform: 'linux-arm64' },
+[00:52:27.923] [server]   installOnlyNewlyAddedFromExtensionPack: true,
+[00:52:27.924] [server]   isApplicationScoped: false,
+[00:52:28.797] [server] [00:52:28] Extension signature verification result for oderwat.indent-rainbow: Success. Executed: true. Duration: 323ms.
+[00:52:29.661] [server] [00:52:29] Extracted extension to file:///home/nat/.vscode-server/extensions/oderwat.indent-rainbow-8.3.1: oderwat.indent-rainbow
+[00:52:29.740] [server] [00:52:29] Renamed to /home/nat/.vscode-server/extensions/oderwat.indent-rainbow-8.3.1
+[00:52:29.745] [server] [00:52:29] Extension installed successfully: oderwat.indent-rainbow file:///home/nat/.vscode-server/extensions/extensions.json
+[00:52:31.789] [server] [00:52:31] Getting Manifest... ms-python.mypy-type-checker
+[00:52:32.166] [server] [00:52:32] Installing extension: ms-python.mypy-type-checker {
+[00:52:32.166] [server]   installPreReleaseVersion: false,
+[00:52:32.166] [server]   context: { clientTargetPlatform: 'linux-arm64' },
+[00:52:32.166] [server]   installOnlyNewlyAddedFromExtensionPack: true,
+[00:52:32.167] [server]   isApplicationScoped: false,
+[00:52:32.167] [server]   },
+[00:52:32.383] [server] [00:52:32] Getting Manifest... magicstack.magicpython
+[00:52:32.759] [server] [00:52:32] Installing extension: magicstack.magicpython {
+[00:52:32.759] [server]   installPreReleaseVersion: false,
+[00:52:32.759] [server]   context: { clientTargetPlatform: 'linux-arm64' },
+[00:52:32.760] [server]   installOnlyNewlyAddedFromExtensionPack: true,
+[00:52:32.760] [server]   isApplicationScoped: false,
+[00:52:32.760] [server]   },
+[00:52:32.760] [server] }
+[00:52:32.966] [server] [00:52:32] Getting Manifest... ms-python.python
+[00:52:33.498] [server] [00:52:33] Getting Manifest... ms-python.vscode-pylance
+[00:52:33.518] [server] [00:52:33] Getting Manifest... ms-python.debugpy
+[00:52:33.545] [server] [00:52:33] Installing extension: ms-python.python {
+[00:52:33.545] [server]   installPreReleaseVersion: false,
+[00:52:33.545] [server]   context: {
+[00:52:33.545] [server]     clientTargetPlatform: 'linux-arm64',
+[00:52:33.546] [server]     dependecyOrPackExtensionInstall: true
+[00:52:33.546] [server]     path: '/home/nat/.vscode-server/extensions/extensions.json',
+[00:52:33.546] [server]     query: '',
+[00:52:33.546] [server]     fragment: '',
+[00:52:33.546] [server]     _formatted: 'file:///home/nat/.vscode-server/extensions/extensions.json',
+[00:52:33.546] [server]     _fsPath: '/home/nat/.vscode-server/extensions/extensions.json'
+[00:52:33.546] [server]   },
+[00:52:33.546] [server]   productVersion: { version: '1.97.2', date: '2025-02-12T23:20:35.343Z' }
+[00:52:33.546] [server] }
+[00:52:33.546] [server] [00:52:33] Installing extension: ms-python.vscode-pylance {
+[00:52:33.546] [server]   installPreReleaseVersion: false,
+[00:52:33.546] [server]     path: '/home/nat/.vscode-server/extensions/extensions.json',
+[00:52:33.546] [server]     query: '',
+[00:52:33.547] [server]     fragment: '',
+[00:52:33.547] [server]     _formatted: 'file:///home/nat/.vscode-server/extensions/extensions.json',
+[00:52:33.547] [server]     _fsPath: '/home/nat/.vscode-server/extensions/extensions.json'
+[00:52:33.547] [server]   },
+[00:52:33.547] [server]   productVersion: { version: '1.97.2', date: '2025-02-12T23:20:35.343Z' }
+[00:52:33.547] [server] }
+[00:52:33.547] [server] [00:52:33] Installing extension: ms-python.debugpy {
+[00:52:33.547] [server]   installPreReleaseVersion: false,
+[00:52:33.547] [server]   context: {
+[00:52:33.547] [server]     clientTargetPlatform: 'linux-arm64',
+[00:52:33.553] [server] [00:52:33] Extension signature verification result for magicstack.magicpython: Success. Executed: true. Duration: 324ms.
+[00:52:33.776] [server] [00:52:33] Extracted extension to file:///home/nat/.vscode-server/extensions/magicstack.magicpython-1.1.0: magicstack.magicpython
+[00:52:33.793] [server] [00:52:33] Renamed to /home/nat/.vscode-server/extensions/magicstack.magicpython-1.1.0
+[00:52:33.799] [server] [00:52:33] Extension installed successfully: magicstack.magicpython file:///home/nat/.vscode-server/extensions/extensions.json
+[00:52:34.447] [server] [00:52:34] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 331ms.
+[00:52:34.499] [server] [00:52:34] Extension signature verification result for ms-python.mypy-type-checker: Success. Executed: true. Duration: 316ms.
+[00:52:34.710] [server] [00:52:34] Extracted extension to file:///home/nat/.vscode-server/extensions/ms-python.debugpy-2025.0.1-linux-arm64: ms-python.debugpy
+[00:52:34.751] [server] [00:52:34] Renamed to /home/nat/.vscode-server/extensions/ms-python.debugpy-2025.0.1-linux-arm64
+[00:52:34.799] [server] [00:52:34] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 367ms.
+[00:52:34.981] [server] [00:52:34] Extracted extension to file:///home/nat/.vscode-server/extensions/ms-python.mypy-type-checker-2024.2.0: ms-python.mypy-type-checker
+[00:52:35.000] [server] [00:52:35] Renamed to /home/nat/.vscode-server/extensions/ms-python.mypy-type-checker-2024.2.0
+[00:52:35.397] [server] [00:52:35] Extracted extension to file:///home/nat/.vscode-server/extensions/ms-python.python-2025.0.0-linux-arm64: ms-python.python
+[00:52:35.439] [server] [00:52:35] Renamed to /home/nat/.vscode-server/extensions/ms-python.python-2025.0.0-linux-arm64
+[00:52:35.754] [server] [00:52:35] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 361ms.
+[00:52:39.115] [server] [00:52:39] Getting Manifest... gruntfuggly.todo-tree
+[00:52:39.434] [server] [00:52:39] Extracted extension to file:///home/nat/.vscode-server/extensions/ms-python.vscode-pylance-2025.2.1: ms-python.vscode-pylance
+[00:52:39.542] [server] [00:52:39] Installing extension: gruntfuggly.todo-tree {
+[00:52:39.542] [server]   installPreReleaseVersion: false,
+[00:52:39.542] [server]   context: { clientTargetPlatform: 'linux-arm64' },
+[00:52:39.542] [server]   installOnlyNewlyAddedFromExtensionPack: true,
+[00:52:39.542] [server]   isApplicationScoped: false,
+[00:52:39.543] [server]   profileLocation: Er {
+[00:52:39.543] [server]     scheme: 'file',
+[00:52:39.543] [server]     authority: '',
+[00:52:39.543] [server]     path: '/home/nat/.vscode-server/extensions/extensions.json',
+[00:52:39.544] [server]     query: '',
+[00:52:39.544] [server]     fragment: '',
+[00:52:39.544] [server]     _formatted: 'file:///home/nat/.vscode-server/extensions/extensions.json',
+[00:52:39.544] [server]     _fsPath: '/home/nat/.vscode-server/extensions/extensions.json'
+[00:52:39.544] [server]   },
+[00:52:39.545] [server]   productVersion: { version: '1.97.2', date: '2025-02-12T23:20:35.343Z' }
+[00:52:39.547] [server] }
+[00:52:39.655] [server] [00:52:39] Renamed to /home/nat/.vscode-server/extensions/ms-python.vscode-pylance-2025.2.1
+[00:52:39.694] [server] [00:52:39] Extension installed successfully: ms-python.debugpy file:///home/nat/.vscode-server/extensions/extensions.json
+[00:52:39.695] [server] [00:52:39] Extension installed successfully: ms-python.mypy-type-checker file:///home/nat/.vscode-server/extensions/extensions.json
+[00:52:39.695] [server] [00:52:39] Extension installed successfully: ms-python.python file:///home/nat/.vscode-server/extensions/extensions.json
+[00:52:39.695] [server] [00:52:39] Extension installed successfully: ms-python.vscode-pylance file:///home/nat/.vscode-server/extensions/extensions.json
+[00:52:40.347] [server] [00:52:40] Extension signature verification result for gruntfuggly.todo-tree: Success. Executed: true. Duration: 317ms.
+[00:52:40.393] [server] [00:52:40] Extracted extension to file:///home/nat/.vscode-server/extensions/gruntfuggly.todo-tree-0.0.226: gruntfuggly.todo-tree
+[00:52:40.406] [server] [00:52:40] Renamed to /home/nat/.vscode-server/extensions/gruntfuggly.todo-tree-0.0.226
+[00:52:40.420] [server] [00:52:40] Extension installed successfully: gruntfuggly.todo-tree file:///home/nat/.vscode-server/extensions/extensions.json
+[00:52:40.895] [server] [00:52:40] Getting Manifest... wakatime.vscode-wakatime
+[00:52:41.258] [server] [00:52:41] Installing extension: wakatime.vscode-wakatime {
+[00:52:41.299] [server]   installPreReleaseVersion: false,
+[00:52:41.299] [server]   context: { clientTargetPlatform: 'linux-arm64' },
+[00:52:41.300] [server]   installOnlyNewlyAddedFromExtensionPack: true,
+[00:52:41.997] [server] [00:52:41] Extension signature verification result for wakatime.vscode-wakatime: Success. Executed: true. Duration: 314ms.
+[00:52:42.038] [server] [00:52:42] Extracted extension to file:///home/nat/.vscode-server/extensions/wakatime.vscode-wakatime-25.0.0: wakatime.vscode-wakatime
+[00:52:42.039] [server] [00:52:42] Renamed to /home/nat/.vscode-server/extensions/wakatime.vscode-wakatime-25.0.0
+[00:52:42.039] [server] [00:52:42] Extension installed successfully: wakatime.vscode-wakatime file:///home/nat/.vscode-server/extensions/extensions.json
+[00:52:51.042] [server] [00:52:51] Getting Manifest... charliermarsh.ruff
+[00:52:51.377] [server] [00:52:51] Installing extension: charliermarsh.ruff {
+[00:52:51.377] [server]   installPreReleaseVersion: false,
+[00:52:51.377] [server]   context: { clientTargetPlatform: 'linux-arm64' },
+[00:52:51.377] [server]   installOnlyNewlyAddedFromExtensionPack: true,
+[00:52:51.378] [server]   isApplicationScoped: false,
+[00:52:51.378] [server] }
+[00:52:52.667] [server] [00:52:52] Getting Manifest... ms-python.python
+[00:52:53.847] [server] [00:52:53] Extension signature verification result for charliermarsh.ruff: Success. Executed: true. Duration: 343ms.
+[00:52:54.348] [server] [00:52:54] Extracted extension to file:///home/nat/.vscode-server/extensions/charliermarsh.ruff-2025.10.0-linux-arm64: charliermarsh.ruff
+[00:52:54.369] [server] [00:52:54] Renamed to /home/nat/.vscode-server/extensions/charliermarsh.ruff-2025.10.0-linux-arm64
+[00:52:54.403] [server] [00:52:54] Extension installed successfully: charliermarsh.ruff file:///home/nat/.vscode-server/extensions/extensions.json
+[00:53:16.745] [server] [00:53:16] [<unknown>][10a41edf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

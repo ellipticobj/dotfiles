@@ -1,0 +1,198 @@
+2025-02-21 01:41:55.804 [info] Name: isort
+2025-02-21 01:41:55.804 [info] Module: isort
+2025-02-21 01:41:55.804 [info] Python extension loading
+2025-02-21 01:41:55.804 [info] Waiting for interpreter from python extension.
+2025-02-21 01:41:55.804 [info] No interpreter found from setting isort.interpreter
+2025-02-21 01:41:55.804 [info] Getting interpreter from ms-python.python extension for workspace /home/nat/repos/sigma
+2025-02-21 01:41:55.804 [info] Python extension loaded
+2025-02-21 01:41:55.804 [info] Interpreter from ms-python.python extension for /home/nat/repos/sigma: /bin/python
+2025-02-21 01:41:55.804 [info] No interpreter found from setting isort.interpreter
+2025-02-21 01:41:55.804 [info] Getting interpreter from ms-python.python extension for workspace /home/nat/repos/sigma
+2025-02-21 01:41:55.804 [info] Interpreter from ms-python.python extension for /home/nat/repos/sigma: /bin/python
+2025-02-21 01:41:55.804 [info] Server run command: /bin/python /home/nat/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2025-02-21 01:41:55.804 [info] Server: Start requested.
+2025-02-21 01:41:56.311 [info] CWD Server: /home/nat/repos/sigma
+2025-02-21 01:41:56.312 [info] sys.path used to run Server:
+   /home/nat/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/nat/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/nat/.local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-02-21 01:41:56.312 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/nat/repos/sigma",
+        "workspace": "file:///home/nat/repos/sigma",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-02-21 01:41:56.312 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/nat",
+    "workspace": "/home/nat",
+    "args": [],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-02-21 01:41:56.316 [info] /bin/python -m isort --version-number
+2025-02-21 01:41:56.316 [info] CWD Linter: /home/nat/repos/sigma
+2025-02-21 01:41:56.320 [info] Version info for isort running for /home/nat/repos/sigma:
+5.11.5
+
+2025-02-21 01:41:56.320 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2025-02-21 01:41:56.327 [info] [Trace - 1:41:56 AM] Sending request 'textDocument/codeAction - (1)'.
+2025-02-21 01:41:56.335 [info] [Trace - 1:41:56 AM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-21 01:41:56.335 [info] [Trace - 1:41:56 AM] Received response 'textDocument/codeAction - (1)' in 8ms.
+2025-02-21 01:41:56.685 [info] [Trace - 1:41:56 AM] Sending notification 'textDocument/didOpen'.
+2025-02-21 01:41:56.730 [info] [Trace - 1:41:56 AM] Sending request 'textDocument/codeAction - (2)'.
+2025-02-21 01:41:56.759 [info] [Trace - 1:41:56 AM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-21 01:41:56.786 [info] [Trace - 1:41:56 AM] Received response 'textDocument/codeAction - (2)' in 55ms.
+2025-02-21 01:41:57.510 [info] [Trace - 1:41:57 AM] Sending notification 'textDocument/didOpen'.
+2025-02-21 01:41:57.537 [info] [Trace - 1:41:57 AM] Sending request 'textDocument/codeAction - (3)'.
+2025-02-21 01:41:57.539 [info] [Trace - 1:41:57 AM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-21 01:41:57.561 [info] [Trace - 1:41:57 AM] Received response 'textDocument/codeAction - (3)' in 24ms.
+2025-02-21 01:41:58.305 [info] [Trace - 1:41:58 AM] Sending notification 'textDocument/didOpen'.
+2025-02-21 01:41:58.330 [info] [Trace - 1:41:58 AM] Sending request 'textDocument/codeAction - (4)'.
+2025-02-21 01:41:58.335 [info] [Trace - 1:41:58 AM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-21 01:41:58.349 [info] [Trace - 1:41:58 AM] Received response 'textDocument/codeAction - (4)' in 18ms.
+2025-02-21 01:41:58.658 [info] [Trace - 1:41:58 AM] Sending request 'textDocument/codeAction - (5)'.
+2025-02-21 01:41:58.668 [info] [Trace - 1:41:58 AM] Received response 'textDocument/codeAction - (5)' in 11ms.
+2025-02-21 01:41:59.086 [info] [Trace - 1:41:59 AM] Sending notification 'textDocument/didOpen'.
+2025-02-21 01:41:59.096 [info] [Trace - 1:41:59 AM] Sending request 'textDocument/codeAction - (6)'.
+2025-02-21 01:41:59.115 [info] [Trace - 1:41:59 AM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-21 01:41:59.120 [info] [Trace - 1:41:59 AM] Received response 'textDocument/codeAction - (6)' in 24ms.
+2025-02-21 01:42:02.542 [info] [Trace - 1:42:02 AM] Sending request 'textDocument/codeAction - (7)'.
+2025-02-21 01:42:02.551 [info] [Trace - 1:42:02 AM] Received response 'textDocument/codeAction - (7)' in 8ms.
+2025-02-21 01:42:05.686 [info] [Trace - 1:42:05 AM] Sending request 'textDocument/codeAction - (8)'.
+2025-02-21 01:42:05.712 [info] [Trace - 1:42:05 AM] Received response 'textDocument/codeAction - (8)' in 26ms.
+2025-02-21 01:42:09.231 [info] [Trace - 1:42:09 AM] Sending notification 'textDocument/didOpen'.
+2025-02-21 01:42:09.294 [info] [Trace - 1:42:09 AM] Sending request 'textDocument/codeAction - (9)'.
+2025-02-21 01:42:09.313 [info] [Trace - 1:42:09 AM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-21 01:42:09.382 [info] [Trace - 1:42:09 AM] Received response 'textDocument/codeAction - (9)' in 88ms.
+2025-02-21 01:42:10.278 [info] [Trace - 1:42:10 AM] Sending request 'textDocument/codeAction - (10)'.
+2025-02-21 01:42:10.308 [info] [Trace - 1:42:10 AM] Received response 'textDocument/codeAction - (10)' in 30ms.
+2025-02-21 01:42:15.237 [info] [Trace - 1:42:15 AM] Sending request 'textDocument/codeAction - (11)'.
+2025-02-21 01:42:15.242 [info] [Trace - 1:42:15 AM] Received response 'textDocument/codeAction - (11)' in 5ms.
+2025-02-21 01:42:17.284 [info] [Trace - 1:42:17 AM] Sending request 'textDocument/codeAction - (12)'.
+2025-02-21 01:42:17.300 [info] [Trace - 1:42:17 AM] Received response 'textDocument/codeAction - (12)' in 16ms.
+2025-02-21 01:42:17.712 [info] [Trace - 1:42:17 AM] Sending request 'textDocument/codeAction - (13)'.
+2025-02-21 01:42:17.737 [info] [Trace - 1:42:17 AM] Received response 'textDocument/codeAction - (13)' in 25ms.
+2025-02-21 01:42:18.103 [info] [Trace - 1:42:18 AM] Sending request 'textDocument/codeAction - (14)'.
+2025-02-21 01:42:18.129 [info] [Trace - 1:42:18 AM] Received response 'textDocument/codeAction - (14)' in 26ms.
+2025-02-21 01:42:23.038 [info] [Trace - 1:42:23 AM] Sending request 'textDocument/codeAction - (15)'.
+2025-02-21 01:42:23.058 [info] [Trace - 1:42:23 AM] Received response 'textDocument/codeAction - (15)' in 21ms.
+2025-02-21 01:42:24.007 [info] [Trace - 1:42:24 AM] Sending request 'textDocument/codeAction - (16)'.
+2025-02-21 01:42:24.017 [info] [Trace - 1:42:24 AM] Received response 'textDocument/codeAction - (16)' in 10ms.
+2025-02-21 01:42:24.650 [info] [Trace - 1:42:24 AM] Sending request 'textDocument/codeAction - (17)'.
+2025-02-21 01:42:24.662 [info] [Trace - 1:42:24 AM] Received response 'textDocument/codeAction - (17)' in 12ms.
+2025-02-21 01:42:30.470 [info] [Trace - 1:42:30 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:30.752 [info] [Trace - 1:42:30 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:30.996 [info] [Trace - 1:42:30 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:31.166 [info] [Trace - 1:42:31 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:31.233 [info] [Trace - 1:42:31 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:31.446 [info] [Trace - 1:42:31 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:31.621 [info] [Trace - 1:42:31 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:31.665 [info] [Trace - 1:42:31 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:31.721 [info] [Trace - 1:42:31 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:31.784 [info] [Trace - 1:42:31 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:31.932 [info] [Trace - 1:42:31 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:32.039 [info] [Trace - 1:42:32 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:32.121 [info] [Trace - 1:42:32 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:32.234 [info] [Trace - 1:42:32 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:32.369 [info] [Trace - 1:42:32 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:32.633 [info] [Trace - 1:42:32 AM] Sending request 'textDocument/codeAction - (18)'.
+2025-02-21 01:42:32.646 [info] [Trace - 1:42:32 AM] Received response 'textDocument/codeAction - (18)' in 13ms.
+2025-02-21 01:42:33.365 [info] [Trace - 1:42:33 AM] Sending request 'textDocument/codeAction - (19)'.
+2025-02-21 01:42:33.380 [info] [Trace - 1:42:33 AM] Received response 'textDocument/codeAction - (19)' in 15ms.
+2025-02-21 01:42:36.273 [info] [Trace - 1:42:36 AM] Sending request 'textDocument/codeAction - (20)'.
+2025-02-21 01:42:36.287 [info] [Trace - 1:42:36 AM] Received response 'textDocument/codeAction - (20)' in 14ms.
+2025-02-21 01:42:38.370 [info] [Trace - 1:42:38 AM] Sending request 'textDocument/codeAction - (21)'.
+2025-02-21 01:42:38.373 [info] [Trace - 1:42:38 AM] Received response 'textDocument/codeAction - (21)' in 3ms.
+2025-02-21 01:42:38.731 [info] [Trace - 1:42:38 AM] Sending request 'textDocument/codeAction - (22)'.
+2025-02-21 01:42:38.768 [info] [Trace - 1:42:38 AM] Received response 'textDocument/codeAction - (22)' in 37ms.
+2025-02-21 01:42:39.049 [info] [Trace - 1:42:39 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:39.204 [info] [Trace - 1:42:39 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:39.361 [info] [Trace - 1:42:39 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:39.531 [info] [Trace - 1:42:39 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:39.624 [info] [Trace - 1:42:39 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:39.706 [info] [Trace - 1:42:39 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:39.937 [info] [Trace - 1:42:39 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:40.109 [info] [Trace - 1:42:40 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:42:40.403 [info] [Trace - 1:42:40 AM] Sending request 'textDocument/codeAction - (23)'.
+2025-02-21 01:42:40.406 [info] [Trace - 1:42:40 AM] Received response 'textDocument/codeAction - (23)' in 3ms.
+2025-02-21 01:42:40.556 [info] [Trace - 1:42:40 AM] Sending notification 'textDocument/didSave'.
+2025-02-21 01:42:40.568 [info] [Trace - 1:42:40 AM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-21 01:42:41.607 [info] [Trace - 1:42:41 AM] Sending request 'textDocument/codeAction - (24)'.
+2025-02-21 01:42:41.633 [info] [Trace - 1:42:41 AM] Received response 'textDocument/codeAction - (24)' in 26ms.
+2025-02-21 01:42:42.561 [info] [Trace - 1:42:42 AM] Sending request 'textDocument/codeAction - (25)'.
+2025-02-21 01:42:42.578 [info] [Trace - 1:42:42 AM] Received response 'textDocument/codeAction - (25)' in 17ms.
+2025-02-21 01:42:44.455 [info] [Trace - 1:42:44 AM] Sending request 'textDocument/codeAction - (26)'.
+2025-02-21 01:42:44.467 [info] [Trace - 1:42:44 AM] Received response 'textDocument/codeAction - (26)' in 12ms.
+2025-02-21 01:42:44.991 [info] [Trace - 1:42:44 AM] Sending request 'textDocument/codeAction - (27)'.
+2025-02-21 01:42:45.006 [info] [Trace - 1:42:45 AM] Received response 'textDocument/codeAction - (27)' in 15ms.
+2025-02-21 01:42:59.488 [info] [Trace - 1:42:59 AM] Sending request 'textDocument/codeAction - (28)'.
+2025-02-21 01:42:59.505 [info] [Trace - 1:42:59 AM] Received response 'textDocument/codeAction - (28)' in 17ms.
+2025-02-21 01:43:01.744 [info] [Trace - 1:43:01 AM] Sending request 'textDocument/codeAction - (29)'.
+2025-02-21 01:43:01.751 [info] [Trace - 1:43:01 AM] Received response 'textDocument/codeAction - (29)' in 7ms.
+2025-02-21 01:43:02.512 [info] [Trace - 1:43:02 AM] Sending request 'textDocument/codeAction - (30)'.
+2025-02-21 01:43:02.545 [info] [Trace - 1:43:02 AM] Received response 'textDocument/codeAction - (30)' in 34ms.
+2025-02-21 01:43:03.710 [info] [Trace - 1:43:03 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:43:04.053 [info] [Trace - 1:43:04 AM] Sending request 'textDocument/codeAction - (31)'.
+2025-02-21 01:43:04.080 [info] [Trace - 1:43:04 AM] Received response 'textDocument/codeAction - (31)' in 27ms.
+2025-02-21 01:43:04.346 [info] [Trace - 1:43:04 AM] Sending request 'textDocument/codeAction - (32)'.
+2025-02-21 01:43:04.363 [info] [Trace - 1:43:04 AM] Received response 'textDocument/codeAction - (32)' in 17ms.
+2025-02-21 01:43:05.555 [info] [Trace - 1:43:05 AM] Sending request 'textDocument/codeAction - (33)'.
+2025-02-21 01:43:05.569 [info] [Trace - 1:43:05 AM] Received response 'textDocument/codeAction - (33)' in 14ms.
+2025-02-21 01:43:05.877 [info] [Trace - 1:43:05 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:43:06.046 [info] [Trace - 1:43:06 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:43:06.217 [info] [Trace - 1:43:06 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:43:06.384 [info] [Trace - 1:43:06 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:43:06.577 [info] [Trace - 1:43:06 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:43:06.772 [info] [Trace - 1:43:06 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:43:07.031 [info] [Trace - 1:43:07 AM] Sending request 'textDocument/codeAction - (34)'.
+2025-02-21 01:43:07.042 [info] [Trace - 1:43:07 AM] Received response 'textDocument/codeAction - (34)' in 11ms.
+2025-02-21 01:43:07.328 [info] [Trace - 1:43:07 AM] Sending request 'textDocument/codeAction - (35)'.
+2025-02-21 01:43:07.344 [info] [Trace - 1:43:07 AM] Received response 'textDocument/codeAction - (35)' in 16ms.
+2025-02-21 01:43:08.179 [info] [Trace - 1:43:08 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:43:08.493 [info] [Trace - 1:43:08 AM] Sending request 'textDocument/codeAction - (36)'.
+2025-02-21 01:43:08.498 [info] [Trace - 1:43:08 AM] Received response 'textDocument/codeAction - (36)' in 5ms.
+2025-02-21 01:43:08.789 [info] [Trace - 1:43:08 AM] Sending request 'textDocument/codeAction - (37)'.
+2025-02-21 01:43:08.791 [info] [Trace - 1:43:08 AM] Received response 'textDocument/codeAction - (37)' in 3ms.
+2025-02-21 01:43:09.745 [info] [Trace - 1:43:09 AM] Sending notification 'textDocument/didChange'.
+2025-02-21 01:43:10.036 [info] [Trace - 1:43:10 AM] Sending request 'textDocument/codeAction - (38)'.
+2025-02-21 01:43:10.045 [info] [Trace - 1:43:10 AM] Received response 'textDocument/codeAction - (38)' in 9ms.
+2025-02-21 01:43:11.113 [info] [Trace - 1:43:11 AM] Sending request 'textDocument/codeAction - (39)'.
+2025-02-21 01:43:11.125 [info] [Trace - 1:43:11 AM] Received response 'textDocument/codeAction - (39)' in 12ms.
+2025-02-21 01:43:11.424 [info] [Trace - 1:43:11 AM] Sending notification 'textDocument/didSave'.
+2025-02-21 01:43:11.447 [info] [Trace - 1:43:11 AM] Received notification 'textDocument/publishDiagnostics'.
+2025-02-21 01:43:12.119 [info] [Trace - 1:43:12 AM] Sending request 'textDocument/codeAction - (40)'.
+2025-02-21 01:43:12.153 [info] [Trace - 1:43:12 AM] Received response 'textDocument/codeAction - (40)' in 34ms.
+2025-02-21 01:43:12.989 [info] [Trace - 1:43:12 AM] Sending request 'textDocument/codeAction - (41)'.
+2025-02-21 01:43:13.012 [info] [Trace - 1:43:13 AM] Received response 'textDocument/codeAction - (41)' in 23ms.
+2025-02-21 01:43:16.360 [info] [Trace - 1:43:16 AM] Sending request 'textDocument/codeAction - (42)'.
+2025-02-21 01:43:16.375 [info] [Trace - 1:43:16 AM] Received response 'textDocument/codeAction - (42)' in 15ms.

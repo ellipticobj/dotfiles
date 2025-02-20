@@ -1,0 +1,30 @@
+[
+	{
+		"fullPath": "/home/nat/repos/TicTacToe",
+		"name": "TicTacToe"
+	},
+	{
+		"fullPath": "/home/nat/repos/scrap",
+		"name": "scrap"
+	},
+	{
+		"fullPath": "/home/nat/repos/sigma",
+		"name": "sigma"
+	},
+	{
+		"fullPath": "/home/nat/repos/sigma-lang-web",
+		"name": "sigma-lang-web"
+	},
+	{
+		"fullPath": "/home/nat/repos/documentation-generator",
+		"name": "documentation-generator"
+	},
+	{
+		"fullPath": "/home/nat/repos/meowboard",
+		"name": "meowboard"
+	},
+	{
+		"fullPath": "/home/nat/repos/website",
+		"name": "website"
+	}
+]

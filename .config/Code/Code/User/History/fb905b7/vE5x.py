@@ -1,0 +1,6 @@
+IF_OPEN = "if"
+IF_CLOSE = "fi"
+
+THEN = "then"
+ELSE = "else"
+

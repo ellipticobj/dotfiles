@@ -1,0 +1,29 @@
+2025-02-20 17:18:32.885 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:18:33.701 [info] Looking for git repository
+2025-02-20 17:18:33.701 [info] Found 0 repositories during activation
+2025-02-20 17:18:33.701 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:18:33.702 [info] Registering git provider
+2025-02-20 17:18:48.814 [info] Activation> Extension version: 0.104.1
+2025-02-20 17:18:49.900 [info] Looking for git repository
+2025-02-20 17:18:49.900 [info] Found 0 repositories during activation
+2025-02-20 17:18:49.900 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-20 17:18:49.902 [info] Registering git provider
+2025-02-20 17:18:49.902 [info] Review+0> Validate state in progress
+2025-02-20 17:18:49.902 [info] Review+0> Validating state...
+2025-02-20 17:18:49.950 [info] Found GitHub remote for folder /home/nat/repos/sigma-lang-web
+2025-02-20 17:18:49.994 [info] Repo state for file:///home/nat/repos/sigma-lang-web changed.
+2025-02-20 17:18:49.994 [info] Repo file:///home/nat/repos/sigma-lang-web has already been setup.
+2025-02-20 17:18:50.462 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-02-20 17:18:50.521 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-20 17:18:50.531 [info] FolderRepositoryManager+0> GlobalState does not exist for assignableUsers.
+2025-02-20 17:18:51.316 [info] Found matching pull request metadata on GitHub for current branch main. Repo: dimini171/sigma-lang-web PR: 1
+2025-02-20 17:18:51.316 [info] PullRequestGitHelper> associate main with Pull Request #1
+2025-02-20 17:18:51.362 [info] Review+0> Found matching pull request metadata for current branch main. Repo: dimini171/sigma-lang-web PR: 1
+2025-02-20 17:18:51.362 [info] Review+0> current branch main is associated with pull request #1
+2025-02-20 17:18:51.362 [info] Review+0> Resolving pull request
+2025-02-20 17:18:51.362 [info] FolderRepositoryManager+0> Found GitHub repo for pr #1: yes
+2025-02-20 17:18:52.014 [info] FolderRepositoryManager+0> Found GitHub pr repo for pr #1: yes
+2025-02-20 17:18:52.014 [info] GitHubRepository+0.1> Fetch branch main - enter
+2025-02-20 17:18:52.450 [info] GitHubRepository+0.1> Fetch branch main - done: false
+2025-02-20 17:18:52.452 [info] Review+0> This PR is no longer valid
+2025-02-20 17:18:52.453 [info] Review+0> Unable to resolve PR #1

@@ -1,0 +1,22 @@
+2025-02-21 00:31:53.576 [info] Name: Ruff
+2025-02-21 00:31:53.576 [info] Module: ruff
+2025-02-21 00:31:53.576 [info] Python extension loading
+2025-02-21 00:31:53.576 [info] Waiting for interpreter from python extension.
+2025-02-21 00:31:53.576 [info] Python extension loaded
+2025-02-21 00:31:53.576 [info] Using interpreter: /usr/bin/python
+2025-02-21 00:31:53.661 [info] Falling back to bundled executable: /home/nat/.vscode/extensions/charliermarsh.ruff-2025.8.0-linux-arm64/bundled/libs/bin/ruff
+2025-02-21 00:31:53.709 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2025-02-21 00:31:53.712 [info] Found Ruff 0.9.6 at /home/nat/.vscode/extensions/charliermarsh.ruff-2025.8.0-linux-arm64/bundled/libs/bin/ruff
+2025-02-21 00:31:53.712 [info] Server run command: /home/nat/.vscode/extensions/charliermarsh.ruff-2025.8.0-linux-arm64/bundled/libs/bin/ruff server
+2025-02-21 00:31:53.712 [info] Server: Start requested.
+2025-02-21 01:41:32.069 [info] Name: Ruff
+2025-02-21 01:41:32.069 [info] Module: ruff
+2025-02-21 01:41:32.069 [info] Python extension loading
+2025-02-21 01:41:32.069 [info] Waiting for interpreter from python extension.
+2025-02-21 01:41:32.069 [info] Python extension loaded
+2025-02-21 01:41:32.069 [info] Using interpreter: /bin/python
+2025-02-21 01:41:32.275 [info] Falling back to bundled executable: /home/nat/.vscode/extensions/charliermarsh.ruff-2025.10.0-linux-arm64/bundled/libs/bin/ruff
+2025-02-21 01:41:32.317 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2025-02-21 01:41:32.320 [info] Found Ruff 0.9.7 at /home/nat/.vscode/extensions/charliermarsh.ruff-2025.10.0-linux-arm64/bundled/libs/bin/ruff
+2025-02-21 01:41:32.320 [info] Server run command: /home/nat/.vscode/extensions/charliermarsh.ruff-2025.10.0-linux-arm64/bundled/libs/bin/ruff server
+2025-02-21 01:41:32.320 [info] Server: Start requested.
