@@ -10,10 +10,16 @@ export ZSH="$HOME/.oh-my-zsh"
 
 plugins=(
 	git
+	sudo
 	zsh-autosuggestions
 	zsh-syntax-highlighting
-	fast-syntax-highlighting
 	zsh-autocomplete
+	you-should-use
+	web-search
+	copyfile
+	copybuffer
+	dirhistory
+	
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -45,3 +51,7 @@ export PATH=$HOME/.local/bin:$PATH
 export BOX64_LD_LIBRARY_PATH=/usr/lib64/libgcc_s.so.1
 
 alias clear="clear && fastfetch"
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init - bash)"
+
