@@ -1,0 +1,45 @@
+{
+	"name": "language-cython",
+	"displayName": "Language-Cython",
+	"description": "Syntax highlighter for Cython",
+	"homepage": "https://github.com/guyskk/language-cython-for-vscode",
+	"repository": "https://github.com/guyskk/language-cython-for-vscode",
+	"version": "0.0.8",
+	"publisher": "guyskk",
+	"icon": "images/cython-logo.png",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "cython",
+				"aliases": [
+					"Cython",
+					"cython"
+				],
+				"extensions": [
+					".pyx",
+					".pxi",
+					".pxd"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "cython",
+				"scopeName": "source.cython",
+				"path": "./syntaxes/Cython.tmLanguage"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1740044619054,
+		"size": 397861
+	}
+}

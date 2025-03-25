@@ -1,0 +1,22 @@
+2025-03-24 00:56:14.828 [info] [Activation] Extension version: 0.106.0
+2025-03-24 00:56:15.140 [info] [Activation] Looking for git repository
+2025-03-24 00:56:15.140 [info] [Activation] Found 0 repositories during activation
+2025-03-24 00:56:15.140 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-03-24 00:56:15.141 [info] [GitAPI] Registering git provider
+2025-03-24 00:56:15.141 [info] [Review+0] Validate state in progress
+2025-03-24 00:56:15.141 [info] [Review+0] Validating state...
+2025-03-24 00:56:15.141 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-03-24 00:56:15.141 [info] [FolderRepositoryManager+0] No GitHub remotes found for folder /home/luna/repos/gh-cli-rs
+2025-03-24 00:56:15.142 [info] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-03-24 00:56:15.147 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-03-24 00:56:15.161 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2025-03-24 00:56:15.259 [info] [FolderRepositoryManager+0] Using globalState assignableUsers for 0.
+2025-03-24 00:56:55.659 [info] [Activation] Repo state for file:///home/luna/repos/gh-cli-rs changed.
+2025-03-24 00:56:55.659 [info] [Activation] Repo file:///home/luna/repos/gh-cli-rs has already been setup.
+2025-03-24 01:20:17.934 [info] [Review+0] Validate state in progress
+2025-03-24 01:20:17.935 [info] [Review+0] Validating state...
+2025-03-24 01:20:17.936 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-03-24 01:20:17.936 [info] [FolderRepositoryManager+0] No GitHub remotes found for folder /home/luna/repos/gh-cli-rs
+2025-03-24 01:20:17.937 [info] [FolderRepositoryManager+0] Using in-memory cached assignable users.
+2025-03-24 01:20:17.948 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-03-24 01:20:17.953 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main

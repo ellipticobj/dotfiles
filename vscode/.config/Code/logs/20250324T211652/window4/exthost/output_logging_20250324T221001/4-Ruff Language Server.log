@@ -1,0 +1,5 @@
+2025-03-24 22:10:03.985670000  INFO Registering workspace: /home/luna/repos/documentation-generator
+2025-03-24 22:10:04.025736518  INFO Configuration file watcher successfully registered
+2025-03-24 22:10:04.380967704  WARN Received notification $/setTrace which does not have a handler.
+2025-03-24 22:10:04.874124072  WARN Received notification $/setTrace which does not have a handler.
+2025-03-24 22:10:06.839892401  WARN Received notification $/setTrace which does not have a handler.

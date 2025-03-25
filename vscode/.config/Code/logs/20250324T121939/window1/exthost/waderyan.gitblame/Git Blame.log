@@ -1,0 +1,117 @@
+2025-03-24 12:19:43.420 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:19:43.420 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:19:43.420 [info] git config user.email
+2025-03-24 12:19:43.420 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:19:43.542 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:27:39.322 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:27:39.330 [info] git config user.email
+2025-03-24 12:27:39.336 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:27:39.614 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:27:45.854 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:27:45.860 [info] git config user.email
+2025-03-24 12:27:45.865 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:27:45.999 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:27:51.698 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:27:51.711 [info] git config user.email
+2025-03-24 12:27:51.720 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:27:51.843 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:27:56.203 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:27:56.217 [info] git config user.email
+2025-03-24 12:27:56.233 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:27:56.357 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:28:02.705 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:28:02.723 [info] git config user.email
+2025-03-24 12:28:02.738 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:28:02.863 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:30:58.193 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:30:58.200 [info] git config user.email
+2025-03-24 12:30:58.205 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:30:58.334 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:31:03.232 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:31:03.239 [info] git config user.email
+2025-03-24 12:31:03.244 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:31:03.378 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:31:17.202 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:31:17.208 [info] git config user.email
+2025-03-24 12:31:17.216 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:31:17.359 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:32:45.067 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:32:45.073 [info] git config user.email
+2025-03-24 12:32:45.079 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:32:45.366 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:32:57.189 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:32:57.194 [info] git config user.email
+2025-03-24 12:32:57.199 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:32:57.323 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:34:08.295 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:34:08.303 [info] git config user.email
+2025-03-24 12:34:08.308 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:34:08.432 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:34:31.373 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:34:31.380 [info] git config user.email
+2025-03-24 12:34:31.388 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:34:31.509 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:34:54.176 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:34:54.184 [info] git config user.email
+2025-03-24 12:34:54.191 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:34:54.314 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:34:57.067 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:34:57.073 [info] git config user.email
+2025-03-24 12:34:57.078 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:34:57.220 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:35:02.966 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:35:02.972 [info] git config user.email
+2025-03-24 12:35:02.977 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:35:03.117 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:35:06.361 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:35:06.367 [info] git config user.email
+2025-03-24 12:35:06.372 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:35:06.496 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:35:16.208 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:35:16.215 [info] git config user.email
+2025-03-24 12:35:16.221 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:35:16.344 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:35:23.191 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:35:23.201 [info] git config user.email
+2025-03-24 12:35:23.228 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:35:23.350 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:35:32.272 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:35:32.279 [info] git config user.email
+2025-03-24 12:35:32.284 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:35:32.403 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:36:15.098 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:36:15.105 [info] git config user.email
+2025-03-24 12:36:15.111 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:36:15.234 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:36:45.350 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:36:45.358 [info] git config user.email
+2025-03-24 12:36:45.363 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:36:45.488 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:36:52.681 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:36:52.685 [info] git config user.email
+2025-03-24 12:36:52.691 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:36:52.834 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:37:02.332 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:37:02.340 [info] git config user.email
+2025-03-24 12:37:02.346 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:37:02.468 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:37:20.190 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:37:20.201 [info] git config user.email
+2025-03-24 12:37:20.211 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:37:20.332 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:37:39.782 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:37:39.791 [info] git config user.email
+2025-03-24 12:37:39.795 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:37:39.942 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:39:52.577 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:39:52.583 [info] git config user.email
+2025-03-24 12:39:52.589 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:39:52.714 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:41:40.402 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:41:40.412 [info] git config user.email
+2025-03-24 12:41:40.419 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:41:40.542 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-24 12:42:08.146 [info] git rev-parse --absolute-git-dir
+2025-03-24 12:42:08.154 [info] git config user.email
+2025-03-24 12:42:08.161 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-24 12:42:08.284 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"

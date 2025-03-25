@@ -1,0 +1,153 @@
+2025-03-24 22:10:02.858 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-03-24 22:10:02.858 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-24 22:10:02.858 [info] Experiment 'pythonTestAdapter' is active
+2025-03-24 22:10:02.858 [warning] Dir "/home/luna/repos/documentation-generator/.pixi/envs" is not watchable (directory does not exist)
+2025-03-24 22:10:02.858 [info] Starting Environment refresh
+2025-03-24 22:10:03.019 [info] > hatch env show --json
+2025-03-24 22:10:03.019 [info] cwd: .
+2025-03-24 22:10:03.055 [info] > ./env/bin/python -I ~/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/get_output_via_markers.py ~/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/interpreterInfo.py
+2025-03-24 22:10:03.056 [info] Environments refresh paths discovered: 238 milliseconds
+2025-03-24 22:10:03.730 [info] > ~/.pyenv/bin/pyenv which python
+2025-03-24 22:10:03.730 [info] cwd: .
+2025-03-24 22:10:03.764 [info] Python interpreter path: ./env/bin/python
+2025-03-24 22:10:03.825 [info] Environments refresh finished (event): 1007 milliseconds
+2025-03-24 22:10:03.830 [info] Environment refresh took 1013 milliseconds
+2025-03-24 22:10:04.431 [info] > . ./env/bin/activate.fish && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/printEnvVariables.py
+2025-03-24 22:10:04.431 [info] shell: fish
+2025-03-24 22:10:04.574 [warning] Got env variables but with errors TERM environment variable not set.
+ {
+  PWD: '/home/luna',
+  GDK_BACKEND: 'wayland',
+  GDMSESSION: 'hyprland',
+  DBUS_SESSION_BUS_ADDRESS: 'unix:path=/run/user/1000/bus',
+  HYPRCURSOR_SIZE: '24',
+  LANG: 'en_US.UTF-8',
+  MOZ_GMP_PATH: '/usr/lib64/mozilla/plugins/gmp-gmpopenh264/system-installed:/var/lib/widevine/gmp-widevinecdm/system-installed',
+  HYPRLAND_CMD: 'Hyprland',
+  HYPRLAND_INSTANCE_SIGNATURE: '5ee35f914f921e5696030698e74fb5566a804768_1742795426_1738394121',
+  NO_AT_BRIDGE: '1',
+  PYTHONUNBUFFERED: '1',
+  VSCODE_CWD: '/home/luna',
+  EDITOR: 'nvim',
+  VSCODE_IPC_HOOK: '/run/user/1000/vscode-16736e22-1.97-main.sock',
+  XDG_CURRENT_DESKTOP: 'Hyprland',
+  USERNAME: 'luna',
+  XDG_VTNR: '2',
+  APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL: '1',
+  ELECTRON_OZONE_PLATFORM_HINT: 'auto',
+  VSCODE_CRASH_REPORTER_PROCESS_TYPE: 'extensionHost',
+  XDG_SESSION_DESKTOP: 'Hyprland',
+  VSCODE_PID: '68671',
+  XDG_SEAT: 'seat0',
+  WAYLAND_DISPLAY: 'wayland-1',
+  QT_QPA_PLATFORM: 'wayland;xcb',
+  QT_QUICK_CONTROLS_STYLE: 'org.hyprland.style',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  XDG_SESSION_CLASS: 'user',
+  VIRTUAL_ENV_PROMPT: 'env',
+  _OLD_VIRTUAL_PATH: '/home/luna/.local/bin:/home/luna/.cargo/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin',
+  SHLVL: '1',
+  OPENAI_API_KEY: 'sk-svcacct-X1kg4qKWj8rzYj9NIHdzjMs0VwN6grST8sdJy73RDAVxv69fnQZyFLtCGft2V3L-T3BlbkFJsX6pBmEzmcvrP2WCKoAqW5wYgvzW8lkCrCLOZSu4lL9hv7WwCoEI_qbxZpMsY5EA',
+  VSCODE_NLS_CONFIG: '{"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}',
+  VIRTUAL_ENV: '/home/luna/repos/documentation-generator/env',
+  DEBUGINFOD_IMA_CERT_PATH: '/etc/keys/ima',
+  CLUTTER_BACKEND: 'wayland',
+  DISPLAY: ':0',
+  SHELL: '/usr/bin/fish',
+  VSCODE_L10N_BUNDLE_LOCATION: '',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  QT_QPA_PLATFORMTHEME: 'qt6ct',
+  DESKTOP_SESSION: 'hyprland',
+  GEMINI_API_KEY: 'AIzaSyDllVfWBQFHglZaqGL0_AtpAcZaHMdCcv4',
+  DEBUGINFOD_URLS: 'https://debuginfod.fedoraproject.org/',
+  VSCODE_CODE_CACHE_PATH: '/home/luna/.config/Code/CachedData/e249dada235c2083c83813bd65b7f4707fb97b76',
+  STARSHIP_SHELL: 'fish',
+  XDG_DATA_DIRS: '/home/luna/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/',
+  PYTHONIOENCODING: 'utf-8',
+  ELECTRON_RUN_AS_NODE: '1',
+  PYTHONWARNINGS: 'ignore',
+  PATH: '/home/luna/repos/documentation-generator/env/bin:/home/luna/.local/bin:/home/luna/.cargo/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin',
+  USER: 'luna',
+  XDG_BACKEND: 'wayland',
+  QT_AUTO_SCREEN_SCALE_FACTOR: '1',
+  GDK_SCALE: '1',
+  _JAVA_AWT_WM_NONREPARENTING: '1',
+  VSCODE_ESM_ENTRYPOINT: 'vs/workbench/api/node/extensionHostProcess',
+  GSK_RENDERER: 'ngl',
+  XDG_SESSION_ID: '5',
+  MOZ_ENABLE_WAYLAND: '1',
+  CHROME_DESKTOP: 'code.desktop',
+  SYSTEMD_SLEEP_FREEZE_USER_SESSIONS: '0',
+  GDM_LANG: 'en_US.UTF-8',
+  STARSHIP_SESSION_KEY: '2308223292252321',
+  HOME: '/home/luna',
+  QT_WAYLAND_DISABLE_WINDOWDECORATION: '1',
+  QT_SCALE_FACTOR: '1',
+  VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME: '/home/luna',
+  APPLICATIONINSIGHTS_CONFIGURATION_CONTENT: '{}',
+  HYPRCURSOR_THEME: 'Bibata-Modern-Ice',
+  XDG_SESSION_TYPE: 'wayland',
+  ORIGINAL_XDG_CURRENT_DESKTOP: 'Hyprland',
+  LOGNAME: 'luna'
+}
+2025-03-24 22:10:04.580 [info] > /bin/python ~/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/printEnvVariables.py
+2025-03-24 22:10:04.580 [info] shell: fish
+2025-03-24 22:10:04.748 [error] [
+  'parseEnvironmentOutput, Class name = M, completed in 0ms, has a falsy return value',
+  [SyntaxError: Unexpected token '⢸', "
+  ⢸⣇⢹⣿⣿⣿⣿⣿⣿⣿"... is not valid JSON
+  	at JSON.parse (<anonymous>)
+  	at /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:230333
+  	at M.parseEnvironmentOutput (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:462017)
+  	at /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:561687
+  	at r.value (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:561922)
+  	at /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:561687
+  	at r.value (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:561922)
+  	at M.getProcessEnvironmentVariables (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:458774)
+  	at async D._applyCollectionImpl (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:870736)
+  	at async D._applyCollection (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:869558)]
+]
+2025-03-24 22:10:04.748 [error] [
+  'Failed to parse Environment variables, Class name = M, completed in 1ms, has a falsy return value, Arg 1: "\\n⢸⣇⢹⣿⣿⣿⣿⣿⣿⣿⢿⡟⣿⣻⢿⣿⡷⢉⣾⣿⣮⡙⣿⣿⣿⡿⣿⣷⡈\\n⠸⣿⡆⢻⣿⣿⡿⣏⢻⣟⡾⣽⣳⣯⣿⣥⠰⣇⣿⣿⣿⠟⣬⢳⣿⣷⢹⣿⣧\\n⡇⣿⣿⣆⢻⣿⡽⣻⣆⠹⣿⣽⣿⣽⣷⣿⢆⣿⠜⠛⠋⠈⠛⠃⠙⣺⠼⣷⢿\\n⣷⢨⣭⣭⣥⡡⣶⣟⣾⣰⡹⣿⣿⣿⣿⣿⢾⠁⣠⣶⠾⠿⢷⣶⣄⠈⢫⣟⣿\\n⢿⡆⣿⣿⣿⣷⡝⣿⣿⣧⣗⣿⡿⣟⣿⣾⡇⣸⡟⣡⡐⡲⢦⡌⢻⣷⡀⢸⣿\\n⣿⣿⡜⠘⠛⠛⠛⠋⢽⣷⣿⣯⣿⣿⣿⣿⣷⣿⡇⣿⠷⣻⣦⡭⢂⢿⣇⠈⣿\\n⣿⠊⠀⣠⣤⡶⠶⣤⣤⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⡜⣩⢿⣶⡟⣸⣿⣆⡉\\n⠇⠀⣼⣿⢁⠰⠰⣤⢍⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡜⠯⢿⠻⢃⣟⢬⣭⣶\\n⠄⢸⣿⡧⣿⣷⢻⣤⡯⢆⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿⣏⣚⣳⣵\\n⠀⢸⣿⣿⡈⠤⠿⣻⣧⣿⠆⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\\n⣦⠠⣻⣿⣷⣌⠹⣯⢿⡟⢣⣿⣿⣿⣿⣿⣿⣿⢛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿\\n⣿⣧⡙⣿⣿⡿⢷⢶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣯⢸⣳⡜⢿⣿⣿⣿⣿⣿⣿⠇\\n⣿⡛⣿⢦⡹⣓⣯⣭⡝⣿⣿⣿⣿⣿⣿⣿⣿⣿⡔⢧⣛⣸⣿⣿⣿⣿⡿⠃⣠\\n⣾⡽⡆⢿⠼⡻⠞⣣⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣿⣿⣿⣿⠿⠋⠀⣈⠁\\n⣿⣽⣷⠀⠓⠷⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⣡⠴⢮⡽⡹⢧\\u001b[1G\\u001b[15A\\u001b[33C\\n\\u001b[33C DISTRO 󰑃  Fedora Linux Asahi Remix 41 (Workstation Edition) aarch64\\n\\u001b[33C│ ├ 󰑃  Linux 6.13.7-401.asahi.fc41.aarch64+16k\\n\\u001b[33C│ └ 󰑃  fish 3.7.0\\n\\u001b[33C DE/WM 󰑃  Hyprland 0.48.0 (Wayland)\\n\\u001b[33C│ ├󰀻 󰑃  Tokyonight-Dark [Qt], Papirus-Dark [GTK3]\\n\\u001b[33C│ ├ 󰑃  Bibata-Modern-Ice (24px)\\n\\u001b[33C│ └ 󰑃  code\\n\\u001b[33C󰌢 SYSTEM 󰑃  Apple MacBook Air (M1, 2020)\\n\\u001b[33C│ ├󰻠 󰑃  Apple M1 (8) @ 3.20 GHz\\n\\u001b[33C│ ├󰍹 󰑃  2560x1600 @ 60Hz\\n\\u001b[33C│ ├󰾆 󰑃  6.63 GiB / 7.33 GiB (90%)\\n\\u001b[33C│ ├󰅐 󰑃  8 hours, 21 mins\\n\\u001b[33C│ └󰍹 󰑃  2560x1600 @ 60Hz\\n\\u001b[33C AUDIO 󰑃  Built-in Audio Headphones\\n\\u001b[33C│ └󰝚 󰑃  ZØMB - LETS CONNECT! (Paused)\\n\\u001b[33C\\u001b[90m  \\u001b[31m  \\u001b[32m  \\u001b[33m  \\u001b[34m  \\u001b[35m  \\u001b[36m  \\u001b[37m  \\u001b[38m  \\u001b[39m  \\u001b[39m    \\u001b[38m  \\u001b[37m  \\u001b[36m  \\u001b[35m  \\u001b[34m  \\u001b[33m  \\u001b[32m  \\u001b[31m  \\u001b[90m \\n\\u001b[33C\\n{\\"PWD\\": \\"/home/luna\\", \\"DISPLAY\\": \\":0\\", \\"GDK_BACKEND\\": \\"wayland\\", \\"GDMSESSION\\": \\"hyprland\\", \\"DBUS_SESSION_BUS_ADDRESS\\": \\"unix:path=/run/user/1000/bus\\", \\"HYPRCURSOR_SIZE\\": \\"24\\", \\"LANG\\": \\"en_US.UTF-8\\", \\"MOZ_GMP_PATH\\": \\"/usr/lib64/mozilla/plugins/gmp-gmpopenh264/system-installed:/var/lib/widevine/gmp-widevinecdm/system-installed\\", \\"XDG_CURRENT_DESKTOP\\": \\"Hyprland\\", \\"USERNAME\\": \\"luna\\", \\"APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL\\": \\"1\\", \\"XDG_VTNR\\": \\"2\\", \\"QT_AUTO_SCREEN_SCALE_FACTOR\\": \\"1\\", \\"XDG_BACKEND\\": \\"wayland\\", \\"GDK_SCALE\\": \\"1\\", \\"VSCODE_CODE_CACHE_PATH\\": \\"/home/luna/.config/Code/CachedData/e249dada235c2083c83813bd65b7f4707fb97b76\\", \\"STARSHIP_SHELL\\": \\"fish\\", \\"DEBUGINFOD_URLS\\": \\"https://debuginfod.fedoraproject.org/\\", \\"ELECTRON_RUN_AS_NODE\\": \\"1\\", \\"VSCODE_PID\\": \\"68671\\", \\"XDG_DATA_DIRS\\": \\"/home/luna/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/\\", \\"PYTHONIOENCODING\\": \\"utf-8\\", \\"XDG_SEAT\\": \\"seat0\\", \\"WAYLAND_DISPLAY\\": \\"wayland-1\\", \\"SHLVL\\": \\"1\\", \\"DESKTOP_SESSION\\": \\"hyprland\\", \\"QT_QUICK_CONTROLS_STYLE\\": \\"org.hyprland.style\\", \\"VSCODE_HANDLES_UNCAUGHT_ERRORS\\": \\"true\\", \\"QT_QPA_PLATFORM\\": \\"wayland;xcb\\", \\"DEBUGINFOD_IMA_CERT_PATH\\": \\"/etc/keys/ima\\", \\"SHELL\\": \\"/usr/bin/fish\\", \\"VSCODE_L10N_BUNDLE_LOCATION\\": \\"\\", \\"XDG_RUNTIME_DIR\\": \\"/run/user/1000\\", \\"QT_QPA_PLATFORMTHEME\\": \\"qt6ct\\", \\"USER\\": \\"luna\\", \\"PATH\\": \\"/home/luna/.local/bin:/home/luna/.cargo/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin\\", \\"CLUTTER_BACKEND\\": \\"wayland\\", \\"_JAVA_AWT_WM_NONREPARENTING\\": \\"1\\", \\"VSCODE_ESM_ENTRYPOINT\\": \\"vs/workbench/api/node/extensionHostProcess\\", \\"VSCODE_NLS_CONFIG\\": \\"{\\\\\\"userLocale\\\\\\":\\\\\\"en-us\\\\\\",\\\\\\"osLocale\\\\\\":\\\\\\"en-us\\\\\\",\\\\\\"resolvedLanguage\\\\\\":\\\\\\"en\\\\\\",\\\\\\"defaultMessagesFile\\\\\\":\\\\\\"/usr/share/code/resources/app/out/nls.messages.json\\\\\\",\\\\\\"locale\\\\\\":\\\\\\"en-us\\\\\\",\\\\\\"availableLanguages\\\\\\":{}}\\", \\"GSK_RENDERER\\": \\"ngl\\", \\"XDG_SESSION_ID\\": \\"5\\", \\"MOZ_ENABLE_WAYLAND\\": \\"1\\", \\"VSCODE_CRASH_REPORTER_PROCESS_TYPE\\": \\"extensionHost\\", \\"ELECTRON_OZONE_PLATFORM_HINT\\": \\"auto\\", \\"XDG_SESSION_DESKTOP\\": \\"Hyprland\\", \\"XDG_SESSION_CLASS\\": \\"user\\", \\"CHROME_DESKTOP\\": \\"code.desktop\\", \\"SYSTEMD_SLEEP_FREEZE_USER_SESSIONS\\": \\"0\\", \\"GDM_LANG\\": \\"en_US.UTF-8\\", \\"STARSHIP_SESSION_KEY\\": \\"3522442924770199\\", \\"HOME\\": \\"/home/luna\\", \\"QT_WAYLAND_DISABLE_WINDOWDECORATION\\": \\"1\\", \\"QT_SCALE_FACTOR\\": \\"1\\", \\"LOGNAME\\": \\"luna\\", \\"VSCODE_IPC_HOOK\\": \\"/run/user/1000/vscode-16736e22-1.97-main.sock\\", \\"EDITOR\\": \\"nvim\\", \\"HYPRCURSOR_THEME\\": \\"Bibata-Modern-Ice\\", \\"VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME\\": \\"/home/luna\\", \\"APPLICATIONINSIGHTS_CONFIGURATION_CONTENT\\": \\"{}\\", \\"ORIGINAL_XDG_CURRENT_DESKTOP\\": \\"Hyprland\\", \\"XDG_SESSION_TYPE\\": \\"wayland\\", \\"VSCODE_CWD\\": \\"/home/luna\\", \\"PYTHONUNBUFFERED\\": \\"1\\", \\"NO_AT_BRIDGE\\": \\"1\\", \\"HYPRLAND_INSTANCE_SIGNATURE\\": \\"5ee35f914f921e5696030698e74fb5566a804768_1742795426_1738394121\\", \\"HYPRLAND_CMD\\": \\"Hyprland\\"}\\n", Arg 2: undefined, Return Value: undefined',
+  [SyntaxError: Unexpected token '⢸', "
+  ⢸⣇⢹⣿⣿⣿⣿⣿⣿⣿"... is not valid JSON
+  	at JSON.parse (<anonymous>)
+  	at /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:230333
+  	at M.parseEnvironmentOutput (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:462017)
+  	at /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:561687
+  	at r.value (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:561922)
+  	at /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:561687
+  	at r.value (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:561922)
+  	at M.getProcessEnvironmentVariables (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:458774)
+  	at async D._applyCollectionImpl (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:870736)
+  	at async D._applyCollection (/home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/out/client/extension.js:2:869558)]
+]
+2025-03-24 22:10:04.749 [info] Setting environment variable PYTHONUNBUFFERED in collection to 1 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-24 22:10:04.749 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to env {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-24 22:10:04.749 [info] Setting environment variable OPENAI_API_KEY in collection to sk-svcacct-X1kg4qKWj8rzYj9NIHdzjMs0VwN6grST8sdJy73RDAVxv69fnQZyFLtCGft2V3L-T3BlbkFJsX6pBmEzmcvrP2WCKoAqW5wYgvzW8lkCrCLOZSu4lL9hv7WwCoEI_qbxZpMsY5EA {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-24 22:10:04.749 [info] Setting environment variable VIRTUAL_ENV in collection to /home/luna/repos/documentation-generator/env {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-24 22:10:04.749 [info] Setting environment variable GEMINI_API_KEY in collection to AIzaSyDllVfWBQFHglZaqGL0_AtpAcZaHMdCcv4 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-24 22:10:04.749 [info] Setting environment variable PYTHONIOENCODING in collection to utf-8 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-24 22:10:04.749 [info] Prepending environment variable PATH in collection to /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/deactivate/fish:/home/luna/repos/documentation-generator/env/bin:/home/luna/.local/bin:/home/luna/.cargo/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-24 22:10:04.749 [info] Setting environment variable STARSHIP_SESSION_KEY in collection to 2308223292252321 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-03-24 22:10:04.750 [info] Send text to terminal: /bin/python /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/printEnvVariablesToFile.py /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/deactivate/fish/envVars.txt
+2025-03-24 22:10:05.409 [info] Starting Pylance language server.
+2025-03-24 22:10:43.808 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-03-24 22:10:43.808 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-24 22:10:43.808 [info] Experiment 'pythonTestAdapter' is active
+2025-03-24 22:10:43.808 [warning] Dir "/home/luna/repos/meower/.pixi/envs" is not watchable (directory does not exist)
+2025-03-24 22:10:43.874 [info] Starting Environment refresh
+2025-03-24 22:10:43.888 [info] > hatch env show --json
+2025-03-24 22:10:43.888 [info] cwd: .
+2025-03-24 22:10:44.421 [info] > ~/.pyenv/bin/pyenv which python
+2025-03-24 22:10:44.421 [info] cwd: .
+2025-03-24 22:10:44.582 [info] > ./venv/bin/python -I ~/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/get_output_via_markers.py ~/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/interpreterInfo.py
+2025-03-24 22:10:44.681 [info] Environments refresh paths discovered: 807 milliseconds
+2025-03-24 22:10:44.691 [info] > conda info --json
+2025-03-24 22:10:44.702 [info] > /usr/share/anaconda/bin/conda info --json
+2025-03-24 22:10:44.717 [info] Python interpreter path: ./venv/bin/python
+2025-03-24 22:10:45.445 [info] Environments refresh finished (event): 1571 milliseconds
+2025-03-24 22:10:45.464 [info] Environment refresh took 1591 milliseconds
+2025-03-24 22:10:45.850 [info] > /bin/python -I ~/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/get_output_via_markers.py ~/dotfiles/vscode/.vscode/extensions/ms-python.python-2025.2.0-linux-arm64/python_files/interpreterInfo.py
+2025-03-24 22:10:51.957 [info] Python interpreter path: /bin/python
+2025-03-24 22:10:56.181 [info] Starting Pylance language server.

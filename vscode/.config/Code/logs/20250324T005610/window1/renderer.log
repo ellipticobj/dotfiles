@@ -1,0 +1,78 @@
+2025-03-24 00:56:11.639 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-24 00:56:11.640 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-24 00:56:11.640 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-24 00:56:11.640 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-24 00:56:11.919 [info] Started local extension host with pid 28393.
+2025-03-24 00:56:12.259 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 00:56:12.418 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 00:56:12.442 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 00:56:12.442 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 00:56:13.801 [info] Settings Sync: Token updated for the account ellipticobj
+2025-03-24 00:56:13.803 [info] Settings Sync: Account status changed from uninitialized to available
+2025-03-24 00:56:15.339 [info] [perf] Render performance baseline is 36ms
+2025-03-24 00:56:43.845 [error] Cannot read the extension from /home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64: ScanningExtension: Cannot read the extension from /home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64
+    at dh.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:72155)
+2025-03-24 10:07:40.023 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 57 --cursorpos 29 --lines-in-file 105 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs
+
+2025-03-24 10:08:49.940 [warning] Failed to fetch chat participant registry Offline
+2025-03-24 10:09:14.026 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 38 --cursorpos 37 --lines-in-file 110 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:09:35.522 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 39 --cursorpos 16 --lines-in-file 111 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:09:43.845 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 39 --cursorpos 10 --lines-in-file 111 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:09:46.920 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 40 --cursorpos 3 --lines-in-file 111 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:09:47.702 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 40 --cursorpos 2 --lines-in-file 111 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:09:57.158 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 39 --cursorpos 19 --lines-in-file 111 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:10:18.703 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 10 --cursorpos 30 --lines-in-file 114 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:10:28.392 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 10 --cursorpos 14 --lines-in-file 114 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:10:39.036 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 10 --cursorpos 5 --lines-in-file 119 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:10:52.245 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 10 --cursorpos 5 --lines-in-file 126 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:11:06.017 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 34 --cursorpos 1 --lines-in-file 131 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:11:30.062 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 163 --cursorpos 1 --lines-in-file 235 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:11:42.406 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 56 --cursorpos 36 --lines-in-file 131 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:12:03.073 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 76 --cursorpos 43 --lines-in-file 132 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:12:06.368 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 76 --cursorpos 47 --lines-in-file 132 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:12:43.662 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 76 --cursorpos 42 --lines-in-file 132 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:13:11.254 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 59 --cursorpos 19 --lines-in-file 132 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:13:15.927 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 60 --cursorpos 9 --lines-in-file 133 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:13:49.962 [warning] Failed to fetch chat participant registry Offline
+2025-03-24 10:13:57.137 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 61 --cursorpos 2 --lines-in-file 133 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:13:59.233 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 62 --cursorpos 1 --lines-in-file 133 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:14:09.048 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 59 --cursorpos 13 --lines-in-file 133 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:14:12.566 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 59 --cursorpos 10 --lines-in-file 133 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:14:14.995 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 59 --cursorpos 14 --lines-in-file 133 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:14:21.583 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 59 --cursorpos 14 --lines-in-file 133 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:14:25.902 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 59 --cursorpos 17 --lines-in-file 133 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:15:45.043 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 57 --cursorpos 15 --lines-in-file 133 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:16:43.532 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 29 --cursorpos 23 --lines-in-file 136 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:16:49.044 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 30 --cursorpos 7 --lines-in-file 136 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:17:23.235 [warning] Semantic token with invalid length detected at lineNumber 65, column 1
+2025-03-24 10:17:24.641 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/luna/.wakatime/wakatime-cli-linux-arm64 --entity /home/luna/repos/gh-cli-rs/src/main.rs --plugin "vscode/1.97.1 vscode-wakatime/25.0.0" --lineno 61 --cursorpos 25 --lines-in-file 136 --alternate-project gh-cli-rs --project-folder /home/luna/repos/gh-cli-rs --write
+
+2025-03-24 10:18:49.990 [warning] Failed to fetch chat participant registry Offline

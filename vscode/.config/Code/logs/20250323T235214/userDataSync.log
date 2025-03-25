@@ -1,0 +1,45 @@
+2025-03-23 23:52:16.864 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-03-23 23:52:16.864 [info] [AutoSync] Enabled.
+2025-03-23 23:52:16.864 [info] [AutoSync] Suspended until auth token is available.
+2025-03-23 23:52:30.440 [info] [AutoSync] Triggered by Interval
+2025-03-23 23:52:30.441 [info] Sync started.
+2025-03-23 23:52:30.748 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 23:52:30.778 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 23:52:30.779 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 23:52:30.781 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 23:52:32.007 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2025-03-23 23:52:32.008 [info] GlobalState: Updated last synchronized ui state
+2025-03-23 23:52:32.105 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 23:52:32.106 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 23:52:32.106 [info] Sync done. Took 1686ms
+2025-03-23 23:52:59.735 [info] [AutoSync] Triggered by Activity
+2025-03-23 23:52:59.735 [info] Sync started.
+2025-03-23 23:52:59.862 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 23:52:59.998 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 23:53:00.000 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 23:53:00.004 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 23:53:00.011 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 23:53:00.101 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 23:53:00.104 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 23:53:00.106 [info] Sync done. Took 372ms
+2025-03-23 23:53:04.161 [info] [AutoSync] Triggered by Activity
+2025-03-23 23:53:04.162 [info] Sync started.
+2025-03-23 23:53:04.200 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 23:53:04.204 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 23:53:04.208 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 23:53:04.211 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 23:53:05.431 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2025-03-23 23:53:05.431 [info] GlobalState: Updated last synchronized ui state
+2025-03-23 23:53:05.501 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 23:53:05.502 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 23:53:05.503 [info] Sync done. Took 1344ms
+2025-03-23 23:53:32.731 [info] [AutoSync] Triggered by Activity
+2025-03-23 23:53:32.732 [info] Sync started.
+2025-03-23 23:53:32.758 [info] Settings: No changes found during synchronizing settings.
+2025-03-23 23:53:32.761 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-03-23 23:53:32.762 [info] Snippets: No changes found during synchronizing snippets.
+2025-03-23 23:53:32.764 [info] Tasks: No changes found during synchronizing tasks.
+2025-03-23 23:53:32.765 [info] GlobalState: No changes found during synchronizing ui state.
+2025-03-23 23:53:32.870 [info] Extensions: No changes found during synchronizing extensions.
+2025-03-23 23:53:32.889 [info] Profiles: No changes found during synchronizing profiles.
+2025-03-23 23:53:32.890 [info] Sync done. Took 160ms

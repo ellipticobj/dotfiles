@@ -1,0 +1,40 @@
+2025-03-24 00:56:14.956 [info] GitLens v16.3.3 activating in Visual Studio Code (1.97.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (bafe2a3496a86c02a4b903a5a764c1a471e9c6050f980138dad669c478745f4b|687926f0-13d2-47cf-b6ab-1c4c503e83a21742748971654)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-03-24 00:56:54.296 [info] [2025-03-23 16:56:53.794] [GIT          ] [/home/luna/.rustup/toolchains/stable-aarch64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [4ms]
+
+[2025-03-23 16:56:53.843] [GIT          ] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossterm-0.28.1/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [2ms]
+
+[2025-03-23 16:56:53.911] [GIT          ] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossterm-0.28.1/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [4ms]
+
+
+2025-03-24 01:01:08.562 [info] [2025-03-23 17:01:08.061] [GIT          ] [/home/luna/.rustup/toolchains/stable-aarch64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [2ms]
+
+
+2025-03-24 01:01:09.062 [info] [2025-03-23 17:01:08.696] [GIT          ] [/home/luna/.rustup/toolchains/stable-aarch64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [4ms]
+
+
+2025-03-24 01:01:15.171 [info] [2025-03-23 17:01:14.671] [GIT          ] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.29.0/src/backend] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [4ms]
+
+
+2025-03-24 01:18:46.391 [info] [2025-03-23 17:18:45.891] [GIT          ] [/home/luna/.rustup/toolchains/stable-aarch64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [5ms]
+
+
+2025-03-24 01:19:38.829 [info] [2025-03-23 17:19:38.329] [GIT          ] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.29.0/src/layout] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [5ms]
+
+
+2025-03-24 01:19:44.330 [info] [2025-03-23 17:19:44.113] [GIT          ] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.29.0/src/widgets] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [4ms]
+
+
+2025-03-24 01:19:58.762 [info] [2025-03-23 17:19:58.262] [GIT          ] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.29.0/src/terminal] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [5ms]
+
+
+2025-03-24 10:08:52.807 [info] [2025-03-24 02:08:52.306] [GIT          ] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.29.0/src/terminal] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [9ms]
+
+
+2025-03-24 10:10:23.752 [info] [2025-03-24 02:10:23.250] [GIT          ] [/home/luna/.rustup/toolchains/stable-aarch64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [8ms]
+
+
+2025-03-24 10:14:24.116 [info] [2025-03-24 02:14:23.613] [GIT          ] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.29.0/src] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [8ms]
+
+

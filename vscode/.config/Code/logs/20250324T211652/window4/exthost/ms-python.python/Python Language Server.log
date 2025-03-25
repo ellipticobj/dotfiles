@@ -1,0 +1,51 @@
+2025-03-24 22:10:04.980 [info] (Client) Pylance async client (2025.3.2) started with python extension (2025.2.0)
+2025-03-24 22:10:05.368 [info] [Info  - 10:10:05 PM] (115471) Server root directory: file:///home/luna/dotfiles/vscode/.vscode/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-24 22:10:05.368 [info] [Info  - 10:10:05 PM] (115471) Pylance language server 2025.3.2 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-24 22:10:05.368 [info] [Info  - 10:10:05 PM] (115471) Starting service instance "documentation-generator"
+2025-03-24 22:10:05.457 [info] [Info  - 10:10:05 PM] (115471) Setting environmentName for service "documentation-generator": "3.13.2 (env venv)"
+2025-03-24 22:10:05.457 [info] [Info  - 10:10:05 PM] (115471) Setting pythonPath for service "documentation-generator": "/home/luna/repos/documentation-generator/env/bin/python"
+2025-03-24 22:10:05.457 [info] [Info  - 10:10:05 PM] (115471) No include entries specified; assuming /home/luna/repos/documentation-generator
+2025-03-24 22:10:05.458 [info] [Info  - 10:10:05 PM] (115471) Auto-excluding **/node_modules
+2025-03-24 22:10:05.460 [info] [Info  - 10:10:05 PM] (115471) Auto-excluding **/__pycache__
+2025-03-24 22:10:05.460 [info] [Info  - 10:10:05 PM] (115471) Auto-excluding **/.*
+2025-03-24 22:10:05.497 [info] [Info  - 10:10:05 PM] (115471) Assuming Python version 3.13.2.final.0
+2025-03-24 22:10:05.615 [info] [Info  - 10:10:05 PM] (115471) Auto-excluding /home/luna/repos/documentation-generator/env
+2025-03-24 22:10:05.617 [info] [Info  - 10:10:05 PM] (115471) Found 5 source files
+2025-03-24 22:10:05.954 [info] [Info  - 10:10:05 PM] (115471) Priority queue background worker(2) root directory: file:///home/luna/dotfiles/vscode/.vscode/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-24 22:10:05.955 [info] [Info  - 10:10:05 PM] (115471) Priority queue background worker(2) started
+2025-03-24 22:10:46.413 [info] [Info  - 10:10:46 PM] (116841) Server root directory: file:///home/luna/dotfiles/vscode/.vscode/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-24 22:10:46.413 [info] [Info  - 10:10:46 PM] (116841) Pylance language server 2025.3.2 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-24 22:10:46.416 [info] [Info  - 10:10:46 PM] (116841) Starting service instance "meower"
+2025-03-24 22:10:46.451 [info] [Info  - 10:10:46 PM] (116841) Loading pyproject.toml file at /home/luna/repos/meower/pyproject.toml
+2025-03-24 22:10:46.452 [info] [Info  - 10:10:46 PM] (116841) Setting environmentName for service "meower": "3.13.2 (global)"
+2025-03-24 22:10:46.452 [info] [Info  - 10:10:46 PM] (116841) Setting pythonPath for service "meower": "/bin/python"
+2025-03-24 22:10:46.452 [info] [Info  - 10:10:46 PM] (116841) No include entries specified; assuming /home/luna/repos/meower
+2025-03-24 22:10:46.452 [info] [Info  - 10:10:46 PM] (116841) Auto-excluding **/node_modules
+2025-03-24 22:10:46.452 [info] [Info  - 10:10:46 PM] (116841) Auto-excluding **/__pycache__
+2025-03-24 22:10:46.452 [info] [Info  - 10:10:46 PM] (116841) Auto-excluding **/.*
+2025-03-24 22:10:46.484 [info] [Info  - 10:10:46 PM] (116841) Assuming Python version 3.13.2.final.0
+2025-03-24 22:10:46.573 [info] [Info  - 10:10:46 PM] (116841) Auto-excluding /home/luna/repos/meower/venv
+2025-03-24 22:10:46.577 [info] [Info  - 10:10:46 PM] (116841) Found 17 source files
+2025-03-24 22:10:47.029 [info] [Info  - 10:10:47 PM] (116841) Priority queue background worker(2) root directory: file:///home/luna/dotfiles/vscode/.vscode/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-24 22:10:47.030 [info] [Info  - 10:10:47 PM] (116841) Priority queue background worker(2) started
+2025-03-24 22:10:47.276 [info] [Info  - 10:10:47 PM] (116841) Indexer background runner(3) root directory: file:///home/luna/dotfiles/vscode/.vscode/extensions/ms-python.vscode-pylance-2025.3.2/dist (index)
+2025-03-24 22:10:47.276 [info] [Info  - 10:10:47 PM] (116841) Indexing(3) started
+2025-03-24 22:10:48.046 [info] [Info  - 10:10:48 PM] (116841) scanned(3) 398 files over 1 exec env
+2025-03-24 22:10:50.343 [info] [Info  - 10:10:50 PM] (116841) [IDX(3)] Long operation: index execution environment file:///home/luna/repos/meower (2078ms)
+2025-03-24 22:10:50.361 [info] [Info  - 10:10:50 PM] (116841) [IDX(3)] Long operation: index packages file:///home/luna/repos/meower (2122ms)
+2025-03-24 22:10:50.361 [info] [Info  - 10:10:50 PM] (116841) indexed(3) 398 files over 1 exec env
+2025-03-24 22:10:50.445 [info] [Info  - 10:10:50 PM] (116841) Indexing finished(3).
+2025-03-24 22:10:56.178 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-03-24 22:10:56.178 [info] (Client) Pylance async client (2025.3.2) started with python extension (2025.2.0)
+2025-03-24 22:10:56.198 [info] [Info  - 10:10:56 PM] (116841) Starting service instance "<default>"
+2025-03-24 22:10:56.248 [info] [Info  - 10:10:56 PM] (116841) Setting environmentName for service "<default>": "3.13.2 (global)"
+2025-03-24 22:10:56.249 [info] [Info  - 10:10:56 PM] (116841) Setting pythonPath for service "<default>": "/bin/python"
+2025-03-24 22:10:56.249 [info] [Info  - 10:10:56 PM] (116841) No include entries specified; assuming /<default workspace root>
+2025-03-24 22:10:56.249 [info] [Info  - 10:10:56 PM] (116841) Auto-excluding **/node_modules
+2025-03-24 22:10:56.249 [info] [Info  - 10:10:56 PM] (116841) Auto-excluding **/__pycache__
+2025-03-24 22:10:56.250 [info] [Info  - 10:10:56 PM] (116841) Auto-excluding **/.*
+2025-03-24 22:10:56.269 [info] [Info  - 10:10:56 PM] (116841) Assuming Python version 3.13.2.final.0
+2025-03-24 22:10:56.367 [info] [Error - 10:10:56 PM] (116841) File or directory "/<default workspace root>" does not exist.
+2025-03-24 22:10:56.368 [info] [Info  - 10:10:56 PM] (116841) No source files found.
+2025-03-24 22:10:56.639 [info] [Info  - 10:10:56 PM] (116841) Priority queue background worker(5) root directory: file:///home/luna/dotfiles/vscode/.vscode/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-24 22:10:56.640 [info] [Info  - 10:10:56 PM] (116841) Priority queue background worker(5) started

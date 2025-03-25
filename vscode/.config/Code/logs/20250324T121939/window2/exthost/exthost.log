@@ -1,0 +1,104 @@
+2025-03-24 13:17:21.570 [info] Extension host with pid 51114 started
+2025-03-24 13:17:21.570 [info] Skipping acquiring lock for /home/luna/.config/Code/User/workspaceStorage/ac6fa81eee3663aaaf0198561d9f957e.
+2025-03-24 13:17:21.775 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-24 13:17:21.860 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-24 13:17:21.862 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-03-24 13:17:21.873 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-03-24 13:17:21.887 [info] ExtensionService#_doActivateExtension nhoizey.gremlins, startup: true, activationEvent: '*'
+2025-03-24 13:17:21.888 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2025-03-24 13:17:21.889 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2025-03-24 13:17:21.924 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2025-03-24 13:17:21.927 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: true, activationEvent: 'workspaceContains:README.md'
+2025-03-24 13:17:22.052 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2025-03-24 13:17:22.076 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-24 13:17:22.112 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-24 13:17:22.168 [info] Eager extensions activated
+2025-03-24 13:17:22.178 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.181 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.190 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.193 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.200 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.280 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.281 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.331 [info] ExtensionService#_doActivateExtension felipecaputo.git-project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.348 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.367 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.429 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.450 [info] ExtensionService#_doActivateExtension kuba-p.theme-pink-candy, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.453 [info] ExtensionService#_doActivateExtension mkxml.vscode-filesize, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.455 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.495 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.598 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.605 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.618 [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.626 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:22.629 [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+2025-03-24 13:17:23.080 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-24 13:17:35.833 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2025-03-24 13:17:36.455 [warning] TextEditor is closed/disposed
+2025-03-24 13:17:36.920 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/node_modules/vscode-jsonrpc/lib/common/connection.js:1167:27)
+	at Object.dispose (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:1514:35)
+	at LanguageClient.handleConnectionClosed (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:1105:34)
+	at LanguageClient.handleConnectionClosed (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/node/main.js:180:22)
+	at closeHandler (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:1092:18)
+	at CallbackList.invoke (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+	at Emitter.fire (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+	at closeHandler (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/node_modules/vscode-jsonrpc/lib/common/connection.js:314:26)
+	at CallbackList.invoke (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+	at Emitter.fire (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+	at IPCMessageReader.fireClose (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/node_modules/vscode-jsonrpc/lib/common/messageReader.js:41:27)
+	at ChildProcess.<anonymous> (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/node_modules/vscode-jsonrpc/lib/node/main.js:37:45)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-03-24 13:17:36.922 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at LanguageClient.shutdown (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:914:19)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:885:21)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/node/main.js:150:22)
+	at LanguageClient.doInitialize (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:867:27)
+	at async LanguageClient.start (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:722:13)
+2025-03-24 13:17:36.923 [error] Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at LanguageClient.shutdown (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:914:19)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:885:21)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/node/main.js:150:22)
+	at LanguageClient.doInitialize (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:867:27)
+	at async LanguageClient.start (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:722:13)
+2025-03-24 13:17:36.927 [error] Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at LanguageClient.shutdown (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:914:19)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:885:21)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/node/main.js:150:22)
+	at LanguageClient.doInitialize (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:867:27)
+	at async LanguageClient.start (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:722:13)
+2025-03-24 13:17:36.933 [error] Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at LanguageClient.shutdown (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:914:19)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:885:21)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/node/main.js:150:22)
+	at LanguageClient.doInitialize (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:867:27)
+	at async LanguageClient.start (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:722:13)
+2025-03-24 13:17:36.937 [error] Error: Client is not running and can't be stopped. It's current state is: startFailed
+	at LanguageClient.shutdown (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:914:19)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:885:21)
+	at LanguageClient.stop (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/node/main.js:150:22)
+	at LanguageClient.doInitialize (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:867:27)
+	at async LanguageClient.start (/home/luna/dotfiles/vscode/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0/node_modules/vscode-languageclient/lib/common/client.js:722:13)
+2025-03-24 13:17:40.176 [warning] TextEditor is closed/disposed
+2025-03-24 13:17:41.008 [warning] TextEditor is closed/disposed
+2025-03-24 13:17:43.686 [warning] TextEditor is closed/disposed
+2025-03-24 13:17:44.358 [warning] TextEditor is closed/disposed
+2025-03-24 13:17:54.784 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:03.489 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:07.169 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:10.315 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:14.136 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:16.528 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:17.962 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:19.649 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:20.648 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:27.097 [warning] TextEditor is closed/disposed
+2025-03-24 13:18:31.819 [warning] TextEditor is closed/disposed
+2025-03-24 13:20:22.430 [warning] TextEditor is closed/disposed
+2025-03-24 13:21:06.145 [warning] TextEditor is closed/disposed
+2025-03-24 13:21:38.051 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

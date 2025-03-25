@@ -1,0 +1,47 @@
+2025-03-23 23:53:34.650 [info] [main] Log level: Info
+2025-03-23 23:53:34.650 [info] [main] Validating found git in: "git"
+2025-03-23 23:53:34.650 [info] [main] Using git "2.49.0" from "git"
+2025-03-23 23:53:34.650 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-23 23:53:34.650 [info] > git rev-parse --show-toplevel [26ms]
+2025-03-23 23:53:34.650 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2025-03-23 23:53:34.650 [info] [Model][openRepository] Opened repository: /home/luna/repos/gh-cli-rs
+2025-03-23 23:53:34.653 [info] > git rev-parse --show-toplevel [971ms]
+2025-03-23 23:53:34.654 [info] > git config --get commit.template [974ms]
+2025-03-23 23:53:34.654 [info] > git fetch [983ms]
+2025-03-23 23:53:35.285 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-23 23:53:35.297 [info] > git check-ignore -v -z --stdin [96ms]
+2025-03-23 23:53:35.299 [info] > git config --get commit.template [116ms]
+2025-03-23 23:53:35.300 [info] > git rev-parse --show-toplevel [121ms]
+2025-03-23 23:53:35.327 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2025-03-23 23:53:35.339 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-23 23:53:35.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2025-03-23 23:53:35.356 [info] > git rev-parse --show-toplevel [31ms]
+2025-03-23 23:53:35.357 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-23 23:53:35.370 [info] > git show --textconv :src/main.rs [10ms]
+2025-03-23 23:53:35.371 [info] > git config --get --local branch.main.vscode-merge-base [16ms]
+2025-03-23 23:53:35.371 [warning] [Git][config] git config failed: Failed to execute git
+2025-03-23 23:53:35.377 [info] > git config --get commit.template [30ms]
+2025-03-23 23:53:35.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2025-03-23 23:53:35.396 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2025-03-23 23:53:35.402 [info] > git reflog main --grep-reflog=branch: Created from *. [25ms]
+2025-03-23 23:53:35.402 [info] > git ls-files --stage -- src/main.rs [35ms]
+2025-03-23 23:53:35.413 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-23 23:53:35.427 [info] > git config --get --local branch.main.vscode-merge-base [26ms]
+2025-03-23 23:53:35.427 [warning] [Git][config] git config failed: Failed to execute git
+2025-03-23 23:53:35.459 [info] > git reflog main --grep-reflog=branch: Created from *. [29ms]
+2025-03-23 23:53:35.460 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [46ms]
+2025-03-23 23:53:35.472 [info] > git cat-file -s e7a11a969c037e00a796aafeff6258501ec15e9a [63ms]
+2025-03-23 23:53:35.515 [info] > git status -z -uall [47ms]
+2025-03-23 23:53:35.516 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [45ms]
+2025-03-23 23:53:35.567 [info] > git config --get commit.template [7ms]
+2025-03-23 23:53:35.587 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-23 23:53:35.612 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2025-03-23 23:53:35.653 [info] > git status -z -uall [39ms]
+2025-03-23 23:53:35.653 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+2025-03-23 23:53:35.699 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [220ms]
+2025-03-23 23:53:36.576 [info] > git config --get --local branch.main.github-pr-owner-number [34ms]
+2025-03-23 23:53:36.576 [warning] [Git][config] git config failed: Failed to execute git
+2025-03-23 23:53:36.587 [info] > git config --get --local branch.main.remote [5ms]
+2025-03-23 23:53:36.587 [warning] [Git][config] git config failed: Failed to execute git
+2025-03-23 23:53:36.594 [info] > git config --get --local branch.main.merge [3ms]
+2025-03-23 23:53:36.594 [warning] [Git][config] git config failed: Failed to execute git

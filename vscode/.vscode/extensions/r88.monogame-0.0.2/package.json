@@ -1,0 +1,93 @@
+{
+	"name": "monogame",
+	"displayName": "MonoGame for VS Code",
+	"description": "Better MonoGame integration for Visual Studio Code.",
+	"version": "0.0.2",
+	"publisher": "r88",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/reflector88/monogame-for-vscode"
+	},
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^1.90.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"workspaceContains:**/Content/*.mgcb"
+	],
+	"main": "./dist/extension.js",
+	"contributes": {
+		"menus": {
+			"editor/title": [
+				{
+					"command": "monogame.openMGCB",
+					"when": "monogame.projectOpen",
+					"group": "navigation"
+				}
+			],
+			"commandPalette": [
+				{
+					"command": "monogame.openMGCB",
+					"when": "monogame.projectOpen"
+				}
+			],
+			"file/newFile": [
+				{
+					"command": "monogame.createProject",
+					"group": "file"
+				}
+			]
+		},
+		"commands": [
+			{
+				"command": "monogame.createProject",
+				"title": "MonoGame: New Project"
+			},
+			{
+				"command": "monogame.openMGCB",
+				"title": "MonoGame: Open MGCB Editor",
+				"icon": {
+					"dark": "images/monogame_titlebar_dark.svg",
+					"light": "images/monogame_titlebar_light.svg"
+				}
+			},
+			{
+				"command": "monogame.install",
+				"title": "MonoGame: Install"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run package",
+		"compile": "npm run check-types && npm run lint && node esbuild.js",
+		"watch": "npm-run-all -p watch:*",
+		"watch:esbuild": "node esbuild.js --watch",
+		"watch:tsc": "tsc --noEmit --watch --project tsconfig.json",
+		"package": "npm run check-types && npm run lint && node esbuild.js --production",
+		"compile-tests": "tsc -p . --outDir out",
+		"watch-tests": "tsc -p . -w --outDir out",
+		"pretest": "npm run compile-tests && npm run compile && npm run lint",
+		"check-types": "tsc --noEmit",
+		"lint": "eslint src --ext ts",
+		"test": "vscode-test"
+	},
+	"devDependencies": {
+		"@types/vscode": "^1.90.0",
+		"@types/mocha": "^10.0.6",
+		"@types/node": "18.x",
+		"@typescript-eslint/eslint-plugin": "^7.11.0",
+		"@typescript-eslint/parser": "^7.11.0",
+		"esbuild": "^0.21.4",
+		"npm-run-all": "^4.1.5",
+		"typescript": "^5.4.5",
+		"@vscode/test-cli": "^0.0.9",
+		"@vscode/test-electron": "^2.4.0"
+	},
+	"__metadata": {
+		"installedTimestamp": 1741956606794,
+		"size": 67481
+	}
+}

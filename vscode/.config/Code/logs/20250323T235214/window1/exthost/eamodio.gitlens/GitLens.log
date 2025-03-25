@@ -1,0 +1,7 @@
+2025-03-23 23:52:20.525 [info] GitLens v16.3.3 activating in Visual Studio Code (1.98.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (bafe2a3496a86c02a4b903a5a764c1a471e9c6050f980138dad669c478745f4b|e3ee3ca4-0309-43c4-aedd-b4f31340c9181742745136121)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-03-23 23:52:21.458 [info] [2025-03-23 15:52:21.452] [GIT    *861ms] [/home/luna/repos/gh-cli-rs] git shortlog -s --all --no-merges --since=1.year.ago [*861ms] (slow)
+[2025-03-23 15:52:21.452] [GIT    *866ms] [/home/luna/repos/gh-cli-rs] git ls-files -- src/main.rs [*866ms] (slow)
+[2025-03-23 15:52:21.452] [GIT    *871ms] [/home/luna/repos/gh-cli-rs] git rev-list --max-parents=0 HEAD -- [*871ms] (slow)
+

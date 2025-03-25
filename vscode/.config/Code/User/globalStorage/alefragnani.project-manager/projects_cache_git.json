@@ -1,0 +1,54 @@
+[
+	{
+		"fullPath": "/home/luna/repos/conservation_dashboard",
+		"name": "conservation_dashboard"
+	},
+	{
+		"fullPath": "/home/luna/repos/cuter",
+		"name": "cuter"
+	},
+	{
+		"fullPath": "/home/luna/repos/documentation-generator",
+		"name": "documentation-generator"
+	},
+	{
+		"fullPath": "/home/luna/repos/fastfetch",
+		"name": "fastfetch"
+	},
+	{
+		"fullPath": "/home/luna/repos/gh-cli-rs",
+		"name": "gh-cli-rs"
+	},
+	{
+		"fullPath": "/home/luna/repos/meower",
+		"name": "meower"
+	},
+	{
+		"fullPath": "/home/luna/repos/raspi-setup",
+		"name": "raspi-setup"
+	},
+	{
+		"fullPath": "/home/luna/repos/rustlings",
+		"name": "rustlings"
+	},
+	{
+		"fullPath": "/home/luna/repos/sigm",
+		"name": "sigm"
+	},
+	{
+		"fullPath": "/home/luna/repos/sigma",
+		"name": "sigma"
+	},
+	{
+		"fullPath": "/home/luna/repos/universal-github-install-script",
+		"name": "universal-github-install-script"
+	},
+	{
+		"fullPath": "/home/luna/repos/sigm/flask-backend",
+		"name": "flask-backend"
+	},
+	{
+		"fullPath": "/home/luna/repos/sigm/nextjs-frontend",
+		"name": "nextjs-frontend"
+	}
+]

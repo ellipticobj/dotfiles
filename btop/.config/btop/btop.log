@@ -1,0 +1,14 @@
+
+2025/03/24 (22:04:10) | ===> btop++ v.1.4.0
+2025/03/24 (22:04:10) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2025/03/24 (22:04:15) | ===> btop++ v.1.4.0
+2025/03/24 (22:04:15) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2025/03/24 (22:06:39) | ===> btop++ v.1.4.0
+2025/03/24 (22:06:39) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/03/24 (22:07:51) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/03/24 (22:07:51) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2025/03/24 (22:37:19) | ===> btop++ v.1.4.0
+2025/03/24 (22:37:19) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.

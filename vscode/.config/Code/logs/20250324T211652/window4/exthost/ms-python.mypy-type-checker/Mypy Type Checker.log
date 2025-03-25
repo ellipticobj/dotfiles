@@ -1,0 +1,166 @@
+2025-03-24 22:10:03.782 [info] Name: Mypy Type Checker
+2025-03-24 22:10:03.782 [info] Module: mypy
+2025-03-24 22:10:03.782 [info] Python extension loading
+2025-03-24 22:10:03.782 [info] Waiting for interpreter from Python extension.
+2025-03-24 22:10:03.860 [info] Python extension loaded
+2025-03-24 22:10:04.067 [info] Server run command: /home/luna/repos/documentation-generator/env/bin/python /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py
+2025-03-24 22:10:04.068 [info] Server: Start requested.
+2025-03-24 22:10:04.480 [info] CWD Server: /home/luna/repos/documentation-generator
+2025-03-24 22:10:04.480 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/luna/repos/documentation-generator",
+        "workspace": "file:///home/luna/repos/documentation-generator",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/luna/repos/documentation-generator/env/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false,
+        "daemonStatusFile": ""
+    }
+]
+
+2025-03-24 22:10:04.481 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/luna",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false,
+    "daemonStatusFile": ""
+}
+
+2025-03-24 22:10:04.482 [info] sys.path used to run Server:
+   /home/luna/repos/documentation-generator
+   /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/libs
+   /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/luna/repos/documentation-generator/env/lib64/python3.13/site-packages
+   /home/luna/repos/documentation-generator/env/lib/python3.13/site-packages
+2025-03-24 22:10:04.483 [info] /home/luna/repos/documentation-generator/env/bin/python -m mypy --version
+2025-03-24 22:10:04.483 [info] CWD Server: /home/luna/repos/documentation-generator
+2025-03-24 22:10:04.753 [info] 
+mypy 1.15.0 (compiled: no)
+
+
+2025-03-24 22:10:04.756 [info] Version info for linter running for /home/luna/repos/documentation-generator:
+mypy 1.15.0 (compiled: no)
+
+2025-03-24 22:10:04.756 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.15.0
+
+2025-03-24 22:10:44.563 [info] Name: Mypy Type Checker
+2025-03-24 22:10:44.563 [info] Module: mypy
+2025-03-24 22:10:44.563 [info] Python extension loading
+2025-03-24 22:10:44.563 [info] Waiting for interpreter from Python extension.
+2025-03-24 22:10:45.378 [info] Python extension loaded
+2025-03-24 22:10:45.415 [info] Server run command: /bin/python /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py
+2025-03-24 22:10:45.416 [info] Server: Start requested.
+2025-03-24 22:10:45.817 [info] CWD Server: /home/luna/repos/meower
+2025-03-24 22:10:45.821 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/luna/repos/meower",
+        "workspace": "file:///home/luna/repos/meower",
+        "args": [],
+        "severity": {
+            "error": "Error",
+            "note": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": [],
+        "reportingScope": "file",
+        "preferDaemon": false,
+        "daemonStatusFile": ""
+    }
+]
+
+2025-03-24 22:10:45.823 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "workspace": "/home/luna",
+    "args": [],
+    "severity": {
+        "error": "Error",
+        "note": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": [],
+    "reportingScope": "file",
+    "preferDaemon": false,
+    "daemonStatusFile": ""
+}
+
+2025-03-24 22:10:45.831 [info] sys.path used to run Server:
+   /home/luna/repos/meower
+   /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/libs
+   /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/luna/.local/lib/python3.13/site-packages
+   /usr/local/lib64/python3.13/site-packages
+   /usr/local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-03-24 22:10:45.833 [info] /bin/python -m mypy --version
+2025-03-24 22:10:45.836 [info] CWD Server: /home/luna/repos/meower
+2025-03-24 22:10:45.954 [info] 
+mypy 1.15.0 (compiled: no)
+
+
+2025-03-24 22:10:45.964 [info] Version info for linter running for /home/luna/repos/meower:
+mypy 1.15.0 (compiled: no)
+
+2025-03-24 22:10:45.965 [info] SUPPORTED mypy>=1.0.0
+FOUND mypy==1.15.0
+
+2025-03-24 22:10:45.970 [info] /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.mypy-type-checker-2025.2.0/bundled/tool/lsp_server.py:165: DeprecationWarning: 'workspace.get_document' has been deprecated, use 'workspace.get_text_document' instead
+  document = LSP_SERVER.workspace.get_document(params.text_document.uri)
+
+2025-03-24 22:10:45.972 [info] [Trace - 10:10:45 PM] Received notification 'window/logMessage'.
+2025-03-24 22:10:45.972 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/luna/repos/meower/meow/utils/helpers.py
+2025-03-24 22:10:45.972 [info] [Trace - 10:10:45 PM] Received notification 'window/logMessage'.
+2025-03-24 22:10:45.972 [info] CWD Server: /home/luna/repos/meower
+2025-03-24 22:10:46.334 [info] file:///home/luna/repos/meower/meow/utils/helpers.py :
+
+2025-03-24 22:10:46.344 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/luna/repos/meower/meow/utils/loaders.py
+2025-03-24 22:10:46.347 [info] CWD Server: /home/luna/repos/meower
+2025-03-24 22:10:46.456 [info] file:///home/luna/repos/meower/meow/utils/loaders.py :
+
+2025-03-24 22:10:51.973 [info] /bin/python -m mypy --no-color-output --no-error-summary --show-absolute-path --show-column-numbers --show-error-codes --no-pretty --show-error-end /home/luna/repos/meower/meow/core/pipeline.py
+2025-03-24 22:10:51.985 [info] CWD Server: /home/luna/repos/meower
+2025-03-24 22:10:52.530 [info] file:///home/luna/repos/meower/meow/core/pipeline.py :
+

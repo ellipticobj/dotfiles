@@ -1,0 +1,9 @@
+2025-03-23 23:52:14.892 [info] update#setState idle
+2025-03-23 23:52:44.867 [info] update#setState checking for updates
+2025-03-23 23:52:44.891 [info] update#setState idle
+2025-03-23 23:52:51.438 [error] CodeWindow: renderer process gone (reason: crashed, code: 133)
+2025-03-23 23:52:51.559 [info] Extension host with pid 4473 exited with code: 0, signal: unknown.
+2025-03-23 23:52:52.574 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 4488]: crashed with code 133 and reason 'crashed'
+2025-03-23 23:53:30.472 [error] CodeWindow: renderer process gone (reason: crashed, code: 133)
+2025-03-23 23:53:30.554 [info] Extension host with pid 6758 exited with code: 0, signal: unknown.
+2025-03-23 23:54:12.469 [info] Extension host with pid 8077 exited with code: 0, signal: unknown.

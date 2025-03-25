@@ -1,0 +1,27 @@
+2025-03-24 20:44:44.386 [info] git rev-parse --absolute-git-dir
+2025-03-24 20:44:44.386 [info] git rev-parse --absolute-git-dir
+2025-03-24 20:44:44.386 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-03-24 20:44:44.386 [error] Error: Command failed: git rev-parse --absolute-git-dir
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-03-24 20:44:44.386 [info] Will not blame '/home/luna/.config/hypr/UserScripts/RofiBeats.sh'. Not in a git repository.

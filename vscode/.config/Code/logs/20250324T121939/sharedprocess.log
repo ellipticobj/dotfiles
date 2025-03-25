@@ -1,0 +1,289 @@
+2025-03-24 12:19:41.041 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.070 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.078 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:41.078 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:41.123 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.124 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.134 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:41.134 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:41.146 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.146 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:41.146 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:41.148 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.216 [info] Marked extension as removed ms-vscode.vscode-typescript-next-5.9.20250322
+2025-03-24 12:19:41.228 [info] Deleted marked for removal extension from disk ms-vscode.vscode-typescript-next /home/luna/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250322
+2025-03-24 12:19:41.249 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.252 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:41.252 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:41.256 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.293 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.299 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.305 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:41.305 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:41.598 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.598 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.601 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:41.602 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:41.788 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.791 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.797 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:41.798 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:41.903 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.907 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:41.913 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:41.913 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:42.013 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:42.017 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:42.021 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:42.021 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:42.118 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:42.122 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:42.126 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:42.126 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:42.479 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:42.548 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:42.549 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:42.549 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:42.549 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:42.549 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:42.549 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:42.549 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:43.970 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:43.980 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:43.988 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:43.988 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:50.121 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:50.127 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:50.133 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:50.134 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:53.531 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:53.542 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:53.548 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:53.548 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:53.794 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:53.801 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:53.806 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:53.806 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:53.864 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:53.876 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:53.880 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:53.881 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:19:55.348 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:55.357 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:19:55.371 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:19:55.373 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:20:13.200 [info] Getting Manifest... ms-toolsai.jupyter
+2025-03-24 12:20:14.537 [info] Installing extension: ms-toolsai.jupyter {"productVersion":{"version":"1.98.2","date":"2025-03-12T13:31:14.894Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/luna/.vscode/extensions/extensions.json","path":"/home/luna/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-03-24 12:20:14.642 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:20:14.715 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:20:14.759 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:20:14.804 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:20:14.808 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:20:14.811 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:20:14.811 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:20:14.812 [error] Error while installing the extension ms-toolsai.jupyter Cannot read the extension from /home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64 vscode-userdata:/home/luna/.vscode/extensions/extensions.json
+2025-03-24 12:20:19.072 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:20:19.086 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:20:19.096 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:20:19.096 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:24:54.493 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:24:54.513 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:24:54.533 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:24:54.534 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:25:20.553 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:25:20.572 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:25:20.581 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:25:20.582 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:25:35.552 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:25:35.568 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:25:35.578 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:25:35.578 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:25:51.519 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:25:51.532 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:25:51.540 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:25:51.541 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:26:41.482 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:26:41.492 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:26:41.501 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:26:41.502 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:29:55.907 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:29:55.929 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:29:55.945 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:29:55.945 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:31:42.403 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:31:42.424 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:31:42.431 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:31:42.431 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:32:37.060 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:32:37.072 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:32:37.079 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:32:37.079 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:32:54.552 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:32:54.570 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:32:54.571 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:32:54.571 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:33:15.045 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:33:15.063 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:33:15.072 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:33:15.072 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:33:29.998 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:33:30.011 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:33:30.016 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:33:30.024 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:33:46.998 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:33:47.012 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:33:47.030 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:33:47.030 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:34:57.190 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:34:57.202 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:34:57.216 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:34:57.216 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:37:36.638 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:37:36.646 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:37:36.650 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:37:36.651 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:38:04.149 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:38:04.162 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:38:04.169 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:38:04.170 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:39:43.554 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:39:43.564 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:39:43.576 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:39:43.577 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:39:58.138 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:39:58.155 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:39:58.169 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:39:58.170 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:41:14.248 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:41:14.262 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:41:14.267 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:41:14.267 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:41:33.224 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:41:33.238 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:41:33.248 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:41:33.251 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:42:52.407 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:42:52.416 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:42:52.421 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:42:52.422 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:43:19.618 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:43:19.629 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:43:19.634 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:43:19.634 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:43:59.934 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:43:59.942 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:43:59.943 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:43:59.943 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:44:59.244 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:44:59.265 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:44:59.278 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:44:59.278 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:49:00.601 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:49:00.619 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:49:00.627 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:49:00.627 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:49:32.720 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:49:32.730 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:49:32.734 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:49:32.734 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:49:53.023 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:49:53.039 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:49:53.047 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:49:53.047 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:49:59.951 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:49:59.958 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:49:59.963 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:49:59.965 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 12:50:07.239 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:50:07.248 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 12:50:07.257 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 12:50:07.257 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:21.306 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:21.324 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:21.332 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:21.332 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:21.693 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:21.706 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:21.720 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:21.720 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:21.814 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:21.818 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:21.822 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:21.822 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:21.952 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:21.958 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:21.961 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:21.962 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:22.049 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.056 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.059 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:22.059 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:22.100 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.104 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.106 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:22.106 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:22.180 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.186 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.188 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:22.188 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:22.268 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.272 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.276 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:22.276 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:22.375 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.378 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:22.385 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:22.385 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:23.704 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:23.745 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:23.747 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:23.751 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:23.751 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:23.835 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:23.838 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:23.841 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:23.841 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:24.085 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:24.095 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:24.103 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:24.103 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:17:24.785 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:24.794 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:17:24.803 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:17:24.803 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:19:55.247 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:19:55.255 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:19:55.260 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:19:55.260 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:23:01.456 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:23:01.475 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:23:01.488 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:23:01.488 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:23:01.856 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:23:01.871 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:23:01.882 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:23:01.882 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:24:56.133 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:24:56.143 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:24:56.159 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:24:56.159 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:28:02.574 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:28:02.591 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:28:02.608 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:28:02.608 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:28:02.794 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:28:02.803 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:28:02.810 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:28:02.810 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:32:46.588 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:32:46.595 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:32:46.598 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:32:46.599 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:35:51.145 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:35:51.160 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:35:51.170 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:35:51.170 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-24 13:36:56.418 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:36:56.440 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-24 13:36:56.448 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-24 13:36:56.448 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.

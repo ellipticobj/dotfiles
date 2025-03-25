@@ -1,0 +1,20 @@
+2025-03-23 22:52:07.782 [info] Using the Electron fetcher.
+2025-03-23 22:52:07.782 [info] Initializing Git extension service.
+2025-03-23 22:52:07.782 [info] Successfully activated the vscode.git extension.
+2025-03-23 22:52:07.782 [info] Enablement state of the vscode.git extension: true.
+2025-03-23 22:52:07.782 [info] Successfully registered Git commit message provider.
+2025-03-23 22:52:08.270 [info] Logged in as ellipticobj
+2025-03-23 22:52:09.069 [info] Got Copilot token for ellipticobj
+2025-03-23 22:52:09.674 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-23 22:52:09.677 [info] Registering default platform agent...
+2025-03-23 22:52:09.685 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-03-23 22:52:09.685 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-03-23 22:52:09.685 [info] Successfully registered GitHub PR title and description provider.
+2025-03-23 22:52:10.501 [info] Fetched model metadata in 1392ms b09eb26b-9785-42ab-95ba-7c9b955fabd8
+2025-03-23 22:52:10.626 [info] activationBlocker from 'languageModelAccess' took for 2920ms
+2025-03-23 23:17:09.160 [info] Logged in as ellipticobj
+2025-03-23 23:17:09.939 [info] Got Copilot token for ellipticobj
+2025-03-23 23:17:10.004 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-03-23 23:42:10.127 [info] Logged in as ellipticobj
+2025-03-23 23:42:11.001 [info] Got Copilot token for ellipticobj
+2025-03-23 23:42:11.082 [info] copilot token chat_enabled: true, sku: free_limited_copilot

@@ -1,0 +1,6 @@
+2025-03-24 12:18:19.310 [info] Started local extension host with pid 16550.
+2025-03-24 12:18:20.802 [info] Settings Sync: Token updated for the account ellipticobj
+2025-03-24 12:18:20.812 [info] Settings Sync: Account status changed from uninitialized to available
+2025-03-24 12:18:27.173 [info] Extension host (LocalProcess pid: 16550) is unresponsive.
+2025-03-24 12:18:27.182 [info] Extension host (LocalProcess pid: 16550) is responsive.
+2025-03-24 12:18:27.939 [info] [perf] Render performance baseline is 14ms

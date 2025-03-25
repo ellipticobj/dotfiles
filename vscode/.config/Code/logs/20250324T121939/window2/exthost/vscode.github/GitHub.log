@@ -1,0 +1,3 @@
+2025-03-24 13:17:22.907 [info] Log level: Info
+2025-03-24 13:17:23.394 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-03-24 13:17:23.528 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for jakoolit/fedora-hyprland: Error: No GitHub authentication session available.

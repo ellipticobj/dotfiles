@@ -1,0 +1,28 @@
+2025-03-24 12:27:08.503 [info] [2025-03-24 04:27:08.498] [          8ms] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.29.0/src/widgets] git rev-parse --show-toplevel • FAILED
+2025-03-24 12:27:08.503 [info] 
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+2025-03-24 12:27:10.970 [info] [2025-03-24 04:27:10.970] [          6ms] [/home/luna/.rustup/toolchains/stable-aarch64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src] git rev-parse --show-toplevel • FAILED
+2025-03-24 12:27:10.970 [info] 
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+2025-03-24 12:30:58.065 [info] [2025-03-24 04:30:58.065] [          7ms] [/home/luna/.rustup/toolchains/stable-aarch64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src] git rev-parse --show-toplevel • FAILED
+2025-03-24 12:30:58.066 [info] 
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+2025-03-24 12:37:20.404 [info] [2025-03-24 04:37:20.404] [          6ms] [/home/luna/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ratatui-0.29.0/src/text] git rev-parse --show-toplevel • FAILED
+2025-03-24 12:37:20.405 [info] 
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+

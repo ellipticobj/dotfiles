@@ -1,0 +1,75 @@
+2025-03-24 22:10:44.691 [info] Name: isort
+2025-03-24 22:10:44.691 [info] Module: isort
+2025-03-24 22:10:44.691 [info] Python extension loading
+2025-03-24 22:10:44.691 [info] Waiting for interpreter from python extension.
+2025-03-24 22:10:45.395 [info] No interpreter found from setting isort.interpreter
+2025-03-24 22:10:45.395 [info] Getting interpreter from ms-python.python extension for workspace /home/luna/repos/meower
+2025-03-24 22:10:45.395 [info] Python extension loaded
+2025-03-24 22:10:45.395 [info] Interpreter from ms-python.python extension for /home/luna/repos/meower: /bin/python
+2025-03-24 22:10:45.396 [info] No interpreter found from setting isort.interpreter
+2025-03-24 22:10:45.396 [info] Getting interpreter from ms-python.python extension for workspace /home/luna/repos/meower
+2025-03-24 22:10:45.396 [info] Interpreter from ms-python.python extension for /home/luna/repos/meower: /bin/python
+2025-03-24 22:10:45.423 [info] Server run command: /bin/python /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2025-03-24 22:10:45.423 [info] Server: Start requested.
+2025-03-24 22:10:46.048 [info] CWD Server: /home/luna/repos/meower
+2025-03-24 22:10:46.053 [info] sys.path used to run Server:
+   /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/luna/.local/lib/python3.13/site-packages
+   /usr/local/lib64/python3.13/site-packages
+   /usr/local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-03-24 22:10:46.056 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/luna/repos/meower",
+        "workspace": "file:///home/luna/repos/meower",
+        "args": [],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-03-24 22:10:46.056 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/luna",
+    "workspace": "/home/luna",
+    "args": [],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-03-24 22:10:46.057 [info] /bin/python -m isort --version-number
+2025-03-24 22:10:46.057 [info] CWD Linter: /home/luna/repos/meower
+2025-03-24 22:10:46.057 [info] Version info for isort running for /home/luna/repos/meower:
+5.11.5
+
+2025-03-24 22:10:46.057 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2025-03-24 22:10:46.067 [info] [Trace - 10:10:46 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-03-24 22:10:46.068 [info] [Trace - 10:10:46 PM] Received notification 'textDocument/publishDiagnostics'.
+2025-03-24 22:10:46.070 [info] [Trace - 10:10:46 PM] Sending request 'textDocument/codeAction - (1)'.
+2025-03-24 22:10:46.086 [info] [Trace - 10:10:46 PM] Received response 'textDocument/codeAction - (1)' in 16ms.
+2025-03-24 22:10:46.169 [info] [Trace - 10:10:46 PM] Sending request 'textDocument/codeAction - (2)'.
+2025-03-24 22:10:46.172 [info] [Trace - 10:10:46 PM] Received response 'textDocument/codeAction - (2)' in 3ms.

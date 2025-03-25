@@ -1,0 +1,5 @@
+2025-03-25 00:10:49.088 [info] git rev-parse --absolute-git-dir
+2025-03-25 00:10:49.088 [info] git rev-parse --absolute-git-dir
+2025-03-25 00:10:49.088 [info] git config user.email
+2025-03-25 00:10:49.088 [info] git blame -C --incremental -- /home/luna/repos/ly/build.zig.zon
+2025-03-25 00:10:49.088 [info] Blamed "/home/luna/repos/ly/build.zig.zon"
