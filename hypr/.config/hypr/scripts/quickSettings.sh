@@ -14,7 +14,7 @@ source "$tmp_config_file"
 configs="$HOME/.config/hypr/configs"
 userconfigs="$HOME/.config/hypr/userconfigs"
 rofi_theme="$HOME/.config/rofi/config-edit.rasi"
-msg=' ⁉️ Choose what to do ⁉️'
+msg=""
 iDIR="$HOME/.config/swaync/images"
 scriptsDir="$HOME/.config/hypr/scripts"
 userscripts="$HOME/.config/hypr/userscripts"
@@ -22,28 +22,27 @@ userscripts="$HOME/.config/hypr/userscripts"
 # Function to display the menu options without numbers
 menu() {
     cat <<EOF
-view/edit User Defaults
-view/edit ENV variables
-view/edit Window Rules
-view/edit User Keybinds
-view/edit User Settings
-view/edit Startup Apps
-view/edit Decorations
-view/edit Animations
-view/edit Laptop Keybinds
-view/edit Default Keybinds
-Choose Kitty Terminal Theme
-Configure Monitors (nwg-displays)
-Configure Workspace Rules (nwg-displays)
-GTK Settings (nwg-look)
-QT Apps Settings (qt6ct)
-QT Apps Settings (qt5ct)
-Choose Hyprland Animations
-Choose Monitor Profiles
-Choose Rofi Themes
-Search for Keybinds
-Toggle Game Mode
-Switch Dark-Light Theme
+edit user defaults
+edit environment variables
+edit window rules
+edit user keybinds
+edit user settings
+edit startup apps
+edit decorations
+edit animations
+edit default keybinds
+choose terminal theme (kitty)
+configure monitors (nwg-displays)
+configure workspace rules (nwg-displays)
+GTK settings (nwg-look)
+QT settings (qt6ct)
+QT settings (qt5ct)
+configure hyprland animations
+choose monitor profiles
+choose rofi themes
+search for keybinds
+toggle game mode
+toggle light/dark nheme
 EOF
 }
 
@@ -53,16 +52,16 @@ main() {
     
     # Map choices to corresponding files
     case "$choice" in
-        "view/edit user defaults") file="$userconfigs/01-userDefaults.conf" ;;
-        "view/edit environment variables") file="$userconfigs/envariables.conf" ;;
-        "view/edit window rules") file="$userconfigs/windowRules.conf" ;;
-        "view/edit user keybinds") file="$userconfigs/userKeybinds.conf" ;;
-        "view/edit user settings") file="$userconfigs/userSettings.conf" ;;
-        "view/edit startup Apps") file="$userconfigs/startupApps.conf" ;;
-        "view/edit decorations") file="$userconfigs/userDecorations.conf" ;;
-        "view/edit animations") file="$userconfigs/userAnimations.conf" ;;
-        "view/edit default keybinds") file="$configs/Keybinds.conf" ;;
-        "choose kitty terminal theme") $scriptsDir/kittyThemes.sh ;;
+        "edit user defaults") file="$userconfigs/01-userDefaults.conf" ;;
+        "edit environment variables") file="$userconfigs/envariables.conf" ;;
+        "edit window rules") file="$userconfigs/windowRules.conf" ;;
+        "edit user keybinds") file="$userconfigs/userKeybinds.conf" ;;
+        "edit user settings") file="$userconfigs/userSettings.conf" ;;
+        "edit startup Apps") file="$userconfigs/startupApps.conf" ;;
+        "edit decorations") file="$userconfigs/userDecorations.conf" ;;
+        "edit animations") file="$userconfigs/userAnimations.conf" ;;
+        "edit default keybinds") file="$configs/Keybinds.conf" ;;
+        "choose terminal theme (kitty)") $scriptsDir/kittyThemes.sh ;;
         "configure monitors (nwg-displays)") 
             if ! command -v nwg-displays &>/dev/null; then
                 notify-send -i "$iDIR/error.png" "E-R-R-O-R" "Install nwg-displays first"
@@ -87,18 +86,18 @@ main() {
                 exit 1
             fi
             qt6ct ;;
-		"QT app settings (qt5ct)") 
+		"QT settings (qt5ct)") 
             if ! command -v qt5ct &>/dev/null; then
                 notify-send -i "$iDIR/error.png" "E-R-R-O-R" "Install qt5ct first"
                 exit 1
             fi
             qt5ct ;;
         "choose hyprland animations") $scriptsDir/Animations.sh ;;
-        "choose Monitor Profiles") $scriptsDir/MonitorProfiles.sh ;;
-        "choose Rofi Themes") $scriptsDir/RofiThemeSelector.sh ;;
-        "search for Keybinds") $scriptsDir/KeyBinds.sh ;;
+        "choose monitor profiles") $scriptsDir/MonitorProfiles.sh ;;
+        "choose rofi themes") $scriptsDir/RofiThemeSelector.sh ;;
+        "search for keybinds") $scriptsDir/KeyBinds.sh ;;
         "toggle game mode") $scriptsDir/GameMode.sh ;;
-        "toggle light theme") $scriptsDir/DarkLight.sh ;;
+        "toggle light/dark theme") $scriptsDir/DarkLight.sh ;;
         *) return ;;  # do nothing for invalid choices
     esac
 

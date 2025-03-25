@@ -9,16 +9,17 @@
                 "folderUri": "file:///home/luna/repos/meower"
             },
             {
-                "folderUri": "file:///home/luna/dotfiles/hypr/.config/hypr"
-            },
-            {
-                "folderUri": "file:///home/luna/dotfiles/rofi/.config/rofi"
-            },
-            {
                 "folderUri": "file:///home/luna/repos/gh-cli-rs"
+            },
+            {
+                "folderUri": "file:///home/luna/.config/rofi"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1742878964544"
+            }
+        ]
     },
     "profileAssociations": {
         "workspaces": {
@@ -48,7 +49,8 @@
             "file:///home/luna/repos/documentation-generator": "__default__profile__",
             "file:///home/luna/repos/meower": "__default__profile__",
             "file:///home/luna/dotfiles/hypr/.config/hypr": "__default__profile__",
-            "file:///home/luna/dotfiles/rofi/.config/rofi": "__default__profile__"
+            "file:///home/luna/dotfiles/rofi/.config/rofi": "__default__profile__",
+            "file:///home/luna/.config/rofi": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -1958,21 +1960,21 @@
             "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 277,
-            "auxiliarySideBarWidth": 170,
+            "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/luna/repos/gh-cli-rs",
-            "backupPath": "/home/luna/.config/Code/Backups/03385134fdb8cbe8801c46fae0bb0e99",
+            "folder": "file:///home/luna/.config/rofi",
+            "backupPath": "/home/luna/.config/Code/Backups/a8128991f770cefdbcfbaa35e8f3c964",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
                 "width": 1280,
-                "height": 1569
+                "height": 783
             }
         },
         "openedWindows": []

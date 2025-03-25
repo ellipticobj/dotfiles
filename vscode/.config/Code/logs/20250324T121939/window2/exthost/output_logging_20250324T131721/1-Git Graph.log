@@ -1,9 +1,0 @@
-[2025-03-24 13:17:22.041] Starting Git Graph ...
-[2025-03-24 13:17:22.058] Using git (version: 2.49.0)
-[2025-03-24 13:17:22.063] Started Git Graph - Ready to use!
-[2025-03-24 13:17:22.063] Searching workspace for new repos ...
-[2025-03-24 13:17:22.066] > git rev-parse --show-toplevel
-[2025-03-24 13:17:22.068] Added new repo: /home/luna/Downloads/fedora-hyprland
-[2025-03-24 13:17:22.069] Completed searching workspace for new repos
-[2025-03-24 13:17:22.069] Showing "Git Graph" Status Bar Item
-[2025-03-24 13:17:22.134] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"

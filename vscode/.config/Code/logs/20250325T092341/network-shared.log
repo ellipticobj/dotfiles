@@ -1,2 +1,12 @@
 2025-03-25 09:58:00.117 [error] #125: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
 2025-03-25 11:20:33.108 [error] #160: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED
+2025-03-25 11:30:44.980 [error] #171: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED
+2025-03-25 11:31:26.372 [error] #172: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-25 11:31:59.886 [error] #173: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-25 11:35:55.976 [error] #174: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED
+2025-03-25 11:36:22.736 [error] #175: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-25 11:36:48.374 [error] #176: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-25 11:36:57.256 [error] #177: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-25 11:37:21.379 [error] #178: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-25 11:38:17.145 [error] #179: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-25 11:38:50.209 [error] #180: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT

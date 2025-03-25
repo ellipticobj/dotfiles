@@ -1,4 +1,0 @@
-2025-03-24T12:35:09.4544053+08:00 ERROR Position LineCol { line: 40, col: 16 } column exceeds line length 15, clamping it
-2025-03-24T12:35:14.537745415+08:00 ERROR Position LineCol { line: 40, col: 13 } column exceeds line length 12, clamping it
-2025-03-24T12:35:14.537824873+08:00 ERROR Position LineCol { line: 40, col: 16 } column exceeds line length 12, clamping it
-2025-03-24T12:35:15.339411544+08:00 ERROR Position LineCol { line: 40, col: 16 } column exceeds line length 13, clamping it

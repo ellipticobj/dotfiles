@@ -5,6 +5,7 @@ end
 set -g fish_greeting
 
 starship init fish | source
+thefuck --alias | source
 
 function clear
     command clear
