@@ -21,3 +21,11 @@
 2025/03/25 (21:04:30) | INFO: Logger set to DEBUG
 2025/03/25 (21:07:53) | DEBUG: Writing new config file
 2025/03/25 (21:07:53) | INFO: Quitting! Runtime: 00:04:29
+
+2025/03/25 (23:03:09) | ===> btop++ v.1.4.0
+2025/03/25 (23:03:09) | INFO: Logger set to DEBUG
+2025/03/25 (23:03:09) | DEBUG: Using locale en_US.UTF-8
+2025/03/25 (23:03:09) | INFO: Running on /dev/pts/7
+2025/03/25 (23:03:09) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/03/25 (23:03:09) | DEBUG: Shared::init() : Initialized.
+2025/03/25 (23:03:09) | DEBUG: Loading theme file: /home/luna/.config/btop/themes/rose-pine-dawn.theme
