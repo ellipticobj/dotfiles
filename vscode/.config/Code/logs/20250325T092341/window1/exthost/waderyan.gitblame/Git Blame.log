@@ -84,3 +84,7 @@
 2025-03-25 10:53:45.595 [info] git config user.email
 2025-03-25 10:53:45.595 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
 2025-03-25 10:53:45.959 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
+2025-03-25 11:14:39.751 [info] git rev-parse --absolute-git-dir
+2025-03-25 11:14:39.760 [info] git config user.email
+2025-03-25 11:14:39.768 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-25 11:14:40.147 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"
