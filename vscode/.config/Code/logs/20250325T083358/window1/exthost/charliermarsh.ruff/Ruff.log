@@ -1,0 +1,11 @@
+2025-03-25 08:35:43.339 [info] Name: Ruff
+2025-03-25 08:35:43.339 [info] Module: ruff
+2025-03-25 08:35:43.339 [info] Python extension loading
+2025-03-25 08:35:43.339 [info] Waiting for interpreter from python extension.
+2025-03-25 08:35:43.339 [info] Python extension loaded
+2025-03-25 08:35:43.339 [info] Using interpreter: /bin/python
+2025-03-25 08:35:43.339 [info] Falling back to bundled executable: /home/luna/dotfiles/vscode/.vscode/extensions/charliermarsh.ruff-2025.22.0-linux-arm64/bundled/libs/bin/ruff
+2025-03-25 08:35:43.357 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2025-03-25 08:35:43.360 [info] Found Ruff 0.11.2 at /home/luna/dotfiles/vscode/.vscode/extensions/charliermarsh.ruff-2025.22.0-linux-arm64/bundled/libs/bin/ruff
+2025-03-25 08:35:43.360 [info] Server run command: /home/luna/dotfiles/vscode/.vscode/extensions/charliermarsh.ruff-2025.22.0-linux-arm64/bundled/libs/bin/ruff server
+2025-03-25 08:35:43.361 [info] Server: Start requested.

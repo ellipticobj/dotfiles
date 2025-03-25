@@ -1,0 +1,105 @@
+2025-03-25 08:35:43.350 [info] Name: Black Formatter
+2025-03-25 08:35:43.351 [info] Module: black
+2025-03-25 08:35:43.351 [info] Default formatter is set to null for workspace /home/luna/dotfiles/hypr/.config/hypr
+2025-03-25 08:35:43.351 [warning] Black Formatter is NOT set as the default formatter for workspace /home/luna/dotfiles/hypr/.config/hypr
+2025-03-25 08:35:43.351 [warning] To set Black Formatter as the default formatter, add the following to your settings.json file:
+2025-03-25 08:35:43.351 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
+2025-03-25 08:35:43.351 [info] Python extension loading
+2025-03-25 08:35:43.351 [info] Waiting for interpreter from Python extension.
+2025-03-25 08:35:43.351 [info] No interpreter found from setting black-formatter.interpreter
+2025-03-25 08:35:43.351 [info] Getting interpreter from ms-python.python extension for workspace /home/luna/dotfiles/hypr/.config/hypr
+2025-03-25 08:35:43.351 [info] Python extension loaded
+2025-03-25 08:35:43.351 [info] Interpreter from ms-python.python extension for /home/luna/dotfiles/hypr/.config/hypr: /bin/python
+2025-03-25 08:35:43.351 [info] Workspace settings for /home/luna/dotfiles/hypr/.config/hypr (client side): {
+    "cwd": "/home/luna/dotfiles/hypr/.config/hypr",
+    "workspace": "file:///home/luna/dotfiles/hypr/.config/hypr",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-03-25 08:35:43.351 [info] No interpreter found from setting black-formatter.interpreter
+2025-03-25 08:35:43.351 [info] Getting interpreter from ms-python.python extension for workspace /home/luna/dotfiles/hypr/.config/hypr
+2025-03-25 08:35:43.351 [info] Interpreter from ms-python.python extension for /home/luna/dotfiles/hypr/.config/hypr: /bin/python
+2025-03-25 08:35:43.351 [info] Workspace settings for /home/luna/dotfiles/hypr/.config/hypr (client side): {
+    "cwd": "/home/luna/dotfiles/hypr/.config/hypr",
+    "workspace": "file:///home/luna/dotfiles/hypr/.config/hypr",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-03-25 08:35:43.351 [info] Global settings (client side): {
+    "cwd": "/home/luna/dotfiles/hypr/.config/hypr",
+    "workspace": "/home/luna/dotfiles/hypr/.config/hypr",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-03-25 08:35:43.351 [info] Server run command: /bin/python /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/tool/lsp_server.py
+2025-03-25 08:35:43.351 [info] Server: Start requested.
+2025-03-25 08:35:43.677 [info] CWD Server: /home/luna/dotfiles/hypr/.config/hypr
+2025-03-25 08:35:43.677 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/luna/dotfiles/hypr/.config/hypr",
+        "workspace": "file:///home/luna/dotfiles/hypr/.config/hypr",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-03-25 08:35:43.677 [info] Global settings received on server:
+{
+    "cwd": "/home/luna/dotfiles/hypr/.config/hypr",
+    "workspace": "/home/luna/dotfiles/hypr/.config/hypr",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-03-25 08:35:43.677 [info] sys.path used to run Server:
+   /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/libs
+   /home/luna/dotfiles/vscode/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/tool
+   /usr/lib64/python313.zip
+   /usr/lib64/python3.13
+   /usr/lib64/python3.13/lib-dynload
+   /home/luna/.local/lib/python3.13/site-packages
+   /usr/local/lib64/python3.13/site-packages
+   /usr/local/lib/python3.13/site-packages
+   /usr/lib64/python3.13/site-packages
+   /usr/lib/python3.13/site-packages
+2025-03-25 08:35:43.681 [info] /bin/python -m black --version
+2025-03-25 08:35:43.681 [info] CWD formatter: /home/luna/dotfiles/hypr/.config/hypr
+2025-03-25 08:35:43.766 [info] Version info for formatter running for /home/luna/dotfiles/hypr/.config/hypr:
+black, 25.1.0 (compiled: no)
+Python (CPython) 3.13.2
+
+2025-03-25 08:35:43.767 [info] SUPPORTED black>=22.3.0
+FOUND black==25.1.0
+
+2025-03-25 08:35:43.930 [info] [Trace - 8:35:43 AM] Sending notification 'textDocument/didClose'.
+2025-03-25 08:41:30.306 [info] [Trace - 8:41:30 AM] Sending notification 'textDocument/didOpen'.
+2025-03-25 08:41:31.945 [info] [Trace - 8:41:31 AM] Sending notification 'textDocument/didClose'.
+2025-03-25 08:47:13.206 [info] [Trace - 8:47:13 AM] Sending notification 'textDocument/didOpen'.
+2025-03-25 08:47:14.602 [info] [Trace - 8:47:14 AM] Sending notification 'textDocument/didClose'.
+2025-03-25 08:53:44.274 [info] [Trace - 8:53:44 AM] Sending notification 'textDocument/didOpen'.
+2025-03-25 08:53:44.847 [info] [Trace - 8:53:44 AM] Sending notification 'textDocument/didClose'.

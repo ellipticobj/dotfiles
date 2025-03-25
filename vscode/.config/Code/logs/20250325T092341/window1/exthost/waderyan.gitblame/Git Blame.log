@@ -1,0 +1,86 @@
+2025-03-25 09:23:44.246 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:23:44.246 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:23:44.246 [info] git config user.email
+2025-03-25 09:23:44.246 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh
+2025-03-25 09:23:44.246 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh"
+2025-03-25 09:24:50.572 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:24:50.579 [info] git config user.email
+2025-03-25 09:24:50.585 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh
+2025-03-25 09:24:50.598 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh"
+2025-03-25 09:24:58.549 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:24:58.562 [info] git config user.email
+2025-03-25 09:24:58.576 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh
+2025-03-25 09:24:58.589 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh"
+2025-03-25 09:24:59.814 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:24:59.821 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:24:59.838 [info] git config user.email
+2025-03-25 09:24:59.844 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/kittyThemes.sh
+2025-03-25 09:24:59.870 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/kittyThemes.sh"
+2025-03-25 09:25:01.464 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:25:01.473 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:25:01.487 [info] git config user.email
+2025-03-25 09:25:01.493 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:25:01.506 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:25:51.958 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:25:51.981 [info] git config user.email
+2025-03-25 09:25:51.989 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:25:52.003 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:35:10.695 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:35:10.704 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:35:10.721 [info] git config user.email
+2025-03-25 09:35:10.726 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 09:35:10.730 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 09:35:51.953 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:35:51.962 [info] git config user.email
+2025-03-25 09:35:51.978 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 09:35:51.991 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 09:38:36.683 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:38:36.691 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:38:36.714 [info] git config user.email
+2025-03-25 09:38:36.733 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf
+2025-03-25 09:38:36.750 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf"
+2025-03-25 09:39:32.514 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:39:32.522 [info] git config user.email
+2025-03-25 09:39:32.540 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 09:39:32.550 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:03:29.296 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:03:29.302 [info] git config user.email
+2025-03-25 10:03:29.307 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 10:03:29.314 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:03:37.404 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:03:37.412 [info] git config user.email
+2025-03-25 10:03:37.419 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 10:03:37.424 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:03:50.310 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:03:50.317 [info] git config user.email
+2025-03-25 10:03:50.323 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 10:03:50.328 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:03:57.180 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:03:57.187 [info] git config user.email
+2025-03-25 10:03:57.194 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 10:03:57.203 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:04:54.345 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:04:54.354 [info] git config user.email
+2025-03-25 10:04:54.361 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 10:04:54.366 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:17:28.169 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:17:28.178 [info] git config user.email
+2025-03-25 10:17:28.182 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 10:17:28.187 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:23:12.151 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:23:12.159 [info] git config user.email
+2025-03-25 10:23:12.166 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 10:23:12.171 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:25:50.803 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:25:50.812 [info] git config user.email
+2025-03-25 10:25:50.818 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 10:25:50.823 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:26:33.522 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:26:33.528 [info] git config user.email
+2025-03-25 10:26:33.535 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf
+2025-03-25 10:26:33.545 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/userKeybinds.conf"
+2025-03-25 10:53:45.595 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:53:45.595 [info] git rev-parse --absolute-git-dir
+2025-03-25 10:53:45.595 [info] git config user.email
+2025-03-25 10:53:45.595 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
+2025-03-25 10:53:45.959 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"

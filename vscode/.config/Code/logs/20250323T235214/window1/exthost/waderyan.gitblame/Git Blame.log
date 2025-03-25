@@ -1,5 +1,0 @@
-2025-03-23 23:52:20.514 [info] git rev-parse --absolute-git-dir
-2025-03-23 23:52:20.514 [info] git rev-parse --absolute-git-dir
-2025-03-23 23:52:20.514 [info] git config user.email
-2025-03-23 23:52:20.514 [info] git blame -C --incremental -- /home/luna/repos/gh-cli-rs/src/main.rs
-2025-03-23 23:52:20.514 [info] Blamed "/home/luna/repos/gh-cli-rs/src/main.rs"

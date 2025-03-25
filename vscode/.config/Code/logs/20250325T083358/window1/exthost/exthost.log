@@ -1,0 +1,345 @@
+2025-03-25 08:33:59.142 [info] Extension host with pid 21777 started
+2025-03-25 08:33:59.142 [info] Skipping acquiring lock for /home/luna/.config/Code/User/workspaceStorage/34645b356900c1c4a032297f33112df9.
+2025-03-25 08:33:59.193 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-25 08:33:59.241 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-25 08:33:59.242 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-03-25 08:33:59.254 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-03-25 08:33:59.267 [info] ExtensionService#_doActivateExtension nhoizey.gremlins, startup: true, activationEvent: '*'
+2025-03-25 08:33:59.268 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2025-03-25 08:33:59.269 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2025-03-25 08:33:59.300 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2025-03-25 08:33:59.355 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-25 08:33:59.391 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-25 08:33:59.514 [info] Eager extensions activated
+2025-03-25 08:33:59.648 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.649 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.659 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.665 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.673 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.748 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.750 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.792 [info] ExtensionService#_doActivateExtension felipecaputo.git-project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.805 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.818 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.875 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.896 [info] ExtensionService#_doActivateExtension kuba-p.theme-pink-candy, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.901 [info] ExtensionService#_doActivateExtension mkxml.vscode-filesize, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.907 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:33:59.954 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:34:00.055 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:34:00.062 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:34:00.070 [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:34:00.077 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:34:00.080 [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+2025-03-25 08:34:10.502 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-25 08:34:13.824 [warning] TextEditor is closed/disposed
+2025-03-25 08:34:51.509 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:00.217 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:01.717 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:09.181 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:14.667 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:16.177 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:18.723 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:20.941 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:21.073 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2025-03-25 08:35:22.192 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:24.406 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:25.719 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:27.983 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:29.080 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:30.098 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:42.216 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:42.318 [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.341 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: charliermarsh.ruff
+2025-03-25 08:35:42.465 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.476 [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.482 [info] ExtensionService#_doActivateExtension SiddharthVerma.python-super-debugger-mode, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.484 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.551 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.826 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-03-25 08:35:42.881 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.900 [info] ExtensionService#_doActivateExtension ms-python.black-formatter, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.918 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.949 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.967 [info] ExtensionService#_doActivateExtension ms-python.mypy-type-checker, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:42.988 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-03-25 08:35:43.916 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:49.341 [warning] TextEditor is closed/disposed
+2025-03-25 08:35:53.731 [warning] TextEditor is closed/disposed
+2025-03-25 08:36:06.558 [warning] TextEditor is closed/disposed
+2025-03-25 08:36:08.380 [warning] TextEditor is closed/disposed
+2025-03-25 08:36:09.185 [warning] TextEditor is closed/disposed
+2025-03-25 08:36:48.625 [warning] TextEditor is closed/disposed
+2025-03-25 08:36:50.532 [warning] TextEditor is closed/disposed
+2025-03-25 08:36:59.836 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:01.643 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:18.586 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:19.542 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:20.588 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:21.643 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:22.703 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:23.515 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:25.011 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:26.507 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:28.154 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:28.824 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:28.824 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:29.439 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model48)
+2025-03-25 08:37:29.444 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:30.319 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:31.088 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:31.782 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:31.788 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model51)
+2025-03-25 08:37:32.502 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:33.182 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model53)
+2025-03-25 08:37:33.187 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:34.630 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:36.864 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:46.341 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:51.710 [warning] TextEditor is closed/disposed
+2025-03-25 08:37:55.562 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:03.052 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:08.764 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:11.738 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:14.975 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:19.331 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:20.449 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:22.326 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:23.406 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:24.565 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:25.834 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:27.007 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:27.737 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:28.615 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:35.680 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:37.452 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:39.845 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:40.931 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:46.210 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:49.081 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:51.085 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:55.795 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:56.808 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:58.203 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:59.085 [warning] TextEditor is closed/disposed
+2025-03-25 08:38:59.994 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:01.168 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:02.441 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:03.486 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:04.603 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:11.125 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:12.136 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:13.126 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:14.300 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:26.170 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:27.422 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:28.259 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:29.564 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:30.784 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:37.513 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:39.959 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:41.735 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:42.776 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:43.854 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:46.002 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:49.228 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:49.432 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model91)
+2025-03-25 08:39:49.432 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model91)
+2025-03-25 08:39:49.433 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model91)
+2025-03-25 08:39:49.433 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model91)
+2025-03-25 08:39:49.433 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model91)
+2025-03-25 08:39:49.433 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model91)
+2025-03-25 08:39:49.924 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model98)
+2025-03-25 08:39:51.735 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:53.346 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:54.419 [warning] TextEditor is closed/disposed
+2025-03-25 08:39:56.917 [warning] TextEditor is closed/disposed
+2025-03-25 08:40:03.487 [warning] TextEditor is closed/disposed
+2025-03-25 08:40:06.158 [warning] TextEditor is closed/disposed
+2025-03-25 08:40:12.661 [warning] TextEditor is closed/disposed
+2025-03-25 08:40:21.998 [warning] TextEditor is closed/disposed
+2025-03-25 08:40:45.395 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:23.700 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:24.581 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:25.239 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:25.247 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model120)
+2025-03-25 08:41:25.784 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:25.786 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model121)
+2025-03-25 08:41:26.558 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:28.648 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:29.331 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:29.363 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model124)
+2025-03-25 08:41:30.256 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:31.923 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:33.174 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:33.636 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:33.695 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model128)
+2025-03-25 08:41:38.385 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:39.393 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:40.502 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:42.270 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:49.188 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:51.057 [warning] TextEditor is closed/disposed
+2025-03-25 08:41:52.295 [warning] TextEditor is closed/disposed
+2025-03-25 08:42:46.020 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:14.103 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:15.093 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:15.810 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:15.843 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model138)
+2025-03-25 08:43:16.678 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:17.253 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:17.253 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:17.824 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:17.825 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model141)
+2025-03-25 08:43:19.226 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:20.053 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:21.420 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:22.366 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:23.163 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:23.893 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:25.371 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:25.983 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:25.983 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model151)
+2025-03-25 08:43:27.363 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:34.469 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:36.291 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:38.307 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:40.040 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:40.804 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:41.407 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model159)
+2025-03-25 08:43:41.412 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:51.511 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:53.486 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:54.533 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:55.667 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:56.852 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:58.008 [warning] TextEditor is closed/disposed
+2025-03-25 08:43:59.399 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:00.504 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:01.498 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:02.651 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:03.778 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:06.234 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:07.378 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:10.129 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:11.489 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:13.332 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:36.641 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:37.444 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:40.521 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:41.990 [warning] TextEditor is closed/disposed
+2025-03-25 08:44:45.593 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:07.553 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:09.550 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:09.558 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model196)
+2025-03-25 08:47:10.728 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:11.407 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model198)
+2025-03-25 08:47:11.417 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:12.386 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:13.143 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:14.578 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:16.298 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:19.015 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:20.118 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:21.288 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:22.052 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:24.243 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:25.098 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:26.471 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:37.047 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:38.270 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:41.457 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:43.948 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:45.455 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:48.647 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:50.040 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:51.885 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:52.433 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:53.044 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:53.501 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:54.497 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:54.843 [warning] TextEditor is closed/disposed
+2025-03-25 08:47:54.908 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model153)
+2025-03-25 08:47:55.836 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model214)
+2025-03-25 08:49:56.261 [warning] TextEditor is closed/disposed
+2025-03-25 08:49:56.861 [warning] TextEditor is closed/disposed
+2025-03-25 08:49:56.880 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model216)
+2025-03-25 08:49:57.550 [warning] TextEditor is closed/disposed
+2025-03-25 08:49:57.579 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model217)
+2025-03-25 08:49:59.154 [warning] TextEditor is closed/disposed
+2025-03-25 08:49:59.155 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model221)
+2025-03-25 08:49:59.975 [warning] TextEditor is closed/disposed
+2025-03-25 08:50:01.057 [warning] TextEditor is closed/disposed
+2025-03-25 08:50:01.676 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model224)
+2025-03-25 08:50:01.681 [warning] TextEditor is closed/disposed
+2025-03-25 08:50:02.280 [warning] TextEditor is closed/disposed
+2025-03-25 08:50:02.284 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model225)
+2025-03-25 08:50:03.162 [warning] TextEditor is closed/disposed
+2025-03-25 08:50:03.797 [warning] TextEditor is closed/disposed
+2025-03-25 08:50:03.798 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model227)
+2025-03-25 08:50:04.389 [warning] TextEditor is closed/disposed
+2025-03-25 08:50:04.390 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model228)
+2025-03-25 08:50:06.326 [warning] TextEditor is closed/disposed
+2025-03-25 08:52:44.010 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:06.186 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:07.799 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:08.879 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:09.961 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:10.568 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:10.569 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model242)
+2025-03-25 08:53:11.153 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model243)
+2025-03-25 08:53:11.158 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:12.351 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:13.488 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model246)
+2025-03-25 08:53:13.495 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:14.046 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model247)
+2025-03-25 08:53:14.060 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:16.338 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:17.040 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:17.062 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model249)
+2025-03-25 08:53:20.682 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:21.330 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:21.330 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model251)
+2025-03-25 08:53:22.053 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:23.345 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:24.026 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model254)
+2025-03-25 08:53:24.037 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:25.297 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:27.371 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:43.062 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model273)
+2025-03-25 08:53:43.068 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:43.633 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model274)
+2025-03-25 08:53:43.638 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:44.279 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model275)
+2025-03-25 08:53:44.286 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:44.859 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:44.861 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model276)
+2025-03-25 08:53:44.880 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model276)
+2025-03-25 08:53:45.916 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:48.049 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:49.739 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:50.495 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:52.432 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:53.226 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:53.957 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:54.734 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:55.514 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:56.541 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:58.384 [warning] TextEditor is closed/disposed
+2025-03-25 08:53:59.230 [warning] TextEditor is closed/disposed
+2025-03-25 08:54:00.566 [warning] TextEditor is closed/disposed
+2025-03-25 08:54:01.731 [warning] TextEditor is closed/disposed
+2025-03-25 08:55:01.357 [warning] TextEditor is closed/disposed
+2025-03-25 08:55:02.380 [warning] TextEditor is closed/disposed
+2025-03-25 08:55:03.042 [warning] TextEditor is closed/disposed
+2025-03-25 08:55:03.042 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:2,$model291)
+2025-03-25 08:55:27.441 [warning] TextEditor is closed/disposed
+2025-03-25 08:58:19.886 [warning] TextEditor is closed/disposed
+2025-03-25 08:58:47.373 [warning] TextEditor is closed/disposed
+2025-03-25 09:00:18.489 [warning] TextEditor is closed/disposed
+2025-03-25 09:04:26.464 [warning] TextEditor is closed/disposed
+2025-03-25 09:04:47.809 [warning] TextEditor is closed/disposed
+2025-03-25 09:11:24.725 [warning] TextEditor is closed/disposed
+2025-03-25 09:11:27.852 [warning] TextEditor is closed/disposed
+2025-03-25 09:14:21.637 [warning] TextEditor is closed/disposed
+2025-03-25 09:14:48.310 [warning] TextEditor is closed/disposed

@@ -1,0 +1,3 @@
+2025-03-25 08:35:43.415158201  INFO Registering workspace: /home/luna/dotfiles/hypr/.config/hypr
+2025-03-25 08:35:43.421972788  INFO Configuration file watcher successfully registered
+2025-03-25 09:07:26.316571615  WARN Received notification $/setTrace which does not have a handler.

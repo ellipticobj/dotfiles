@@ -1,0 +1,1559 @@
+2025-03-25 08:34:10.417 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:10.428 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:10.450 [info] git config user.email
+2025-03-25 08:34:10.465 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/00-Readme
+2025-03-25 08:34:10.487 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/00-Readme"
+2025-03-25 08:34:10.967 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:10.975 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:10.997 [info] git config user.email
+2025-03-25 08:34:11.011 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/01-UserDefaults.conf
+2025-03-25 08:34:11.027 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/01-UserDefaults.conf"
+2025-03-25 08:34:13.884 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:13.890 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:13.922 [info] git config user.email
+2025-03-25 08:34:13.935 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/ENVariables.conf
+2025-03-25 08:34:13.947 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/ENVariables.conf"
+2025-03-25 08:34:47.620 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:47.629 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:47.648 [info] git config user.email
+2025-03-25 08:34:47.653 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/LaptopDisplay.conf
+2025-03-25 08:34:47.665 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/LaptopDisplay.conf"
+2025-03-25 08:34:51.570 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:51.578 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:51.596 [info] git config user.email
+2025-03-25 08:34:51.604 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/Laptops.conf
+2025-03-25 08:34:51.615 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/Laptops.conf"
+2025-03-25 08:34:56.584 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:56.591 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:34:56.623 [info] git config user.email
+2025-03-25 08:34:56.628 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/Startup_Apps.conf
+2025-03-25 08:34:56.639 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/Startup_Apps.conf"
+2025-03-25 08:35:00.281 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:00.286 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:00.298 [info] git config user.email
+2025-03-25 08:35:00.306 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/UserAnimations.conf
+2025-03-25 08:35:00.317 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/UserAnimations.conf"
+2025-03-25 08:35:01.786 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:01.794 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:01.823 [info] git config user.email
+2025-03-25 08:35:01.838 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/UserDecorations.conf
+2025-03-25 08:35:01.852 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/UserDecorations.conf"
+2025-03-25 08:35:06.149 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:06.155 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:06.171 [info] git config user.email
+2025-03-25 08:35:06.184 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/UserKeybinds.conf
+2025-03-25 08:35:06.196 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/UserKeybinds.conf"
+2025-03-25 08:35:09.223 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:09.230 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:09.245 [info] git config user.email
+2025-03-25 08:35:09.253 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/UserSettings.conf
+2025-03-25 08:35:09.269 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/UserSettings.conf"
+2025-03-25 08:35:12.984 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:12.991 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:13.010 [info] git config user.email
+2025-03-25 08:35:13.019 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/WindowRules-new.conf
+2025-03-25 08:35:13.036 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/WindowRules-new.conf"
+2025-03-25 08:35:14.728 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:14.737 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:14.774 [info] git config user.email
+2025-03-25 08:35:14.796 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/WindowRules.conf
+2025-03-25 08:35:14.821 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/WindowRules.conf"
+2025-03-25 08:35:16.243 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:16.252 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:16.268 [info] git config user.email
+2025-03-25 08:35:16.277 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/WorkSpaceRules
+2025-03-25 08:35:16.293 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/WorkSpaceRules"
+2025-03-25 08:35:18.783 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:18.803 [info] git config user.email
+2025-03-25 08:35:18.810 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserConfigs/01-UserDefaults.conf
+2025-03-25 08:35:18.823 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserConfigs/01-UserDefaults.conf"
+2025-03-25 08:35:21.041 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:21.053 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:21.128 [info] git config user.email
+2025-03-25 08:35:21.139 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh
+2025-03-25 08:35:21.164 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh"
+2025-03-25 08:35:22.246 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:22.252 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:22.269 [info] git config user.email
+2025-03-25 08:35:22.274 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh
+2025-03-25 08:35:22.288 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh"
+2025-03-25 08:35:24.459 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:24.465 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:24.499 [info] git config user.email
+2025-03-25 08:35:24.520 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh
+2025-03-25 08:35:24.530 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh"
+2025-03-25 08:35:25.768 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:25.776 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:25.795 [info] git config user.email
+2025-03-25 08:35:25.802 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh
+2025-03-25 08:35:25.814 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh"
+2025-03-25 08:35:28.049 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:28.055 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:28.071 [info] git config user.email
+2025-03-25 08:35:28.077 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperEffects.sh
+2025-03-25 08:35:28.090 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperEffects.sh"
+2025-03-25 08:35:29.137 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:29.142 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:29.158 [info] git config user.email
+2025-03-25 08:35:29.172 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperRandom.sh
+2025-03-25 08:35:29.192 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperRandom.sh"
+2025-03-25 08:35:30.153 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:30.158 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:30.177 [info] git config user.email
+2025-03-25 08:35:30.190 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperSelect.sh
+2025-03-25 08:35:30.207 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperSelect.sh"
+2025-03-25 08:35:37.822 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:37.829 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:37.849 [info] git config user.email
+2025-03-25 08:35:37.861 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.sh
+2025-03-25 08:35:37.873 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.sh"
+2025-03-25 08:35:42.280 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:42.288 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:42.309 [info] git config user.email
+2025-03-25 08:35:42.314 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.py
+2025-03-25 08:35:42.468 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.py"
+2025-03-25 08:35:43.959 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:43.963 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:43.979 [info] git config user.email
+2025-03-25 08:35:43.984 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/ZshChangeTheme.sh
+2025-03-25 08:35:44.008 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/ZshChangeTheme.sh"
+2025-03-25 08:35:51.717 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:51.725 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:51.754 [info] git config user.email
+2025-03-25 08:35:51.770 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/wallust/wallust-hyprland.conf
+2025-03-25 08:35:51.795 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/wallust/wallust-hyprland.conf"
+2025-03-25 08:35:53.820 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:53.827 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:35:53.874 [info] git config user.email
+2025-03-25 08:35:53.881 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hypridle.conf
+2025-03-25 08:35:53.898 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hypridle.conf"
+2025-03-25 08:36:05.659 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:05.667 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:05.692 [info] git config user.email
+2025-03-25 08:36:05.715 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf
+2025-03-25 08:36:05.742 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf"
+2025-03-25 08:36:06.622 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:06.632 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:06.650 [info] git config user.email
+2025-03-25 08:36:06.655 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf
+2025-03-25 08:36:06.667 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf"
+2025-03-25 08:36:08.435 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:08.441 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:08.459 [info] git config user.email
+2025-03-25 08:36:08.466 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf
+2025-03-25 08:36:08.480 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf"
+2025-03-25 08:36:09.242 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:09.251 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:09.271 [info] git config user.email
+2025-03-25 08:36:09.290 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh
+2025-03-25 08:36:09.302 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh"
+2025-03-25 08:36:30.884 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:30.898 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:30.932 [info] git config user.email
+2025-03-25 08:36:30.938 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/monitors.conf
+2025-03-25 08:36:30.949 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/monitors.conf"
+2025-03-25 08:36:35.045 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:35.058 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:35.089 [info] git config user.email
+2025-03-25 08:36:35.109 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/workspaces.conf
+2025-03-25 08:36:35.121 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/workspaces.conf"
+2025-03-25 08:36:48.846 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:48.859 [info] git config user.email
+2025-03-25 08:36:48.864 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/monitors.conf
+2025-03-25 08:36:48.881 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/monitors.conf"
+2025-03-25 08:36:58.242 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:36:58.254 [info] git config user.email
+2025-03-25 08:36:58.268 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh
+2025-03-25 08:36:58.283 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh"
+2025-03-25 08:37:00.198 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:00.212 [info] git config user.email
+2025-03-25 08:37:00.220 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hypridle.conf
+2025-03-25 08:37:00.230 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hypridle.conf"
+2025-03-25 08:37:00.893 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:00.899 [info] git config user.email
+2025-03-25 08:37:00.902 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperSelect.sh
+2025-03-25 08:37:00.912 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperSelect.sh"
+2025-03-25 08:37:01.712 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:01.720 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:01.747 [info] git config user.email
+2025-03-25 08:37:01.755 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf
+2025-03-25 08:37:01.766 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf"
+2025-03-25 08:37:01.879 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:01.890 [info] git config user.email
+2025-03-25 08:37:01.894 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf
+2025-03-25 08:37:01.899 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf"
+2025-03-25 08:37:02.544 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:02.554 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:02.577 [info] git config user.email
+2025-03-25 08:37:02.588 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf
+2025-03-25 08:37:02.599 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf"
+2025-03-25 08:37:02.677 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:02.685 [info] git config user.email
+2025-03-25 08:37:02.693 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf
+2025-03-25 08:37:02.696 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf"
+2025-03-25 08:37:03.444 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:03.456 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:03.476 [info] git config user.email
+2025-03-25 08:37:03.491 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/Laptops.conf
+2025-03-25 08:37:03.507 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/Laptops.conf"
+2025-03-25 08:37:03.628 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:03.646 [info] git config user.email
+2025-03-25 08:37:03.652 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/Laptops.conf
+2025-03-25 08:37:03.658 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/Laptops.conf"
+2025-03-25 08:37:04.267 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:04.274 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:04.295 [info] git config user.email
+2025-03-25 08:37:04.302 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf
+2025-03-25 08:37:04.309 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf"
+2025-03-25 08:37:04.373 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:04.379 [info] git config user.email
+2025-03-25 08:37:04.389 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf
+2025-03-25 08:37:04.394 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf"
+2025-03-25 08:37:09.845 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:09.859 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:09.897 [info] git config user.email
+2025-03-25 08:37:09.906 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf
+2025-03-25 08:37:09.935 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf"
+2025-03-25 08:37:17.016 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:17.029 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:17.058 [info] git config user.email
+2025-03-25 08:37:17.072 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/00-default.conf
+2025-03-25 08:37:17.082 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/00-default.conf"
+2025-03-25 08:37:18.659 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:18.668 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:18.686 [info] git config user.email
+2025-03-25 08:37:18.708 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/01-default - v2.conf
+2025-03-25 08:37:18.722 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/01-default - v2.conf"
+2025-03-25 08:37:19.600 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:19.606 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:19.623 [info] git config user.email
+2025-03-25 08:37:19.632 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/03- Disable Animation.conf
+2025-03-25 08:37:19.658 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/03- Disable Animation.conf"
+2025-03-25 08:37:20.644 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:20.653 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:20.681 [info] git config user.email
+2025-03-25 08:37:20.696 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/END-4.conf
+2025-03-25 08:37:20.705 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/END-4.conf"
+2025-03-25 08:37:21.705 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:21.712 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:21.732 [info] git config user.email
+2025-03-25 08:37:21.741 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - default.conf
+2025-03-25 08:37:21.752 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - default.conf"
+2025-03-25 08:37:22.769 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:22.773 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:22.785 [info] git config user.email
+2025-03-25 08:37:22.791 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - minimal-1.conf
+2025-03-25 08:37:22.810 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - minimal-1.conf"
+2025-03-25 08:37:23.560 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:23.568 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:23.620 [info] git config user.email
+2025-03-25 08:37:23.626 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - minimal-2.conf
+2025-03-25 08:37:23.636 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - minimal-2.conf"
+2025-03-25 08:37:25.083 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:25.098 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:25.133 [info] git config user.email
+2025-03-25 08:37:25.142 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - optimized.conf
+2025-03-25 08:37:25.169 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - optimized.conf"
+2025-03-25 08:37:26.579 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:26.585 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:26.599 [info] git config user.email
+2025-03-25 08:37:26.611 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - Vertical.conf
+2025-03-25 08:37:26.654 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/HYDE - Vertical.conf"
+2025-03-25 08:37:28.225 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:28.231 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:28.247 [info] git config user.email
+2025-03-25 08:37:28.253 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/Mahaveer - me-1.conf
+2025-03-25 08:37:28.269 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/Mahaveer - me-1.conf"
+2025-03-25 08:37:28.832 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:28.837 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:28.842 [info] git config user.email
+2025-03-25 08:37:28.844 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/Mahaveer - me-2.conf
+2025-03-25 08:37:28.856 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/Mahaveer - me-2.conf"
+2025-03-25 08:37:29.438 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:29.441 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:29.447 [info] git config user.email
+2025-03-25 08:37:29.450 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - classic.conf
+2025-03-25 08:37:29.461 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - classic.conf"
+2025-03-25 08:37:30.392 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:30.401 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:30.451 [info] git config user.email
+2025-03-25 08:37:30.457 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - dynamic.conf
+2025-03-25 08:37:30.467 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - dynamic.conf"
+2025-03-25 08:37:31.160 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:31.169 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:31.222 [info] git config user.email
+2025-03-25 08:37:31.233 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - fast.conf
+2025-03-25 08:37:31.243 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - fast.conf"
+2025-03-25 08:37:31.799 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:31.803 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:31.814 [info] git config user.email
+2025-03-25 08:37:31.819 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - high.conf
+2025-03-25 08:37:31.849 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - high.conf"
+2025-03-25 08:37:32.555 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:32.563 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:32.582 [info] git config user.email
+2025-03-25 08:37:32.591 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - moving.conf
+2025-03-25 08:37:32.605 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - moving.conf"
+2025-03-25 08:37:33.181 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:33.184 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:33.192 [info] git config user.email
+2025-03-25 08:37:33.194 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - standard.conf
+2025-03-25 08:37:33.206 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/ML4W - standard.conf"
+2025-03-25 08:37:36.932 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:36.940 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:36.959 [info] git config user.email
+2025-03-25 08:37:36.966 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/Monitor_Profiles/default.conf
+2025-03-25 08:37:36.990 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/Monitor_Profiles/default.conf"
+2025-03-25 08:37:47.460 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:47.469 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:47.508 [info] git config user.email
+2025-03-25 08:37:47.513 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf
+2025-03-25 08:37:47.518 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf"
+2025-03-25 08:37:50.906 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:50.918 [info] git config user.email
+2025-03-25 08:37:50.934 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf
+2025-03-25 08:37:50.946 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf"
+2025-03-25 08:37:51.948 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:51.961 [info] git config user.email
+2025-03-25 08:37:51.971 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/Monitor_Profiles/default.conf
+2025-03-25 08:37:51.982 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/Monitor_Profiles/default.conf"
+2025-03-25 08:37:55.645 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:55.655 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:37:55.701 [info] git config user.email
+2025-03-25 08:37:55.705 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/AirplaneMode.sh
+2025-03-25 08:37:55.717 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/AirplaneMode.sh"
+2025-03-25 08:38:03.115 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:03.124 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:03.189 [info] git config user.email
+2025-03-25 08:38:03.195 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh
+2025-03-25 08:38:03.219 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh"
+2025-03-25 08:38:07.121 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:07.132 [info] git config user.email
+2025-03-25 08:38:07.147 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh
+2025-03-25 08:38:07.160 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh"
+2025-03-25 08:38:08.845 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:08.856 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:08.902 [info] git config user.email
+2025-03-25 08:38:08.920 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Brightness.sh
+2025-03-25 08:38:08.939 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Brightness.sh"
+2025-03-25 08:38:11.804 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:11.810 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:11.830 [info] git config user.email
+2025-03-25 08:38:11.843 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/BrightnessKbd.sh
+2025-03-25 08:38:11.892 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/BrightnessKbd.sh"
+2025-03-25 08:38:15.058 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:15.064 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:15.085 [info] git config user.email
+2025-03-25 08:38:15.092 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeBlur.sh
+2025-03-25 08:38:15.110 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeBlur.sh"
+2025-03-25 08:38:19.399 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:19.411 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:19.449 [info] git config user.email
+2025-03-25 08:38:19.453 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ClipManager.sh
+2025-03-25 08:38:19.464 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ClipManager.sh"
+2025-03-25 08:38:20.521 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:20.526 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:20.548 [info] git config user.email
+2025-03-25 08:38:20.557 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh
+2025-03-25 08:38:20.576 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh"
+2025-03-25 08:38:22.412 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:22.420 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:22.437 [info] git config user.email
+2025-03-25 08:38:22.453 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/DarkLight.sh
+2025-03-25 08:38:22.468 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/DarkLight.sh"
+2025-03-25 08:38:23.474 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:23.481 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:23.498 [info] git config user.email
+2025-03-25 08:38:23.506 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Distro_update.sh
+2025-03-25 08:38:23.552 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Distro_update.sh"
+2025-03-25 08:38:24.630 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:24.641 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:24.675 [info] git config user.email
+2025-03-25 08:38:24.687 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Hypridle.sh
+2025-03-25 08:38:24.699 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Hypridle.sh"
+2025-03-25 08:38:25.912 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:25.918 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:25.938 [info] git config user.email
+2025-03-25 08:38:25.948 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/GameMode.sh
+2025-03-25 08:38:25.962 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/GameMode.sh"
+2025-03-25 08:38:27.077 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:27.083 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:27.108 [info] git config user.email
+2025-03-25 08:38:27.117 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KillActiveProcess.sh
+2025-03-25 08:38:27.135 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KillActiveProcess.sh"
+2025-03-25 08:38:27.807 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:27.813 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:27.837 [info] git config user.email
+2025-03-25 08:38:27.853 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh
+2025-03-25 08:38:27.867 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh"
+2025-03-25 08:38:28.680 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:28.692 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:28.712 [info] git config user.email
+2025-03-25 08:38:28.720 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyBinds.sh
+2025-03-25 08:38:28.730 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyBinds.sh"
+2025-03-25 08:38:34.690 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:34.730 [info] git config user.email
+2025-03-25 08:38:34.751 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh
+2025-03-25 08:38:34.761 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh"
+2025-03-25 08:38:35.744 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:35.766 [info] git config user.email
+2025-03-25 08:38:35.775 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KillActiveProcess.sh
+2025-03-25 08:38:35.802 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KillActiveProcess.sh"
+2025-03-25 08:38:37.525 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:37.536 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:37.568 [info] git config user.email
+2025-03-25 08:38:37.591 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kitty_themes.sh
+2025-03-25 08:38:37.622 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kitty_themes.sh"
+2025-03-25 08:38:39.921 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:39.927 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:39.943 [info] git config user.email
+2025-03-25 08:38:39.951 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh
+2025-03-25 08:38:39.975 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh"
+2025-03-25 08:38:41.003 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:41.010 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:41.031 [info] git config user.email
+2025-03-25 08:38:41.039 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:38:41.052 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:38:44.720 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:44.758 [info] git config user.email
+2025-03-25 08:38:44.766 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:38:44.778 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:38:46.435 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:46.450 [info] git config user.email
+2025-03-25 08:38:46.457 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyBinds.sh
+2025-03-25 08:38:46.472 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyBinds.sh"
+2025-03-25 08:38:49.158 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:49.221 [info] git config user.email
+2025-03-25 08:38:49.231 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh
+2025-03-25 08:38:49.255 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh"
+2025-03-25 08:38:51.140 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:51.152 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:51.187 [info] git config user.email
+2025-03-25 08:38:51.210 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/LockScreen.sh
+2025-03-25 08:38:51.222 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/LockScreen.sh"
+2025-03-25 08:38:55.865 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:55.876 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:55.934 [info] git config user.email
+2025-03-25 08:38:55.942 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/MediaCtrl.sh
+2025-03-25 08:38:55.954 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/MediaCtrl.sh"
+2025-03-25 08:38:56.876 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:56.886 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:56.905 [info] git config user.email
+2025-03-25 08:38:56.916 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh
+2025-03-25 08:38:56.932 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh"
+2025-03-25 08:38:58.272 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:58.286 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:58.327 [info] git config user.email
+2025-03-25 08:38:58.337 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit-NixOS.sh
+2025-03-25 08:38:58.361 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit-NixOS.sh"
+2025-03-25 08:38:59.143 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:59.154 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:38:59.178 [info] git config user.email
+2025-03-25 08:38:59.192 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit.sh
+2025-03-25 08:38:59.206 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit.sh"
+2025-03-25 08:39:00.066 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:00.073 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:00.094 [info] git config user.email
+2025-03-25 08:39:00.101 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/PortalHyprland.sh
+2025-03-25 08:39:00.113 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/PortalHyprland.sh"
+2025-03-25 08:39:01.244 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:01.253 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:01.279 [info] git config user.email
+2025-03-25 08:39:01.301 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Refresh.sh
+2025-03-25 08:39:01.331 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Refresh.sh"
+2025-03-25 08:39:02.511 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:02.522 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:02.554 [info] git config user.email
+2025-03-25 08:39:02.573 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RefreshNoWaybar.sh
+2025-03-25 08:39:02.583 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RefreshNoWaybar.sh"
+2025-03-25 08:39:03.576 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:03.585 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:03.615 [info] git config user.email
+2025-03-25 08:39:03.628 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh
+2025-03-25 08:39:03.647 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh"
+2025-03-25 08:39:04.665 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:04.673 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:04.703 [info] git config user.email
+2025-03-25 08:39:04.724 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiSearch.sh
+2025-03-25 08:39:04.739 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiSearch.sh"
+2025-03-25 08:39:09.997 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:10.008 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:10.036 [info] git config user.email
+2025-03-25 08:39:10.063 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector.sh
+2025-03-25 08:39:10.074 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector.sh"
+2025-03-25 08:39:11.187 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:11.197 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:11.251 [info] git config user.email
+2025-03-25 08:39:11.262 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector-modified.sh
+2025-03-25 08:39:11.292 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector-modified.sh"
+2025-03-25 08:39:12.196 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:12.205 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:12.234 [info] git config user.email
+2025-03-25 08:39:12.274 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ScreenShot.sh
+2025-03-25 08:39:12.286 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ScreenShot.sh"
+2025-03-25 08:39:13.196 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:13.205 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:13.230 [info] git config user.email
+2025-03-25 08:39:13.239 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/sounds.sh
+2025-03-25 08:39:13.259 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/sounds.sh"
+2025-03-25 08:39:14.368 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:14.377 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:14.397 [info] git config user.email
+2025-03-25 08:39:14.404 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/SwitchKeyboardLayout.sh
+2025-03-25 08:39:14.420 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/SwitchKeyboardLayout.sh"
+2025-03-25 08:39:19.836 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:19.845 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:19.874 [info] git config user.email
+2025-03-25 08:39:19.887 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/TouchPad.sh
+2025-03-25 08:39:19.897 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/TouchPad.sh"
+2025-03-25 08:39:24.323 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:24.333 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:24.362 [info] git config user.email
+2025-03-25 08:39:24.385 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Volume.sh
+2025-03-25 08:39:24.399 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Volume.sh"
+2025-03-25 08:39:26.238 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:26.244 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:26.264 [info] git config user.email
+2025-03-25 08:39:26.273 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/UptimeNixOS.sh
+2025-03-25 08:39:26.303 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/UptimeNixOS.sh"
+2025-03-25 08:39:27.493 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:27.499 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:27.522 [info] git config user.email
+2025-03-25 08:39:27.532 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WallustSwww.sh
+2025-03-25 08:39:27.552 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WallustSwww.sh"
+2025-03-25 08:39:28.328 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:28.338 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:28.359 [info] git config user.email
+2025-03-25 08:39:28.371 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh
+2025-03-25 08:39:28.385 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh"
+2025-03-25 08:39:29.642 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:29.651 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:29.670 [info] git config user.email
+2025-03-25 08:39:29.681 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarLayout.sh
+2025-03-25 08:39:29.694 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarLayout.sh"
+2025-03-25 08:39:30.859 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:30.867 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:30.890 [info] git config user.email
+2025-03-25 08:39:30.898 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarScripts.sh
+2025-03-25 08:39:30.914 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarScripts.sh"
+2025-03-25 08:39:35.839 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:35.852 [info] git config user.email
+2025-03-25 08:39:35.878 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarScripts.sh
+2025-03-25 08:39:35.891 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarScripts.sh"
+2025-03-25 08:39:37.582 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:37.591 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:37.611 [info] git config user.email
+2025-03-25 08:39:37.627 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarStyles.sh
+2025-03-25 08:39:37.655 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarStyles.sh"
+2025-03-25 08:39:40.046 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:40.054 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:40.083 [info] git config user.email
+2025-03-25 08:39:40.092 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Wlogout.sh
+2025-03-25 08:39:40.104 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Wlogout.sh"
+2025-03-25 08:39:42.044 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:42.053 [info] git config user.email
+2025-03-25 08:39:42.065 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiSearch.sh
+2025-03-25 08:39:42.077 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiSearch.sh"
+2025-03-25 08:39:43.050 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:43.058 [info] git config user.email
+2025-03-25 08:39:43.069 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/SwitchKeyboardLayout.sh
+2025-03-25 08:39:43.080 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/SwitchKeyboardLayout.sh"
+2025-03-25 08:39:44.090 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:39:44.111 [info] git config user.email
+2025-03-25 08:39:44.119 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/TouchPad.sh
+2025-03-25 08:39:44.132 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/TouchPad.sh"
+2025-03-25 08:40:11.499 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:40:11.530 [info] git config user.email
+2025-03-25 08:40:11.557 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/00-default.conf
+2025-03-25 08:40:11.570 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/00-default.conf"
+2025-03-25 08:40:12.712 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:40:12.740 [info] git config user.email
+2025-03-25 08:40:12.761 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/animations/01-default - v2.conf
+2025-03-25 08:40:12.787 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/animations/01-default - v2.conf"
+2025-03-25 08:40:22.086 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:40:22.105 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:40:22.129 [info] git config user.email
+2025-03-25 08:40:22.134 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 08:40:22.149 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 08:40:29.303 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:40:29.311 [info] git config user.email
+2025-03-25 08:40:29.322 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 08:40:29.342 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 08:40:45.436 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:40:45.464 [info] git config user.email
+2025-03-25 08:40:45.479 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/Laptops.conf
+2025-03-25 08:40:45.484 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/Laptops.conf"
+2025-03-25 08:40:58.856 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:40:58.867 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:40:58.887 [info] git config user.email
+2025-03-25 08:40:58.910 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/01-UserDefaults.conf
+2025-03-25 08:40:58.918 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/01-UserDefaults.conf"
+2025-03-25 08:40:59.595 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:40:59.622 [info] git config user.email
+2025-03-25 08:40:59.631 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf
+2025-03-25 08:40:59.641 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf"
+2025-03-25 08:41:00.601 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:00.618 [info] git config user.email
+2025-03-25 08:41:00.640 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf
+2025-03-25 08:41:00.650 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf"
+2025-03-25 08:41:09.655 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:09.679 [info] git config user.email
+2025-03-25 08:41:09.692 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/Laptops.conf
+2025-03-25 08:41:09.697 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/Laptops.conf"
+2025-03-25 08:41:10.876 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:10.884 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:10.903 [info] git config user.email
+2025-03-25 08:41:10.921 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/Startup_Apps.conf
+2025-03-25 08:41:10.932 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/Startup_Apps.conf"
+2025-03-25 08:41:11.728 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:11.749 [info] git config user.email
+2025-03-25 08:41:11.765 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf
+2025-03-25 08:41:11.770 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf"
+2025-03-25 08:41:12.312 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:12.318 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:12.335 [info] git config user.email
+2025-03-25 08:41:12.350 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserAnimations.conf
+2025-03-25 08:41:12.361 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserAnimations.conf"
+2025-03-25 08:41:12.915 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:12.924 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:12.943 [info] git config user.email
+2025-03-25 08:41:12.963 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:41:12.971 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:41:13.755 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:13.776 [info] git config user.email
+2025-03-25 08:41:13.806 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf
+2025-03-25 08:41:13.810 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf"
+2025-03-25 08:41:15.465 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:15.487 [info] git config user.email
+2025-03-25 08:41:15.504 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:41:15.521 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:41:18.639 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:18.647 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:18.689 [info] git config user.email
+2025-03-25 08:41:18.710 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules-new.conf
+2025-03-25 08:41:18.714 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules-new.conf"
+2025-03-25 08:41:19.524 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:19.531 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:19.553 [info] git config user.email
+2025-03-25 08:41:19.571 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules.conf
+2025-03-25 08:41:19.582 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules.conf"
+2025-03-25 08:41:20.669 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:20.677 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:20.704 [info] git config user.email
+2025-03-25 08:41:20.737 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/WorkSpaceRules
+2025-03-25 08:41:20.743 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/WorkSpaceRules"
+2025-03-25 08:41:22.733 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:22.759 [info] git config user.email
+2025-03-25 08:41:22.783 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh
+2025-03-25 08:41:22.796 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh"
+2025-03-25 08:41:23.761 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:23.784 [info] git config user.email
+2025-03-25 08:41:23.812 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh
+2025-03-25 08:41:23.825 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh"
+2025-03-25 08:41:24.631 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:24.659 [info] git config user.email
+2025-03-25 08:41:24.678 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh
+2025-03-25 08:41:24.694 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh"
+2025-03-25 08:41:25.238 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:25.253 [info] git config user.email
+2025-03-25 08:41:25.263 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh
+2025-03-25 08:41:25.273 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh"
+2025-03-25 08:41:25.798 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:25.806 [info] git config user.email
+2025-03-25 08:41:25.814 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperRandom.sh
+2025-03-25 08:41:25.839 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperRandom.sh"
+2025-03-25 08:41:26.618 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:26.637 [info] git config user.email
+2025-03-25 08:41:26.653 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperSelect.sh
+2025-03-25 08:41:26.666 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperSelect.sh"
+2025-03-25 08:41:28.717 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:28.736 [info] git config user.email
+2025-03-25 08:41:28.753 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/ZshChangeTheme.sh
+2025-03-25 08:41:28.775 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/ZshChangeTheme.sh"
+2025-03-25 08:41:29.382 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:29.407 [info] git config user.email
+2025-03-25 08:41:29.422 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.sh
+2025-03-25 08:41:29.434 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.sh"
+2025-03-25 08:41:30.331 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:30.388 [info] git config user.email
+2025-03-25 08:41:30.415 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.py
+2025-03-25 08:41:30.429 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.py"
+2025-03-25 08:41:31.988 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:31.996 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:32.027 [info] git config user.email
+2025-03-25 08:41:32.045 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/application-style.conf
+2025-03-25 08:41:32.056 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/application-style.conf"
+2025-03-25 08:41:33.228 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:33.248 [info] git config user.email
+2025-03-25 08:41:33.264 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hypridle.conf
+2025-03-25 08:41:33.277 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hypridle.conf"
+2025-03-25 08:41:37.638 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:37.659 [info] git config user.email
+2025-03-25 08:41:37.677 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf
+2025-03-25 08:41:37.700 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf"
+2025-03-25 08:41:38.445 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:38.467 [info] git config user.email
+2025-03-25 08:41:38.479 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf
+2025-03-25 08:41:38.487 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf"
+2025-03-25 08:41:39.446 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:39.467 [info] git config user.email
+2025-03-25 08:41:39.494 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf
+2025-03-25 08:41:39.506 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf"
+2025-03-25 08:41:40.561 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:40.581 [info] git config user.email
+2025-03-25 08:41:40.597 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh
+2025-03-25 08:41:40.623 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh"
+2025-03-25 08:41:42.320 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:42.351 [info] git config user.email
+2025-03-25 08:41:42.390 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/monitors.conf
+2025-03-25 08:41:42.422 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/monitors.conf"
+2025-03-25 08:41:47.267 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:47.302 [info] git config user.email
+2025-03-25 08:41:47.331 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/workspaces.conf
+2025-03-25 08:41:47.360 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/workspaces.conf"
+2025-03-25 08:41:50.388 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:50.399 [info] git config user.email
+2025-03-25 08:41:50.411 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 08:41:50.425 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 08:41:51.439 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:51.450 [info] git config user.email
+2025-03-25 08:41:51.458 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/monitors.conf
+2025-03-25 08:41:51.471 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/monitors.conf"
+2025-03-25 08:41:52.464 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:52.488 [info] git config user.email
+2025-03-25 08:41:52.496 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf
+2025-03-25 08:41:52.509 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf"
+2025-03-25 08:41:53.560 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:41:53.569 [info] git config user.email
+2025-03-25 08:41:53.593 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:41:53.601 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:42:02.882 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:42:02.894 [info] git config user.email
+2025-03-25 08:42:02.920 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:42:02.933 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:42:03.662 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:42:03.674 [info] git config user.email
+2025-03-25 08:42:03.703 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:42:03.713 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:42:15.499 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:42:15.520 [info] git config user.email
+2025-03-25 08:42:15.528 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:42:15.540 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:42:19.589 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:42:19.606 [info] git config user.email
+2025-03-25 08:42:19.614 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:42:19.626 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:42:27.649 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:42:27.668 [info] git config user.email
+2025-03-25 08:42:27.683 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf
+2025-03-25 08:42:27.699 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf"
+2025-03-25 08:43:12.519 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:12.543 [info] git config user.email
+2025-03-25 08:43:12.557 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/Monitor_Profiles/default.conf
+2025-03-25 08:43:12.571 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/Monitor_Profiles/default.conf"
+2025-03-25 08:43:14.217 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:14.232 [info] git config user.email
+2025-03-25 08:43:14.251 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/AirplaneMode.sh
+2025-03-25 08:43:14.262 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/AirplaneMode.sh"
+2025-03-25 08:43:15.142 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:15.166 [info] git config user.email
+2025-03-25 08:43:15.179 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh
+2025-03-25 08:43:15.192 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh"
+2025-03-25 08:43:15.860 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:15.874 [info] git config user.email
+2025-03-25 08:43:15.886 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/BrightnessKbd.sh
+2025-03-25 08:43:15.899 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/BrightnessKbd.sh"
+2025-03-25 08:43:16.724 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:16.745 [info] git config user.email
+2025-03-25 08:43:16.778 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Brightness.sh
+2025-03-25 08:43:16.797 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Brightness.sh"
+2025-03-25 08:43:17.263 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:17.273 [info] git config user.email
+2025-03-25 08:43:17.279 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeBlur.sh
+2025-03-25 08:43:17.292 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeBlur.sh"
+2025-03-25 08:43:17.824 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:17.829 [info] git config user.email
+2025-03-25 08:43:17.835 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ClipManager.sh
+2025-03-25 08:43:17.845 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ClipManager.sh"
+2025-03-25 08:43:19.308 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:19.329 [info] git config user.email
+2025-03-25 08:43:19.347 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/DarkLight.sh
+2025-03-25 08:43:19.365 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/DarkLight.sh"
+2025-03-25 08:43:20.107 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:20.129 [info] git config user.email
+2025-03-25 08:43:20.145 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Distro_update.sh
+2025-03-25 08:43:20.157 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Distro_update.sh"
+2025-03-25 08:43:21.476 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:21.491 [info] git config user.email
+2025-03-25 08:43:21.505 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/GameMode.sh
+2025-03-25 08:43:21.532 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/GameMode.sh"
+2025-03-25 08:43:22.416 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:22.435 [info] git config user.email
+2025-03-25 08:43:22.457 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Hypridle.sh
+2025-03-25 08:43:22.468 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Hypridle.sh"
+2025-03-25 08:43:23.207 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:23.224 [info] git config user.email
+2025-03-25 08:43:23.240 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh
+2025-03-25 08:43:23.252 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh"
+2025-03-25 08:43:23.932 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:23.954 [info] git config user.email
+2025-03-25 08:43:23.970 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KillActiveProcess.sh
+2025-03-25 08:43:23.980 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KillActiveProcess.sh"
+2025-03-25 08:43:24.398 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:24.412 [info] git config user.email
+2025-03-25 08:43:24.433 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kitty_themes.sh
+2025-03-25 08:43:24.445 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kitty_themes.sh"
+2025-03-25 08:43:25.426 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:25.448 [info] git config user.email
+2025-03-25 08:43:25.467 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:43:25.489 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:43:25.983 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:25.987 [info] git config user.email
+2025-03-25 08:43:25.995 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh
+2025-03-25 08:43:26.010 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh"
+2025-03-25 08:43:27.411 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:27.438 [info] git config user.email
+2025-03-25 08:43:27.453 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:43:27.473 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:43:33.625 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:33.649 [info] git config user.email
+2025-03-25 08:43:33.656 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/LockScreen.sh
+2025-03-25 08:43:33.671 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/LockScreen.sh"
+2025-03-25 08:43:34.509 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:34.531 [info] git config user.email
+2025-03-25 08:43:34.550 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh
+2025-03-25 08:43:34.561 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh"
+2025-03-25 08:43:36.340 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:36.360 [info] git config user.email
+2025-03-25 08:43:36.389 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh
+2025-03-25 08:43:36.403 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh"
+2025-03-25 08:43:38.362 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:38.400 [info] git config user.email
+2025-03-25 08:43:38.422 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/MediaCtrl.sh
+2025-03-25 08:43:38.438 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/MediaCtrl.sh"
+2025-03-25 08:43:40.091 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:40.106 [info] git config user.email
+2025-03-25 08:43:40.119 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit.sh
+2025-03-25 08:43:40.132 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit.sh"
+2025-03-25 08:43:40.849 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:40.888 [info] git config user.email
+2025-03-25 08:43:40.920 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit-NixOS.sh
+2025-03-25 08:43:40.952 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit-NixOS.sh"
+2025-03-25 08:43:41.412 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:41.416 [info] git config user.email
+2025-03-25 08:43:41.424 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Refresh.sh
+2025-03-25 08:43:41.437 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Refresh.sh"
+2025-03-25 08:43:45.204 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:45.225 [info] git config user.email
+2025-03-25 08:43:45.254 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RefreshNoWaybar.sh
+2025-03-25 08:43:45.266 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RefreshNoWaybar.sh"
+2025-03-25 08:43:50.473 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:50.493 [info] git config user.email
+2025-03-25 08:43:50.511 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh
+2025-03-25 08:43:50.523 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh"
+2025-03-25 08:43:51.558 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:51.580 [info] git config user.email
+2025-03-25 08:43:51.603 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiSearch.sh
+2025-03-25 08:43:51.614 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiSearch.sh"
+2025-03-25 08:43:53.540 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:53.571 [info] git config user.email
+2025-03-25 08:43:53.590 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector-modified.sh
+2025-03-25 08:43:53.606 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector-modified.sh"
+2025-03-25 08:43:54.585 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:54.604 [info] git config user.email
+2025-03-25 08:43:54.620 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector.sh
+2025-03-25 08:43:54.658 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector.sh"
+2025-03-25 08:43:55.727 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:55.743 [info] git config user.email
+2025-03-25 08:43:55.761 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/sounds.sh
+2025-03-25 08:43:55.826 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/sounds.sh"
+2025-03-25 08:43:56.907 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:56.925 [info] git config user.email
+2025-03-25 08:43:56.938 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/SwitchKeyboardLayout.sh
+2025-03-25 08:43:56.957 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/SwitchKeyboardLayout.sh"
+2025-03-25 08:43:58.062 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:58.096 [info] git config user.email
+2025-03-25 08:43:58.122 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/TouchPad.sh
+2025-03-25 08:43:58.154 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/TouchPad.sh"
+2025-03-25 08:43:59.459 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:43:59.483 [info] git config user.email
+2025-03-25 08:43:59.500 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/UptimeNixOS.sh
+2025-03-25 08:43:59.519 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/UptimeNixOS.sh"
+2025-03-25 08:44:00.562 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:00.576 [info] git config user.email
+2025-03-25 08:44:00.590 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Volume.sh
+2025-03-25 08:44:00.602 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Volume.sh"
+2025-03-25 08:44:01.567 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:01.588 [info] git config user.email
+2025-03-25 08:44:01.611 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WallustSwww.sh
+2025-03-25 08:44:01.623 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WallustSwww.sh"
+2025-03-25 08:44:02.746 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:02.769 [info] git config user.email
+2025-03-25 08:44:02.789 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarLayout.sh
+2025-03-25 08:44:02.800 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarLayout.sh"
+2025-03-25 08:44:03.834 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:03.856 [info] git config user.email
+2025-03-25 08:44:03.900 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh
+2025-03-25 08:44:03.910 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh"
+2025-03-25 08:44:06.280 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:06.300 [info] git config user.email
+2025-03-25 08:44:06.315 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Wlogout.sh
+2025-03-25 08:44:06.334 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Wlogout.sh"
+2025-03-25 08:44:07.433 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:07.457 [info] git config user.email
+2025-03-25 08:44:07.472 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarStyles.sh
+2025-03-25 08:44:07.497 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarStyles.sh"
+2025-03-25 08:44:10.194 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:10.217 [info] git config user.email
+2025-03-25 08:44:10.239 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarScripts.sh
+2025-03-25 08:44:10.263 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarScripts.sh"
+2025-03-25 08:44:11.523 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:11.540 [info] git config user.email
+2025-03-25 08:44:11.578 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarLayout.sh
+2025-03-25 08:44:11.601 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarLayout.sh"
+2025-03-25 08:44:13.416 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:13.451 [info] git config user.email
+2025-03-25 08:44:13.466 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/01-UserDefaults.conf
+2025-03-25 08:44:13.473 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/01-UserDefaults.conf"
+2025-03-25 08:44:14.303 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:14.333 [info] git config user.email
+2025-03-25 08:44:14.359 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf
+2025-03-25 08:44:14.367 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf"
+2025-03-25 08:44:15.695 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:15.711 [info] git config user.email
+2025-03-25 08:44:15.725 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf
+2025-03-25 08:44:15.730 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf"
+2025-03-25 08:44:16.658 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:16.667 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:16.699 [info] git config user.email
+2025-03-25 08:44:16.732 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/laptops.conf
+2025-03-25 08:44:16.743 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/laptops.conf"
+2025-03-25 08:44:18.942 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:18.959 [info] git config user.email
+2025-03-25 08:44:18.979 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/Startup_Apps.conf
+2025-03-25 08:44:18.985 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/Startup_Apps.conf"
+2025-03-25 08:44:23.679 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:23.709 [info] git config user.email
+2025-03-25 08:44:23.732 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserAnimations.conf
+2025-03-25 08:44:23.738 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserAnimations.conf"
+2025-03-25 08:44:25.255 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:25.274 [info] git config user.email
+2025-03-25 08:44:25.282 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:44:25.295 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:44:29.024 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:29.053 [info] git config user.email
+2025-03-25 08:44:29.066 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf
+2025-03-25 08:44:29.071 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf"
+2025-03-25 08:44:30.589 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:30.607 [info] git config user.email
+2025-03-25 08:44:30.629 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf
+2025-03-25 08:44:30.635 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf"
+2025-03-25 08:44:31.993 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:32.010 [info] git config user.email
+2025-03-25 08:44:32.025 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules-new.conf
+2025-03-25 08:44:32.042 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules-new.conf"
+2025-03-25 08:44:32.955 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:32.972 [info] git config user.email
+2025-03-25 08:44:32.988 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules.conf
+2025-03-25 08:44:33.003 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules.conf"
+2025-03-25 08:44:33.942 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:33.958 [info] git config user.email
+2025-03-25 08:44:33.974 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/WorkSpaceRules
+2025-03-25 08:44:33.987 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/WorkSpaceRules"
+2025-03-25 08:44:35.376 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:35.401 [info] git config user.email
+2025-03-25 08:44:35.425 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh
+2025-03-25 08:44:35.447 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh"
+2025-03-25 08:44:36.696 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:36.718 [info] git config user.email
+2025-03-25 08:44:36.739 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh
+2025-03-25 08:44:36.750 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh"
+2025-03-25 08:44:37.493 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:37.511 [info] git config user.email
+2025-03-25 08:44:37.525 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh
+2025-03-25 08:44:37.548 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh"
+2025-03-25 08:44:40.570 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:40.593 [info] git config user.email
+2025-03-25 08:44:40.608 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh
+2025-03-25 08:44:40.624 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh"
+2025-03-25 08:44:42.049 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:42.079 [info] git config user.email
+2025-03-25 08:44:42.097 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh
+2025-03-25 08:44:42.118 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh"
+2025-03-25 08:44:45.653 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:44:45.716 [info] git config user.email
+2025-03-25 08:44:45.728 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh
+2025-03-25 08:44:45.738 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh"
+2025-03-25 08:45:43.517 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:45:43.535 [info] git config user.email
+2025-03-25 08:45:43.547 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh
+2025-03-25 08:45:43.561 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh"
+2025-03-25 08:47:04.038 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:04.054 [info] git config user.email
+2025-03-25 08:47:04.076 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh
+2025-03-25 08:47:04.087 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh"
+2025-03-25 08:47:08.929 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:08.954 [info] git config user.email
+2025-03-25 08:47:08.975 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh
+2025-03-25 08:47:08.988 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiCalc.sh"
+2025-03-25 08:47:09.567 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:09.579 [info] git config user.email
+2025-03-25 08:47:09.589 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh
+2025-03-25 08:47:09.618 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh"
+2025-03-25 08:47:10.787 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:10.806 [info] git config user.email
+2025-03-25 08:47:10.828 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperEffects.sh
+2025-03-25 08:47:10.840 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperEffects.sh"
+2025-03-25 08:47:11.416 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:11.421 [info] git config user.email
+2025-03-25 08:47:11.427 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperRandom.sh
+2025-03-25 08:47:11.437 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperRandom.sh"
+2025-03-25 08:47:12.445 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:12.459 [info] git config user.email
+2025-03-25 08:47:12.473 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperSelect.sh
+2025-03-25 08:47:12.496 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperSelect.sh"
+2025-03-25 08:47:13.227 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:13.258 [info] git config user.email
+2025-03-25 08:47:13.286 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.py
+2025-03-25 08:47:13.311 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.py"
+2025-03-25 08:47:14.645 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:14.674 [info] git config user.email
+2025-03-25 08:47:14.688 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.sh
+2025-03-25 08:47:14.700 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.sh"
+2025-03-25 08:47:16.363 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:16.397 [info] git config user.email
+2025-03-25 08:47:16.417 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/ZshChangeTheme.sh
+2025-03-25 08:47:16.429 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/ZshChangeTheme.sh"
+2025-03-25 08:47:19.098 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:19.133 [info] git config user.email
+2025-03-25 08:47:19.169 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/wallust/wallust-hyprland.conf
+2025-03-25 08:47:19.181 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/wallust/wallust-hyprland.conf"
+2025-03-25 08:47:20.163 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:20.187 [info] git config user.email
+2025-03-25 08:47:20.207 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/application-style.conf
+2025-03-25 08:47:20.234 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/application-style.conf"
+2025-03-25 08:47:21.352 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:21.372 [info] git config user.email
+2025-03-25 08:47:21.389 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hypridle.conf
+2025-03-25 08:47:21.403 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hypridle.conf"
+2025-03-25 08:47:24.299 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:24.317 [info] git config user.email
+2025-03-25 08:47:24.334 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf
+2025-03-25 08:47:24.346 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf"
+2025-03-25 08:47:25.147 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:25.171 [info] git config user.email
+2025-03-25 08:47:25.194 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf
+2025-03-25 08:47:25.205 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf"
+2025-03-25 08:47:26.528 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:26.545 [info] git config user.email
+2025-03-25 08:47:26.560 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf
+2025-03-25 08:47:26.587 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf"
+2025-03-25 08:47:29.628 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:29.664 [info] git config user.email
+2025-03-25 08:47:29.686 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf
+2025-03-25 08:47:29.700 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf"
+2025-03-25 08:47:32.324 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:32.370 [info] git config user.email
+2025-03-25 08:47:32.396 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf
+2025-03-25 08:47:32.409 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf"
+2025-03-25 08:47:35.171 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:35.201 [info] git config user.email
+2025-03-25 08:47:35.227 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh
+2025-03-25 08:47:35.264 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh"
+2025-03-25 08:47:37.109 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:37.128 [info] git config user.email
+2025-03-25 08:47:37.155 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/monitors.conf
+2025-03-25 08:47:37.168 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/monitors.conf"
+2025-03-25 08:47:38.344 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:38.368 [info] git config user.email
+2025-03-25 08:47:38.389 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/workspaces.conf
+2025-03-25 08:47:38.405 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/workspaces.conf"
+2025-03-25 08:47:42.398 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:42.410 [info] git config user.email
+2025-03-25 08:47:42.432 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf
+2025-03-25 08:47:42.442 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/configs/Keybinds.conf"
+2025-03-25 08:47:43.300 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:43.306 [info] git config user.email
+2025-03-25 08:47:43.314 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:47:43.339 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:47:44.128 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:44.137 [info] git config user.email
+2025-03-25 08:47:44.142 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Refresh.sh
+2025-03-25 08:47:44.153 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Refresh.sh"
+2025-03-25 08:47:44.808 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:44.819 [info] git config user.email
+2025-03-25 08:47:44.825 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RefreshNoWaybar.sh
+2025-03-25 08:47:44.836 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RefreshNoWaybar.sh"
+2025-03-25 08:47:45.633 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:45.690 [info] git config user.email
+2025-03-25 08:47:45.698 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/Startup_Apps.conf
+2025-03-25 08:47:45.702 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/Startup_Apps.conf"
+2025-03-25 08:47:46.510 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:46.523 [info] git config user.email
+2025-03-25 08:47:46.529 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:47:46.535 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:47:47.282 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:47.288 [info] git config user.email
+2025-03-25 08:47:47.292 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf
+2025-03-25 08:47:47.305 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf"
+2025-03-25 08:47:47.989 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:47.998 [info] git config user.email
+2025-03-25 08:47:48.005 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf
+2025-03-25 08:47:48.022 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf"
+2025-03-25 08:47:49.010 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:47:49.025 [info] git config user.email
+2025-03-25 08:47:49.028 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf
+2025-03-25 08:47:49.042 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf"
+2025-03-25 08:49:55.433 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:49:55.472 [info] git config user.email
+2025-03-25 08:49:55.484 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/AirplaneMode.sh
+2025-03-25 08:49:55.498 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/AirplaneMode.sh"
+2025-03-25 08:49:56.326 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:49:56.347 [info] git config user.email
+2025-03-25 08:49:56.356 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh
+2025-03-25 08:49:56.368 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh"
+2025-03-25 08:49:56.897 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:49:56.904 [info] git config user.email
+2025-03-25 08:49:56.908 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Brightness.sh
+2025-03-25 08:49:56.920 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Brightness.sh"
+2025-03-25 08:49:57.607 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:49:57.625 [info] git config user.email
+2025-03-25 08:49:57.634 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/BrightnessKbd.sh
+2025-03-25 08:49:57.656 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/BrightnessKbd.sh"
+2025-03-25 08:49:58.190 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:49:58.196 [info] git config user.email
+2025-03-25 08:49:58.199 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeBlur.sh
+2025-03-25 08:49:58.210 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeBlur.sh"
+2025-03-25 08:49:58.576 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:49:58.598 [info] git config user.email
+2025-03-25 08:49:58.607 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh
+2025-03-25 08:49:58.621 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh"
+2025-03-25 08:49:59.150 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:49:59.158 [info] git config user.email
+2025-03-25 08:49:59.161 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ClipManager.sh
+2025-03-25 08:49:59.172 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ClipManager.sh"
+2025-03-25 08:50:00.046 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:00.111 [info] git config user.email
+2025-03-25 08:50:00.121 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/DarkLight.sh
+2025-03-25 08:50:00.131 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/DarkLight.sh"
+2025-03-25 08:50:01.129 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:01.161 [info] git config user.email
+2025-03-25 08:50:01.167 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Distro_update.sh
+2025-03-25 08:50:01.186 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Distro_update.sh"
+2025-03-25 08:50:01.679 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:01.686 [info] git config user.email
+2025-03-25 08:50:01.690 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/GameMode.sh
+2025-03-25 08:50:01.703 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/GameMode.sh"
+2025-03-25 08:50:02.277 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:02.284 [info] git config user.email
+2025-03-25 08:50:02.287 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyBinds.sh
+2025-03-25 08:50:02.303 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyBinds.sh"
+2025-03-25 08:50:03.208 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:03.237 [info] git config user.email
+2025-03-25 08:50:03.250 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh
+2025-03-25 08:50:03.268 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh"
+2025-03-25 08:50:03.792 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:03.801 [info] git config user.email
+2025-03-25 08:50:03.806 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KillActiveProcess.sh
+2025-03-25 08:50:03.839 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KillActiveProcess.sh"
+2025-03-25 08:50:04.386 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:04.395 [info] git config user.email
+2025-03-25 08:50:04.399 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kitty_themes.sh
+2025-03-25 08:50:04.410 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kitty_themes.sh"
+2025-03-25 08:50:04.971 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:04.980 [info] git config user.email
+2025-03-25 08:50:04.982 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:50:04.996 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:50:05.371 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:05.393 [info] git config user.email
+2025-03-25 08:50:05.412 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh
+2025-03-25 08:50:05.424 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh"
+2025-03-25 08:50:06.416 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:06.435 [info] git config user.email
+2025-03-25 08:50:06.444 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:50:06.458 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:50:08.991 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:09.008 [info] git config user.email
+2025-03-25 08:50:09.017 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh
+2025-03-25 08:50:09.041 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KooLsDotsUpdate.sh"
+2025-03-25 08:50:09.537 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:09.543 [info] git config user.email
+2025-03-25 08:50:09.545 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/LockScreen.sh
+2025-03-25 08:50:09.555 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/LockScreen.sh"
+2025-03-25 08:50:10.124 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:50:10.130 [info] git config user.email
+2025-03-25 08:50:10.136 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/MediaCtrl.sh
+2025-03-25 08:50:10.161 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/MediaCtrl.sh"
+2025-03-25 08:52:38.393 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:52:38.410 [info] git config user.email
+2025-03-25 08:52:38.425 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/MediaCtrl.sh
+2025-03-25 08:52:38.437 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/MediaCtrl.sh"
+2025-03-25 08:52:44.072 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:52:44.090 [info] git config user.email
+2025-03-25 08:52:44.096 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh
+2025-03-25 08:52:44.115 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh"
+2025-03-25 08:52:53.430 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:52:53.441 [info] git config user.email
+2025-03-25 08:52:53.466 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh
+2025-03-25 08:52:53.479 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh"
+2025-03-25 08:53:02.270 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:02.282 [info] git config user.email
+2025-03-25 08:53:02.295 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh
+2025-03-25 08:53:02.307 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/MonitorProfiles.sh"
+2025-03-25 08:53:06.242 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:06.274 [info] git config user.email
+2025-03-25 08:53:06.280 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit-NixOS.sh
+2025-03-25 08:53:06.295 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit-NixOS.sh"
+2025-03-25 08:53:07.868 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:07.921 [info] git config user.email
+2025-03-25 08:53:07.925 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit.sh
+2025-03-25 08:53:07.936 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Polkit.sh"
+2025-03-25 08:53:08.940 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:08.996 [info] git config user.email
+2025-03-25 08:53:09.004 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/PortalHyprland.sh
+2025-03-25 08:53:09.013 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/PortalHyprland.sh"
+2025-03-25 08:53:10.016 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:10.053 [info] git config user.email
+2025-03-25 08:53:10.072 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Refresh.sh
+2025-03-25 08:53:10.087 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Refresh.sh"
+2025-03-25 08:53:10.564 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:10.575 [info] git config user.email
+2025-03-25 08:53:10.579 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh
+2025-03-25 08:53:10.597 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh"
+2025-03-25 08:53:11.155 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:11.163 [info] git config user.email
+2025-03-25 08:53:11.166 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiSearch.sh
+2025-03-25 08:53:11.178 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiSearch.sh"
+2025-03-25 08:53:12.409 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:12.425 [info] git config user.email
+2025-03-25 08:53:12.433 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector-modified.sh
+2025-03-25 08:53:12.446 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector-modified.sh"
+2025-03-25 08:53:12.897 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:12.914 [info] git config user.email
+2025-03-25 08:53:12.928 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector.sh
+2025-03-25 08:53:12.949 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector.sh"
+2025-03-25 08:53:13.491 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:13.506 [info] git config user.email
+2025-03-25 08:53:13.510 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ScreenShot.sh
+2025-03-25 08:53:13.522 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ScreenShot.sh"
+2025-03-25 08:53:14.053 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:14.064 [info] git config user.email
+2025-03-25 08:53:14.067 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/TouchPad.sh
+2025-03-25 08:53:14.081 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/TouchPad.sh"
+2025-03-25 08:53:16.407 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:16.414 [info] git config user.email
+2025-03-25 08:53:16.425 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/UptimeNixOS.sh
+2025-03-25 08:53:16.455 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/UptimeNixOS.sh"
+2025-03-25 08:53:17.086 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:17.100 [info] git config user.email
+2025-03-25 08:53:17.107 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Volume.sh
+2025-03-25 08:53:17.120 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Volume.sh"
+2025-03-25 08:53:20.748 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:20.780 [info] git config user.email
+2025-03-25 08:53:20.806 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WallustSwww.sh
+2025-03-25 08:53:20.820 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WallustSwww.sh"
+2025-03-25 08:53:21.327 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:21.334 [info] git config user.email
+2025-03-25 08:53:21.341 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh
+2025-03-25 08:53:21.376 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh"
+2025-03-25 08:53:22.106 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:22.123 [info] git config user.email
+2025-03-25 08:53:22.130 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarLayout.sh
+2025-03-25 08:53:22.142 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarLayout.sh"
+2025-03-25 08:53:23.408 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:23.438 [info] git config user.email
+2025-03-25 08:53:23.455 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarScripts.sh
+2025-03-25 08:53:23.487 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarScripts.sh"
+2025-03-25 08:53:24.031 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:24.043 [info] git config user.email
+2025-03-25 08:53:24.049 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarStyles.sh
+2025-03-25 08:53:24.079 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarStyles.sh"
+2025-03-25 08:53:25.395 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:25.417 [info] git config user.email
+2025-03-25 08:53:25.428 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Wlogout.sh
+2025-03-25 08:53:25.446 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Wlogout.sh"
+2025-03-25 08:53:27.434 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:27.454 [info] git config user.email
+2025-03-25 08:53:27.465 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/01-UserDefaults.conf
+2025-03-25 08:53:27.473 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/01-UserDefaults.conf"
+2025-03-25 08:53:28.042 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:28.059 [info] git config user.email
+2025-03-25 08:53:28.067 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf
+2025-03-25 08:53:28.078 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf"
+2025-03-25 08:53:28.559 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:28.576 [info] git config user.email
+2025-03-25 08:53:28.585 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf
+2025-03-25 08:53:28.590 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf"
+2025-03-25 08:53:30.676 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:30.699 [info] git config user.email
+2025-03-25 08:53:30.708 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/WorkSpaceRules
+2025-03-25 08:53:30.721 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/WorkSpaceRules"
+2025-03-25 08:53:31.263 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:31.293 [info] git config user.email
+2025-03-25 08:53:31.314 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules.conf
+2025-03-25 08:53:31.319 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules.conf"
+2025-03-25 08:53:31.801 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:31.823 [info] git config user.email
+2025-03-25 08:53:31.836 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules-new.conf
+2025-03-25 08:53:31.858 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/WindowRules-new.conf"
+2025-03-25 08:53:32.328 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:32.344 [info] git config user.email
+2025-03-25 08:53:32.353 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf
+2025-03-25 08:53:32.366 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserSettings.conf"
+2025-03-25 08:53:33.396 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:33.414 [info] git config user.email
+2025-03-25 08:53:33.436 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf
+2025-03-25 08:53:33.447 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserKeybinds.conf"
+2025-03-25 08:53:34.162 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:34.177 [info] git config user.email
+2025-03-25 08:53:34.185 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf
+2025-03-25 08:53:34.190 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserDecorations.conf"
+2025-03-25 08:53:34.779 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:34.796 [info] git config user.email
+2025-03-25 08:53:34.806 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserAnimations.conf
+2025-03-25 08:53:34.809 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserAnimations.conf"
+2025-03-25 08:53:35.498 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:35.514 [info] git config user.email
+2025-03-25 08:53:35.523 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/Startup_Apps.conf
+2025-03-25 08:53:35.534 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/Startup_Apps.conf"
+2025-03-25 08:53:36.126 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:36.148 [info] git config user.email
+2025-03-25 08:53:36.157 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/laptops.conf
+2025-03-25 08:53:36.162 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/laptops.conf"
+2025-03-25 08:53:37.191 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:37.210 [info] git config user.email
+2025-03-25 08:53:37.217 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf
+2025-03-25 08:53:37.222 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/LaptopDisplay.conf"
+2025-03-25 08:53:39.067 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:39.085 [info] git config user.email
+2025-03-25 08:53:39.098 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf
+2025-03-25 08:53:39.122 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/ENVariables.conf"
+2025-03-25 08:53:39.868 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:39.887 [info] git config user.email
+2025-03-25 08:53:39.896 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/01-UserDefaults.conf
+2025-03-25 08:53:39.901 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/01-UserDefaults.conf"
+2025-03-25 08:53:42.022 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:42.049 [info] git config user.email
+2025-03-25 08:53:42.055 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh
+2025-03-25 08:53:42.069 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh"
+2025-03-25 08:53:42.486 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:42.511 [info] git config user.email
+2025-03-25 08:53:42.520 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh
+2025-03-25 08:53:42.537 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RofiBeats.sh"
+2025-03-25 08:53:43.065 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:43.078 [info] git config user.email
+2025-03-25 08:53:43.091 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh
+2025-03-25 08:53:43.126 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperAutoChange.sh"
+2025-03-25 08:53:43.636 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:43.644 [info] git config user.email
+2025-03-25 08:53:43.646 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperRandom.sh
+2025-03-25 08:53:43.658 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/WallpaperRandom.sh"
+2025-03-25 08:53:44.282 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:44.291 [info] git config user.email
+2025-03-25 08:53:44.297 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.py
+2025-03-25 08:53:44.324 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.py"
+2025-03-25 08:53:44.855 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:44.867 [info] git config user.email
+2025-03-25 08:53:44.871 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.sh
+2025-03-25 08:53:44.882 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/Weather.sh"
+2025-03-25 08:53:45.967 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:45.991 [info] git config user.email
+2025-03-25 08:53:46.000 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/ZshChangeTheme.sh
+2025-03-25 08:53:46.011 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/ZshChangeTheme.sh"
+2025-03-25 08:53:48.131 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:48.153 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:48.186 [info] git config user.email
+2025-03-25 08:53:48.200 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/.initial_startup_done
+2025-03-25 08:53:48.216 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/.initial_startup_done"
+2025-03-25 08:53:48.680 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:48.695 [info] git config user.email
+2025-03-25 08:53:48.700 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/wallust/wallust-hyprland.conf
+2025-03-25 08:53:48.712 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/wallust/wallust-hyprland.conf"
+2025-03-25 08:53:49.807 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:49.839 [info] git config user.email
+2025-03-25 08:53:49.846 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/application-style.conf
+2025-03-25 08:53:49.858 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/application-style.conf"
+2025-03-25 08:53:50.547 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:50.567 [info] git config user.email
+2025-03-25 08:53:50.575 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hypridle.conf
+2025-03-25 08:53:50.591 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hypridle.conf"
+2025-03-25 08:53:53.293 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:53.311 [info] git config user.email
+2025-03-25 08:53:53.319 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf
+2025-03-25 08:53:53.335 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-2k.conf"
+2025-03-25 08:53:54.010 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:54.027 [info] git config user.email
+2025-03-25 08:53:54.035 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh
+2025-03-25 08:53:54.048 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh"
+2025-03-25 08:53:54.783 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:54.818 [info] git config user.email
+2025-03-25 08:53:54.843 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf
+2025-03-25 08:53:54.874 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock.conf"
+2025-03-25 08:53:55.569 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:55.588 [info] git config user.email
+2025-03-25 08:53:55.596 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf
+2025-03-25 08:53:55.611 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprlock-1080p.conf"
+2025-03-25 08:53:56.596 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:56.604 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:56.633 [info] git config user.email
+2025-03-25 08:53:56.637 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/v2.3.15
+2025-03-25 08:53:56.656 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/v2.3.15"
+2025-03-25 08:53:58.456 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:58.482 [info] git config user.email
+2025-03-25 08:53:58.489 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/monitors.conf
+2025-03-25 08:53:58.501 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/monitors.conf"
+2025-03-25 08:53:59.260 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:53:59.283 [info] git config user.email
+2025-03-25 08:53:59.290 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/workspaces.conf
+2025-03-25 08:53:59.309 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/workspaces.conf"
+2025-03-25 08:54:01.130 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:54:01.133 [info] git config user.email
+2025-03-25 08:54:01.135 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:54:01.147 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:54:01.950 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:54:01.957 [info] git config user.email
+2025-03-25 08:54:01.963 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 08:54:01.992 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 08:54:30.329 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:54:30.339 [info] git config user.email
+2025-03-25 08:54:30.348 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 08:54:30.363 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 08:54:49.641 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:54:49.649 [info] git config user.email
+2025-03-25 08:54:49.660 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 08:54:49.675 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 08:55:01.459 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:55:01.511 [info] git config user.email
+2025-03-25 08:55:01.528 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/AirplaneMode.sh
+2025-03-25 08:55:01.539 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/AirplaneMode.sh"
+2025-03-25 08:55:02.447 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:55:02.462 [info] git config user.email
+2025-03-25 08:55:02.471 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh
+2025-03-25 08:55:02.484 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Animations.sh"
+2025-03-25 08:55:03.039 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:55:03.046 [info] git config user.email
+2025-03-25 08:55:03.049 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/BrightnessKbd.sh
+2025-03-25 08:55:03.062 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/BrightnessKbd.sh"
+2025-03-25 08:55:03.592 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:55:03.600 [info] git config user.email
+2025-03-25 08:55:03.607 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh
+2025-03-25 08:55:03.631 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh"
+2025-03-25 08:57:28.507 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:57:28.521 [info] git config user.email
+2025-03-25 08:57:28.552 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:57:28.563 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:57:34.476 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:57:34.510 [info] git config user.email
+2025-03-25 08:57:34.518 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:57:34.531 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:58:13.910 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:58:13.921 [info] git config user.email
+2025-03-25 08:58:13.928 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh
+2025-03-25 08:58:13.941 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh"
+2025-03-25 08:58:21.212 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:58:21.221 [info] git config user.email
+2025-03-25 08:58:21.231 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh
+2025-03-25 08:58:21.243 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh"
+2025-03-25 08:58:42.934 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:58:42.946 [info] git config user.email
+2025-03-25 08:58:42.965 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh
+2025-03-25 08:58:42.976 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/ChangeLayout.sh"
+2025-03-25 08:59:20.840 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:59:20.849 [info] git config user.email
+2025-03-25 08:59:20.873 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 08:59:20.888 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 08:59:39.110 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:59:39.120 [info] git config user.email
+2025-03-25 08:59:39.134 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 08:59:39.149 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 08:59:39.871 [info] git rev-parse --absolute-git-dir
+2025-03-25 08:59:39.901 [info] git config user.email
+2025-03-25 08:59:39.910 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 08:59:39.923 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:00:07.168 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:00:07.191 [info] git config user.email
+2025-03-25 09:00:07.199 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:00:07.223 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:00:18.579 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:00:18.599 [info] git config user.email
+2025-03-25 09:00:18.606 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserAnimations.conf
+2025-03-25 09:00:18.610 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/userconfigs/UserAnimations.conf"
+2025-03-25 09:00:47.442 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:00:47.449 [info] git config user.email
+2025-03-25 09:00:47.458 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:00:47.473 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:01:23.611 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:01:23.622 [info] git config user.email
+2025-03-25 09:01:23.636 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:01:23.651 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:01:25.581 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:01:25.590 [info] git config user.email
+2025-03-25 09:01:25.600 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:01:25.614 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:01:26.306 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:01:26.313 [info] git config user.email
+2025-03-25 09:01:26.324 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:01:26.337 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:01:56.516 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:01:56.531 [info] git config user.email
+2025-03-25 09:01:56.540 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:01:56.556 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:02:40.139 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:02:40.151 [info] git config user.email
+2025-03-25 09:02:40.160 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:02:40.173 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:03:04.881 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:03:04.901 [info] git config user.email
+2025-03-25 09:03:04.911 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:03:04.924 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:03:23.775 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:03:23.786 [info] git config user.email
+2025-03-25 09:03:23.795 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:03:23.807 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:04:22.277 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:04:22.293 [info] git config user.email
+2025-03-25 09:04:22.306 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/hyprland.conf
+2025-03-25 09:04:22.320 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/hyprland.conf"
+2025-03-25 09:04:26.541 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:04:26.565 [info] git config user.email
+2025-03-25 09:04:26.574 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh
+2025-03-25 09:04:26.599 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/RainbowBorders.sh"
+2025-03-25 09:04:47.899 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:04:47.911 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:04:47.933 [info] git config user.email
+2025-03-25 09:04:47.949 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/UserScripts/rainbowBorders.sh
+2025-03-25 09:04:47.958 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/UserScripts/rainbowBorders.sh"
+2025-03-25 09:11:24.788 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:11:24.807 [info] git config user.email
+2025-03-25 09:11:24.816 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/Kitty_themes.sh
+2025-03-25 09:11:24.831 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/Kitty_themes.sh"
+2025-03-25 09:11:27.944 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:11:27.953 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:11:27.974 [info] git config user.email
+2025-03-25 09:11:27.989 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/kittyThemes.sh
+2025-03-25 09:11:27.993 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/kittyThemes.sh"
+2025-03-25 09:13:43.377 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:13:43.385 [info] git config user.email
+2025-03-25 09:13:43.391 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/kittyThemes.sh
+2025-03-25 09:13:43.402 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/kittyThemes.sh"
+2025-03-25 09:14:00.417 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:14:00.433 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:14:00.466 [info] git config user.email
+2025-03-25 09:14:00.492 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/lockScreen.sh
+2025-03-25 09:14:00.500 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/lockScreen.sh"
+2025-03-25 09:14:20.668 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:14:20.692 [info] git config user.email
+2025-03-25 09:14:20.705 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector-modified.sh
+2025-03-25 09:14:20.721 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector-modified.sh"
+2025-03-25 09:14:21.697 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:14:21.718 [info] git config user.email
+2025-03-25 09:14:21.725 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector.sh
+2025-03-25 09:14:21.737 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/RofiThemeSelector.sh"
+2025-03-25 09:14:48.424 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:14:48.441 [info] git config user.email
+2025-03-25 09:14:48.453 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh
+2025-03-25 09:14:48.469 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh"
+2025-03-25 09:15:08.934 [info] git rev-parse --absolute-git-dir
+2025-03-25 09:15:08.943 [info] git config user.email
+2025-03-25 09:15:08.958 [info] git blame -C --incremental -- /home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh
+2025-03-25 09:15:08.971 [info] Blamed "/home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh"

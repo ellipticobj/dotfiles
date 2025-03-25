@@ -1,0 +1,9 @@
+[2025-03-25 09:26:22.001] Starting Git Graph ...
+[2025-03-25 09:26:22.008] Using git (version: 2.49.0)
+[2025-03-25 09:26:22.013] Started Git Graph - Ready to use!
+[2025-03-25 09:26:22.013] Searching workspace for new repos ...
+[2025-03-25 09:26:22.015] > git rev-parse --show-toplevel
+[2025-03-25 09:26:22.070] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2025-03-25 09:26:22.111] Added new repo: /home/luna/dotfiles
+[2025-03-25 09:26:22.111] Completed searching workspace for new repos
+[2025-03-25 09:26:22.111] Showing "Git Graph" Status Bar Item

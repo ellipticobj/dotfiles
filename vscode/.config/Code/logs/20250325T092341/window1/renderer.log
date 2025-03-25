@@ -1,0 +1,40 @@
+2025-03-25 09:23:41.417 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-25 09:23:41.417 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-25 09:23:41.417 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-25 09:23:41.417 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-25 09:23:41.774 [info] Started local extension host with pid 27282.
+2025-03-25 09:23:42.074 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-25 09:23:42.075 [error] [/home/luna/.vscode/extensions/github.copilot-1.291.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-25 09:23:42.195 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-25 09:23:42.203 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-25 09:23:42.203 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-25 09:23:43.417 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-25 09:23:44.435 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-03-25 09:23:44.488 [info] [perf] Render performance baseline is 16ms
+2025-03-25 09:24:16.320 [error] Cannot read the extension from /home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64: ScanningExtension: Cannot read the extension from /home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64
+    at dh.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:72155)
+2025-03-25 10:53:43.002 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-25 10:53:43.002 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-25 10:53:43.003 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-25 10:53:43.003 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-25 10:53:43.298 [info] Started local extension host with pid 61610.
+2025-03-25 10:53:44.890 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-25 10:53:46.049 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2025-03-25 10:53:46.461 [error] [/home/luna/.vscode/extensions/github.copilot-1.288.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-25 10:53:46.464 [error] [/home/luna/.vscode/extensions/github.copilot-1.291.0]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-25 10:53:46.480 [error] [/home/luna/.vscode/extensions/ms-toolsai.jupyter-2025.2.0-linux-arm64]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0.
+2025-03-25 10:53:46.487 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: Extension is not compatible with Code 1.97.1. Extension requires: ^1.98.0-20240218.
+2025-03-25 10:53:46.487 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.25.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-03-25 10:56:54.084 [info] [perf] Render performance baseline is 39ms

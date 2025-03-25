@@ -1,9 +1,0 @@
-2025-03-23 23:52:16.413 [info] Started local extension host with pid 4473.
-2025-03-23 23:52:17.072 [error] [/home/luna/.vscode/extensions/github.copilot-chat-0.24.1]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
-2025-03-23 23:52:28.431 [error] No registered selector for ID: copilot-chat.fixWithCopilot
-2025-03-23 23:52:28.434 [error] No registered selector for ID: copilot-chat.generateCommitMessage
-2025-03-23 23:52:28.470 [error] No registered selector for ID: copilot-chat.terminalToDebugging
-2025-03-23 23:52:28.471 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
-2025-03-23 23:52:30.419 [info] Settings Sync: Token updated for the account ellipticobj
-2025-03-23 23:52:30.440 [info] Settings Sync: Account status changed from uninitialized to available
-2025-03-23 23:52:41.500 [info] [perf] Render performance baseline is 28ms

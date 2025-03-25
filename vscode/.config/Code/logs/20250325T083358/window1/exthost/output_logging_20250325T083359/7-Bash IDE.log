@@ -1,0 +1,132 @@
+[Warn  - 8:35:21 AM] 00:35:21.600 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 8:35:21 AM] 00:35:21.635 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/luna/dotfiles/hypr/.config/hypr"...
+[Info  - 8:35:21 AM] 00:35:21.670 INFO BackgroundAnalysis: Glob resolved with 51 files after 0.035 seconds
+[Warn  - 8:35:21 AM] 00:35:21.747 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh: syntax error
+[Warn  - 8:35:21 AM] 00:35:21.753 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:35:21 AM] 00:35:21.767 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh: syntax error
+[Warn  - 8:35:21 AM] 00:35:21.781 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh: syntax error
+[Info  - 8:35:21 AM] 00:35:21.788 INFO BackgroundAnalysis: Completed after 0.153 seconds.
+[Warn  - 8:35:22 AM] 00:35:22.145 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
+[Warn  - 8:36:51 AM] 00:36:51.236 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh: syntax error
+[Warn  - 8:36:51 AM] 00:36:51.903 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/initial-boot.sh: syntax error
+[Warn  - 8:38:27 AM] 00:38:27.800 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh: syntax error
+[Warn  - 8:38:34 AM] 00:38:34.680 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh: syntax error
+[Warn  - 8:38:41 AM] 00:38:40.995 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:38:43 AM] 00:38:43.965 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:39:03 AM] 00:39:03.598 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh: syntax error
+[Warn  - 8:39:28 AM] 00:39:28.316 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh: syntax error
+[Warn  - 8:43:23 AM] 00:43:23.197 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh: syntax error
+[Warn  - 8:43:25 AM] 00:43:25.417 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:43:27 AM] 00:43:27.404 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:43:31 AM] 00:43:31.900 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:43:50 AM] 00:43:50.485 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh: syntax error
+[Warn  - 8:44:03 AM] 00:44:03.821 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh: syntax error
+[Warn  - 8:50:03 AM] 00:50:03.196 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh: syntax error
+[Warn  - 8:50:04 AM] 00:50:04.978 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:50:06 AM] 00:50:06.403 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:50:07 AM] 00:50:07.863 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:53:10 AM] 00:53:10.588 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/RofiEmoji.sh: syntax error
+[Warn  - 8:53:21 AM] 00:53:21.332 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/WaybarCava.sh: syntax error
+[Warn  - 8:55:29 AM] 00:55:29.934 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:55:31 AM] 00:55:31.091 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:55:33 AM] 00:55:33.315 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:55:33 AM] 00:55:33.996 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:55:34 AM] 00:55:34.418 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:55:58 AM] 00:55:58.857 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:55:59 AM] 00:55:59.827 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:01 AM] 00:56:01.189 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:03 AM] 00:56:03.350 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:04 AM] 00:56:04.664 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:05 AM] 00:56:05.148 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:12 AM] 00:56:12.462 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:13 AM] 00:56:13.200 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:14 AM] 00:56:14.447 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:15 AM] 00:56:15.746 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:17 AM] 00:56:17.556 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:19 AM] 00:56:19.049 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:20 AM] 00:56:20.646 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:20 AM] 00:56:20.780 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:21 AM] 00:56:21.121 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:21 AM] 00:56:21.934 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:23 AM] 00:56:23.822 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:25 AM] 00:56:25.134 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:25 AM] 00:56:25.524 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:26 AM] 00:56:26.991 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:27 AM] 00:56:27.247 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:30 AM] 00:56:30.845 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:34 AM] 00:56:34.058 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:35 AM] 00:56:35.360 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:37 AM] 00:56:37.794 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:37 AM] 00:56:37.844 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:40 AM] 00:56:40.325 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:41 AM] 00:56:41.551 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:43 AM] 00:56:43.367 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:43 AM] 00:56:43.640 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:48 AM] 00:56:48.571 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:50 AM] 00:56:50.351 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:51 AM] 00:56:51.558 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:53 AM] 00:56:53.840 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:55 AM] 00:56:55.258 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:56 AM] 00:56:56.362 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:56 AM] 00:56:56.742 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:57 AM] 00:56:57.053 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:58 AM] 00:56:58.781 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:58 AM] 00:56:58.877 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:56:59 AM] 00:56:59.485 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:01 AM] 00:57:01.244 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:02 AM] 00:57:02.557 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:04 AM] 00:57:04.563 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:05 AM] 00:57:05.598 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:06 AM] 00:57:06.758 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:09 AM] 00:57:09.855 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:11 AM] 00:57:11.472 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:14 AM] 00:57:14.457 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:14 AM] 00:57:14.978 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:16 AM] 00:57:16.493 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:16 AM] 00:57:16.960 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:22 AM] 00:57:22.118 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:22 AM] 00:57:22.579 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:23 AM] 00:57:23.479 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:24 AM] 00:57:24.634 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:24 AM] 00:57:24.740 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:25 AM] 00:57:25.771 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:27 AM] 00:57:27.371 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:28 AM] 00:57:28.291 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:30 AM] 00:57:30.350 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:33 AM] 00:57:33.759 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:34 AM] 00:57:34.036 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:40 AM] 00:57:40.061 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:41 AM] 00:57:41.486 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:43 AM] 00:57:43.219 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:44 AM] 00:57:44.797 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:46 AM] 00:57:46.291 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:48 AM] 00:57:48.057 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:49 AM] 00:57:49.627 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:51 AM] 00:57:51.053 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:51 AM] 00:57:51.900 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:53 AM] 00:57:53.918 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:55 AM] 00:57:55.828 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:57:57 AM] 00:57:57.606 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:58:00 AM] 00:58:00.752 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:58:02 AM] 00:58:02.475 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:58:02 AM] 00:58:02.506 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:58:09 AM] 00:58:09.038 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:58:11 AM] 00:58:11.544 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 8:58:13 AM] 00:58:13.337 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:00:07 AM] 01:00:07.128 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:00:07 AM] 01:00:07.194 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:00:47 AM] 01:00:47.337 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:00:47 AM] 01:00:47.442 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:01:56 AM] 01:01:56.398 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:01:56 AM] 01:01:56.545 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:02:40 AM] 01:02:40.079 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:02:40 AM] 01:02:40.184 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:03:04 AM] 01:03:04.812 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:03:04 AM] 01:03:04.889 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:03:23 AM] 01:03:23.710 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:03:23 AM] 01:03:23.799 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:11:22 AM] 01:11:22.697 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:11:22 AM] 01:11:22.766 WARNING ⛔️ file:///home/luna/dotfiles/hypr/.config/hypr/scripts/Kool_Quick_Settings.sh line 9: non-constant source not supported
+[Warn  - 9:14:48 AM] 01:14:48.399 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh: syntax error
+[Warn  - 9:15:06 AM] 01:15:06.721 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh: syntax error
+[Warn  - 9:15:08 AM] 01:15:08.657 WARNING ⛔️ Error while parsing file:///home/luna/dotfiles/hypr/.config/hypr/scripts/KeyHints.sh: syntax error

@@ -1,7 +1,0 @@
-2025-03-24 12:17:14.178 [info] update#setState idle
-2025-03-24 12:17:44.150 [info] update#setState checking for updates
-2025-03-24 12:17:44.220 [info] update#setState idle
-2025-03-24 12:18:16.502 [error] CodeWindow: renderer process gone (reason: crashed, code: 133)
-2025-03-24 12:18:16.721 [info] Extension host with pid 14369 exited with code: 0, signal: unknown.
-2025-03-24 12:18:51.243 [error] CodeWindow: renderer process gone (reason: crashed, code: 133)
-2025-03-24 12:18:51.351 [info] Extension host with pid 16550 exited with code: 0, signal: unknown.

@@ -1,7 +1,0 @@
-2025-03-24 12:17:29.630 [info] Getting Manifest... ms-vscode.vscode-typescript-next
-2025-03-24 12:17:31.144 [info] Installing extension: ms-vscode.vscode-typescript-next {"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/luna/.vscode/extensions/extensions.json","path":"/home/luna/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
-2025-03-24 12:17:33.407 [info] Extension signature verification result for ms-vscode.vscode-typescript-next: Success. Internal Code: 0. Executed: true. Duration: 339ms.
-2025-03-24 12:17:33.729 [info] Extracted extension to file:///home/luna/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250323: ms-vscode.vscode-typescript-next
-2025-03-24 12:17:33.737 [info] Renamed to /home/luna/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250323
-2025-03-24 12:17:33.765 [info] Marked extension as removed ms-vscode.vscode-typescript-next-5.9.20250322
-2025-03-24 12:17:33.826 [info] Extension installed successfully: ms-vscode.vscode-typescript-next vscode-userdata:/home/luna/.vscode/extensions/extensions.json

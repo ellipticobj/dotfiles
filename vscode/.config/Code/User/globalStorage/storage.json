@@ -7,13 +7,18 @@
         "folders": [
             {
                 "folderUri": "file:///home/luna/repos/meower"
+            },
+            {
+                "folderUri": "file:///home/luna/dotfiles/hypr/.config/hypr"
+            },
+            {
+                "folderUri": "file:///home/luna/dotfiles/rofi/.config/rofi"
+            },
+            {
+                "folderUri": "file:///home/luna/repos/gh-cli-rs"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1742832647387"
-            }
-        ]
+        "emptyWindows": []
     },
     "profileAssociations": {
         "workspaces": {
@@ -41,15 +46,11 @@
             "file:///home/luna/repos/gh-cli-rs": "__default__profile__",
             "file:///home/luna/Downloads/fedora-hyprland": "__default__profile__",
             "file:///home/luna/repos/documentation-generator": "__default__profile__",
-            "file:///home/luna/repos/meower": "__default__profile__"
+            "file:///home/luna/repos/meower": "__default__profile__",
+            "file:///home/luna/dotfiles/hypr/.config/hypr": "__default__profile__",
+            "file:///home/luna/dotfiles/rofi/.config/rofi": "__default__profile__"
         },
-        "emptyWindows": {
-            "1742820281765": "__default__profile__",
-            "1742825291219": "__default__profile__",
-            "1742825313059": "__default__profile__",
-            "1742825374416": "__default__profile__",
-            "1742832647387": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -1956,21 +1957,22 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
-            "auxiliarySideBarWidth": 0,
+            "sideBarWidth": 277,
+            "auxiliarySideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/luna/.config/Code/Backups/1742832647387",
+            "folder": "file:///home/luna/repos/gh-cli-rs",
+            "backupPath": "/home/luna/.config/Code/Backups/03385134fdb8cbe8801c46fae0bb0e99",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 640,
-                "height": 784
+                "width": 1280,
+                "height": 1569
             }
         },
         "openedWindows": []
