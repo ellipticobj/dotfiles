@@ -1,9 +1,0 @@
-[2025-03-24 22:10:44.512] Starting Git Graph ...
-[2025-03-24 22:10:44.546] Using git (version: 2.49.0)
-[2025-03-24 22:10:44.549] Started Git Graph - Ready to use!
-[2025-03-24 22:10:44.549] Searching workspace for new repos ...
-[2025-03-24 22:10:44.553] > git rev-parse --show-toplevel
-[2025-03-24 22:10:44.561] Added new repo: /home/luna/repos/meower
-[2025-03-24 22:10:44.564] Completed searching workspace for new repos
-[2025-03-24 22:10:44.564] Showing "Git Graph" Status Bar Item
-[2025-03-24 22:10:44.638] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"

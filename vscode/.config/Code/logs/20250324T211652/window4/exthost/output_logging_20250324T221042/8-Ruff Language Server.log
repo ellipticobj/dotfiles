@@ -1,5 +1,0 @@
-2025-03-24 22:10:45.818165042  INFO Registering workspace: /home/luna/repos/meower
-2025-03-24 22:10:45.834364291  INFO Configuration file watcher successfully registered
-2025-03-24 22:10:46.260106322  WARN Received notification $/setTrace which does not have a handler.
-2025-03-24 22:10:46.867746770  WARN Received notification $/setTrace which does not have a handler.
-2025-03-24 22:10:48.148067121  WARN Received notification $/setTrace which does not have a handler.

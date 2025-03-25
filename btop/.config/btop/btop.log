@@ -12,3 +12,12 @@
 
 2025/03/24 (22:37:19) | ===> btop++ v.1.4.0
 2025/03/24 (22:37:19) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2025/03/25 (21:03:24) | ===> btop++ v.1.4.0
+2025/03/25 (21:03:24) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/03/25 (21:04:26) | INFO: Logger set to INFO
+2025/03/25 (21:04:27) | INFO: Logger set to DEBUG
+2025/03/25 (21:04:29) | INFO: Logger set to INFO
+2025/03/25 (21:04:30) | INFO: Logger set to DEBUG
+2025/03/25 (21:07:53) | DEBUG: Writing new config file
+2025/03/25 (21:07:53) | INFO: Quitting! Runtime: 00:04:29

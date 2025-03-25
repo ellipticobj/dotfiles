@@ -7,17 +7,11 @@
         "folders": [
             {
                 "folderUri": "file:///home/luna/repos/meower"
-            },
-            {
-                "folderUri": "file:///home/luna/repos/gh-cli-rs"
-            },
-            {
-                "folderUri": "file:///home/luna/.config/rofi"
             }
         ],
         "emptyWindows": [
             {
-                "backupFolder": "1742878964544"
+                "backupFolder": "1742890389814"
             }
         ]
     },
@@ -52,7 +46,9 @@
             "file:///home/luna/dotfiles/rofi/.config/rofi": "__default__profile__",
             "file:///home/luna/.config/rofi": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1742890389814": "__default__profile__"
+        }
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -1967,14 +1963,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/luna/.config/rofi",
-            "backupPath": "/home/luna/.config/Code/Backups/a8128991f770cefdbcfbaa35e8f3c964",
+            "backupPath": "/home/luna/.config/Code/Backups/1742890389814",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
                 "width": 1280,
-                "height": 783
+                "height": 1567,
+                "zoomLevel": 1
             }
         },
         "openedWindows": []
@@ -1991,5 +1987,5 @@
         }
     },
     "window.titleBarStyleOverride": "custom",
-    "windowControlHeight": 35
+    "windowControlHeight": 42
 }

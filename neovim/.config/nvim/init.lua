@@ -16,8 +16,8 @@ require("config.lazy")
 
 -- vim.cmd("colorscheme slate") -- backup theme if catppuccin dont work
 -- vim.cmd("colorscheme catppuccin") -- backup theme if gruvbox  dont work
--- vim.o.background = "light" -- sets gruvbox to light mode
-vim.cmd("colorscheme gruvbox")
+vim.o.background = "light" -- sets gruvbox to light mode
+vim.cmd("colorscheme rose-pine")
 
 -- INCLUDE PACKAGES HERE --
 

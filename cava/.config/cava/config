@@ -16,7 +16,7 @@
 # new as of 0.6.0 autosens of low values (dynamic range)
 # 'overshoot' allows bars to overshoot (in % of terminal height) without initiating autosens. DEPRECATED as of 0.6.0
 ; autosens = 1
-; overshoot = 20
+; overshoot = 10
 
 # Manual sensitivity in %. If autosens is enabled, this will only be the initial value.
 # 200 means double height. Accepts only non-negative values.
@@ -193,7 +193,7 @@
 # enable alacritty synchronized updates. 1 = on, 0 = off
 # removes flickering in alacritty terminal emulator.
 # defaults to off since the behaviour in other terminal emulators is unknown
-; alacritty_sync = 0
+alacritty_sync = 0
 
 # Shaders for sdl_glsl, located in $HOME/.config/cava/shaders
 ; vertex_shader = pass_through.vert
@@ -207,50 +207,59 @@
 ; disable_blanking = 0
 
 # show a flat bar at the bottom of the screen when idle, 1 = on, 0 = off
-; show_idle_bar_heads = 1
+show_idle_bar_heads = 1
 
 # show waveform instead of frequency spectrum, 1 = on, 0 = off
-; waveform = 0
+waveform = 0
 
 [color]
+background = '#faf4ed'
+gradient = 1
+gradient_count = 6
+gradient_color_1 = '#286983'
+gradient_color_2 = '#56949f'
+gradient_color_3 = '#907aa9'
+gradient_color_4 = '#d7827e'
+gradient_color_5 = '#ea9d34'
+gradient_color_6 = '#b4637a'
 
 # Colors can be one of seven predefined: black, blue, cyan, green, magenta, red, white, yellow.
 # Or defined by hex code '#xxxxxx' (hex code must be within ''). User defined colors requires
 # a terminal that can change color definitions such as Gnome-terminal or rxvt.
 # default is to keep current terminal color
-; background = default
-; foreground = default
+# ; background = default
+# ; foreground = default
 
 # SDL and sdl_glsl only support hex code colors, these are the default:
-; background = '#111111'
-; foreground = '#33ffff'
+# ; background = '#111111'
+# ; foreground = '#33ffff'
 
 # these are default
 # Gradient mode, only hex defined colors are supported,
 # background must also be defined in hex or remain commented out. 1 = on, 0 = off.
 # You can define as many as 8 different colors. They range from bottom to top of screen
-; gradient = 0
-; gradient_count = 8
-; gradient_color_1 = '#59cc33'
-; gradient_color_2 = '#80cc33'
-; gradient_color_3 = '#a6cc33'
-; gradient_color_4 = '#cccc33'
-; gradient_color_5 = '#cca633'
-; gradient_color_6 = '#cc8033'
-; gradient_color_7 = '#cc5933'
-; gradient_color_8 = '#cc3333'
+# ; gradient = 0
+# ; gradient_count = 8
+# ; gradient_color_1 = '#59cc33'
+# ; gradient_color_2 = '#80cc33'
+# ; gradient_color_3 = '#a6cc33'
+# ; gradient_color_4 = '#cccc33'
+# ; gradient_color_5 = '#cca633'
+# ; gradient_color_6 = '#cc8033'
+# ; gradient_color_7 = '#cc5933'
+# ; gradient_color_8 = '#cc3333'
 
 # for wallust
-gradient = 1
-gradient_count = 8
-gradient_color_1 = '#514C5B'
-gradient_color_2 = '#672D50'
-gradient_color_3 = '#6B3154'
-gradient_color_4 = '#70779B'
-gradient_color_5 = '#E9C2D8'
-gradient_color_6 = '#C274A1'
-gradient_color_7 = '#969ECE'
-gradient_color_8 = '#E9C2D8'
+# gradient = 1
+# gradient_count = 8
+# gradient_color_1 = '#514C5B'
+# gradient_color_2 = '#672D50'
+# gradient_color_3 = '#6B3154'
+# gradient_color_4 = '#70779B'
+# gradient_color_5 = '#E9C2D8'
+# gradient_color_6 = '#C274A1'
+# gradient_color_7 = '#969ECE'
+# gradient_color_8 = '#E9C2D8'
 
 
 [smoothing]
@@ -261,8 +270,8 @@ gradient_color_8 = '#E9C2D8'
 ; integral = 77
 
 # Disables or enables the so-called "Monstercat smoothing" with or without "waves". Set to 0 to disable.
-; monstercat = 0
-; waves = 0
+; monstercat = 1
+; waves = 1
 
 # Set gravity percentage for "drop off". Higher values means bars will drop faster.
 # Accepts only non-negative values. 50 means half gravity, 200 means double. Set to 0 to disable "drop off".
@@ -285,8 +294,8 @@ gradient_color_8 = '#E9C2D8'
 # This one is tricky. You can have as much keys as you want.
 # Remember to uncomment more than one key! More keys = more precision.
 # Look at readme.md on github for further explanations and examples.
-; 1 = 1 # bass
-; 2 = 1
-; 3 = 1 # midtone
-; 4 = 1
-; 5 = 1 # treble
+1 = 1 # bass
+2 = 1
+3 = 1 # midtone
+4 = 1
+5 = 1 # treble

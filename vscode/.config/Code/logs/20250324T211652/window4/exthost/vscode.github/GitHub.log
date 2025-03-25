@@ -1,8 +1,0 @@
-2025-03-24 22:09:36.215 [info] Log level: Info
-2025-03-24 22:10:02.862 [info] Log level: Info
-2025-03-24 22:10:03.716 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-03-24 22:10:04.084 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for nns-development/documentation-generator: Error: No GitHub authentication session available.
-2025-03-24 22:10:04.404 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for nns-development/documentation-generator: Error: No GitHub authentication session available.
-2025-03-24 22:10:44.718 [info] Log level: Info
-2025-03-24 22:10:45.935 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-03-24 22:10:46.773 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for ellipticobj/meower: Error: No GitHub authentication session available.
