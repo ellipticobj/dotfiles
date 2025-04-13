@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Augment HMR Index</title>
+    <style nonce="nonce-LZ+fihN+Z1RsXrPU6/DRuA==">
+      code {
+        display:flex;
+        flex:1;
+        white-space: pre;
+        border:1px solid red;
+        background:rgba(255, 0, 0, 0.1);
+        padding:10px;
+      }
+      code:empty {
+        display:none;
+      }
+
+    </style>
+    <meta property="csp-nonce" nonce="nonce-LZ+fihN+Z1RsXrPU6/DRuA==">
+  </head>
+  <body>
+   <h2>Augment HMR Index</h2>
+   <p>If you are seeing this in your browser congratulations, the HMR server, is up and running.</p>
+   <p>If you are seeing this in your vscode webview, then something is wrong, and keep reading</p>
+   <div>
+    <p>If it is not working here are a few things to check:</p>
+    <ul>
+        <li>Try cmd-R to reload the extension</li>
+        <li>Check the output of "Start HMR Server" task for errors</li>
+        <li>Check the output of "Watch Extension (Bazel) Internal" tasks to ensure its complete, without errors</li>
+        <li>Try deleting ./.augment-hmr-env and launching the extension again.</li>
+        <li>If you can't get HMR to work you can skip it and use the "Run Extension (Bazel) No HMR" launcher in vscode.</li>
+        <li>Likely you need to fix port forwarding, you can set an open port in ./.augment-hmr-env, both AUGMENT_HMR, AUGMENT_HMR_PORT need to be set.</li>
+    </ul>
+
+    <!--this is where the error gets replaced-->
+    <code></code>
+   </div>
+  </body>
+</html>

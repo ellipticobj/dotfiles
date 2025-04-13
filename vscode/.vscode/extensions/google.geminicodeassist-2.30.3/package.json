@@ -1,0 +1,731 @@
+{
+	"name": "geminicodeassist",
+	"displayName": "Gemini Code Assist",
+	"description": "AI-assisted development powered by Gemini",
+	"version": "2.30.3",
+	"publisher": "google",
+	"engines": {
+		"vscode": "^1.82.0"
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"categories": [
+		"AI",
+		"Programming Languages",
+		"Machine Learning",
+		"Chat"
+	],
+	"keywords": [
+		"AI Assistant",
+		"Code Completion",
+		"Code Generation",
+		"Duet",
+		"Google",
+		"LLM",
+		"Gemini",
+		"Chat",
+		"Code Assist",
+		"Pair Programmer"
+	],
+	"preview": false,
+	"qna": false,
+	"icon": "images/gemini_logo.png",
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"main": "./dist/extension.js",
+	"contributes": {
+		"languages": [
+			{
+				"id": "ignore",
+				"filenames": [
+					".gcloudignore"
+				]
+			},
+			{
+				"id": "Log",
+				"aliases": [
+					"log"
+				],
+				"extensions": [
+					".log"
+				],
+				"configuration": "./log.configuration.json",
+				"mimetypes": [
+					"log",
+					"text/log",
+					"text/x-log",
+					"text/x-code-output",
+					"x-code-output"
+				]
+			}
+		],
+		"grammars": [
+			{
+				"language": "Log",
+				"scopeName": "code.log",
+				"path": "./third_party/vscode-log-output-colorizer/src/syntaxes/log.tmLanguage"
+			}
+		],
+		"configurationDefaults": {
+			"[yaml]": {
+				"editor.insertSpaces": true,
+				"editor.tabSize": 2,
+				"editor.quickSuggestions": {
+					"other": true,
+					"comments": false,
+					"strings": true
+				},
+				"editor.autoIndent": "none"
+			}
+		},
+		"configuration": {
+			"type": "object",
+			"title": "Gemini Code Assist",
+			"properties": {
+				"cloudcode.debug.telemetry": {
+					"type": "array",
+					"default": [
+						"*"
+					],
+					"deprecationMessage": "This setting is used in development mode to debug telemetry events",
+					"items": {
+						"type": "string",
+						"enum": [
+							"*",
+							"cloudcode.aipp.inlinecompletion.offered",
+							"cloudcode.aipp.inlinecompletion.offered.response",
+							"cloudcode.aipp.inlinecompletion.accepted",
+							"cloudcode.aipp.conversation.offered",
+							"cloudcode.aipp.conversation.accepted",
+							"cloudcode.aipp.conversation.reset",
+							"cloudcode.aipp.conversation.explain",
+							"cloudcode.aipp.conversation.generatetests",
+							"cloudcode.aipp.conversation.thumbsup",
+							"cloudcode.aipp.conversation.thumbsdown",
+							"cloudcode.aipp.conversation.expandcode",
+							"cloudcode.duetAI.interactiveEditorProvider.bug",
+							"cloudcode.duetAI.interactiveEditorProvider.feedback",
+							"cloudcode.duetAI.interactiveEditorProvider.accept",
+							"cloudcode.duetAI.interactiveEditorProvider.undone",
+							"cloudcode.duetAI.interactiveEditorProvider.thumbsup",
+							"cloudcode.duetAI.interactiveEditorProvider.thumbsdown",
+							"cloudcode.duetAI.interactiveEditorProvider.handle%s",
+							"cloudcode.duetAI.languageServer.async.error",
+							"cloudcode.duetAI.inlinecompletion.tracksuffix"
+						]
+					}
+				},
+				"geminicodeassist.beta.forceOobLogin": {
+					"type": "boolean",
+					"default": false,
+					"markdownDescription": "Force first party auth to use OOB login (non localhost callback)",
+					"deprecationMessage": "Internal feature flag."
+				},
+				"geminicodeassist.beta.enableSidebarChatDiff": {
+					"type": "boolean",
+					"default": true,
+					"markdownDescription": "Enable sidebar chat diff",
+					"deprecationMessage": "Internal feature flag."
+				},
+				"geminicodeassist.enable": {
+					"type": "boolean",
+					"default": true,
+					"markdownDescription": "Enable Gemini Code Assist. Gemini Code Assist is your AI-powered collaborator to help you accomplish tasks more efficiently. [Learn more](https://developers.google.com/gemini-code-assist/ui/docs)\n\n**Note:**  Changing this setting requires a reload of vscode. [Click here](command:workbench.action.reloadWindow) to reload."
+				},
+				"geminicodeassist.project": {
+					"type": "string",
+					"markdownDescription": "Enter a Google Cloud project to use for Gemini Code Assist Standard or Enterprise.\n\nThis does not apply to Gemini Code Assist for individuals. If you are using Gemini Code Assist for individuals, and you'd like to use Google Code Assist with your Google Cloud Account, you can upgrade to Gemini Code Assist Standard or Enterprise. [Learn more](https://developers.google.com/gemini-code-assist/ui/versions)"
+				},
+				"geminicodeassist.verboseLogging": {
+					"type": "boolean",
+					"default": false,
+					"description": "Display extension debug information in the 'Gemini Code Assist Debug' output window."
+				},
+				"geminicodeassist.enableTelemetry": {
+					"type": "boolean",
+					"default": true,
+					"markdownDescription": "Enable sending usage statistics and crash reports to Google to improve its products and services.\n\nUsage statistics are subject to the [Google Privacy Policy](https://policies.google.com/privacy).\n\nThis setting does not implicate Google's use of your prompts, context code, and responses to train AI models.\n\nGemini Code Assist Standard and Enterprise editions never use your prompts, context code, or responses to train machine learning models.\n\nIf you're using Gemini Code Assist for individuals, you can opt out of Google's use of your prompts, context code, and responses to train AI models in the [Gemini Code Assist for individuals privacy settings](command:geminicodeassist.privacyNotice)."
+				},
+				"geminicodeassist.recitation.maxCitedLength": {
+					"type": "number",
+					"default": -1,
+					"markdownDescription": "This will block code suggestions which cite snippets greater than the length below.\n\n(-1 : disable blocking; 0 : block all code suggestions with citations)."
+				},
+				"geminicodeassist.inlineSuggestions.enableAuto": {
+					"type": "boolean",
+					"default": true,
+					"markdownDescription": "Enable automatically providing inline suggestions. If set to false, inline suggestions can still be obtained manually with the 'Trigger Inline Suggestion' command (creating a keybind is recommended)."
+				},
+				"geminicodeassist.codeGenerationPaneViewEnabled": {
+					"type": "boolean",
+					"markdownDescription": "Enable the panel view interface shown when generating code via the 'Ctrl+Enter' hotkey. When enabled, this will result in code generation suggestions being opened in a separate tab in the editor. While disabled, this will result in suggestions rendering in the editor via ghost text.",
+					"default": false
+				},
+				"geminicodeassist.contextExclusionFile": {
+					"type": "string",
+					"default": ".aiexclude",
+					"markdownDescription": "Path to a file containing patterns to ignore, the location of this path is resolved relative to the currently opened workspace(s)."
+				},
+				"geminicodeassist.customCommands": {
+					"type": "object",
+					"markdownDescription": "Custom commands available in smart actions. Defined with key value pairs.\n\n **Usage Example:** \n\n **Item**: `add-comments` \n\n **Value**: `add some comments to my code` \n\n This will result in an `/add-comments` command becoming available in the inline chat menu and smart actions menu.\n\n Invoking this command will then trigger a chat request with the provided value as the prompt.",
+					"additionalProperties": {
+						"type": "string"
+					}
+				},
+				"geminicodeassist.languages": {
+					"type": "array",
+					"markdownDescription": "The list of language identifiers to request inline suggestions.\n\n**Note:**  Changing this setting requires a reload of vscode. [Click here](command:workbench.action.reloadWindow) to reload.",
+					"uniqueItems": true,
+					"default": [],
+					"items": {
+						"type": "string",
+						"enum": [
+							"abap",
+							"bat",
+							"bibtex",
+							"c",
+							"clojure",
+							"coffeescript",
+							"cpp",
+							"csharp",
+							"css",
+							"cuda-cpp",
+							"dart",
+							"diff",
+							"dockercompose",
+							"dockerfile",
+							"fsharp",
+							"git-commit",
+							"git-rebase",
+							"go",
+							"groovy",
+							"haml",
+							"handlebars",
+							"html",
+							"ini",
+							"jade",
+							"java",
+							"javascript",
+							"javascriptreact",
+							"json",
+							"jsonc",
+							"jsonl",
+							"kotlin",
+							"latex",
+							"less",
+							"lookml",
+							"lua",
+							"makefile",
+							"markdown",
+							"objective-c",
+							"objective-cpp",
+							"oraclesql",
+							"perl",
+							"perl6",
+							"php",
+							"plaintext",
+							"powershell",
+							"pug",
+							"python",
+							"r",
+							"razor",
+							"ruby",
+							"rust",
+							"sass",
+							"scala",
+							"scss",
+							"shaderlab",
+							"shellscript",
+							"slim",
+							"sql",
+							"stylus",
+							"swift",
+							"terraform",
+							"terraform-vars",
+							"tex",
+							"tf",
+							"tfvars",
+							"typescript",
+							"typescriptreact",
+							"vue",
+							"vue-html",
+							"xml",
+							"xsl",
+							"yaml"
+						]
+					}
+				},
+				"geminicodeassist.updateChannel": {
+					"type": "string",
+					"enum": [
+						"Default",
+						"Insiders"
+					],
+					"description": "Automatically install the insiders version of Gemini Code Assist by changing this value to 'Insiders', or set the value as 'Default' to use the stable released version from the marketplace."
+				},
+				"geminicodeassist.chat.collapseCodeBlocksByDefault": {
+					"type": "boolean",
+					"default": false,
+					"markdownDescription": "Enable/disable showing code blocks collapsed by default.\n\n**Note:**  Changing this setting requires a reload of vscode. [Click here](command:workbench.action.reloadWindow) to reload."
+				},
+				"geminicodeassist.chat.enableStreaming": {
+					"type": "boolean",
+					"default": true,
+					"markdownDescription": "Enable streaming for chat responses. When enabled, chat responses will appear incrementally as they are generated. When disabled, the chat will wait for the entire response to be generated before displaying it.\n\n**Note:**  Changing this setting requires a reload of vscode. [Click here](command:workbench.action.reloadWindow) to reload."
+				},
+				"cloudcode.duetAI.project": {
+					"type": "string",
+					"markdownDescription": "Enter a Google Cloud project to use for Gemini Code Assist Standard or Enterprise.\n\nThis does not apply to Gemini Code Assist for individuals. If you are using Gemini Code Assist for individuals, and you'd like to use Google Code Assist with your Google Cloud Account, you can upgrade to Gemini Code Assist Standard or Enterprise. [Learn more](https://developers.google.com/gemini-code-assist/ui/versions)",
+					"deprecationMessage": "This setting has been moved to geminicodeassist.project"
+				}
+			}
+		},
+		"commands": [
+			{
+				"command": "geminicodeassist.signin",
+				"title": "Sign in with Google",
+				"category": "Gemini Code Assist"
+			},
+			{
+				"command": "geminicodeassist.signout",
+				"title": "Sign out of Google",
+				"category": "Gemini Code Assist"
+			},
+			{
+				"command": "geminicodeassist.takeSurvey",
+				"title": "Take Survey",
+				"category": "Gemini Code Assist"
+			},
+			{
+				"command": "geminicodeassist.crashFeedback",
+				"title": "Send Feedback",
+				"category": "Gemini Code Assist",
+				"icon": "$(feedback)"
+			},
+			{
+				"command": "geminicodeassist.sdlcagents.agentBoard",
+				"title": "Kanban Board",
+				"category": "Gemini Code Assist"
+			},
+			{
+				"command": "geminicodeassist.sdlcagents.agentBoardClear",
+				"title": "Kanban Board - clear stored memory",
+				"category": "Gemini Code Assist"
+			},
+			{
+				"command": "cloudcode.duetAI.generateCode",
+				"category": "Gemini Code Assist",
+				"title": "Generate code"
+			},
+			{
+				"command": "cloudcode.duetAI.rejectCompletion",
+				"category": "Gemini Code Assist",
+				"title": "Reject Suggestion"
+			},
+			{
+				"command": "_cloudcode.duetAI.codelens.accept",
+				"category": "Gemini Code Assist (Quickpick Chat)",
+				"icon": "$(pass)",
+				"title": "Accept"
+			},
+			{
+				"command": "cloudcode.duetAI.showinEditor",
+				"category": "Gemini Code Assist (Quickpick Chat)",
+				"title": "Show Quickpick Chat"
+			},
+			{
+				"command": "_cloudcode.duetAI.codelens.acceptNav",
+				"category": "Gemini Code Assist (Quickpick Chat)",
+				"title": " Accept "
+			},
+			{
+				"command": "_cloudcode.duetAI.diffView.prevSuggestion",
+				"category": "Gemini Code Assist (Quickpick Chat)",
+				"title": " Previous Suggestion "
+			},
+			{
+				"command": "_cloudcode.duetAI.diffView.nextSuggestion",
+				"category": "Gemini Code Assist (Quickpick Chat)",
+				"title": " Next Suggestion "
+			},
+			{
+				"command": "_cloudcode.duetAI.codelens.rejectNav",
+				"category": "Gemini Code Assist (Quickpick Chat)",
+				"title": " Decline "
+			},
+			{
+				"command": "_cloudcode.duetAI.codelens.reject",
+				"category": "Gemini Code Assist (Quickpick Chat)",
+				"icon": "$(error)",
+				"title": "Decline"
+			},
+			{
+				"command": "_cloudcode.duetAI.codelens.spacer",
+				"category": "Cloud Code",
+				"title": "|"
+			},
+			{
+				"command": "cloudcode.duetAI.actionsMenu",
+				"category": "Cloud Code",
+				"title": "Gemini Code Assist: Smart Actions",
+				"icon": {
+					"light": "images/light/spark.svg",
+					"dark": "images/dark/spark.svg"
+				},
+				"enablement": "!subscriptionRequired"
+			},
+			{
+				"command": "geminicodeassist.sdlcagents.agentBoard",
+				"category": "Gemini Code Assist",
+				"title": "Open Kanban Board",
+				"icon": {
+					"light": "images/light/kanban.svg",
+					"dark": "images/dark/kanban.svg"
+				}
+			},
+			{
+				"command": "cloudcode.duetAI.resetChat",
+				"category": "Gemini Code Assist",
+				"title": "Reset Chat",
+				"icon": "$(trash)"
+			},
+			{
+				"command": "geminicodeassist.viewCodeDocumentation",
+				"category": "Gemini Code Assist",
+				"title": "Code Documentation",
+				"icon": "$(library)"
+			},
+			{
+				"command": "cloudcode.duetAI.openKeybindings",
+				"category": "Gemini Code Assist",
+				"title": "Edit Keyboard Shortcuts",
+				"icon": "$(record-keys)"
+			},
+			{
+				"command": "cloudcode.duetAI.rightClick.chatExplain",
+				"category": "Gemini Code Assist",
+				"title": "Explain this",
+				"icon": "images/chat_spark.svg"
+			},
+			{
+				"command": "cloudcode.duetAI.rightClick.chatGenerateTests",
+				"category": "Gemini Code Assist",
+				"title": "Generate unit tests",
+				"icon": "images/chat_spark.svg"
+			},
+			{
+				"command": "geminicodeassist.privacyNotice",
+				"category": "Gemini Code Assist",
+				"title": "Privacy settings"
+			},
+			{
+				"command": "geminicodeassist.subscriptionRequired",
+				"category": "Gemini Code Assist",
+				"title": "Gemini Code Assist"
+			},
+			{
+				"command": "cloudcode.gemini.chatView.focus",
+				"category": "Gemini Code Assist",
+				"title": "Focus on Gemini Chat View"
+			},
+			{
+				"command": "geminicodeassist.chat.resumePreviousThread",
+				"category": "Gemini Code Assist (Chat)",
+				"title": "Resume Previous Thread...",
+				"icon": "$(history)",
+				"enablement": "geminicodeassist.chat.userHasPreviousThreads"
+			},
+			{
+				"command": "geminicodeassist.chat.newChatThread",
+				"category": "Gemini Code Assist (Chat)",
+				"title": "New Chat Thread",
+				"icon": "$(plus)",
+				"enablement": "geminicodeassist.chat.isThreadActive"
+			}
+		],
+		"keybindings": [
+			{
+				"command": "cloudcode.duetAI.generateCode",
+				"key": "ctrl+enter",
+				"when": "config.geminicodeassist.enable && editorTextFocus && authLoggedIn && !inGeminiDiffView && !isInDiffEditor",
+				"args": {
+					"source": "keybind"
+				}
+			},
+			{
+				"command": "cloudcode.duetAI.showinEditor",
+				"mac": "cmd+i",
+				"win": "ctrl+i",
+				"linux": "ctrl+i",
+				"when": "config.geminicodeassist.enable && editorTextFocus && authLoggedIn && shouldRegisterInEditorCommand && !inGeminiDiffView && !isInDiffEditor"
+			},
+			{
+				"command": "_cloudcode.duetAI.codelens.accept",
+				"key": "alt+a",
+				"when": "config.geminicodeassist.enable && cloudcode.duetAI.documentMatch && authLoggedIn && inGeminiDiffView && isInDiffEditor"
+			},
+			{
+				"command": "_cloudcode.duetAI.codelens.reject",
+				"key": "alt+d",
+				"when": "config.geminicodeassist.enable && cloudcode.duetAI.documentMatch && authLoggedIn && inGeminiDiffView && isInDiffEditor"
+			},
+			{
+				"command": "cloudcode.duetAI.rejectCompletion",
+				"key": "escape",
+				"when": "config.geminicodeassist.enable && authLoggedIn && inlineSuggestionVisible"
+			}
+		],
+		"icons": {
+			"material-spark-off": {
+				"description": "Material Spark Off",
+				"default": {
+					"fontPath": "fonts/material/material.woff",
+					"fontCharacter": "\\e900"
+				}
+			},
+			"material-spark": {
+				"description": "Material Spark",
+				"default": {
+					"fontPath": "fonts/material/material.woff",
+					"fontCharacter": "\\e901"
+				}
+			},
+			"codelens-material-spark": {
+				"description": "Codelens Material Spark",
+				"default": {
+					"fontPath": "fonts/material/codelens_material.woff",
+					"fontCharacter": "\\e900"
+				}
+			},
+			"material-spark-disabled": {
+				"description": "Material Spark Disabled",
+				"default": {
+					"fontPath": "fonts/material/material-spark-disabled.woff",
+					"fontCharacter": "\\e900"
+				}
+			}
+		},
+		"menus": {
+			"commandPalette": [
+				{
+					"command": "geminicodeassist.signin",
+					"when": "!runningOnCloudShell && !authLoggedIn"
+				},
+				{
+					"command": "geminicodeassist.signout",
+					"when": "!runningOnCloudShell && authLoggedIn"
+				},
+				{
+					"command": "cloudcode.duetAI.actionsMenu",
+					"when": "config.geminicodeassist.enable && authLoggedIn && !inGeminiDiffView && !isInDiffEditor"
+				},
+				{
+					"command": "cloudcode.duetAI.generateCode",
+					"when": "config.geminicodeassist.enable && authLoggedIn && !inGeminiDiffView && !isInDiffEditor"
+				},
+				{
+					"command": "cloudcode.duetAI.resetChat",
+					"when": "config.geminicodeassist.enable && authLoggedIn && !geminicodeassist.overrides.enableSessions"
+				},
+				{
+					"command": "cloudcode.duetAI.rightClick.chatExplain",
+					"when": "config.geminicodeassist.enable && authLoggedIn"
+				},
+				{
+					"command": "cloudcode.duetAI.rightClick.chatGenerateTests",
+					"when": "config.geminicodeassist.enable && authLoggedIn"
+				},
+				{
+					"command": "geminicodeassist.sdlcagents.agentBoard",
+					"when": "config.geminicodeassist.enable && authLoggedIn && enableAgentBoard"
+				},
+				{
+					"command": "geminicodeassist.sdlcagents.agentBoardClear",
+					"when": "config.geminicodeassist.enable && authLoggedIn && enableAgentBoard"
+				},
+				{
+					"command": "geminicodeassist.privacyNotice",
+					"when": "geminicodeassist.showNotice"
+				},
+				{
+					"command": "geminicodeassist.chat.resumePreviousThread",
+					"when": "config.geminicodeassist.enable && authLoggedIn && geminicodeassist.overrides.enableSessions"
+				},
+				{
+					"command": "geminicodeassist.chat.newChatThread",
+					"when": "config.geminicodeassist.enable && authLoggedIn && geminicodeassist.overrides.enableSessions"
+				}
+			],
+			"editor/title": [
+				{
+					"command": "cloudcode.duetAI.actionsMenu",
+					"group": "navigation",
+					"when": "config.geminicodeassist.enable && cloudcode.duetAI.documentMatch && authLoggedIn && !inGeminiDiffView && !isInDiffEditor"
+				},
+				{
+					"command": "_cloudcode.duetAI.diffView.prevSuggestion",
+					"group": "navigation@0",
+					"when": "config.geminicodeassist.enable && cloudcode.duetAI.documentMatch && authLoggedIn && inGeminiDiffView && isInDiffEditor && inGeminiDiffViewMultiSuggestion"
+				},
+				{
+					"command": "_cloudcode.duetAI.diffView.nextSuggestion",
+					"group": "navigation@1",
+					"when": "config.geminicodeassist.enable && cloudcode.duetAI.documentMatch && authLoggedIn && inGeminiDiffView && isInDiffEditor && inGeminiDiffViewMultiSuggestion"
+				},
+				{
+					"command": "_cloudcode.duetAI.codelens.spacer",
+					"group": "navigation@2",
+					"when": "config.geminicodeassist.enable && cloudcode.duetAI.documentMatch && authLoggedIn && inGeminiDiffView && isInDiffEditor && inGeminiDiffViewMultiSuggestion"
+				},
+				{
+					"command": "_cloudcode.duetAI.codelens.acceptNav",
+					"group": "navigation@3",
+					"when": "config.geminicodeassist.enable && cloudcode.duetAI.documentMatch && authLoggedIn && inGeminiDiffView && isInDiffEditor"
+				},
+				{
+					"command": "_cloudcode.duetAI.codelens.rejectNav",
+					"group": "navigation@4",
+					"when": "config.geminicodeassist.enable && cloudcode.duetAI.documentMatch && authLoggedIn && inGeminiDiffView && isInDiffEditor"
+				},
+				{
+					"command": "_cloudcode.duetAI.codelens.spacer",
+					"group": "navigation@5",
+					"when": "config.geminicodeassist.enable && cloudcode.duetAI.documentMatch && authLoggedIn && inGeminiDiffView && isInDiffEditor"
+				}
+			],
+			"view/title": [
+				{
+					"command": "geminicodeassist.viewCodeDocumentation",
+					"group": "navigation@1",
+					"when": "config.geminicodeassist.beta.enableCodeDocumentationView && view == cloudcode.gemini.chatView"
+				},
+				{
+					"command": "geminicodeassist.sdlcagents.agentBoard",
+					"group": "navigation@2",
+					"when": "config.geminicodeassist.enable && authLoggedIn && enableAgentBoard"
+				},
+				{
+					"command": "geminicodeassist.crashFeedback",
+					"group": "navigation@3",
+					"when": "view == cloudcode.gemini.chatView"
+				},
+				{
+					"command": "cloudcode.duetAI.resetChat",
+					"group": "navigation@4",
+					"when": "view == cloudcode.gemini.chatView && !geminicodeassist.overrides.enableSessions"
+				},
+				{
+					"command": "geminicodeassist.chat.newChatThread",
+					"group": "navigation@4",
+					"when": "view == cloudcode.gemini.chatView && geminicodeassist.overrides.enableSessions"
+				},
+				{
+					"command": "geminicodeassist.chat.resumePreviousThread",
+					"group": "navigation@5",
+					"when": "view == cloudcode.gemini.chatView && geminicodeassist.overrides.enableSessions"
+				},
+				{
+					"submenu": "cloudcode.gemini.chatView.submenu",
+					"group": "navigation@6",
+					"when": "view == cloudcode.gemini.chatView"
+				}
+			],
+			"editor/context": [
+				{
+					"submenu": "cloudcode.gemini.submenu",
+					"when": "config.geminicodeassist.enable && editorTextFocus && authLoggedIn",
+					"group": "cloudcode@0"
+				},
+				{
+					"command": "geminicodeassist.subscriptionRequired",
+					"group": "cloudcode@0",
+					"when": "subscriptionRequired"
+				}
+			],
+			"cloudcode.gemini.submenu": [
+				{
+					"command": "cloudcode.duetAI.generateCode",
+					"group": "1",
+					"when": "!inGeminiDiffView && !isInDiffEditor && !subscriptionRequired"
+				},
+				{
+					"command": "cloudcode.duetAI.rightClick.chatExplain",
+					"group": "2",
+					"when": "!subscriptionRequired"
+				},
+				{
+					"command": "cloudcode.duetAI.rightClick.chatGenerateTests",
+					"group": "1",
+					"when": "!subscriptionRequired"
+				}
+			],
+			"cloudcode.gemini.chatView.submenu": [
+				{
+					"command": "cloudcode.duetAI.openKeybindings",
+					"group": "0",
+					"when": "view == cloudcode.gemini.chatView"
+				},
+				{
+					"command": "geminicodeassist.privacyNotice",
+					"group": "0",
+					"when": "geminicodeassist.showNotice"
+				},
+				{
+					"command": "geminicodeassist.signout",
+					"group": "0",
+					"when": "view == cloudcode.gemini.chatView && !runningOnCloudShell && authLoggedIn"
+				},
+				{
+					"command": "geminicodeassist.signin",
+					"group": "0",
+					"when": "view == cloudcode.gemini.chatView && !runningOnCloudShell && !authLoggedIn"
+				}
+			]
+		},
+		"submenus": [
+			{
+				"id": "cloudcode.gemini.submenu",
+				"label": "Gemini Code Assist"
+			},
+			{
+				"id": "cloudcode.gemini.chatView.submenu",
+				"label": "Gemini Code Assist",
+				"icon": "$(ellipsis)"
+			}
+		],
+		"viewsContainers": {
+			"activitybar": [
+				{
+					"id": "1-geminiAIChatViewContainer",
+					"icon": "fonts/material/characters/material-spark.svg",
+					"title": "Gemini Code Assist"
+				}
+			]
+		},
+		"viewsWelcome": [
+			{
+				"view": "cloudcode.gemini.chatView",
+				"when": "!authLoggedIn",
+				"contents": "%cloudcode.welcomeViews.gcloudLogin%"
+			}
+		],
+		"views": {
+			"1-geminiAIChatViewContainer": [
+				{
+					"id": "cloudcode.gemini.chatView",
+					"name": "Chat",
+					"type": "webview",
+					"when": "config.geminicodeassist.enable"
+				}
+			]
+		}
+	},
+	"devDependencies": {},
+	"dependencies": {},
+	"__metadata": {
+		"installedTimestamp": 1744506233202,
+		"targetPlatform": "undefined",
+		"size": 187013535
+	}
+}

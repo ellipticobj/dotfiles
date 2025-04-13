@@ -1,19 +1,15 @@
 {
     "telemetry.sqmId": "",
     "telemetry.machineId": "bafe2a3496a86c02a4b903a5a764c1a471e9c6050f980138dad669c478745f4b",
-    "telemetry.devDeviceId": "b029da8e-c661-48f8-bcc3-0d0eff0bc5ee",
+    "telemetry.devDeviceId": "a56e59be-022c-4e02-b8e9-8d6e075a52fb",
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/luna/repos/meower"
+                "folderUri": "file:///home/luna/dotfiles"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1742890389814"
-            }
-        ]
+        "emptyWindows": []
     },
     "profileAssociations": {
         "workspaces": {
@@ -44,11 +40,11 @@
             "file:///home/luna/repos/meower": "__default__profile__",
             "file:///home/luna/dotfiles/hypr/.config/hypr": "__default__profile__",
             "file:///home/luna/dotfiles/rofi/.config/rofi": "__default__profile__",
-            "file:///home/luna/.config/rofi": "__default__profile__"
+            "file:///home/luna/.config/rofi": "__default__profile__",
+            "file:///home/luna/.config": "__default__profile__",
+            "file:///home/luna/dotfiles": "__default__profile__"
         },
-        "emptyWindows": {
-            "1742890389814": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -1932,44 +1928,42 @@
         }
     },
     "theme": "vs",
-    "themeBackground": "#ffe6ee",
+    "themeBackground": "#faf4ed",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs",
         "colorInfo": {
-            "foreground": "#252427",
-            "background": "#ffe6ee",
-            "editorBackground": "#ffe6ee",
-            "titleBarBackground": "#ffe5ef",
-            "titleBarBorder": "#f6c2d5",
-            "activityBarBackground": "#ffdbe5",
-            "activityBarBorder": "#f6c2d5",
-            "sideBarBackground": "#ffe6ee",
-            "sideBarBorder": "#f6c2d5",
-            "statusBarBackground": "#a62210",
-            "statusBarBorder": "#f6c2d5",
-            "statusBarNoFolderBackground": "#a62210"
+            "foreground": "#575279",
+            "background": "#faf4ed",
+            "editorBackground": "#faf4ed",
+            "titleBarBackground": "#faf4ed",
+            "activityBarBackground": "#faf4ed",
+            "sideBarBackground": "#faf4ed",
+            "statusBarBackground": "#faf4ed",
+            "statusBarNoFolderBackground": "#faf4ed",
+            "windowBorder": "#fffaf3"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 277,
-            "auxiliarySideBarWidth": 0,
+            "sideBarWidth": 329,
+            "auxiliarySideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/luna/.config/Code/Backups/1742890389814",
+            "folder": "file:///home/luna/dotfiles",
+            "backupPath": "/home/luna/.config/Code/Backups/080a040702c8ab9f019cfc5cec551f6c",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
                 "width": 1280,
-                "height": 1567,
+                "height": 783,
                 "zoomLevel": 1
             }
         },
@@ -1981,7 +1975,8 @@
                 170,
                 [
                     "e550076a3c648e2a8ab83267ae0002b1",
-                    "e35141a7fd3665644b89e6ab0c177c9e"
+                    "e35141a7fd3665644b89e6ab0c177c9e",
+                    "ca464fbe3cb011b1405c58b58754f411"
                 ]
             ]
         }

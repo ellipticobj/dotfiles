@@ -14,9 +14,8 @@
     "projectManager.git.baseFolders": [
         "~/repos"
     ],
-    "workbench.colorTheme": "2eedcc31-b5fa-4b30-b045-6a539e915581",
+    "workbench.colorTheme": "Rosé Pine Dawn",
     "workbench.startupEditor": "none",
-    "window.menuBarVisibility": "compact",
     "gitProjectManager.baseProjectsFolders": [
         "~/repos"
     ],
@@ -24,4 +23,13 @@
     "debug.terminal.clearBeforeReusing": true,
     "terminal.integrated.enableVisualBell": true,
     "terminal.integrated.fontFamily": "'alacritty'",
+    "diffEditor.codeLens": true,
+    "git.openRepositoryInParentFolders": "never",
+    "github.copilot.enable": {
+        "*": false
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
 }

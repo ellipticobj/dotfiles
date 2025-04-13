@@ -1,0 +1,1 @@
+var t=(s=>(s.retesting="Retesting...",s.testRunning="Test running...",s.testFailed="Test failed",s.testPassed="Test passed",s.generatingSolutions="Generating solutions...",s.suggestedSolutions="Suggested solutions",s.selectedSolutions="Selected solutions",s))(t||{}),e=(s=>(s.runTest="run-test",s.applyFix="apply-fix",s))(e||{});export{e as A,t as a};

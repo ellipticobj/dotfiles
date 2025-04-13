@@ -1,0 +1,1 @@
+const e=navigator.platform.toUpperCase().indexOf("MAC")>=0;var a=(r=>(r.leftBracket="[",r.rightBracket="]",r.forwardSlash="/",r.backSlash="\\",r.ctrl="Ctrl",r.L="L",r.R="R",r))(a||{});const t={cmdOrCtrl:e?"⌘":"Ctrl"};new Set(Object.values(a));export{t as P};
