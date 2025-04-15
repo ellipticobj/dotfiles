@@ -1,12 +1,39 @@
 {
-	"layer": "top", "position": "top",
-	"modules-left": ["custom/logo", "clock",  "custom/weather", "disk", "memory", "cpu", "temperature", "custom/powerDraw", "hyprland/window" ],
-	"modules-center": [  "hyprland/workspaces"],
-	"modules-right": ["tray",  "custom/clipboard", "backlight", "idle_inhibitor", "custom/colorpicker", "bluetooth", "pulseaudio", "network",  "battery" ],
+	"layer": "top", 
+	"position": "top",
+
+	"modules-left": [
+		"custom/logo", 
+		"clock",  
+		"disk", 
+		"memory", 
+		"cpu", 
+		"temperature", 
+		"hyprland/window"
+	],
+
+	"modules-center": [
+		"hyprland/workspaces"
+	],
+
+	"modules-right": [
+		"tray",
+		"custom/clipboard", 
+		"backlight", 
+		"idle_inhibitor", 
+		"custom/colorpicker", 
+		"bluetooth", 
+		"pulseaudio", 
+		"network",  
+		"battery"
+	],
+
 	"reload_style_on_change":true,
+
 	"custom/logo": {
 		"format": ":3",
-		"tooltip": false
+		"tooltip": false,
+		"on-click": "$HOME/.config/hypr/scripts/wlogout.sh",
 	},
 
 	"hyprland/workspaces": {
@@ -33,19 +60,15 @@
 		}
 	},
 
-	"custom/weather": {
-		"format": "{}",
-		"return-type": "json",
-		"exec": "~/.config/waybar/scripts/weather.py",
-		"interval": 10
-	},
-
 	"custom/clipboard":{
 		"format":"",
 		"on-click": "cliphist list | rofi -dmenu | cliphist decode | wl-copy",
 		"interval":86400
 	},
 
+	"custom/separator": {
+		"format": " | "
+	},
 
 	"clock": {
 		"format": "{:%I:%M:%S %p}",
@@ -55,7 +78,8 @@
 		"today-format": "<span color='#7645AD'><b><u>{}</u></b></span>",
 		"format-calendar": "<span color='#aeaeae'><b>{}</b></span>",
 		"format-calendar-weeks": "<span color='#aeaeae'><b>W{:%V}</b></span>",
-		"format-calendar-weekdays": "<span color='#aeaeae'><b>{}</b></span>"
+		"format-calendar-weekdays": "<span color='#aeaeae'><b>{}</b></span>",
+		"on-click": "swaync-client --open-panel"
 	},
 
 	"bluetooth": {
@@ -118,7 +142,7 @@
 	},
 
 	"memory": {
-	"format": " {percentage}%"
+		"format": " {percentage}%"
 	},
 
 	"hyprland/window": {
@@ -126,7 +150,7 @@
 	},
 
 	"temperature": {
-		"format": " {temperatureC}°C",            
+		"format": " {temperatureC}°C",
 		"format-critical": " {temperatureC}°C",
 		"interval": 1,
 		"critical-threshold": 80,
@@ -153,29 +177,8 @@
 		"tooltip-format": "{icon}  {volume}%"
 	},
 
-	"jack": {
-		"format": "{} 󱎔",
-		"format-xrun": "{xruns} xruns",
-		"format-disconnected": "DSP off",
-		"realtime": true
-	},
-
 	"tray": {
 		"icon-size": 14,
 		"spacing": 10
-	},
-
-	"upower": {
-		"show-icon": false,
-		"hide-if-empty": true,
-		"tooltip": true,
-		"tooltip-spacing": 20
-	},
-
-	"custom/powerDraw": {
-		"format": "{}",
-		"interval": 1,
-		"exec": "~/.config/waybar/scripts/powerdraw.sh",
-		"return-type": "json"
 	}
 }

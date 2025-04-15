@@ -6,7 +6,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/luna/.config/hypr"
+                "folderUri": "file:///home/luna/repos/mpvlayer"
             }
         ],
         "emptyWindows": []
@@ -44,7 +44,8 @@
             "file:///home/luna/.config": "__default__profile__",
             "file:///home/luna/dotfiles": "__default__profile__",
             "file:///home/luna/.config/nvim": "__default__profile__",
-            "file:///home/luna/.config/hypr": "__default__profile__"
+            "file:///home/luna/.config/hypr": "__default__profile__",
+            "file:///home/luna/repos/mpvlayer": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -1951,21 +1952,21 @@
             "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 329,
-            "auxiliarySideBarWidth": 371,
+            "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/luna/.config/hypr",
-            "backupPath": "/home/luna/.config/Code/Backups/9289556a4897bbfbac9f2e2787475852",
+            "folder": "file:///home/luna/repos/mpvlayer",
+            "backupPath": "/home/luna/.config/Code/Backups/c9095b41b08812c09f003065de06f020",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 1280,
-                "height": 1565
+                "width": 2560,
+                "height": 1600
             }
         },
         "openedWindows": []
