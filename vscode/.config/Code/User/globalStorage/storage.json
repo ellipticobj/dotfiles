@@ -7,6 +7,9 @@
         "folders": [
             {
                 "folderUri": "file:///home/luna/repos/mpvlayer"
+            },
+            {
+                "folderUri": "file:///home/luna/repos/meower"
             }
         ],
         "emptyWindows": []
@@ -1952,15 +1955,15 @@
             "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 329,
-            "auxiliarySideBarWidth": 0,
+            "auxiliarySideBarWidth": 371,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/luna/repos/mpvlayer",
-            "backupPath": "/home/luna/.config/Code/Backups/c9095b41b08812c09f003065de06f020",
+            "folder": "file:///home/luna/repos/meower",
+            "backupPath": "/home/luna/.config/Code/Backups/76e7b5ec28cf4877bbdc228b3f6669fa",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -1981,7 +1984,8 @@
                     "ca464fbe3cb011b1405c58b58754f411",
                     "765f4baa0c236e2376074dc6d07597ed",
                     "53e6e7a35037f2d1e4ec659a31b9353e",
-                    "2913e82ad9a2c4586f7f94e4ae20721a"
+                    "2913e82ad9a2c4586f7f94e4ae20721a",
+                    "44f412c4479cafc92a463379b2bcc963"
                 ]
             ]
         }

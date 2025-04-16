@@ -1,1 +1,0 @@
-var c=(e=>(e[e.unknown=0]="unknown",e[e.new=1]="new",e[e.checkingSafety=2]="checkingSafety",e[e.runnable=3]="runnable",e[e.running=4]="running",e[e.completed=5]="completed",e[e.error=6]="error",e[e.cancelling=7]="cancelling",e[e.cancelled=8]="cancelled",e))(c||{});export{c as T};

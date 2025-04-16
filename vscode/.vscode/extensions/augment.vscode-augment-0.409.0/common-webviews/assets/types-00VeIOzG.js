@@ -1,1 +1,0 @@
-var n=(d=>(d[d.agentUnspecified=0]="agentUnspecified",d[d.agentStarting=1]="agentStarting",d[d.agentRunning=2]="agentRunning",d[d.agentIdle=3]="agentIdle",d[d.agentFailed=4]="agentFailed",d))(n||{}),a=(d=>(d[d.added=0]="added",d[d.deleted=1]="deleted",d[d.modified=2]="modified",d[d.renamed=3]="renamed",d))(a||{});export{a as F,n as R};

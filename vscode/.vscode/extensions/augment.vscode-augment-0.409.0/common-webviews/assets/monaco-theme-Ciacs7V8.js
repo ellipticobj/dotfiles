@@ -1,1 +1,0 @@
-import{U as t}from"./preload-helper-B3qR3SFM.js";const h=new Map([[t.light,"hc-light"],[t.dark,"hc-black"]]),n=new Map([[t.light,"vs"],[t.dark,"vs-dark"]]);function s(a,e){if(!a)return"";let r=n;return e==="high-contrast"&&(r=h),r.get(a)||""}export{n as C,s as g};

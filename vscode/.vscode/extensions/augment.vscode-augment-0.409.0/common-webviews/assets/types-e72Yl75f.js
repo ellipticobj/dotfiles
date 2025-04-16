@@ -1,1 +1,0 @@
-function e(i){return i.rootPath+"/"+i.relPath}var n=(i=>(i.longRunning="longRunning",i.running="running",i.done="done",i))(n||{}),a=(i=>(i.initializing="initializing",i.enabled="enabled",i.disabled="disabled",i.partial="partial",i))(a||{});export{n as S,a,e as p};

@@ -1,11 +1,15 @@
 window:
   padding:
-  x: 8
-  y: 8
-  opacity: 0.9
+  x: 10
+  y: 10
+  opacity: 0.6
+
+shell:
+  program: /usr/bin/fish
+  args: []
 
 font:
-  size: 7.5
+  size: 12
   normal:
     family: Cargograph CF
     style: light
