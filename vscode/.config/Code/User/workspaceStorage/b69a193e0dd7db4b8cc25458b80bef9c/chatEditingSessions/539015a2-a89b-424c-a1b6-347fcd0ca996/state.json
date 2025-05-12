@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sessionId": "539015a2-a89b-424c-a1b6-347fcd0ca996",
+  "linearHistory": [],
+  "linearHistoryIndex": 0,
+  "initialFileContents": [],
+  "recentSnapshot": {
+    "workingSet": [
+      [
+        "file:///home/nat/repos/sigma-lang-web/app.py",
+        {
+          "description": "Git working tree file (Suggested)",
+          "state": 6
+        }
+      ]
+    ],
+    "entries": []
+  }
+}

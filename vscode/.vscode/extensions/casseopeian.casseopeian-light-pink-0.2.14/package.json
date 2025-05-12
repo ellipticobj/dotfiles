@@ -1,0 +1,46 @@
+{
+	"name": "casseopeian-light-pink",
+	"displayName": "Pink Lemonade",
+	"description": "Light pink VS Code Theme",
+	"version": "0.2.14",
+	"publisher": "casseopeian",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/carnaluna/pinkvscodetheme"
+	},
+	"keywords": [
+		"theme",
+		"casseopeian",
+		"carnaluna",
+		"kawaii",
+		"cute",
+		"pink",
+		"pink theme",
+		"kawaii theme",
+		"cute theme",
+		"casseopeian pink theme",
+		"casseopeian pink",
+		"carnaluna pink theme",
+		"carnaluna pink",
+		"pink lemonade"
+	],
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Casseopeian Light Pink",
+				"uiTheme": "vs",
+				"path": "./themes/Casseopeian Light Pink-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1742725334166,
+		"size": 25118
+	}
+}

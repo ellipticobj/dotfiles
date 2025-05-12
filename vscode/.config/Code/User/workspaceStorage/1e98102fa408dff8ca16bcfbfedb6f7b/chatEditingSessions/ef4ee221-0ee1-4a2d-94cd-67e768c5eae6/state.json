@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "sessionId": "ef4ee221-0ee1-4a2d-94cd-67e768c5eae6",
+  "linearHistory": [],
+  "linearHistoryIndex": 0,
+  "initialFileContents": [],
+  "recentSnapshot": {
+    "workingSet": [
+      [
+        "file:///home/nat/repos/sigma-lang/iohandler.py",
+        {
+          "state": 3,
+          "description": "Open Editor"
+        }
+      ]
+    ],
+    "entries": []
+  },
+  "filesToSkipCreating": []
+}

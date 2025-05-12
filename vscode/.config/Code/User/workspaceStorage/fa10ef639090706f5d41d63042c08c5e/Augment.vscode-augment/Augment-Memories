@@ -1,0 +1,6 @@
+# Preferences
+- The user prefers structs to be defined in models.rs and wants App structs renamed to AppState structs.
+- The user prefers using specific getter methods like backend::get::playlists() rather than accessing the entire state with backend::get::state().
+
+# Functionality
+- The trackscont should display songs from the current playlist, not from a separate tracks vector in AppState.
