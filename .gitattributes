@@ -1,0 +1,2 @@
+**/cloudcode_cli.zip filter=lfs diff=lfs merge=lfs -text
+vscode/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-arm64/dist/model/composeModelQuantized.onnx filter=lfs diff=lfs merge=lfs -text
