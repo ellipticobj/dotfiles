@@ -1,5 +1,0 @@
-# Preferences
-- The user prefers structs to be defined in models.rs and wants App structs renamed to AppState structs.
-
-# Functionality
-- The trackscont should display songs from the current playlist, not from a separate tracks vector in AppState.

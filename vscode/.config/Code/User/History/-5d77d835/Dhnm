@@ -1,1 +1,0 @@
-- The user prefers structs to be defined in models.rs and wants App structs renamed to AppState structs.

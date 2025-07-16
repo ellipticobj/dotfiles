@@ -3,6 +3,7 @@ if status is-interactive
 end
 
 set -gx PATH $HOME/.local/bin /usr/local/bin /usr/bin /bin /usr/sbin /sbin $HOME/.cargo/bin $PATH
+set -gx GEMINI_API_KEY AIzaSyCO-N-CnWor59AbaWRDEFg2Y8KvNVv6FHI
 
 if test "$TERM" = "linux"
     printf '%b' '\e]P0faf4ed\n\e]P1b4637a\n\e]P256949f\n\e]P3ea9d34\n\e]P4286983\n\e]P5907aa9\n\e]P6d7827e\n\e]P7575279\n\e]P8f2e9e1\n\e]P9b4637a\n\e]PA56949f\n\e]PBea9d34\n\e]PC286983\n\e]PD907aa9\n\e]PEd7827e\n\e]PF575279\n'
@@ -10,11 +11,12 @@ if test "$TERM" = "linux"
     clear
 end
 
+if test (uname) = "Darwin"
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+end
+
 function fish_user_key_bindings
-    if status is-interactive && not set -q TMUX
-        echo "attempting to start tmux"
-        tmux attach || tmux new-session
-    end
+
 end
 
 # sources ~/.env
@@ -44,6 +46,10 @@ if command -v thefuck >/dev/null
     thefuck --alias | source
 end
 
+if command -v pyenv >/dev/null
+    pyenv init - fish | source
+end
+
 function clear
     command clear
     if command -v fastfetch >/dev/null
@@ -56,6 +62,7 @@ set -g fish_greeting
 
 fastfetch
 
-if test (uname) = "Darwin"
-    eval "$(/opt/homebrew/bin/brew shellenv)"
-end
+
+
+# Added by `rbenv init` on Mon 23 Jun 2025 14:42:28 +08
+status --is-interactive; and rbenv init - --no-rehash fish | source

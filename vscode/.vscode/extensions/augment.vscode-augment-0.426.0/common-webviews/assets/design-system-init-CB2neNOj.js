@@ -1,1 +1,0 @@
-import{N as d,O as m,U as a}from"./index-Bg5k1fBH.js";const e="dark",n="light";function o(t){t===a.dark?(document.documentElement.classList.add(e),document.documentElement.classList.remove(n)):(document.documentElement.classList.add(n),document.documentElement.classList.remove(e))}let s;s===void 0&&(s=function(){const t=d(c=>{o(c)});return o(m()),t}());
