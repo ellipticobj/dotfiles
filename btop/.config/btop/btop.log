@@ -1,0 +1,81 @@
+
+2025/03/24 (22:04:10) | ===> btop++ v.1.4.0
+2025/03/24 (22:04:10) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2025/03/24 (22:04:15) | ===> btop++ v.1.4.0
+2025/03/24 (22:04:15) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2025/03/24 (22:06:39) | ===> btop++ v.1.4.0
+2025/03/24 (22:06:39) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/03/24 (22:07:51) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/03/24 (22:07:51) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2025/03/24 (22:37:19) | ===> btop++ v.1.4.0
+2025/03/24 (22:37:19) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+
+2025/03/25 (21:03:24) | ===> btop++ v.1.4.0
+2025/03/25 (21:03:24) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/03/25 (21:04:26) | INFO: Logger set to INFO
+2025/03/25 (21:04:27) | INFO: Logger set to DEBUG
+2025/03/25 (21:04:29) | INFO: Logger set to INFO
+2025/03/25 (21:04:30) | INFO: Logger set to DEBUG
+2025/03/25 (21:07:53) | DEBUG: Writing new config file
+2025/03/25 (21:07:53) | INFO: Quitting! Runtime: 00:04:29
+
+2025/03/25 (23:03:09) | ===> btop++ v.1.4.0
+2025/03/25 (23:03:09) | INFO: Logger set to DEBUG
+2025/03/25 (23:03:09) | DEBUG: Using locale en_US.UTF-8
+2025/03/25 (23:03:09) | INFO: Running on /dev/pts/7
+2025/03/25 (23:03:09) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/03/25 (23:03:09) | DEBUG: Shared::init() : Initialized.
+2025/03/25 (23:03:09) | DEBUG: Loading theme file: /home/luna/.config/btop/themes/rose-pine-dawn.theme
+
+2025/04/13 (20:58:51) | ===> btop++ v.1.4.0
+2025/04/13 (20:58:51) | INFO: Logger set to DEBUG
+2025/04/13 (20:58:51) | DEBUG: Using locale en_US.UTF-8
+2025/04/13 (20:58:51) | INFO: Running on /dev/pts/2
+2025/04/13 (20:58:51) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/04/13 (20:58:51) | DEBUG: Shared::init() : Initialized.
+2025/04/13 (20:58:51) | DEBUG: Loading theme file: /home/luna/.config/btop/themes/rose-pine-dawn.theme
+2025/04/13 (21:00:27) | INFO: Quitting! Runtime: 00:01:36
+
+2025/04/13 (21:12:15) | ===> btop++ v.1.4.0
+2025/04/13 (21:12:15) | INFO: Logger set to DEBUG
+2025/04/13 (21:12:15) | DEBUG: Using locale en_US.UTF-8
+2025/04/13 (21:12:15) | INFO: Running on /dev/pts/4
+2025/04/13 (21:12:15) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/04/13 (21:12:15) | DEBUG: Shared::init() : Initialized.
+2025/04/13 (21:12:15) | DEBUG: Loading theme file: /home/luna/.config/btop/themes/rose-pine-dawn.theme
+
+2025/04/14 (00:33:37) | ===> btop++ v.1.4.0
+2025/04/14 (00:33:37) | INFO: Logger set to DEBUG
+2025/04/14 (00:33:37) | DEBUG: Using locale en_US.UTF-8
+2025/04/14 (00:33:37) | INFO: Running on /dev/pts/2
+2025/04/14 (00:33:37) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/04/14 (00:33:37) | DEBUG: Shared::init() : Initialized.
+2025/04/14 (00:33:37) | DEBUG: Loading theme file: /home/luna/.config/btop/themes/rose-pine-dawn.theme
+2025/04/14 (01:09:59) | INFO: Quitting! Runtime: 00:36:22
+
+2025/04/14 (01:10:24) | ===> btop++ v.1.4.0
+2025/04/14 (01:10:24) | INFO: Logger set to DEBUG
+2025/04/14 (01:10:24) | DEBUG: Using locale en_US.UTF-8
+2025/04/14 (01:10:24) | INFO: Running on /dev/pts/2
+2025/04/14 (01:10:24) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/04/14 (01:10:24) | DEBUG: Shared::init() : Initialized.
+2025/04/14 (01:10:24) | DEBUG: Loading theme file: /home/luna/.config/btop/themes/rose-pine-dawn.theme
+
+2025/04/24 (21:28:58) | ===> btop++ v.1.4.0
+2025/04/24 (21:28:58) | INFO: Logger set to DEBUG
+2025/04/24 (21:28:58) | DEBUG: Using locale en_US.UTF-8
+2025/04/24 (21:28:58) | INFO: Running on /dev/pts/16
+2025/04/24 (21:28:58) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/04/24 (21:28:58) | DEBUG: Shared::init() : Initialized.
+2025/04/24 (21:28:58) | DEBUG: Loading theme file: /home/luna/.config/btop/themes/rose-pine-dawn.theme
+
+2025/04/28 (19:54:18) | ===> btop++ v.1.4.0
+2025/04/28 (19:54:18) | INFO: Logger set to DEBUG
+2025/04/28 (19:54:18) | DEBUG: Using locale en_US.UTF-8
+2025/04/28 (19:54:18) | INFO: Running on /dev/pts/12
+2025/04/28 (19:54:18) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/04/28 (19:54:18) | DEBUG: Shared::init() : Initialized.
+2025/04/28 (19:54:18) | DEBUG: Loading theme file: /home/luna/.config/btop/themes/rose-pine-dawn.theme

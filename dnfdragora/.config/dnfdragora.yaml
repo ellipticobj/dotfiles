@@ -1,0 +1,10 @@
+settings:
+  metadata:
+    last_update: 2025-04-13 17:59
+    update_interval: 48
+  search:
+    match_all: false
+    newest_only: false
+view:
+  filter: all
+  show: groups
