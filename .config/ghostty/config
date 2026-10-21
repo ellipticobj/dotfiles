@@ -29,3 +29,6 @@ keybind = super+control+shift+alt+arrow_right=resize_split:right,100
 
 # Fix general slowness on hyprland (https://github.com/ghostty-org/ghostty/discussions/3224)
 async-backend = epoll
+
+# Theme-specific colors and styling
+config-file = ~/.config/themes/current/ghostty.conf

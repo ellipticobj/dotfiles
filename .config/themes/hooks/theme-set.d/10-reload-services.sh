@@ -30,6 +30,8 @@ if pgrep -x waybar >/dev/null; then
     waybar &
     disown
   }
+else
+  nohup launch-waybar >/dev/null 2>&1 &
 fi
 
 # Reload mako
@@ -59,6 +61,13 @@ fi
 if pgrep -x kitty >/dev/null; then
   for pid in $(pgrep -x kitty); do
     kill -SIGUSR1 "$pid" 2>/dev/null
+  done
+fi
+
+# Reload Ghostty so existing windows pick up the active theme
+if pgrep -x ghostty >/dev/null; then
+  for pid in $(pgrep -x ghostty); do
+    kill -SIGUSR2 "$pid" 2>/dev/null
   done
 fi
 

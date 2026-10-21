@@ -4,7 +4,9 @@
     "useQuickCss": true,
     "themeLinks": [],
     "eagerPatches": false,
-    "enabledThemes": [],
+    "enabledThemes": [
+        "vencord.theme.css"
+    ],
     "enableReactDevtools": false,
     "frameless": false,
     "transparent": false,
@@ -34,7 +36,7 @@
             "enabled": true
         },
         "MessagePopoverAPI": {
-            "enabled": false
+            "enabled": true
         },
         "MessageUpdaterAPI": {
             "enabled": true
@@ -300,7 +302,8 @@
             "logEdits": true,
             "logDeletes": true,
             "deleteStyle": "text",
-            "inlineEdits": true
+            "inlineEdits": true,
+            "logDeletedAttachments": true
         },
         "MoreQuickReactions": {
             "enabled": true,
@@ -355,7 +358,7 @@
             "enabled": false
         },
         "oneko": {
-            "enabled": true
+            "enabled": false
         },
         "OpenInApp": {
             "enabled": false
@@ -475,7 +478,7 @@
         },
         "ShowMeYourName": {
             "enabled": true,
-            "mode": "user-nick",
+            "mode": "nick-user",
             "friendNicknames": "dms",
             "displayNames": false,
             "inReplies": false
@@ -603,7 +606,9 @@
             "multiplier": 2
         },
         "WebKeybinds": {
-            "enabled": true
+            "enabled": true,
+            "showNavigationButtons": true,
+            "overrideCommonKeybinds": true
         },
         "WebScreenShareFixes": {
             "enabled": true
@@ -655,6 +660,21 @@
         },
         "MusicRichPresence": {
             "enabled": false
+        },
+        "ContextMenuAPI": {
+            "enabled": true
+        },
+        "NoticesAPI": {
+            "enabled": true
+        },
+        "AddAttachments": {
+            "enabled": true
+        },
+        "GifProviderSwitcher": {
+            "enabled": false
+        },
+        "FixDiscordCss": {
+            "enabled": true
         }
     },
     "uiElements": {
@@ -671,7 +691,8 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1784188829164
+        "settingsSyncVersion": 1792372134396
     },
-    "windowsMaterial": "none"
+    "windowsMaterial": "none",
+    "nativeTitleBar": false
 }

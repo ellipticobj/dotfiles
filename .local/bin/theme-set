@@ -7,7 +7,7 @@ CURRENT="$THEMES_DIR/current"
 if [[ -z "$1" ]]; then
   echo "Usage: theme-set <theme-name>"
   echo "Available themes:"
-  ls "$THEMES_DIR" | grep -v '^current$\|^backgrounds$\|^hooks$\|^templates$'
+  ls "$THEMES_DIR" | grep -Ev '^(current|backgrounds|hooks|templates|aether|current\.bak)$'
   exit 1
 fi
 
@@ -17,6 +17,16 @@ THEME_SOURCE="$THEMES_DIR/$THEME_NAME"
 if [[ ! -d "$THEME_SOURCE" ]]; then
   echo "Error: Theme '$THEME_NAME' not found in $THEMES_DIR"
   exit 1
+fi
+
+# Some downloaded themes contain their actual pack one directory deeper.
+if [[ ! -f "$THEME_SOURCE/hyprland.conf" ]]; then
+  for nested_source in "$THEME_SOURCE"/*; do
+    if [[ -f "$nested_source/hyprland.conf" ]]; then
+      THEME_SOURCE="$nested_source"
+      break
+    fi
+  done
 fi
 
 echo "Setting theme: $THEME_NAME"

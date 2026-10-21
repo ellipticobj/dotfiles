@@ -1,4 +1,4 @@
 #!/bin/bash
 # List available themes
 THEMES_DIR="$HOME/.config/themes"
-ls "$THEMES_DIR" | grep -v '^current$\|^backgrounds$\|^hooks$\|^templates$'
+ls "$THEMES_DIR" | grep -Ev '^(current|backgrounds|hooks|templates|aether|current\.bak)$'

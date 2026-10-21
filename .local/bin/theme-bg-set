@@ -17,11 +17,16 @@ fi
 
 # Copy to current backgrounds
 mkdir -p "$CURRENT/backgrounds"
-cp "$BG_PATH" "$CURRENT/backgrounds/"
 BG_NAME=$(basename "$BG_PATH")
+DEST="$CURRENT/backgrounds/$BG_NAME"
+
+# theme-bg-next passes files that are already in the current directory.
+if [[ "$(readlink -f -- "$BG_PATH")" != "$(readlink -f -- "$DEST" 2>/dev/null)" ]]; then
+  cp -- "$BG_PATH" "$DEST"
+fi
 
 # Update background symlink
-ln -sf "$CURRENT/backgrounds/$BG_NAME" "$CURRENT/background"
+ln -sfn -- "$DEST" "$CURRENT/background"
 
 # Update hyprlock and autostart if they reference backgrounds
 HYPRLOCK="$HOME/.config/hypr/hyprlock.conf"
@@ -32,6 +37,14 @@ fi
 AUTOSTART="$HOME/.config/hypr/autostart.conf"
 if [[ -f "$AUTOSTART" ]]; then
   sed -i "s|swaybg -i .*|swaybg -i ~/.config/themes/current/backgrounds/$BG_NAME -m fill|" "$AUTOSTART"
+fi
+
+# Replace the running wallpaper immediately instead of waiting for Hyprland
+# to restart or reload its autostart entries.
+if command -v swaybg >/dev/null; then
+  pkill -x swaybg 2>/dev/null || true
+  swaybg -i "$CURRENT/background" -m fill >/dev/null 2>&1 &
+  disown
 fi
 
 echo "Background set: $BG_NAME"

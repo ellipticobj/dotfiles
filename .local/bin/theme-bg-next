@@ -10,7 +10,11 @@ if [[ ! -d "$BG_DIR" ]]; then
 fi
 
 # Get list of backgrounds
-mapfile -t bgs < <(ls "$BG_DIR" | grep -E '\.(jpg|jpeg|png|gif|webp)$')
+bgs=()
+for bg in "$BG_DIR"/*; do
+  [[ -f "$bg" && "$bg" =~ \.(jpg|jpeg|png|gif|webp)$ ]] || continue
+  bgs+=("${bg##*/}")
+done
 
 if [[ ${#bgs[@]} -eq 0 ]]; then
   echo "No backgrounds found"
