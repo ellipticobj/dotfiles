@@ -1,46 +1,47 @@
 # dotfiles
 
-My Arch Linux dotfiles, managed with GNU Stow.
+arch dotfiles managed with gnu stow
 
-## Fresh Install
+## fresh install
+
+run:
+
+```bash
+git clone https://github.com/ellipticobj/dotfiles.git  ~/dotfiles/ && cd ~/dotfiles && ./bootstrap.sh
+```
+
+OR
+
+download/install prerequisites
 
 ```bash
 sudo pacman -S git stow
-git clone <your-repo-url> ~/dotfiles
+git clone http://github.com/ellipticobj/dotfiles.git ~/dotfiles
+```
+
+backup current .config
+
+```bash
+mv ~/.config ~/.config.bak && mkdir ~/.config
+```
+
+symlink dotfiles
+
+```bash
 cd ~/dotfiles
-./bootstrap.sh
+stow *
 ```
 
-## Update Dotfiles
-
-Edit files inside `~/dotfiles/`, then run:
-
-```bash
-stow -d ~/dotfiles -t ~ --restow .
-```
-
-## Package Management
-
-```bash
-./install.sh         # Install/update all packages
-```
-
-## Structure
+## structure
 
 ```
 ~/dotfiles/
 ├── .bashrc                    # stowed to ~/.bashrc
 ├── .local/bin/                # stowed to ~/.local/bin/
-├── .config/hypr/              # stowed to ~/.config/hypr/
-├── .config/waybar/            # stowed to ~/.config/waybar/
-├── .config/walker/            # stowed to ~/.config/walker/
-── .config/elephant/          # stowed to ~/.config/elephant/
-── .config/fish/              # stowed to ~/.config/fish/
-├── .config/nvim/              # stowed to ~/.config/nvim/
-├── ...                        # other .config/ packages
-├── bootstrap.sh               # fresh install setup (git + stow + paru + packages + stow)
+├── .config/xyz/               # stowed to ~/.config/xyz/
+├── bootstrap.sh               # fresh setup
 ├── install.sh                 # package installer (git + stow + paru prereqs)
 ├── pkglist.txt                # official packages
-── aurlist.txt                # AUR packages
+├── aurlist.txt                # AUR packages
 └── gitssh.sh                  # SSH key setup
 ```
